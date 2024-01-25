@@ -117,9 +117,9 @@ while_statement
 		;
 
 repeat_statement
-		: REPEAT Whitespace
+		: REPEAT (Whitespace)*
 		  statements
-		  Whitespace UNTIL Whitespace r=expression
+		  (Whitespace)* UNTIL Whitespace r=expression
 		;
 
 if_statement
