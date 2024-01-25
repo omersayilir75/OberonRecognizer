@@ -1,22 +1,25 @@
 grammar OberonGrammar;
 
-//TODO: change definitions around so begin and end require the same IDs
 moduleDefinition:
-		MODULE Whitespace n=ID (Whitespace)*? ';'
+		MODULE n=ID ';'
 		declarations
 		block
 		'.'
 		;
 
 declarations:
-		( (Whitespace)*? (procedureDeclaration | localDeclaration ) ) *
+		( procedureDeclaration | localDeclaration | importDefinition ) *
+		;
+
+importDefinition:
+		IMPORT id=ID ';'
 		;
 
 procedureDeclaration:
-		PROCEDURE Whitespace name=ID (pps=procedureParameters)? (export=STAR)?  (Whitespace)*? ';'
-		(Whitespace (procedureDeclaration|localDeclaration))*
-		(Whitespace endname=block)
-		(Whitespace)*? ';'
+		PROCEDURE name=ID (pps=procedureParameters)? (export=STAR)? ';'
+		(procedureDeclaration|localDeclaration)*
+		endname=block
+		';'
 		;
 
 //procedureHeader
@@ -25,26 +28,27 @@ procedureDeclaration:
 //		;
 
 procedureParameters :
-		'('  (Whitespace)*?  (p+=procedureParameter (Whitespace)*? ';' (Whitespace)*? )* p+=procedureParameter  (Whitespace)*?  ')'
+		'(' (p+=procedureParameter ';') * p+=procedureParameter ')'
 		;
 
 procedureParameter
 		:
-		(VAR Whitespace)?  (Whitespace)*? (names+=ID  (Whitespace)*? ','  (Whitespace)*?)* names+=ID (Whitespace)*? ':' (Whitespace)*? t=typeName
+		VAR? (names+=ID ',' ) * names+=ID   ':' t=typeName
 		;
 
 typeName
-		: (INTEGER | BOOLEAN | ID)			# simpleTypeName
-		| ARRAY Whitespace e=expression Whitespace OF Whitespace t=typeName		# arrayType
-		| RECORD (Whitespace) r=recordTypeNameElements (Whitespace) END						# recordTypeName
+		: ID															# simpleTypeName
+		| ARRAY e=expression OF t=typeName		# arrayType
+		| RECORD r=recordTypeNameElements END						# recordTypeName
 		;
 
 recordTypeNameElements
-		: recordElement ((Whitespace)? ';' (Whitespace)*? recordElement)*
+
+		: recordElement (';' recordElement)*
 		;
 
 recordElement
-		: (ids+=ID (Whitespace)*? ',' (Whitespace)*?)* ids+=ID (Whitespace)*? ':' (Whitespace)*? t=typeName
+		: (ids+=ID ',')* ids+=ID ':' t=typeName
 		;
 
 localDeclaration
@@ -54,21 +58,21 @@ localDeclaration
 		;
 
 typeDeclaration:
-		TYPE Whitespace
+		TYPE
 		  singleTypeDeclaration+
 		  ;
 
 singleTypeDeclaration:
-		  id=ID export=STAR?  (Whitespace)*?  '='  (Whitespace)*?  t=typeName ';' (Whitespace)*?
+		  id=ID export=STAR? '=' t=typeName ';'
 		  ;
 
 variableDeclaration:
-		VAR Whitespace
+		VAR
 		  singleVariableDeclaration+
 		  ;
 
 singleVariableDeclaration:
-			(Whitespace)*? (v+=exportableID  (Whitespace)*?  ',' (Whitespace)*?)* v+=exportableID (Whitespace)*? ':' (Whitespace)*? t=typeName (Whitespace)*?';'
+			(v+=exportableID ',')* v+=exportableID  ':' t=typeName ';'
 			;
 
 exportableID:
@@ -76,21 +80,21 @@ exportableID:
 			;
 
 constDeclaration:
-		CONST Whitespace
+		CONST
 		  constDeclarationElement+
 		  ;
 
 constDeclarationElement:
-		(Whitespace)*? c=ID Whitespace export=STAR? (Whitespace)*? '=' (Whitespace)*?  e=expression  (Whitespace)*?  ';' (Whitespace)*?
+		c=ID export=STAR? '=' e=expression ';'
 		;
 
 block
-		: (Whitespace)*? (BEGIN (Whitespace) statements)? (Whitespace)*? END Whitespace ID
+		: (BEGIN statements)? END ID
 		;
 
 statements:
-		(Whitespace)*? statement
-		( ';' (Whitespace)*? statement (Whitespace)*? )*
+		statement
+		( ';' statement )*
 		;
 
 statement
@@ -107,39 +111,39 @@ procCall_statement
 		;
 
 assign_statement
-		: id=ID s=selector (Whitespace)*? ':=' (Whitespace)*? r=expression
+		: id=ID s=selector ':=' r=expression
 		;
 
 while_statement
-		: WHILE Whitespace r=expression Whitespace DO
+		: WHILE r=expression DO
 		  statements
-		  (Whitespace) (Whitespace)* END (Whitespace)*?
+		  END
 		;
 
 repeat_statement
-		: REPEAT Whitespace
+		: REPEAT
 		  statements
-		  Whitespace UNTIL Whitespace r=expression
+		  UNTIL r=expression
 		;
 
 if_statement
-		: IF Whitespace c+=expression Whitespace THEN
+		: IF c+=expression THEN
 			  statements
-		  ( Whitespace ELSIF Whitespace c+=expression Whitespace THEN Whitespace
+		  ( ELSIF c+=expression THEN
 			  statements
 		  )*
-		  (Whitespace ELSE Whitespace
+		  (ELSE
 			  statements
 		  )?
-		  Whitespace END (Whitespace)*?
+		  END
 		;
 
 // Expressions
 expression
 	: op=(NOT | MINUS) e=expression		#exprNotExpression
-	| l=expression (Whitespace)*? op=(STAR | DIV | MOD | AND) (Whitespace)*? r=expression					#exprMultPrecedence
-	| l=expression (Whitespace)*?  op=('+' | '-' | OR) (Whitespace)*?  r=expression						#exprFactPrecedence
-	| l=expression (Whitespace)*? op=('<' | '<=' | '>' | '>=' | '=' | '#') (Whitespace)*? r=expression	#exprRelPrecedence
+	| l=expression op=(STAR | DIV | MOD | AND) r=expression					#exprMultPrecedence
+	| l=expression op=('+' | '-' | OR)  r=expression						#exprFactPrecedence
+	| l=expression op=('<' | '<=' | '>' | '>=' | '=' | '#') r=expression	#exprRelPrecedence
 	| id=ID
 		s=selector						#exprSingleId
 	| id=ID '(' cp=callParameters? ')'										#exprFuncCall
@@ -149,7 +153,7 @@ expression
 	;
 
 callParameters
-		: p+=expression ( (Whitespace)*? ',' (Whitespace)*? p+=expression)*
+		: p+=expression (',' p+=expression)*
 		;
 
 selector
@@ -206,6 +210,7 @@ Digit: [0-9];
 
 Whitespace
 		:   [ \t]+
+		-> skip
 		;
 
 Newline
@@ -216,7 +221,7 @@ Newline
 		;
 
 BlockComment
-		:  (Whitespace)*? '(*' (BlockComment|.)*? '*)' (Whitespace)*?
+		:   '(*' (BlockComment|.)*? '*)'
 		-> skip
 		;
 
@@ -242,6 +247,7 @@ Assign:		':=';
 
 /* keywords */
 MODULE:		'MODULE';
+IMPORT:		'IMPORT';
 VAR:		'VAR';
 BEGIN:		'BEGIN';
 CONST:		'CONST';
@@ -260,10 +266,8 @@ ELSE:		'ELSE';
 ELSIF:		'ELSIF';
 REPEAT:		'REPEAT';
 UNTIL:		'UNTIL';
-DIV:		' DIV ';
-MOD:		' MOD ';
-INTEGER:    'INTEGER';
-BOOLEAN:    'BOOLEAN';
+DIV:		'DIV';
+MOD:		'MOD';
 
 ID:         [a-zA-Z_] [_a-zA-Z0-9]*;
 
