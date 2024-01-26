@@ -8,12 +8,10 @@ moduleDefinition:
 		;
 
 declarations:
-		( procedureDeclaration | localDeclaration | importDefinition ) *
+		( procedureDeclaration | localDeclaration ) *
 		;
 
-importDefinition:
-		IMPORT id=ID ';'
-		;
+
 
 procedureDeclaration:
 		PROCEDURE name=ID (pps=procedureParameters)? (export=STAR)? ';'
