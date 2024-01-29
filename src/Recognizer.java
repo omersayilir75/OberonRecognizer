@@ -1,6 +1,6 @@
 
-import gen.OberonGrammarLexer;
-import gen.OberonGrammarParser;
+import gen.no_whitespace.OberonGrammarLexer;
+import gen.no_whitespace.OberonGrammarParser;
 import org.antlr.v4.runtime.*;
 import org.antlr.v4.runtime.tree.*;
 
@@ -10,9 +10,11 @@ import java.io.IOException;
 public class Recognizer {
     public static void main(String[] args) {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\src\\obfiles";
+        String pathName = "C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\src\\fuzzer\\obfiles_generated";
         File dir = new File(pathName);
         File[] directoryListing = dir.listFiles();
+        int noPassed = 0;
+        int noFailed = 0;
 
         if(directoryListing != null){
             for(File program : directoryListing) {
@@ -25,8 +27,10 @@ public class Recognizer {
                     ParseTree tree = parser.moduleDefinition();
                     if (parser.getNumberOfSyntaxErrors() == 0) {
 //                        System.out.println(program.getName() + " PASS");
+                          noPassed++;
                     } else {
                         System.out.println(program.getName() + " FAIL");
+                        noFailed++;
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -36,5 +40,8 @@ public class Recognizer {
         else {
             System.out.println("No files found in directory.");
         }
+
+        System.out.println("Number passed: " + noPassed);
+        System.out.println("Number failed: " + noFailed);
     }
 }

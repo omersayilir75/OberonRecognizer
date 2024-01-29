@@ -2,9 +2,9 @@ grammar OberonGrammar;
 
 //TODO: change definitions around so begin and end require the same IDs
 moduleDefinition:
-		MODULE Whitespace n=ID ';' Newline
-		Whitespace declarations Newline
-		Whitespace block
+		MODULE Space n=ID ';' Newline
+		Tab declarations Newline
+		Tab block
 		'.'
 		;
 
@@ -13,10 +13,10 @@ declarations:
 		;
 
 procedureDeclaration:
-		PROCEDURE Whitespace name=ID (pps=procedureParameters)? (export=STAR)? ';' Newline
-		(Whitespace (procedureDeclaration|localDeclaration))* Newline
-		(Whitespace endname=block) Newline
-		(Whitespace)*? ';'
+		PROCEDURE Space name=ID (pps=procedureParameters)? (export=STAR)? ';' Newline
+		(Tab (procedureDeclaration|localDeclaration))* Newline
+		(Tab endname=block) Newline
+		(Tab)*? ';'
 		;
 
 //procedureHeader
@@ -25,26 +25,26 @@ procedureDeclaration:
 //		;
 
 procedureParameters :
-		'('(p+=procedureParameter Whitespace ';' Whitespace )* p+=procedureParameter ')'
+		'('(p+=procedureParameter Space ';' Space )* p+=procedureParameter ')'
 		;
 
 procedureParameter
 		:
-		(VAR Whitespace)? (names+=ID Whitespace ','  Whitespace )* names+=ID Whitespace ':' Whitespace t=typeName
+		(VAR Space)? (names+=ID ','  Space )* names+=ID Space ':' Space t=typeName
 		;
 
 typeName
 		: (INTEGER | BOOLEAN | ID)			# simpleTypeName
-		| ARRAY Whitespace e=expression Whitespace OF Whitespace t=typeName		# arrayType
-		| RECORD Whitespace r=recordTypeNameElements Whitespace END						# recordTypeName
+		| ARRAY Space e=expression Space OF Space t=typeName		# arrayType
+		| RECORD Space r=recordTypeNameElements Space END						# recordTypeName
 		;
 
 recordTypeNameElements
-		: recordElement (';' Whitespace recordElement)*
+		: recordElement (';' Newline recordElement)*
 		;
 
 recordElement
-		: (ids+=ID ',' Whitespace)* ids+=ID Whitespace ':' Whitespace t=typeName
+		: (ids+=ID ',' Space)* ids+=ID Space ':' Space t=typeName
 		;
 
 localDeclaration
@@ -54,21 +54,21 @@ localDeclaration
 		;
 
 typeDeclaration:
-		TYPE Whitespace
+		TYPE Newline
 		  singleTypeDeclaration+
 		  ;
 
 singleTypeDeclaration:
-		  id=ID export=STAR? Whitespace '=' Whitespace t=typeName ';' Newline
+		  id=ID export=STAR? Space '=' Space t=typeName ';' Newline
 		  ;
 
 variableDeclaration:
-		VAR Whitespace
+		VAR Newline
 		  singleVariableDeclaration+
 		  ;
 
 singleVariableDeclaration:
-			(v+=exportableID ',' Whitespace)* v+=exportableID Whitespace ':' Whitespace t=typeName ';' Newline
+			(v+=exportableID ',' Space)* v+=exportableID Space ':' Space t=typeName ';' Newline
 			;
 
 exportableID:
@@ -76,21 +76,21 @@ exportableID:
 			;
 
 constDeclaration:
-		CONST Whitespace
+		CONST Newline
 		  constDeclarationElement+
 		  ;
 
 constDeclarationElement:
-		c=ID export=STAR? Whitespace '=' Whitespace e=expression ';' Newline
+		c=ID export=STAR? Space '=' Space e=expression ';' Newline
 		;
 
 block
-		:(BEGIN Newline statements Newline Whitespace)?  END Whitespace ID
+		:(BEGIN Newline statements Newline Tab)?  END Space ID
 		;
 
 statements:
-		Whitespace statement
-		( ';' Newline Whitespace statement )*
+		Tab statement
+		( ';' Newline Tab statement )*
 		;
 
 statement
@@ -107,39 +107,39 @@ procCall_statement
 		;
 
 assign_statement
-		: id=ID s=selector Whitespace ':=' Whitespace r=expression
+		: id=ID s=selector Space ':=' Space r=expression
 		;
 
 while_statement
-		: WHILE Whitespace r=expression Whitespace DO Newline
+		: WHILE Space r=expression Space DO Newline
 		  statements Newline
 		  END
 		;
 
 repeat_statement
-		: REPEAT Whitespace
+		: REPEAT Newline
 		  statements Newline
-		  Whitespace UNTIL Whitespace r=expression
+		  Tab UNTIL Space r=expression
 		;
 
 if_statement
-		: IF Whitespace c+=expression Whitespace THEN Newline
+		: IF Space c+=expression Space THEN Newline
 			  statements Newline
-		  ( Whitespace ELSIF Whitespace c+=expression Whitespace THEN Newline
+		  (ELSIF Space c+=expression Space THEN Newline
 			  statements Newline
 		  )*
-		  (Whitespace ELSE Newline
+		  (ELSE Newline
 			  statements Newline
 		  )?
-		  Whitespace END
+		  Tab END
 		;
 
 // Expressions
 expression
 	: op=(NOT | MINUS) e=expression		#exprNotExpression
-	| l=expression Whitespace op=(STAR | DIV | MOD | AND) Whitespace r=expression					#exprMultPrecedence
-	| l=expression Whitespace  op=('+' | '-' | OR) Whitespace r=expression						#exprFactPrecedence
-	| l=expression Whitespace op=('<' | '<=' | '>' | '>=' | '=' | '#') Whitespace r=expression	#exprRelPrecedence
+	| l=expression Space op=(STAR | DIV | MOD | AND) Space r=expression					#exprMultPrecedence
+	| l=expression Space  op=('+' | '-' | OR) Space r=expression						#exprFactPrecedence
+	| l=expression Space op=('<' | '<=' | '>' | '>=' | '=' | '#') Space r=expression	#exprRelPrecedence
 	| id=ID
 		s=selector						#exprSingleId
 	| id=ID '(' cp=callParameters? ')'										#exprFuncCall
@@ -149,7 +149,7 @@ expression
 	;
 
 callParameters
-		: p+=expression ( ',' Whitespace p+=expression)*
+		: p+=expression ( ',' Space p+=expression)*
 		;
 
 selector
@@ -168,28 +168,10 @@ STRING_LITERAL
 
 Constant
 	:   IntegerConstant
-	|   FloatingConstant
 	;
 
 IntegerConstant: DigitSequence;
 
-fragment
-FloatingConstant
-	:   FractionalConstant ExponentPart?
-	|   DigitSequence ExponentPart
-	;
-
-fragment
-FractionalConstant
-	:   DigitSequence? '.' DigitSequence
-	|   DigitSequence '.'
-	;
-
-fragment
-ExponentPart
-	:   'e' Sign? DigitSequence
-	|   'E' Sign? DigitSequence
-	;
 
 fragment
 Sign
@@ -206,6 +188,15 @@ Digit: [0-9];
 
 Whitespace
 		:   [ \t]+
+		;
+
+
+Tab
+		:   '\t'
+		;
+
+Space
+		:   ' '
 		;
 
 Newline

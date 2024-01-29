@@ -170,28 +170,10 @@ STRING_LITERAL
 
 Constant
 	:   IntegerConstant
-	|   FloatingConstant
 	;
 
 IntegerConstant: DigitSequence;
 
-fragment
-FloatingConstant
-	:   FractionalConstant ExponentPart?
-	|   DigitSequence ExponentPart
-	;
-
-fragment
-FractionalConstant
-	:   DigitSequence? '.' DigitSequence
-	|   DigitSequence '.'
-	;
-
-fragment
-ExponentPart
-	:   'e' Sign? DigitSequence
-	|   'E' Sign? DigitSequence
-	;
 
 fragment
 Sign
