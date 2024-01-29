@@ -1,0 +1,4 @@
+MODULE YrJ;
+	VARgW*, _*, O, R* : RECORD A, s : ARRAY '' OF INTEGER END;
+YTWEyc : RECORD l, FK, A55 : ARRAY A() OF BOOLEAN END;
+	END ba.

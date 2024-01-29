@@ -1,0 +1,8 @@
+MODULE K;
+	PROCEDURE C*;
+
+	END Wh7V
+;
+	BEGIN
+	;	
+	END plS.

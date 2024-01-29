@@ -1,0 +1,4 @@
+MODULE M;
+	TYPES* = BOOLEAN;BUK0 = I;
+
+	END AVj.

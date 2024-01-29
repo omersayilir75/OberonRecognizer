@@ -1,0 +1,6 @@
+MODULE x;	PROCEDURE F*;
+	END CVwj;PROCEDURE E;
+
+	END yWfW
+	;
+	END dv.

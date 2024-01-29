@@ -1,0 +1,15 @@
+MODULE RPCZ;
+	PROCEDURE A*;
+
+	END VHV
+	;PROCEDURE DaEz*;
+
+	END IK
+		;PROCEDURE G*;
+
+	END ld
+	;PROCEDURE Gl_;
+
+	END Bc2
+					;PROCEDURE w*;	END n
+;	END n.

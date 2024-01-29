@@ -1,0 +1,5 @@
+MODULE J;
+	PROCEDURE C;
+
+	END x
+;	END J.

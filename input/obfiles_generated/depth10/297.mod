@@ -1,0 +1,6 @@
+MODULE w;	VAR
+sLHD*, HJ*, a : ARRAY Z0 OF BOOLEAN;
+P*, j : ARRAY U() OF INTEGER;TYPE
+R* = INTEGER;VARx : INTEGER;
+
+	END to.

@@ -1,0 +1,5 @@
+MODULE A;
+	PROCEDURE J;
+	END c6
+	;
+	END WWhS.

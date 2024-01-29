@@ -1,0 +1,12 @@
+MODULE m;	TYPE
+wz* = ARRAY w OF RECORD N : ARRAY (a) >= A() + E() OF BOOLEAN END;
+z5 = RECORD VB, TT1, J : ARRAY 00 OF INTEGER;
+pLz, S : RECORD x : INTEGER END;
+I : ARRAY '' OF RECORD GpN8K : ARRAY '''' OF INTEGER;
+F : INTEGER END;
+Lf, vW, P, pruj2d : BOOLEAN END;
+
+	BEGIN
+	Af(-h(''''));
+	P
+	END e.

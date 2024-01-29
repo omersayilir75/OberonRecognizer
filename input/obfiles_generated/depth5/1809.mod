@@ -1,0 +1,10 @@
+MODULE IZvu;
+	PROCEDURE Xi5*;
+	END f	;PROCEDURE Q*;
+
+	END q
+;PROCEDURE mxzq;
+	END l
+;PROCEDURE z;
+	END _;
+	END K.

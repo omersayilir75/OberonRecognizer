@@ -1,0 +1,8 @@
+MODULE B;
+	PROCEDURE C*;
+
+	END vtmrTj
+;
+	BEGIN
+	
+	END W.

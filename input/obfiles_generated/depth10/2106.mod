@@ -1,0 +1,6 @@
+MODULE H;
+		BEGIN	WHILE i() DO
+	;
+	F;
+	END
+	END B.

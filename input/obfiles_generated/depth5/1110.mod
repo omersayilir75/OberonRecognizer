@@ -1,0 +1,14 @@
+MODULE f4Z02;
+	PROCEDURE FU;
+
+	END r
+;PROCEDURE l*;
+
+	END O
+;PROCEDURE OY*;	END K
+;PROCEDURE t*;
+
+	END sIIHTK;
+	BEGIN
+	;
+	;		END d.

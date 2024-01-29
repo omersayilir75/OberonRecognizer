@@ -1,0 +1,9 @@
+MODULE B;
+	PROCEDURE X*;
+
+	END A
+	;PROCEDURE jg;
+
+	END T_bS;PROCEDURE HP0;
+	END _ZqwO			;
+	END B6.

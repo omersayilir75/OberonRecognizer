@@ -1,0 +1,9 @@
+MODULE yos;
+	PROCEDURE FVs;
+	END o
+;PROCEDURE l*;
+	END i
+			;PROCEDURE haT*;
+	END XL
+;
+	END ESk.

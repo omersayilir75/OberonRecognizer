@@ -1,0 +1,8 @@
+MODULE l3ezf;
+	TYPE
+mF = RECORD eNz1, L : INTEGER END;
+F = RECORD C, N : BOOLEAN;
+tT, LXhL, ji : INTEGER END;t* = ARRAY cM() = ~~GG0 < lu34 OF BOOLEAN;
+gq* = INTEGER;
+
+	END p.

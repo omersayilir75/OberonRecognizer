@@ -1,0 +1,7 @@
+MODULE D;	PROCEDURE kT*;	END D9
+	;PROCEDURE st;
+
+	END Og9DQ
+	;PROCEDURE gnK;
+	END E
+	;	END KMk.

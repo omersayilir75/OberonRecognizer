@@ -1,0 +1,5 @@
+MODULE hX;
+	PROCEDURE u*;
+
+	END Y
+;	END EOw.

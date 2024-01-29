@@ -1,0 +1,5 @@
+MODULE K;
+	PROCEDURE Lk*;
+
+	END Lz3;
+	END y.

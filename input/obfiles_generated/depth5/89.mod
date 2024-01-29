@@ -1,0 +1,11 @@
+MODULE a;	PROCEDURE eun;
+	END C			;PROCEDURE r;
+	END C
+	;PROCEDURE bC*;
+
+	END j
+	;PROCEDURE O*;	END L
+;PROCEDURE io*;
+
+	END tD	;
+	END yb6.

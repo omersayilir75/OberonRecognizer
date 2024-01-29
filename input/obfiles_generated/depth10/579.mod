@@ -1,0 +1,12 @@
+MODULE GPWQj8H;
+	VARh : ARRAY Ys OF BOOLEAN;x*, m6_j*, L, h8L* : ARRAY 'j''SE' OF INTEGER;
+r*, vi, Hf* : ARRAY PpJY() OF BOOLEAN;
+VAR
+xpB : ARRAY vw8 OF INTEGER;
+nbR* : BOOLEAN;
+Lo : ARRAY '=''' OF BOOLEAN;
+	BEGIN
+	WHILE -e DO
+	
+END
+	END e.

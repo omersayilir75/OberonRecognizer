@@ -1,0 +1,12 @@
+MODULE VCK;
+	PROCEDURE F;
+	END Mj
+;PROCEDURE pn;
+
+	END O
+	;PROCEDURE Xe;
+	END Fg_lFuSn
+	;
+	BEGIN
+	
+	END S.

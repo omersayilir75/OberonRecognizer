@@ -1,0 +1,5 @@
+MODULE X;
+	
+	BEGIN
+	
+	END w.

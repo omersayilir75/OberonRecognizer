@@ -1,0 +1,9 @@
+MODULE fT;
+	PROCEDURE i;
+	END Ox
+;
+	BEGIN
+	;
+	;
+	
+	END W3.

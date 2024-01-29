@@ -1,0 +1,2 @@
+MODULE Sq;
+		END f1.

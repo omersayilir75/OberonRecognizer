@@ -1,0 +1,2 @@
+MODULE A;
+		END w.

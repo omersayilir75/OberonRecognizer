@@ -1,0 +1,7 @@
+MODULE CT;
+	PROCEDURE N*;
+
+	END kZ				;PROCEDURE Xp;
+	END E		;PROCEDURE DZY*;
+	END O;
+	END uv.

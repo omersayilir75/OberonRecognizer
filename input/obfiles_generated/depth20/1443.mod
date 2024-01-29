@@ -1,0 +1,1 @@
+MODULE U;		END U.

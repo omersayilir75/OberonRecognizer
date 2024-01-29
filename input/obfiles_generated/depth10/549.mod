@@ -1,0 +1,6 @@
+MODULE K9;
+	PROCEDURE MI(_ : ARRAY IHS() OF Ksjy)*;
+	END BD6
+;TYPE
+b = ARRAY Kuq() OF INTEGER;z1* = NjM;
+	END p.

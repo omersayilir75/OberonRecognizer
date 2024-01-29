@@ -1,0 +1,4 @@
+MODULE XA;
+	
+	BEGIN	
+	END L.

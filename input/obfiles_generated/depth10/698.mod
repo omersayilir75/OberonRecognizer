@@ -1,0 +1,10 @@
+MODULE j;
+	
+	BEGIN
+	WHILE '' - ZU0 DO
+	dp
+END;
+	WHILE x DO
+	
+END
+	END U.

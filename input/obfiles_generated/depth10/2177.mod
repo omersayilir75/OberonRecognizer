@@ -1,0 +1,5 @@
+MODULE L6M;
+	TYPE
+K = ARRAY l() OF Fb93CDwH;
+
+	END h.

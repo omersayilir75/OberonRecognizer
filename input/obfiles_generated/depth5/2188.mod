@@ -1,0 +1,6 @@
+MODULE l2;	PROCEDURE I;
+	END j1s
+		;
+	BEGIN
+	
+	END a.

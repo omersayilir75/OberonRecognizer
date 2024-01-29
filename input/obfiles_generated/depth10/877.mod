@@ -1,0 +1,38 @@
+MODULE U;	PROCEDURE p(VAR YNjy : INTEGER ; VAR Es0 : ARRAY k() OF BOOLEAN ; VAR mXGi, h, JJ, Q, d : ARRAY d OF Kg ; VAR N2, h2 : BOOLEAN);
+
+	BEGIN	Ta;
+	IF t() THEN
+	;	
+ELSE
+		END
+	END dE4vAY
+		;PROCEDURE p;
+	PROCEDURE R(VAR D, LL : o);
+	BEGIN
+	;
+	O
+	END vyhaUJj
+;
+	END B
+;PROCEDURE M(ZXFb : INTEGER ; VAR wt : ARRAY R() OF ly ; VAR D8H : ARRAY iS OF BOOLEAN);
+
+	END wH
+	;PROCEDURE Vf(G, R, Z : ARRAY x() OF BOOLEAN);	TYPE
+f8eva* = INTEGER;
+E* = BOOLEAN;
+M* = INTEGER;M* = INTEGER;
+XeQ* = uH;GB = uUzhAe2R;
+DkVF = INTEGER;
+	TYPE
+BcWBq = BOOLEAN;
+	VAR
+oF, D* : INTEGER;
+
+	END dVsY
+	;	BEGIN	WHILE -'''x' DO
+	;	;
+	Qa;
+	
+END;	REPEAT
+	U	UNTIL '' < 'a''''';	IF rN() THEN
+	O	END	END M.

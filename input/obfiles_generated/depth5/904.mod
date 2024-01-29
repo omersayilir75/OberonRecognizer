@@ -1,0 +1,10 @@
+MODULE R;
+	PROCEDURE _*;
+
+	END f
+;PROCEDURE FI;	END T
+;
+	BEGIN
+	;
+	
+	END Xu.

@@ -1,0 +1,8 @@
+MODULE O3;
+	TYPE
+Ui* = INTEGER;
+pp* = INTEGER;
+YVJOrg* = ARRAY Ua() OF INTEGER;
+VARV*, lV, p8gLE4* : ARRAY oY() OF O;s5pd, D, OAs4* : ARRAY nL() OF INTEGER;
+
+	END z.

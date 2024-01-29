@@ -1,0 +1,6 @@
+MODULE V;
+	PROCEDURE UL*;
+	END k
+;
+	BEGIN	
+	END p.

@@ -1,0 +1,17 @@
+MODULE nVgJ;
+	TYPE
+KA* = ARRAY dv OF i;
+PROCEDURE YLT(E : BOOLEAN ; y, o, M4 : ARRAY L() OF INTEGER);
+
+	END T
+	;VAR
+d : ARRAY L OF INTEGER;B, Au : INTEGER;
+jCf* : ARRAY w OF mgpLpZV;
+TYPEL_i* = z;
+PROCEDURE iUt(VAR D : ARRAY '''''' OF sO);
+	END EhpC3	;
+	BEGIN
+	IF '' THEN
+	M
+ELSIF ~bAG7() THEN	dg
+	END	END ttlMcNWd.

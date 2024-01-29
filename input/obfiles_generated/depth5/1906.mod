@@ -1,0 +1,9 @@
+MODULE aDl;
+	PROCEDURE WIC;
+
+	END EoIB
+		;PROCEDURE aTs;
+
+	END od
+;
+	END grE.

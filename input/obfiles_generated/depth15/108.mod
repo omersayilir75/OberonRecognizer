@@ -1,0 +1,22 @@
+MODULE S;
+	PROCEDURE V;
+	TYPE
+u = RECORD YYW : ARRAY _ OF BOOLEAN;
+F : h END;zn* = RECORD L0, k : INTEGER END;
+	TYPEPV = INTEGER;ok* = WUW;ef* = INTEGER;
+cRhd* = _ybW;
+U = BOOLEAN;
+
+	BEGIN
+	WA8O := g	END v
+;PROCEDURE XH(VAR uA : X ; A : BOOLEAN);
+	PROCEDURE GN;
+
+	BEGIN
+	EYk := UY7ZjP;
+	q5_(~vp);
+		END xK
+			;
+	END Z
+	;
+	END YiLA.

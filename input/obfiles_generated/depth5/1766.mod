@@ -1,0 +1,15 @@
+MODULE gM5;
+	PROCEDURE c;
+
+	END R;PROCEDURE y*;
+
+	END EJ
+		;PROCEDURE pym_7;
+	END h
+		;PROCEDURE i*;
+	END eE;PROCEDURE Q;
+	END p
+		;
+	BEGIN
+	;	;
+		END r.

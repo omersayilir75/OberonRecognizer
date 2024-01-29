@@ -1,0 +1,5 @@
+MODULE P;
+	PROCEDURE N;
+	END s
+			;
+	END AIVI.

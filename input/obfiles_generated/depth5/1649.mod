@@ -1,0 +1,9 @@
+MODULE Kh;
+	PROCEDURE O*;
+
+	END l_1v
+;PROCEDURE I;	END U
+;
+	BEGIN
+	
+	END KMnx.

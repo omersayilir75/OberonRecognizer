@@ -1,0 +1,8 @@
+MODULE j;
+	PROCEDURE h34(VAR V : xy ; VAR r1 : RECORD Fu : ARRAY '' OF BOOLEAN;
+aI, a, I, C5g5cc8X : BOOLEAN END);
+	BEGIN
+	
+	END _J
+;
+	END h.

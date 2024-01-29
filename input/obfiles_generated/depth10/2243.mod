@@ -1,0 +1,5 @@
+MODULE i2v_rp;	TYPE
+eK* = ARRAY Q2 OF INTEGER;
+SY* = ARRAY Cj() OF BOOLEAN;
+
+	END cJ40.

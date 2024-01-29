@@ -1,0 +1,10 @@
+MODULE PrI;
+	PROCEDURE sRL;
+
+	END p;
+	BEGIN	WHILE j3I76PQ() DO
+	;
+	G
+END;
+	E
+	END A.

@@ -1,0 +1,6 @@
+MODULE k;
+	PROCEDURE OfAd;
+
+	END q
+;
+	END Q.

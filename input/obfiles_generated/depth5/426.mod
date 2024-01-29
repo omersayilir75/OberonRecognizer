@@ -1,0 +1,6 @@
+MODULE o1;
+	PROCEDURE KYA*;
+
+	END GWIA
+	;
+	END EE.

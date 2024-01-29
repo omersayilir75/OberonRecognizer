@@ -1,0 +1,7 @@
+MODULE Z;
+	
+	BEGIN
+	WHILE G # a() DO
+	
+END
+	END B.

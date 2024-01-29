@@ -1,0 +1,5 @@
+MODULE Et;
+	PROCEDURE Y;
+	END f	;
+	BEGIN
+		END E.

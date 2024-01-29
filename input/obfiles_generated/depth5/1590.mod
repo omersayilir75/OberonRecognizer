@@ -1,0 +1,5 @@
+MODULE SoZ;
+	
+	BEGIN
+	
+	END ID.

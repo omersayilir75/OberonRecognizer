@@ -1,0 +1,4 @@
+MODULE qt;
+	VAR
+yk, FZ0 : INTEGER;
+	END V.

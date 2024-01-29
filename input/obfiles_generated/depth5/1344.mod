@@ -1,0 +1,12 @@
+MODULE m;
+	PROCEDURE InC;
+
+	END O;PROCEDURE nSD*;
+
+	END sut
+;PROCEDURE o;
+	END DUt
+	;
+	BEGIN
+	
+	END e.

@@ -1,0 +1,9 @@
+MODULE q;	
+	BEGIN	WHILE WY DO
+	BHE;	j8aXEND;
+	IF J() THEN	K6
+ELSE
+	pO;
+	
+	END
+	END la.

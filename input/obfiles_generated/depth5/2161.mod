@@ -1,0 +1,14 @@
+MODULE N;
+	PROCEDURE caU*;
+
+	END lG
+;PROCEDURE Lk*;
+
+	END KE
+;PROCEDURE p2kV;
+
+	END k1n
+	;PROCEDURE W*;
+	END Lg
+		;
+	END RQgSv.

@@ -1,0 +1,11 @@
+MODULE L;
+	PROCEDURE o*;
+
+	END G;PROCEDURE eq;
+
+	END ly0
+	;PROCEDURE s*;
+
+	END G
+;
+	END e.

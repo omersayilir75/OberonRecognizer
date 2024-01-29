@@ -1,0 +1,1 @@
+MODULE F;		BEGIN	;	J(LX, 5)	END F.

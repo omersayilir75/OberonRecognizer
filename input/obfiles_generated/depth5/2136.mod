@@ -1,0 +1,8 @@
+MODULE A;
+	PROCEDURE ib5*;
+
+	END ZF3Xok
+;
+	BEGIN
+	;	
+	END fT.

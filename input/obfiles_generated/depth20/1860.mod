@@ -1,0 +1,4 @@
+MODULE G7;
+	
+	BEGIN	
+	END Z.

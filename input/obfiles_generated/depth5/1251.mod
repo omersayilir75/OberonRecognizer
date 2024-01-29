@@ -1,0 +1,12 @@
+MODULE sYJA;	PROCEDURE eQuX*;
+
+	END r
+								;PROCEDURE C;
+
+	END D
+		;PROCEDURE T;
+
+	END t	;
+	BEGIN	;
+	
+	END Q.

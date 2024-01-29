@@ -1,0 +1,6 @@
+MODULE qh;
+	PROCEDURE E*;
+
+	END A;PROCEDURE q;
+	END Cqi51Oc
+;	END x.

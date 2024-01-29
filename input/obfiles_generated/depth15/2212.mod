@@ -1,0 +1,13 @@
+MODULE jd;
+	PROCEDURE K(cKLGZ, G : ARRAY Xt()  MOD  N() OR r() < '' OF RN);
+	END wk
+	;PROCEDURE bKB(VAR A : RECORD q, q : ARRAY CtM OF INTEGER;Ft : ARRAY N() OF BOOLEAN END)*;
+	CONST
+N* = (ic());	PROCEDURE S;
+	END A
+;
+	BEGIN	O6 := ''
+	END KQ
+;
+	BEGIN	
+	END owNF1.

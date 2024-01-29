@@ -1,0 +1,5 @@
+MODULE svrSenB;
+	VAR
+CZZb* : RECORD k1C, c : INTEGER END;
+
+	END W.

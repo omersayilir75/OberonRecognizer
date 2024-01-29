@@ -1,0 +1,4 @@
+MODULE Kx;
+		BEGIN
+	QF := 8
+	END EfF8.

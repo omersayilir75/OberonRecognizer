@@ -1,0 +1,5 @@
+MODULE HI;
+	TYPE
+Nkg7* = x;
+jT = ARRAY ~sP OF RECORD m : BOOLEAN END;
+zpm8 = INTEGER;	END V.

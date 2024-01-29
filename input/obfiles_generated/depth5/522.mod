@@ -1,0 +1,7 @@
+MODULE ZG;
+	PROCEDURE n*;	END ZgKo70j
+;PROCEDURE k;
+	END I	;PROCEDURE C;
+
+	END R	;
+	END u.

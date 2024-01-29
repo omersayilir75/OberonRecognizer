@@ -1,0 +1,15 @@
+MODULE iELtijDKH;
+	PROCEDURE I;
+	BEGIN
+	IF vy THEN
+	
+ELSIF '' THEN	
+	END;
+		END d_
+;PROCEDURE r3(VAR k : Zg ; VAR Jrd : INTEGER)*;
+	PROCEDURE aSsDKBnu(VAR rxqWk5s, f1, HJWz, d4 : BOOLEAN ; U : INTEGER);
+
+	END K
+	;
+	END d
+	;	END U.

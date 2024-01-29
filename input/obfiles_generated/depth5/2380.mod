@@ -1,0 +1,5 @@
+MODULE L;
+	PROCEDURE MX*;
+	END _
+;
+	END a.

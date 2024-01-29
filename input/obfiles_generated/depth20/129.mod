@@ -1,0 +1,8 @@
+MODULE E;
+	TYPE
+c = RECORD pOB : BOOLEAN;
+OQ : INTEGER;e, C : ARRAY '' & -I() - (F() - '''') OF BOOLEAN;
+STiI7H : ARRAY D OF RECORD bqu : INTEGER;
+VF, gtH, gn : ARRAY P() OF INTEGER END END;
+
+	BEGIN	wR	END SpPQ.

@@ -1,0 +1,2 @@
+MODULE k;	
+	END A.

@@ -1,0 +1,29 @@
+MODULE i;	PROCEDURE p*;
+	END v5
+;PROCEDURE Z*;
+
+	END u
+		;PROCEDURE mi*;
+
+	END U
+;PROCEDURE G*;
+	END L1s7VF
+	;PROCEDURE t*;
+
+	END v
+		;PROCEDURE shD*;
+
+	END z5
+;PROCEDURE v*;
+
+	END f;PROCEDURE B*;
+	END rMx5
+;PROCEDURE a*;
+
+	END Z		;PROCEDURE sb;
+
+	END D
+;PROCEDURE v*;
+
+	END dD;
+	END z.

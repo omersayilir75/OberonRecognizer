@@ -1,0 +1,3 @@
+MODULE k4;	TYPE
+I* = ARRAY '' OF BOOLEAN;
+	END EUv.

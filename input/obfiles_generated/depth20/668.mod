@@ -1,0 +1,8 @@
+MODULE i;
+	TYPE
+Z* = ARRAY ~~P(('')) OF ARRAY 3292 OF ARRAY (5) OF ARRAY P1X + 'D' * R OF RECORD rS, t, d, I : INTEGER;
+Y, iN_W : INTEGER;
+Ae : GCJ;
+WYT : BOOLEAN END;
+
+	END gLk.

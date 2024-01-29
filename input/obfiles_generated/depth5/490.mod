@@ -1,0 +1,4 @@
+MODULE GLZKo;
+	PROCEDURE H;
+	END WMp
+;	END st.

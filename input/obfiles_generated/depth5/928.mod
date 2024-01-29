@@ -1,0 +1,8 @@
+MODULE V;
+	PROCEDURE DV;
+
+	END Y
+;
+	BEGIN
+	;	
+	END w.

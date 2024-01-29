@@ -1,0 +1,11 @@
+MODULE nVpM5;
+	PROCEDURE WX7G(VAR B9 : ARRAY PI OF INTEGER)*;
+
+	END k
+;
+	BEGIN	IF U THEN
+	
+ELSIF gp & '?''' THEN
+	
+	END
+	END ooa4.

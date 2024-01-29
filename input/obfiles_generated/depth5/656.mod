@@ -1,0 +1,12 @@
+MODULE X7R;	PROCEDURE F*;
+	END a
+	;PROCEDURE NJ;
+
+	END wyC
+;PROCEDURE K5*;
+	END S
+;PROCEDURE Z*;
+
+	END cu0
+	;
+	END v2.

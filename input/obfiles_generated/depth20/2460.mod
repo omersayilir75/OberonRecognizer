@@ -1,0 +1,4 @@
+MODULE w;
+	VARe1 : BOOLEAN;
+
+	END h1.

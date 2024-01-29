@@ -1,0 +1,8 @@
+MODULE b;
+	PROCEDURE Y(Jj : ARRAY '' >= (19 >= BPt() > qN()) OF RECORD EBwPTvhJG, s : RECORD L : ARRAY '''' OF INTEGER END END ; C59 : ARRAY q OF K)*;
+
+	END Amm
+					;
+	BEGIN
+	
+	END T7H.

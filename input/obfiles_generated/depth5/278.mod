@@ -1,0 +1,4 @@
+MODULE kXQ;	PROCEDURE o*;
+
+	END fC;
+	END Oij.

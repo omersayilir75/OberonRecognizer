@@ -1,0 +1,7 @@
+MODULE vW1qL8WSgxqvo;
+	VAR
+M, K1* : ARRAY y3e OF b;
+	BEGIN
+	IF EuG THEN	
+	END
+	END ZB.

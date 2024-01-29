@@ -1,0 +1,12 @@
+MODULE ajJtg;
+	PROCEDURE wvbQ(VAR XJ : ARRAY Q() OF BOOLEAN ; VAR hN, B : rJ ; VAR Ef : ARRAY X OF BOOLEAN)*;
+	PROCEDURE BV;	END S
+;	VAR
+LohsH*, x : INTEGER;
+
+	END Y
+	;CONSTWJ = Tvs_O;
+
+	BEGIN
+	UI
+	END s6.

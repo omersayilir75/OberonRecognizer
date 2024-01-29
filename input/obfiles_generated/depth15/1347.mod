@@ -1,0 +1,6 @@
+MODULE SIaSa;
+	TYPEZz = RECORD bWI : ARRAY '' OF XW7J9vlx END;
+wp* = ARRAY ''''  MOD  _ # I() OF RECORD q, J : INTEGER END;
+PROCEDURE D*;	END H
+;
+	END bp.

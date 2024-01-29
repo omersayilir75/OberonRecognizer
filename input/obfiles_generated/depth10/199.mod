@@ -1,0 +1,11 @@
+MODULE P;
+	PROCEDURE v(y : BOOLEAN ; VAR SqQC1, T6nt, J : ARRAY K OF INTEGER ; S, a : ARRAY '' OF V1);
+
+	BEGIN
+	WHILE v() DO
+	;
+	
+END
+	END jnM
+;
+	END o.

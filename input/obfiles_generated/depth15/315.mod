@@ -1,0 +1,5 @@
+MODULE E;	VAR
+RJPM*, K9P2vm : INTEGER;
+	BEGIN
+	SWi('A', -'tx')
+	END S.

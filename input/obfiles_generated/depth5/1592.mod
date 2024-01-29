@@ -1,0 +1,11 @@
+MODULE J;
+	PROCEDURE L*;
+
+	END s
+	;PROCEDURE m*;
+	END j
+;
+	BEGIN
+	;
+	
+	END v7d.

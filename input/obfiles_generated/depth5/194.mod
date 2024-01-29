@@ -1,0 +1,6 @@
+MODULE t1;
+	PROCEDURE A*;
+	END Yg;
+	BEGIN
+	;	
+	END r.

@@ -1,0 +1,7 @@
+MODULE x;	PROCEDURE FY(Detz, c : BOOLEAN ; VAR Tvt, p : INTEGER);
+	BEGIN
+	M
+	END wT
+			;CONST
+y = A;
+	END B.

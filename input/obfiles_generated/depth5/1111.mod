@@ -1,0 +1,6 @@
+MODULE x;
+	PROCEDURE GKX0;
+
+	END V1
+;
+	END C.

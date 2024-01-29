@@ -1,0 +1,9 @@
+MODULE n;	PROCEDURE _;
+	END uI
+	;PROCEDURE M;
+
+	END U	;PROCEDURE _1;
+	END i;
+	BEGIN
+	
+	END f6s.

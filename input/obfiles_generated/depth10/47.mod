@@ -1,0 +1,9 @@
+MODULE NUvT;
+	VAR
+Uk*, w3b, q3, sK* : ARRAY GY OF INTEGER;TP2NnWAIL*, byoA, ab* : ARRAY V OF BOOLEAN;
+TYPEi4* = ARRAY '' OF BOOLEAN;
+RA* = INTEGER;
+
+	BEGIN
+	H9 := L() - Q
+	END i.

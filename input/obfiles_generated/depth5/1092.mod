@@ -1,0 +1,6 @@
+MODULE Pp;
+	PROCEDURE u;
+
+	END k
+;
+	END dv7CK.

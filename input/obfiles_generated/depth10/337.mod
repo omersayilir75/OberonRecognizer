@@ -1,0 +1,4 @@
+MODULE p;
+	VAR
+d1M* : ARRAY iyD OF INTEGER;
+	END p.

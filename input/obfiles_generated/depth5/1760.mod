@@ -1,0 +1,4 @@
+MODULE G;
+		BEGIN	;
+	
+	END _XOXQt.

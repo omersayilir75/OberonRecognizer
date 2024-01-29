@@ -1,0 +1,4 @@
+MODULE c;
+	VAR
+h* : INTEGER;
+	END KP.

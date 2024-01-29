@@ -1,0 +1,4 @@
+MODULE KnP;	
+	BEGIN
+	
+	END a.

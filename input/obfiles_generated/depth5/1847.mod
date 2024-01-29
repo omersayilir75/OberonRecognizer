@@ -1,0 +1,5 @@
+MODULE S;
+	
+	BEGIN
+	
+	END i.

@@ -1,0 +1,5 @@
+MODULE Ga;
+	
+	BEGIN
+	
+	END I.

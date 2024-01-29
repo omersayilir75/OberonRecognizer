@@ -1,0 +1,6 @@
+MODULE P;
+	TYPE
+lW = ARRAY '' OF L;
+ZfR* = ARRAY G OF Q;
+
+	END zr.

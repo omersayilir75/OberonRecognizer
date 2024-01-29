@@ -1,0 +1,10 @@
+MODULE hW;
+	PROCEDURE e*;
+
+	END Sdy
+;PROCEDURE fk*;
+	END Ol
+	;PROCEDURE Pg*;
+	END ea
+	;
+	END Fs.

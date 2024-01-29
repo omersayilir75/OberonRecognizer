@@ -1,0 +1,8 @@
+MODULE N;	VAR
+C, CE_9 : BOOLEAN;
+
+	BEGIN
+	WHILE e() DO
+	
+END
+	END C.

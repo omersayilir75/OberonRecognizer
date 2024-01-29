@@ -1,0 +1,7 @@
+MODULE Ifg;
+	TYPE
+F* = INTEGER;
+
+	BEGIN
+	Smvc
+	END a.

@@ -1,0 +1,11 @@
+MODULE S8;
+	PROCEDURE SDe;
+	END rG	;PROCEDURE G*;
+	END vwUj
+	;PROCEDURE O;
+	END B
+;
+	BEGIN
+	;
+	
+	END q.

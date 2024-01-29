@@ -1,0 +1,3 @@
+MODULE K;
+		BEGIN
+		END S.

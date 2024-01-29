@@ -1,0 +1,42 @@
+MODULE a;
+	PROCEDURE XO*;
+	BEGIN
+	WHILE -5174 DO
+	REPEAT
+	oyjHm;		UNTIL ~tEND	END dM
+	;PROCEDURE kS1;
+	END M;PROCEDURE Z*;
+
+	BEGIN
+	tp;
+	REPEAT
+	n.St := ('')
+	UNTIL k
+	END rZF
+	;PROCEDURE kCK0*;
+	END E
+;PROCEDURE w(VAR H, oSQU : RECORD u6 : ARRAY n0 OF L;q : ARRAY mB() OF BOOLEAN;
+DJ, vj70 : ARRAY ULSzW8() OF q;
+sWuD : ARRAY '' OF gx;
+g : ARRAY j OF INTEGER;X : ARRAY v9() OF BOOLEAN END)*;
+	PROCEDURE a(UC : RECORD v, e : ARRAY '' OF INTEGER;
+Tl : BOOLEAN;
+X, L, _ : ARRAY Kdx() OF BOOLEAN;
+RA : BOOLEAN;
+B, W, t : ARRAY c() OF W;
+X : ARRAY QQF() OF INTEGER END ; VAR b : ARRAY (v()) OF BOOLEAN);	PROCEDURE o(W, p : ARRAY ~zVu OF ARRAY U OF y);
+	PROCEDURE N(VAR SI_KVXh, Ea, J9 : ARRAY '/L''{!'''  DIV  AT_() OF ARRAY E OF x1Hn)*;
+	END nP;
+	END t
+		;
+	BEGIN
+	WHILE hdEg() > Z() & Xd * D() DO
+	
+END
+	END tdv
+	;
+	BEGIN
+	;
+	a := j(P())
+	END Kw
+;	END M.

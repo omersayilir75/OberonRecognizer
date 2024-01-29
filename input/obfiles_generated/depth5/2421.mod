@@ -1,0 +1,5 @@
+MODULE vl;
+	
+	BEGIN
+	
+	END X.

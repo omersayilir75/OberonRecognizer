@@ -1,0 +1,10 @@
+MODULE u5;	PROCEDURE aXy*;
+
+	END Mu
+	;PROCEDURE t;
+	END S
+;PROCEDURE T*;
+
+	END Y
+;
+	END sOKwSML.

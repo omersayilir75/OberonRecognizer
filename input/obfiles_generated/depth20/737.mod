@@ -1,0 +1,6 @@
+MODULE YA;
+	PROCEDURE dWy(VAR w : RECORD BK : BOOLEAN;
+fEk : ARRAY (EH.g) OF ARRAY U() & '''''' OF Y9P6 END ; VAR i : BOOLEAN);
+
+	END x3fm			;
+	END TyfD.

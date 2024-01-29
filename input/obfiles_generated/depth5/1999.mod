@@ -1,0 +1,5 @@
+MODULE WM;
+	PROCEDURE t21;	END r
+						;PROCEDURE OMl;
+	END x;
+	END Ls78v9.

@@ -1,0 +1,2 @@
+MODULE a;
+		END WZ1.

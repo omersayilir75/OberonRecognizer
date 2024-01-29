@@ -1,0 +1,6 @@
+MODULE n;	VAR
+d* : BOOLEAN;
+
+	BEGIN
+	
+	END Z.

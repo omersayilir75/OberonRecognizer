@@ -1,0 +1,11 @@
+MODULE a;
+	
+	BEGIN
+	REPEAT
+	
+	UNTIL K3iS;
+	WHILE 1 DO	REPEAT
+	F	UNTIL (N) >= ZJ;	q6_
+END;	A;
+	
+	END jiy.

@@ -1,0 +1,6 @@
+MODULE Ab;
+	PROCEDURE ky;
+	END Gc5
+	;
+	BEGIN
+	;		END X.

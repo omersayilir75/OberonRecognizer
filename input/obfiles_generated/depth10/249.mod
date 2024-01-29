@@ -1,0 +1,7 @@
+MODULE uW;
+	
+	BEGIN
+	REPEAT
+	H
+	UNTIL ~''
+	END Y.

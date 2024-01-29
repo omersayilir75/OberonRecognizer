@@ -1,0 +1,40 @@
+MODULE W;	PROCEDURE QmBJF*;
+	PROCEDURE Q(VAR xYw : INTEGER ; i : INTEGER ; VAR r : BOOLEAN)*;
+
+	END s
+;	END V;PROCEDURE Ik(VAR N, SY : ARRAY '&' OF BOOLEAN ; w, zjf, DP, Rh1w, D : BOOLEAN ; GD : ARRAY tq OF BOOLEAN)*;	VAR
+v* : N;
+u, Z : INTEGER;
+	CONST
+pZ* = '''''''''&''';
+
+	BEGIN	;
+	REPEAT
+	;
+	;
+	
+	UNTIL ''''''	END L
+;PROCEDURE u2(_, MZ : INTEGER);
+	VAR
+Gef6 : BOOLEAN;
+B* : wF;
+bsa, V60Fm* : INTEGER;
+	PROCEDURE lSq;	BEGIN
+	
+	END U4	;	PROCEDURE I7zebA(VAR m : INTEGER)*;
+
+	END qHmLe
+;
+	END L	;VAR
+LM83z : ARRAY N3e() OF BOOLEAN;
+PROCEDURE J8*;	BEGIN
+	Og;
+	WHILE '' DO
+	;	;
+	
+END
+	END G1H
+;
+	BEGIN
+	
+	END IjS.

@@ -1,0 +1,9 @@
+MODULE y;
+	PROCEDURE oM*;
+
+	END z	;PROCEDURE TU;
+	END Z
+;
+	BEGIN
+	;
+		END N.

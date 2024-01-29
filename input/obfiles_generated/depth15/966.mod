@@ -1,0 +1,10 @@
+MODULE Qb;
+	PROCEDURE G*;
+
+	BEGIN
+	REPEAT
+	T
+	UNTIL (('\'));
+		END VA
+		;
+	END Y.

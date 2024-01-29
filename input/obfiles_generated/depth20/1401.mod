@@ -1,0 +1,8 @@
+MODULE I;
+	VAR
+s, V*, I*, wH* : RECORD Y : S0 END;
+iT*, Q* : ARRAY '4' OF BOOLEAN;
+
+	BEGIN
+	qv8u
+	END RW.

@@ -1,0 +1,5 @@
+MODULE G;
+	PROCEDURE WF;
+
+	END d;
+	END K.

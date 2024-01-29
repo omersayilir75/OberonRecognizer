@@ -1,0 +1,4 @@
+MODULE r;
+	TYPE
+C = ARRAY Lcb() OF BOOLEAN;
+	END L5S.

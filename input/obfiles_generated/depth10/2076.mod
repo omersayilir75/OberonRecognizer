@@ -1,0 +1,6 @@
+MODULE BGV3;	PROCEDURE hx;
+	PROCEDURE O8*;
+
+	END Ah
+;
+	END rr;	END T.

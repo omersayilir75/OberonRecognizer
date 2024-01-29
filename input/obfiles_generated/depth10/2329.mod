@@ -1,0 +1,8 @@
+MODULE Phv;
+	PROCEDURE L;
+	CONST
+Yg* = v;
+
+	END I0
+;
+	END JM.

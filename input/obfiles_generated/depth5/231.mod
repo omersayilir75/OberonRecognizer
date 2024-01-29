@@ -1,0 +1,6 @@
+MODULE sl;	PROCEDURE PL;
+	END fpT
+	;PROCEDURE CGCw;
+
+	END C
+			;	END czx.

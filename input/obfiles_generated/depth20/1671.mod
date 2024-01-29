@@ -1,0 +1,8 @@
+MODULE ss;
+	PROCEDURE dw*;
+
+	BEGIN
+	
+	END ND
+	;
+	END c.

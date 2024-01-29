@@ -1,0 +1,2 @@
+MODULE rqW;
+	TYPEJoL2k* = ARRAY Q OF BOOLEAN;	END T.

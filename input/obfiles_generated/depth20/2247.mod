@@ -1,0 +1,5 @@
+MODULE G;
+	TYPEu0 = RECORD M : ARRAY l1 OF ARRAY (D) OF Wj END;
+
+	BEGIN
+		END b.

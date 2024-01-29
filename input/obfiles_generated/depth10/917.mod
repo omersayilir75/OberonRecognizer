@@ -1,0 +1,18 @@
+MODULE iYO;	PROCEDURE F(rs : INTEGER);
+	PROCEDURE F*;
+
+	END UrY;	VAR
+d*, Gl1h*, S* : INTEGER;
+
+	BEGIN
+	WHILE x() DO
+	;	
+END;
+	B62l7 := y	END t;
+	BEGIN
+	REPEAT
+	R64
+	UNTIL -'F';
+	REPEAT	
+	UNTIL -cRPl
+	END a.

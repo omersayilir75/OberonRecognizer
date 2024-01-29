@@ -1,0 +1,6 @@
+MODULE _2nxEs;	PROCEDURE A;
+	BEGIN
+	k := 908
+	END FVEn
+	;
+	END hOa.

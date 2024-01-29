@@ -1,0 +1,3 @@
+MODULE cDh;
+	TYPE
+k* = ARRAY v8() OF INTEGER;	END l.

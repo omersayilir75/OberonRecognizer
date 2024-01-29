@@ -1,0 +1,19 @@
+MODULE d2;
+	PROCEDURE s(VAR B, K : ARRAY J() OF ARRAY RW OF M);
+	VAR
+Z*, XvlA* : RECORD x : BOOLEAN END;
+	PROCEDURE si;
+	TYPE
+_ = INTEGER;
+
+	END JR7w3
+	;
+	END w
+	;PROCEDURE f(S, wkMc, KN : l ; UCz, sjck : ARRAY 297 OF INTEGER);
+
+	END JE
+	;PROCEDURE hg;	END r	;VAR
+Gcj, L* : ARRAY 2 OF INTEGER;
+P*, e* : RECORD h, QJrC6 : BOOLEAN END;
+
+	END U6Tp.

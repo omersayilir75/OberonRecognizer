@@ -1,0 +1,6 @@
+MODULE Kya;
+	PROCEDURE LAe*;
+
+	END PG
+;
+	END R.

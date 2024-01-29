@@ -1,0 +1,8 @@
+MODULE R;
+	PROCEDURE rT;
+
+	END PE
+					;PROCEDURE H*;
+	END k
+	;
+	END CCC.

@@ -1,0 +1,10 @@
+MODULE MK;	PROCEDURE O;
+	END WF
+;PROCEDURE OrFqx*;
+
+	END Ho
+;PROCEDURE kf;
+
+	END Zj
+;
+	END p.

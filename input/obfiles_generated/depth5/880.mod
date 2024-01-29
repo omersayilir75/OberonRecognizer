@@ -1,0 +1,12 @@
+MODULE yUQ;	PROCEDURE EKU*;
+
+	END K
+;PROCEDURE VS;
+
+	END KP
+				;PROCEDURE K*;
+
+	END T	;PROCEDURE l;
+	END Wm
+	;
+	END l.

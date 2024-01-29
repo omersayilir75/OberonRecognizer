@@ -1,0 +1,4 @@
+MODULE _;	TYPE
+x3It* = RECORD YNsk : ARRAY 3 OF hb;Ay : RECORD Q, r, vi : ARRAY -S9() OF ARRAY '''' OF INTEGER END END;
+
+	END V.

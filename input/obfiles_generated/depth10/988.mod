@@ -1,0 +1,5 @@
+MODULE c;
+	
+	BEGIN
+	RWD
+	END j_.

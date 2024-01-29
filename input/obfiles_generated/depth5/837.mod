@@ -1,0 +1,7 @@
+MODULE A;
+	PROCEDURE IioT*;
+	END Q
+				;PROCEDURE W;
+
+	END E_;
+	END x.

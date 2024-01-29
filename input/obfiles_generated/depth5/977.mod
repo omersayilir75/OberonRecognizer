@@ -1,0 +1,9 @@
+MODULE czREt;
+	PROCEDURE G7;
+	END y
+	;PROCEDURE R*;
+
+	END w9z
+		;	BEGIN
+	
+	END Q.

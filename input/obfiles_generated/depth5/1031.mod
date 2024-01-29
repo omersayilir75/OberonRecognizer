@@ -1,0 +1,4 @@
+MODULE F0;
+	
+	BEGIN	
+	END DU.

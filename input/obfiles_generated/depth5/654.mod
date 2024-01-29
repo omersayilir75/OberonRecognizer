@@ -1,0 +1,7 @@
+MODULE h;
+	PROCEDURE u*;
+
+	END Q2Q
+;	BEGIN
+	;
+		END t.

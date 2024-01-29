@@ -1,0 +1,15 @@
+MODULE RA6z;
+	PROCEDURE swEg;
+	END mOxDAAMM
+	;PROCEDURE RL*;
+
+	END YM4
+			;PROCEDURE zIxj;
+	END M
+;PROCEDURE W*;
+
+	END d;PROCEDURE mL;
+
+	END bgu
+;
+	END Q.

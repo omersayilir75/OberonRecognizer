@@ -1,0 +1,5 @@
+MODULE ZQzf;
+	TYPE
+E* = ARRAY Gl() OF RECORD f : INTEGER;X : kwn72;
+h, s : BOOLEAN END;
+	END Z.

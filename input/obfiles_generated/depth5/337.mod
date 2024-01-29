@@ -1,0 +1,5 @@
+MODULE G;	PROCEDURE l*;
+
+	END Cu
+;
+	END qMg.

@@ -1,0 +1,10 @@
+MODULE P;	PROCEDURE DD*;
+
+	END m18Dg
+;PROCEDURE ym;
+	END YDe
+		;PROCEDURE g*;
+	END vQ;PROCEDURE c0*;
+
+	END jcs3		;
+	BEGIN		END L.

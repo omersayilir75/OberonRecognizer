@@ -1,0 +1,12 @@
+MODULE GYL;
+	PROCEDURE E*;
+
+	END F7
+;PROCEDURE R;
+
+	END B
+		;PROCEDURE eIM;
+
+	END j
+;
+	END x5qlbUMLztJ46.

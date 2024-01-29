@@ -1,0 +1,14 @@
+MODULE Z;
+	PROCEDURE D*;
+
+	END x
+;PROCEDURE skM*;
+	END K
+	;PROCEDURE v;
+
+	END L_mxt6M
+			;
+	BEGIN
+	;
+	
+	END J.

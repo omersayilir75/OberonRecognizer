@@ -1,0 +1,8 @@
+MODULE T;
+	PROCEDURE R;
+	END l
+;PROCEDURE E;
+	END D
+		;	BEGIN
+	
+	END xrAh.

@@ -1,0 +1,4 @@
+MODULE c;	PROCEDURE KB*;
+	END gA
+	;
+	END B.

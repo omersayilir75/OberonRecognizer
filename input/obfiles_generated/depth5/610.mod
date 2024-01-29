@@ -1,0 +1,9 @@
+MODULE U;
+	PROCEDURE CHZ9Eh;
+
+	END ybdY3FL;
+	BEGIN
+	;
+	;
+	
+	END r.

@@ -1,0 +1,6 @@
+MODULE z;
+	PROCEDURE E;
+
+	END l
+;
+	END up.

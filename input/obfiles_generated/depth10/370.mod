@@ -1,0 +1,7 @@
+MODULE eti;
+	PROCEDURE q(VAR r, _8qeIg : ARRAY b() OF INTEGER);
+
+	BEGIN
+	REPEAT	
+	UNTIL U()
+	END m6;	END eB.

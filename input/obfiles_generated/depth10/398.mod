@@ -1,0 +1,17 @@
+MODULE s4;
+	PROCEDURE Av*;	PROCEDURE li(C, DM, J : BOOLEAN ; VAR Q : A ; gq, JH, D, oP, Q, O, J : ddTD ; PDKiXdp : BOOLEAN ; VAR y8 : BOOLEAN);	END z
+	;	PROCEDURE aKkyM(VAR aK13 : INTEGER)*;
+
+	END e
+;
+	END x
+;PROCEDURE GPM(iNX2, s, o : ARRAY Wym() OF INTEGER);
+	TYPE
+W = W6_E8P;
+cr7Bm = Y1l;
+f = INTEGER;	TYPE
+Fp1 = xXp;
+
+	END is5NNU
+;
+	END H.

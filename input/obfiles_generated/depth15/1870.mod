@@ -1,0 +1,7 @@
+MODULE O;	PROCEDURE S;	PROCEDURE J*;
+	END FUApsz
+;
+	BEGIN
+	REPEAT		UNTIL kYH9tr2()
+	END kHxnG2	;
+	END a.

@@ -1,0 +1,3 @@
+MODULE xis;	PROCEDURE j*;
+	END L;PROCEDURE c*;
+	END EX;	END k.

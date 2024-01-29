@@ -1,0 +1,13 @@
+MODULE b;
+	PROCEDURE iN*;
+	END _
+	;PROCEDURE Zn4;	END o
+	;PROCEDURE P*;
+
+	END uXJq
+;PROCEDURE bw;
+
+	END wQJ;PROCEDURE Wc3*;
+
+	END I
+		;	END Pd.

@@ -1,0 +1,10 @@
+MODULE Ay;
+	PROCEDURE wil;
+
+	END p
+	;PROCEDURE Dq89*;
+	END pH
+	;
+	BEGIN
+	
+	END H.

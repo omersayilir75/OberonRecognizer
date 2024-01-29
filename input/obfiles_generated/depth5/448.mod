@@ -1,0 +1,9 @@
+MODULE C;
+	PROCEDURE fSKYaSP*;
+
+	END YQ;PROCEDURE be*;
+	END o
+;
+	BEGIN
+	
+	END o.

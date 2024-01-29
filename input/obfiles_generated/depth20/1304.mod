@@ -1,0 +1,4 @@
+MODULE L5;
+	TYPE
+n = ARRAY '''' OF BOOLEAN;d* = ARRAY 6714  MOD  n.c.KYtS.f OF RECORD i : RECORD a : ARRAY ']''' OF t END END;
+	END j.

@@ -1,0 +1,9 @@
+MODULE xr;
+	PROCEDURE r;
+
+	END lxYE
+;PROCEDURE s;
+
+	END F
+;
+	END f.

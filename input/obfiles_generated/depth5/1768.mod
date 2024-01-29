@@ -1,0 +1,7 @@
+MODULE PP;
+	PROCEDURE yw;
+	END L
+				;PROCEDURE gJ2hI;
+
+	END x
+	;	END z.

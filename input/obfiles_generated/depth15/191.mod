@@ -1,0 +1,7 @@
+MODULE wn;
+	
+	BEGIN
+	WHILE n DO	REPEAT
+	Vc7GO.i := R	UNTIL o7()END;	WHILE 0 + zgOu.RLA6E3T DO
+	END
+	END BF.

@@ -1,0 +1,24 @@
+MODULE s;
+	PROCEDURE CEiK3;
+
+	END g9
+;PROCEDURE Hn*;
+
+	END w6b
+;PROCEDURE Q;
+
+	END I
+;PROCEDURE c*;
+
+	END k
+			;PROCEDURE JOT;
+
+	END or
+			;PROCEDURE U*;
+
+	END y
+	;PROCEDURE W1N;
+
+	END z
+;
+	END Pej.

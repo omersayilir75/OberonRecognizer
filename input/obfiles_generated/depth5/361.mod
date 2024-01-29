@@ -1,0 +1,8 @@
+MODULE N;
+	PROCEDURE n;
+	END p
+;
+	BEGIN
+	;
+	
+	END DX.

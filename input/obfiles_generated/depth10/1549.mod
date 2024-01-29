@@ -1,0 +1,8 @@
+MODULE A;	PROCEDURE F(VAR wP, Oa, KL5l8 : cF ; VAR gRp : ARRAY P7 OF INTEGER)*;
+	PROCEDURE e(vGtUd : x);
+	END pw
+		;
+	END KP
+	;TYPE
+mx = INTEGER;
+	END n6.

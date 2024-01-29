@@ -1,0 +1,4 @@
+MODULE NRk;
+	PROCEDURE c*;
+
+	END Y	;	END K.

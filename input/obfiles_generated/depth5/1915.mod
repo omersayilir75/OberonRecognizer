@@ -1,0 +1,11 @@
+MODULE A;	PROCEDURE Zc;	END q
+;PROCEDURE Y;
+
+	END eA
+;PROCEDURE bU*;	END d
+;PROCEDURE G*;	END Gm
+;
+	BEGIN
+	;
+	
+	END r.

@@ -1,0 +1,12 @@
+MODULE E;
+	PROCEDURE aFFW;	END Bu7o
+;VAR
+O* : BOOLEAN;
+CONST
+UC = 7;
+PROCEDURE A(VAR C : RECORD U7U5UQwg, Y : ARRAY h OF BOOLEAN;
+W : BOOLEAN;
+qRgr : ARRAY gw() OF INTEGER END ; q, JF : ARRAY '*''x''' & '' & '^' OF ARRAY '0' OF BOOLEAN ; VAR bR, Ev : INTEGER);
+	BEGIN
+	mQ := 59
+	END u								;	END E.

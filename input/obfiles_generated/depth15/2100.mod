@@ -1,0 +1,5 @@
+MODULE M;
+	TYPE
+GKtF = ARRAY N.a OF INTEGER;
+
+	END K.

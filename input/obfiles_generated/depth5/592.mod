@@ -1,0 +1,9 @@
+MODULE X;
+	PROCEDURE P*;
+	END _B7		;PROCEDURE I3*;
+	END e;PROCEDURE r;
+
+	END ua;
+	BEGIN
+	
+	END kO.

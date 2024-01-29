@@ -1,0 +1,7 @@
+MODULE fTa;
+	PROCEDURE au(VAR J : Q)*;
+
+	END k;VAR
+g* : INTEGER;
+
+	END I.

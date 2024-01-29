@@ -1,0 +1,5 @@
+MODULE DI;
+	
+	BEGIN
+	
+	END m.

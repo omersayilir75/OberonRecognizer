@@ -1,0 +1,4 @@
+MODULE A;	VARJ, d, t*, r : RECORD Dj : ARRAY C0Y() OF INTEGER END;VAR
+p*, C : INTEGER;n70a* : INTEGER;
+
+	END in.

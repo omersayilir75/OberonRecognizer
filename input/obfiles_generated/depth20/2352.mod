@@ -1,0 +1,8 @@
+MODULE Y;
+	PROCEDURE w(VAR dPb : INTEGER ; VAR i, ToY : ARRAY ~raR() OF zW)*;	TYPE
+f = ARRAY '' OF ARRAY '' OF INTEGER;
+rG = ARRAY (-~YCbYB() * Y.Kv.t) OF INTEGER;
+
+	END E
+;	BEGIN	
+	END a.

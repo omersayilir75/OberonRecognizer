@@ -1,0 +1,5 @@
+MODULE f;
+	PROCEDURE d;
+
+	END Nv8	;VAR
+mV, g, p* : INTEGER;	END AI.

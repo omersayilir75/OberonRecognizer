@@ -1,0 +1,6 @@
+MODULE W;
+	TYPE
+h* = ARRAY '''n' OF INTEGER;
+
+	BEGIN	
+	END D.

@@ -1,0 +1,6 @@
+MODULE K;
+	PROCEDURE HI;
+	END CUS4
+;
+	BEGIN	
+	END v.

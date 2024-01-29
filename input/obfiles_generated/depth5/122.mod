@@ -1,0 +1,6 @@
+MODULE fn;
+	PROCEDURE D*;
+
+	END L
+;
+	END Nb.

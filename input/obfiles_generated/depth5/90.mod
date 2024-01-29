@@ -1,0 +1,4 @@
+MODULE CS;
+	PROCEDURE X;
+	END NH
+	;	END Py.

@@ -1,0 +1,22 @@
+MODULE m;
+	VAR
+m* : ARRAY E() OF ARRAY (m()) OF INTEGER;R, V*, h*, uR* : RECORD _ : BOOLEAN;
+E : ARRAY _M OF INTEGER END;
+AA : ARRAY a() = 280 OF INTEGER;
+a* : RECORD ztCV : INTEGER;fXnd, cA, G : ARRAY L() OF yjM END;
+Bl : RECORD kQC : BOOLEAN END;
+PROCEDURE DyF8(VAR Q, I, vRz : INTEGER);	PROCEDURE IS(u3a : RECORD T7y : x;
+h : INTEGER;jWF9ZH4Bgmzj0, c, Z, F, EH, Uh, k : INTEGER;P, u, iYl, x, sM, ysn9 : ARRAY GZz_() OF BOOLEAN END ; sVx : K4 ; w : ARRAY AL & ~P() OF RECORD z : INTEGER;
+T : U_ END ; VAR S2rb : RECORD m : ARRAY Eb5LnO() OF INTEGER END ; VAR OH : ARRAY eP OF ss9H)*;
+	BEGIN	;
+	WHILE xr.plW DO
+	IF an4xbAq THEN
+	m
+	END
+END
+	END R;	VARg : ARRAY Y.b9l OF ARRAY jEd < m9() OF ARRAY '' OF MP;
+
+	END Caoa
+	;	BEGIN
+	w7
+	END kp.

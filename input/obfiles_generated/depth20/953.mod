@@ -1,0 +1,14 @@
+MODULE OpF;
+	VAR
+r, q : RECORD k : ARRAY VV[ZJ()] OF BOOLEAN;
+v : G;
+ki8ZwMvL : n;
+B, C : l END;
+TYPE
+KU* = ARRAY 08 OF RECORD yXk, NGCV, s : BOOLEAN END;
+PROCEDURE c;
+	PROCEDURE P3;
+	END dXT9		;	BEGIN	
+	END N
+;PROCEDURE iih;
+	END t	;	END S.

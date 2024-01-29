@@ -1,0 +1,4 @@
+MODULE V;
+	TYPEbR* = ARRAY W() OF BcJ;
+
+	END wQ.

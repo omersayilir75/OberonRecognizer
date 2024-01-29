@@ -1,0 +1,7 @@
+MODULE A;
+	PROCEDURE L5*;
+
+	END ja
+		;
+	BEGIN
+		END X8g.

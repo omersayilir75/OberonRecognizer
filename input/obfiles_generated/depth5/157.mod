@@ -1,0 +1,10 @@
+MODULE L;
+	PROCEDURE GG;
+	END Nl
+;PROCEDURE y0iPv*;
+
+	END YVe
+	;
+	BEGIN
+	
+	END M4r.

@@ -1,0 +1,11 @@
+MODULE Tkk;
+	
+	BEGIN
+	REPEAT
+	WHILE 5 DO
+	WHILE TSqk DO
+	
+END
+END
+	UNTIL ae_()
+	END n_S.

@@ -1,0 +1,10 @@
+MODULE Dm;
+	PROCEDURE t;
+
+	END Az
+;PROCEDURE S73*;
+
+	END R
+;
+	BEGIN
+		END w.

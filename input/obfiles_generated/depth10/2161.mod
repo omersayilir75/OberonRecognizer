@@ -1,0 +1,5 @@
+MODULE t;
+	TYPE
+J* = ARRAY Y() OF BOOLEAN;
+
+	END ovvF.

@@ -1,0 +1,5 @@
+MODULE H;
+	PROCEDURE b6;
+
+	END RNj;
+	END I9.

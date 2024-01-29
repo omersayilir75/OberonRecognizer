@@ -1,0 +1,3 @@
+MODULE lA;
+	
+	END C.

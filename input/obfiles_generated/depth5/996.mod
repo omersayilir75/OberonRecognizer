@@ -1,0 +1,8 @@
+MODULE c4Z9;
+	PROCEDURE YHz;
+
+	END P
+;PROCEDURE exx;
+	END l1
+		;
+	END X.

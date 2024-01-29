@@ -1,0 +1,4 @@
+MODULE Ek;	
+	BEGIN
+	
+	END Y.

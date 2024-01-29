@@ -1,0 +1,8 @@
+MODULE o;
+	PROCEDURE t*;
+
+	END t
+	;
+	BEGIN
+	
+	END Q.

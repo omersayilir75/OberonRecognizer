@@ -1,0 +1,11 @@
+MODULE h;
+	
+	BEGIN	REPEAT	Z;	rg
+	UNTIL '';
+	IF OGL(~X) > '' THEN
+	REPEAT	REPEAT	;	
+	UNTIL yc()
+	UNTIL Z4iy
+ELSE
+	NRa	END
+	END qXQ0.

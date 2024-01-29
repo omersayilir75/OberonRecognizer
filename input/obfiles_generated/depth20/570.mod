@@ -1,0 +1,5 @@
+MODULE z;
+	VAR
+IPYW3, Rd* : INTEGER;
+
+	END F.

@@ -1,0 +1,12 @@
+MODULE d;	PROCEDURE U1*;
+
+	BEGIN
+	REPEAT	
+	UNTIL So
+	END Fj
+;PROCEDURE Sw(VAR fapv, f7, U : BOOLEAN)*;	BEGIN	
+	END AY
+		;
+	BEGIN
+	
+	END h.

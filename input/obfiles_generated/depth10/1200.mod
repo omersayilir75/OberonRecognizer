@@ -1,0 +1,11 @@
+MODULE mul7;	TYPE
+t = ARRAY AYgK OF BOOLEAN;
+wv* = INTEGER;
+PROCEDURE l;
+
+	BEGIN
+	WHILE '' DO
+	
+END
+	END _
+				;	END f.

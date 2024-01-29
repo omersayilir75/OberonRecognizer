@@ -1,0 +1,8 @@
+MODULE P;	PROCEDURE rSECE;
+
+	END Foh
+;PROCEDURE ZII8;
+
+	END Fal
+;
+	END PUj.

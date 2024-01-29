@@ -1,0 +1,6 @@
+MODULE Xkt;
+	PROCEDURE Onq;
+
+	END y
+;
+	END _.

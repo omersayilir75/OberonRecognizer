@@ -1,0 +1,4 @@
+MODULE hG;
+	
+	BEGIN	
+	END L.

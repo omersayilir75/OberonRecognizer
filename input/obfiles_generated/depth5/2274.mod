@@ -1,0 +1,6 @@
+MODULE k3EdP;
+	PROCEDURE Z;
+
+	END d
+		;
+	END gLQ.

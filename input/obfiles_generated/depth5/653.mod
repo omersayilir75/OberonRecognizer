@@ -1,0 +1,13 @@
+MODULE d;
+	PROCEDURE jK;
+
+	END Bj
+;PROCEDURE GN;
+
+	END x
+;PROCEDURE ML*;
+	END Z_
+			;PROCEDURE n*;
+
+	END Y
+;	END a5oAtRi.

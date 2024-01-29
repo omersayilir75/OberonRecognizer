@@ -1,0 +1,13 @@
+MODULE vETK;
+	CONST
+t* = 00;
+PROCEDURE GIP(VAR G : Y ; VAR G3 : RECORD a, Z : BOOLEAN END)*;
+	END h
+;PROCEDURE Lw;
+	BEGIN
+	IF e & 'E' THEN
+	REPEAT
+	w
+	UNTIL gJjZ7v() - R;	;
+	ZO := kk	END	END yw
+;	END d.

@@ -1,0 +1,5 @@
+MODULE xLSQ;	PROCEDURE d;
+
+	END t
+;
+	END L.

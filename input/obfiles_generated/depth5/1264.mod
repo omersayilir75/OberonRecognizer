@@ -1,0 +1,6 @@
+MODULE HjG;
+	PROCEDURE EQZ;
+
+	END h
+;
+	END V.

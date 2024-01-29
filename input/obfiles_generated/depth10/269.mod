@@ -1,0 +1,9 @@
+MODULE a;
+	PROCEDURE Mp*;	TYPE
+S6 = BOOLEAN;
+W = INTEGER;
+g* = WB;
+
+	END p
+	;
+	END MR.

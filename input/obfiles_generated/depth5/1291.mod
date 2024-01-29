@@ -1,0 +1,12 @@
+MODULE e;
+	PROCEDURE V;
+
+	END nV;PROCEDURE zJu;
+
+	END Y;PROCEDURE QYJ*;
+	END Qhq		;PROCEDURE G;
+	END k
+;
+	BEGIN
+	
+	END GM.

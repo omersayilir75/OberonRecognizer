@@ -1,0 +1,5 @@
+MODULE Z;
+	
+	BEGIN
+	
+	END HgE.

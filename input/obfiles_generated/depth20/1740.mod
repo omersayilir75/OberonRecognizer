@@ -1,0 +1,5 @@
+MODULE jW;	
+	BEGIN
+	WHILE 1 DO	I('')
+END
+	END kx4.

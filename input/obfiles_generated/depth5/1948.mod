@@ -1,0 +1,5 @@
+MODULE O;
+	PROCEDURE EX;
+	END T;	BEGIN
+	;
+		END Hy10.

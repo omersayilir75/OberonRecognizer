@@ -1,0 +1,6 @@
+MODULE n;
+	VAR
+C* : an;
+Q9 : ARRAY Sj OF INTEGER;
+qH* : ARRAY G OF INTEGER;
+	END dY.

@@ -1,0 +1,10 @@
+MODULE nEw;	PROCEDURE ET*;
+
+	END j
+;PROCEDURE w*;	END pd;PROCEDURE a;
+
+	END l
+;
+	BEGIN
+	
+	END I.

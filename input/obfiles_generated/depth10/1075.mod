@@ -1,0 +1,5 @@
+MODULE LV;
+	VAR
+D* : ARRAY '' OF INTEGER;
+
+	END RJ.

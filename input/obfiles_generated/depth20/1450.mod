@@ -1,0 +1,9 @@
+MODULE d;
+	TYPE
+C = RECORD a : INTEGER;
+kG : v END;
+VAR
+KH : INTEGER;
+G4ImrjL, S : INTEGER;
+q : INTEGER;
+	END T.

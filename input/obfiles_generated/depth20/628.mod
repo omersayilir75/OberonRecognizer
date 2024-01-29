@@ -1,0 +1,4 @@
+MODULE ZK;
+	
+	BEGIN	x := 0
+	END EMe.

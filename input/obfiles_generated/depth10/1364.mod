@@ -1,0 +1,24 @@
+MODULE Q;
+	VAR
+Um* : ARRAY MY() OF INTEGER;
+PROCEDURE D(gQ9, un, Rj : BOOLEAN)*;
+
+	BEGIN
+	REPEAT
+	;
+	;
+	;
+	;
+	;
+	
+	UNTIL D();
+	N := Ks()
+	END M
+		;PROCEDURE V(aVd : INTEGER ; GnpP : BOOLEAN ; VAR e : ARRAY Sz() OF BOOLEAN ; VAR R, g : ARRAY '''''' OF INTEGER ; lv : INTEGER ; VAR IoF, kX : ARRAY Plq() OF INTEGER)*;
+
+	END Z
+			;TYPE
+Ory* = ARRAY tl OF INTEGER;
+HF = INTEGER;
+
+	END Jr.

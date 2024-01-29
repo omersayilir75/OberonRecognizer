@@ -1,0 +1,8 @@
+MODULE SYr;
+	PROCEDURE m*;
+
+	END C7Y
+	;
+	BEGIN
+	
+	END l.

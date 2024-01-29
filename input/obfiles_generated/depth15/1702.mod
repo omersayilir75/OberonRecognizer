@@ -1,0 +1,16 @@
+MODULE jL;
+	VAR
+ea1* : RECORD M, um : ARRAY ZL OF BOOLEAN END;
+_, t* : ARRAY xv[i][''] OF RECORD JM : INTEGER;
+f : BOOLEAN;
+H, bW : INTEGER;
+g, U : INTEGER;
+z : P END;
+TYPEN* = ARRAY (34) OF RECORD uZu : l;EUUM : Dp;BwQ : BOOLEAN;
+Em, BIB : BOOLEAN;
+rQ : t1;
+w : BOOLEAN END;
+vHm = ARRAY B1AV() OF INTEGER;
+	BEGIN
+	
+	END t.

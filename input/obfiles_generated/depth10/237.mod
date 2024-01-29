@@ -1,0 +1,14 @@
+MODULE a2;	PROCEDURE e;
+	CONST
+ncpnY5ytUk* = '';
+	PROCEDURE yQPl*;
+
+	BEGIN	v
+	END n;	TYPE
+Omo0 = INTEGER;k = BOOLEAN;
+IL* = INTEGER;
+n* = INTEGER;
+	PROCEDURE Ii*;
+	BEGIN		END MBbBRq
+;
+	END n7Z;	END t6.

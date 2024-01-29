@@ -1,0 +1,7 @@
+MODULE I;
+	TYPE
+u = ARRAY Tc() OF INTEGER;
+g = ARRAY cqnVk() OF INTEGER;
+bSv = BOOLEAN;
+
+	END pFQb.

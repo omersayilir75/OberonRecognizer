@@ -1,0 +1,10 @@
+MODULE e;
+	
+	BEGIN
+	JV60ESm('''.~H');
+	IF '' THEN
+	fAN
+ELSIF F THEN
+	rKw86
+	END
+	END a.

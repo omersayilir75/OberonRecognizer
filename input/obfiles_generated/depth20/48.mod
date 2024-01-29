@@ -1,0 +1,6 @@
+MODULE C7N;
+	CONST
+Bg32* = P.KF;
+H = IM >= 918084;
+
+	END uj.

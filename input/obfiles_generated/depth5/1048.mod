@@ -1,0 +1,8 @@
+MODULE Ed0;
+	PROCEDURE Q;	END F
+	;PROCEDURE j*;
+	END N					;PROCEDURE vL;
+
+	END x
+;
+	END o.

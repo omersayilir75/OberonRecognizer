@@ -1,0 +1,4 @@
+MODULE Vr1;
+		BEGIN
+	R := 0
+	END FH.

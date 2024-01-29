@@ -1,0 +1,7 @@
+MODULE Xc;	
+	BEGIN	IF '' THEN
+	
+ELSIF (Y()) THEN
+	
+	END
+	END g.

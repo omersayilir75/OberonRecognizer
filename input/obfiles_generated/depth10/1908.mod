@@ -1,0 +1,6 @@
+MODULE Pha;	TYPE
+Z5q* = INTEGER;
+PROCEDURE a*;	TYPEsUk* = nH;
+	END hEe
+;
+	END Qi6.

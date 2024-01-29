@@ -1,0 +1,5 @@
+MODULE G;
+	PROCEDURE dLS;
+	END S
+;
+	END Oexm.

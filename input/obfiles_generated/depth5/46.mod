@@ -1,0 +1,8 @@
+MODULE f;
+	PROCEDURE JDRn4;
+
+	END u;PROCEDURE h;
+
+	END x;	BEGIN	;
+	
+	END SU0v.

@@ -1,0 +1,32 @@
+MODULE e;
+	PROCEDURE z;
+	PROCEDURE Y1(jf96S, x, Ci : RECORD HP3d, V : RECORD l3t6 : INTEGER;
+M : BOOLEAN END;h0, GA, m : RECORD j : ARRAY m OF INTEGER END;
+N : ARRAY mh.Sn OF BOOLEAN;P, Cn : RECORD Z2B_Q, V : o;
+Jw : ARRAY C() OF BOOLEAN;
+iE, d9 : BOOLEAN;
+G : D5;
+KV5 : ARRAY bsW() OF INTEGER;
+C, P, yU_3, I3W5q : ARRAY x6k OF BOOLEAN;w, TjCR : INTEGER END END ; b3n : ARRAY ~O() - '' * L(i()) OF ARRAY ('#)') >= 'js' = ('^') OF INTEGER ; VAR F : RECORD i, g5lxOPzc : BOOLEAN END ; qN, V2 : RECORD w : ARRAY '''@' + g9gqv + 4 OF ARRAY XT > QP1() OF ARRAY k OF XK8;
+Y, od : ARRAY A OF ARRAY ''  DIV  V() OF BOOLEAN END ; y, G, n, CDVU2 : ARRAY 'X'  MOD  8647 - v.ul[p()].qKB - 90 OF RECORD tAJEZzw0, L, v4, T, pAc, oHC27, c : RECORD V : INTEGER;
+D : X END;
+j : BOOLEAN;
+d3lo : INTEGER END ; d, U, w : RECORD Kf : ARRAY '' OF BOOLEAN;
+L, _ : BOOLEAN;
+x : ARRAY 5 * '''' OF INTEGER;
+L9 : ARRAY z.NIi.rPIB & 4 OF ARRAY k.UpJaC5K9 OF ARRAY '' OF INTEGER;
+E7Q, tM : t;
+g : RECORD KT : INTEGER END END ; VAR GOW : RECORD zAL : INTEGER;b, u : RECORD Z : n69_;
+bL : ARRAY '''' OF BOOLEAN END;
+s2 : ARRAY ((X)) OF BOOLEAN;
+I : w;
+kj : S;
+vS, q : ARRAY 0 OF RECORD _ : INTEGER END;NDz1AE, j, k : BOOLEAN END);
+	END mo
+	;	VAR
+F*, qj : ARRAY '' OF ARRAY U() OF BOOLEAN;
+g*, nyoS : RECORD c : BOOLEAN END;
+	END V
+;
+	BEGIN
+		END e.

@@ -1,0 +1,6 @@
+MODULE S;
+	PROCEDURE FAuBR;
+
+	END zjk;
+	BEGIN
+		END Xn.

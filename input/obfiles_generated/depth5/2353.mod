@@ -1,0 +1,6 @@
+MODULE O;
+	PROCEDURE k;
+	END q4
+;
+	BEGIN	
+	END V.

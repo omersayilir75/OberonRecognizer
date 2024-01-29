@@ -1,0 +1,10 @@
+MODULE K;
+	PROCEDURE bO;
+
+	END w
+;PROCEDURE P*;
+	END Np
+		;
+	BEGIN
+	;
+		END DXm.

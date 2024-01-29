@@ -1,0 +1,42 @@
+MODULE Q;
+	PROCEDURE S(VAR tg, HN : ARRAY '' OF SD ; VAR nh : ARRAY 'v' OF INTEGER)*;
+	TYPE
+T* = INTEGER;
+pF* = INTEGER;
+	PROCEDURE JD(VAR wne, m : P ; rq, _bD, N, eVV : BOOLEAN ; S, f : BOOLEAN)*;	TYPE_t* = BOOLEAN;Q = INTEGER;
+L = BOOLEAN;
+	PROCEDURE JtP(VAR n : BOOLEAN)*;	PROCEDURE s06*;
+
+	BEGIN	
+	END v1fWSeRt		;	PROCEDURE QUU__;
+	PROCEDURE I*;
+
+	END o
+;	PROCEDURE d;
+	BEGIN		END qO
+	;	PROCEDURE P;
+	END hf
+;	PROCEDURE y;
+	PROCEDURE _*;
+
+	END yb;	PROCEDURE HIXh*;
+
+	END kg8
+;
+	BEGIN
+	
+	END S	;
+	BEGIN
+	
+	END j
+;
+	BEGIN	d;
+	
+	END Q				;	END WoS
+	;	PROCEDURE wn_(VAR jl, X : INTEGER ; Ul : INTEGER);
+	VAR
+Mv3EY, cW, U* : INTEGER;
+
+	END fT			;
+	END T
+					;	END C1.

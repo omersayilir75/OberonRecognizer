@@ -1,0 +1,6 @@
+MODULE _MsNIV;
+	
+	BEGIN
+	;
+	
+	END W.

@@ -1,0 +1,6 @@
+MODULE kY;
+	TYPE
+F* = ARRAY U OF INTEGER;
+
+	BEGIN	W(UOFQ, O)
+	END qDw.

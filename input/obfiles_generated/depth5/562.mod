@@ -1,0 +1,10 @@
+MODULE e;
+	PROCEDURE M7*;
+
+	END M
+	;PROCEDURE X;
+
+	END OM
+	;	BEGIN
+	;
+		END K.

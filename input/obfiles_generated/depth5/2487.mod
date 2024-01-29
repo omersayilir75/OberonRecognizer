@@ -1,0 +1,5 @@
+MODULE p;
+	PROCEDURE We;
+
+	END t;
+	END K.

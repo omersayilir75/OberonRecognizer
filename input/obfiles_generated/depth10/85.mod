@@ -1,0 +1,18 @@
+MODULE YdQ;	VAR
+H* : P;
+H : ARRAY z() OF BOOLEAN;
+R*, H0* : INTEGER;
+PROCEDURE d0M(O, m, t : ARRAY _ OF BOOLEAN ; VAR S0 : ARRAY Oc OF BOOLEAN);
+
+	BEGIN
+	zf;
+	REPEAT
+	;
+		UNTIL v();
+	WHILE Gs3Hq() DO
+	END
+	END i
+;PROCEDURE Y(j, D, iBEg4MX1 : ARRAY 'd''KWK' OF BOOLEAN ; VAR yat : ARRAY D OF v ; VAR S : BOOLEAN ; VAR so : INTEGER ; VAR Mw : I9q ; mG, Nf : e);
+
+	END h
+			;	END t0i.

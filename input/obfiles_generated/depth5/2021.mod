@@ -1,0 +1,14 @@
+MODULE d;
+	PROCEDURE W3;
+
+	END HUH
+;PROCEDURE z*;
+
+	END Y
+				;PROCEDURE YP4*;
+
+	END O
+;
+	BEGIN	;
+	
+	END CypS.

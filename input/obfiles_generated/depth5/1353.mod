@@ -1,0 +1,7 @@
+MODULE S;
+	PROCEDURE dOK;	END z
+;PROCEDURE l;
+
+	END E
+;
+	END B.

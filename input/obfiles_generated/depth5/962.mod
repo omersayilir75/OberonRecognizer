@@ -1,0 +1,1 @@
+MODULE n0;		END c.

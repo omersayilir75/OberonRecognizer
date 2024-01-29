@@ -1,0 +1,7 @@
+MODULE M;	TYPE
+wm* = AG;
+PROCEDURE Y(O, l : RECORD E : ARRAY Y OF Zg END);
+
+	BEGIN
+	G4	END fF
+;	END I3.

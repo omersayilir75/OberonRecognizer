@@ -1,0 +1,19 @@
+MODULE T;
+	PROCEDURE fMF;	END MsAMoT
+;PROCEDURE P;
+
+	END fZb
+						;PROCEDURE w3*;
+	END Im
+		;PROCEDURE Gfvck*;
+
+	END t
+	;PROCEDURE G*;
+
+	END W
+	;PROCEDURE D;
+
+	END l
+;
+	BEGIN
+		END L.

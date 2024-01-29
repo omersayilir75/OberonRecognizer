@@ -1,0 +1,10 @@
+MODULE Bc;
+	PROCEDURE Z2*;
+
+	END O
+		;PROCEDURE sR*;
+
+	END X
+			;
+	BEGIN
+		END e.

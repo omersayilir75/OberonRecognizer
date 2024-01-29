@@ -1,0 +1,6 @@
+MODULE wHDQy;	PROCEDURE e*;	TYPE
+akY* = BOOLEAN;
+
+	END V
+;
+	END f.

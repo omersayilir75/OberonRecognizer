@@ -1,0 +1,11 @@
+MODULE ZGV;	PROCEDURE z;
+
+	END r
+	;VARVL, OP : _;
+
+	BEGIN	IF ('') THEN
+	nEf9
+ELSIF ~_0() THEN
+	
+ELSE		END
+	END D.

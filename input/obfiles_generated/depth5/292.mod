@@ -1,0 +1,13 @@
+MODULE a;	PROCEDURE l9*;
+
+	END IS
+;PROCEDURE aZ;
+	END N_
+;PROCEDURE fF;
+
+	END T							;PROCEDURE c*;
+
+	END W						;PROCEDURE U*;
+
+	END Iff2	;
+	END z.

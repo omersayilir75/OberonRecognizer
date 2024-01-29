@@ -1,0 +1,6 @@
+MODULE gv;	VARw, bZ : ARRAY '' OF BOOLEAN;VAR
+m : ARRAY Qz() OF BOOLEAN;
+	BEGIN
+	;
+	REPEAT
+		UNTIL ''	END _.

@@ -1,0 +1,10 @@
+MODULE Z;
+	
+	BEGIN
+	IF L0  MOD  q THEN
+	JE
+ELSIF Ie + kIER THEN
+	
+ELSIF e * B() THEN	
+	END;	
+	END Nl.

@@ -1,0 +1,19 @@
+MODULE hsc0;
+	PROCEDURE hh(B : ARRAY C OF BOOLEAN ; VAR luQ : ARRAY wT() OF BOOLEAN);
+
+	BEGIN
+	REPEAT	;
+	;
+	
+	UNTIL '4';
+	IF '' THEN
+	
+ELSIF '' THEN
+	
+ELSIF mPuq() THEN
+	;
+		END;
+	x
+	END RKRhH
+;
+	END Y.

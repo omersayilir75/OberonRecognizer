@@ -1,0 +1,15 @@
+MODULE Y;
+	PROCEDURE R2;
+
+	END M_k
+;PROCEDURE t*;
+
+	END U
+;PROCEDURE n5;
+
+	END fc;PROCEDURE b*;
+	END i
+	;
+	BEGIN
+	
+	END G.

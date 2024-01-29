@@ -1,0 +1,8 @@
+MODULE QE;
+	TYPEFa = RECORD D, Eap, H, af, NaOXuu : RECORD Z : ARRAY '' OF ARRAY B OF yn;
+U : ARRAY -'' OF ARRAY NBx() OF U;Ud, r, _j : ARRAY '' OF xz;
+W7, XI1, s : ARRAY (z()) OF ARRAY S9 OF BOOLEAN END END;
+PROCEDURE a1;
+
+	END eG	;
+	END xf.

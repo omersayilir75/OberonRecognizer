@@ -1,0 +1,43 @@
+MODULE sV;
+	PROCEDURE g;	PROCEDURE s(VAR o : INTEGER);	PROCEDURE D;
+	PROCEDURE y*;
+	PROCEDURE wI;
+	PROCEDURE ZCj*;
+
+	END s
+;	PROCEDURE e;
+
+	END PS;
+	BEGIN
+		END V;	PROCEDURE M*;
+
+	END g
+	;	PROCEDURE H;
+	PROCEDURE m6*;
+
+	END vY2
+			;
+	END D
+	;	PROCEDURE ka;
+
+	END yn2K
+;	PROCEDURE V;
+
+	BEGIN	;
+	;
+	;
+	
+	END R
+	;
+	END u;
+	END bV5DhM
+;
+	END d;	END kL
+	;VAR
+qe, P* : E5KquO;
+iPH* : ARRAY nY OF BOOLEAN;
+
+	BEGIN
+	;
+	
+	END b0fV.

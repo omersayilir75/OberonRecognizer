@@ -1,0 +1,4 @@
+MODULE VYK;	VAR
+K7, q0, d*, a : INTEGER;hy : BOOLEAN;
+
+	END G.

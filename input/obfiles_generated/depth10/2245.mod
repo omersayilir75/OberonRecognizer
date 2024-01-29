@@ -1,0 +1,9 @@
+MODULE REGV;
+	PROCEDURE QS_;
+
+	END z
+		;TYPE
+Z* = ARRAY e() OF BOOLEAN;
+
+	BEGIN
+		END B.

@@ -1,0 +1,9 @@
+MODULE i6TB;	PROCEDURE x_ss;
+	END k
+;PROCEDURE U;
+	END Kzh
+;PROCEDURE Y1*;	END XJ
+;PROCEDURE OsS;
+
+	END q;
+	END r.

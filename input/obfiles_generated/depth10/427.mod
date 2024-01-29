@@ -1,0 +1,5 @@
+MODULE Id7iu;
+	
+	BEGIN
+	
+	END X.

@@ -1,0 +1,7 @@
+MODULE u;	PROCEDURE T;
+
+	BEGIN
+	
+	END FT5	;VAR
+fq*, m, p : BOOLEAN;
+	END U.

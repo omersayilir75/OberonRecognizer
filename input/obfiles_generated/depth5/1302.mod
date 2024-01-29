@@ -1,0 +1,6 @@
+MODULE r;	PROCEDURE WQ0*;
+
+	END Tg
+	;	BEGIN
+	;	
+	END S.

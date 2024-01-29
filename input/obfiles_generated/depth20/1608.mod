@@ -1,0 +1,4 @@
+MODULE V;
+		BEGIN
+	Cn
+	END K.

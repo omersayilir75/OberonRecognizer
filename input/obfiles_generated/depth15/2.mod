@@ -1,0 +1,6 @@
+MODULE kp8m;
+	TYPE
+Kjgx = gb2;
+_ESE = BOOLEAN;n1BI88Ru* = ARRAY ~a() OF ARRAY '' OF INTEGER;
+
+	END f.

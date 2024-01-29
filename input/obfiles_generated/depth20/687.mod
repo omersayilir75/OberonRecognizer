@@ -1,0 +1,4 @@
+MODULE VA;
+	
+	BEGIN	
+	END a.

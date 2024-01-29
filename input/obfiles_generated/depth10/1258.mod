@@ -1,0 +1,6 @@
+MODULE F;
+	PROCEDURE _A;	PROCEDURE qD;	END O;	CONST
+uQ9H* = X();
+
+	END ife4;
+	END j.

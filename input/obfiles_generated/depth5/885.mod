@@ -1,0 +1,10 @@
+MODULE v2;
+	PROCEDURE u*;
+
+	END N
+	;PROCEDURE X;
+
+	END lYGT		;PROCEDURE L_*;
+	END Gj0nw
+;
+	END rY.

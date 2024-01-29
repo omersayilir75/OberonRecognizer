@@ -1,0 +1,7 @@
+MODULE Xv;	PROCEDURE ux(VAR VlFU, vlzw : ARRAY '' OF BOOLEAN);
+	END O
+		;PROCEDURE jx*;
+
+	END P
+;	BEGIN
+		END uPj4.

@@ -1,0 +1,6 @@
+MODULE Ik;
+	VARf, f : ARRAY p('') OF INTEGER;g7 : INTEGER;
+QN9* : RECORD i3AIYw : ARRAY AFI OF BOOLEAN;
+mdw, sZ, IU, BS : ARRAY y5yWK() OF k;
+d, H, k, D7yC : INTEGER END;
+	END p.

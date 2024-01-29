@@ -1,0 +1,7 @@
+MODULE Td7;
+	PROCEDURE DcI;
+
+	END w		;PROCEDURE g*;
+
+	END YRU;
+	END _8if.

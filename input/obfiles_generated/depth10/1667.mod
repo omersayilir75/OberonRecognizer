@@ -1,0 +1,5 @@
+MODULE CMN;
+	PROCEDURE mtf(Jz, wZF : BOOLEAN)*;
+
+	END bd		;
+	END MN.

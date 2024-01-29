@@ -1,0 +1,3 @@
+MODULE dWQ;	VARYx*, i* : BOOLEAN;
+
+	END D.

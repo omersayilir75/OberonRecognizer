@@ -1,0 +1,11 @@
+MODULE S;
+	PROCEDURE P7*;
+
+	END l
+	;PROCEDURE f;
+
+	END x
+		;
+	BEGIN
+	
+	END h0.

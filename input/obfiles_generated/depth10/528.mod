@@ -1,0 +1,17 @@
+MODULE ZN;
+	PROCEDURE bBL*;
+	PROCEDURE SR*;
+
+	END n
+;
+	END k;TYPE
+m* = INTEGER;
+
+	BEGIN
+	IF -hQ() THEN
+	;
+	;	
+ELSE
+	vt
+	END
+	END v.

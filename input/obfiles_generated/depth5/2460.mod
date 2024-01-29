@@ -1,0 +1,4 @@
+MODULE s;
+	PROCEDURE Y;	END i
+	;
+	END H.

@@ -1,0 +1,6 @@
+MODULE A;
+	
+	BEGIN
+	;
+	
+	END L.

@@ -1,0 +1,19 @@
+MODULE ZhXd;	PROCEDURE oq*;	PROCEDURE nyOyJTA;
+
+	END r
+		;
+	END oC
+			;PROCEDURE C*;
+
+	BEGIN
+	WHILE q DO
+	_9 := Et
+END
+	END Q
+		;VARHmH2hyiI1gF* : ARRAY pbX((S()), O3C, ~Boi()) OF RECORD oI, B : INTEGER END;
+VAR
+Up*, I* : ARRAY -'' <= d OF RECORD T, J3g : a;
+xuRi : BOOLEAN;xi, oMKyCC : BOOLEAN END;
+XT, o : RECORD u, rV : ARRAY IZ4Ws() OF BOOLEAN END;v*, i* : ARRAY X() OF ARRAY '' + Z3 OF ARRAY W OF BOOLEAN;
+
+	END fw3l2.

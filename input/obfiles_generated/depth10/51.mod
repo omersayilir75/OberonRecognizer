@@ -1,0 +1,9 @@
+MODULE Q;
+	PROCEDURE Pft;
+	END P			;
+	BEGIN
+	WHILE '' DO
+	n2oK;
+	;	
+END
+	END R.

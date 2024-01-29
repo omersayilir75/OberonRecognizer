@@ -1,0 +1,5 @@
+MODULE GD_w;
+	
+	BEGIN
+	
+	END x.

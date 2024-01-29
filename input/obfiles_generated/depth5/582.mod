@@ -1,0 +1,3 @@
+MODULE W;	
+	BEGIN	
+	END Yk0k.

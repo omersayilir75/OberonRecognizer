@@ -1,0 +1,6 @@
+MODULE EQ;
+	PROCEDURE z*;	END c
+;PROCEDURE q;
+	END qV
+			;
+	END d.

@@ -1,0 +1,7 @@
+MODULE Ln;
+	PROCEDURE ZIJ;
+
+	END BR5SMW
+						;PROCEDURE lD*;	END xte
+				;
+	END X.

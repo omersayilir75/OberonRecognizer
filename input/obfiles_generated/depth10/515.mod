@@ -1,0 +1,2 @@
+MODULE A6;	
+	END Y.

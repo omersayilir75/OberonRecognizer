@@ -1,0 +1,8 @@
+MODULE Q;	PROCEDURE OVy(VAR iRM : INTEGER);
+
+	END G;PROCEDURE hH;	END t
+;
+	BEGIN
+	;
+	
+	END fKWx1.

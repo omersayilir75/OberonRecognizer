@@ -1,0 +1,1 @@
+MODULE F;		END t.

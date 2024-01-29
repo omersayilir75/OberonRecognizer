@@ -1,0 +1,4 @@
+MODULE P;	VAR
+TP2* : INTEGER;
+
+	END USE.

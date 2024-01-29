@@ -1,0 +1,2 @@
+MODULE X2;
+		END G.

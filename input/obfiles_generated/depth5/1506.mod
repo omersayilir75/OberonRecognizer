@@ -1,0 +1,5 @@
+MODULE hsA33;
+	PROCEDURE Z*;
+	END r
+	;
+	END EG.

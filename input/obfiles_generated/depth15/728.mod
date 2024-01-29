@@ -1,0 +1,4 @@
+MODULE y;
+	
+	BEGIN	
+	END C.

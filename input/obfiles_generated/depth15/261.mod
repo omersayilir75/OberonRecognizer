@@ -1,0 +1,5 @@
+MODULE PsW;	PROCEDURE d*;
+
+	END M
+		;
+	END E.

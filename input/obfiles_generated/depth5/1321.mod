@@ -1,0 +1,6 @@
+MODULE G;	PROCEDURE V*;
+
+	END N
+;PROCEDURE b;	END M
+		;
+	END B.

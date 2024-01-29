@@ -1,0 +1,9 @@
+MODULE XC;
+	VAR
+ST0i7, E : QW;
+Wy : RECORD l, Ry : V END;
+TYPE
+qszT = di0;
+h* = ARRAY gg OF ARRAY '' OF ARRAY w OF INTEGER;
+
+	END q.

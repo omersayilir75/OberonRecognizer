@@ -1,0 +1,8 @@
+MODULE El;
+	PROCEDURE v;
+	END J
+	;PROCEDURE _P;
+
+	END ym8
+;PROCEDURE p;	END F
+			;	END o.

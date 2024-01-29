@@ -1,0 +1,7 @@
+MODULE s;
+	VAR
+k : ARRAY Y() OF INTEGER;
+v0* : INTEGER;
+VAR
+UKnjB_D, rV : ARRAY g OF BOOLEAN;
+	END O.

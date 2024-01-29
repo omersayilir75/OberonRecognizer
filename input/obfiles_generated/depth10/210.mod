@@ -1,0 +1,9 @@
+MODULE A;	CONST
+M* = J2lKQu() OR IT;
+P3 = '';
+nH = ~c;PROCEDURE iB6H;	BEGIN	REPEAT
+	
+	UNTIL OgZ_();		END p	;PROCEDURE sK_B;
+
+	END H
+;	END E.

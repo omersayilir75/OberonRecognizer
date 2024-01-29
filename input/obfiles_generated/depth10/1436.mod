@@ -1,0 +1,4 @@
+MODULE T;
+	TYPE
+wt = ARRAY j OF INTEGER;
+	END y.

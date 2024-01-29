@@ -1,0 +1,5 @@
+MODULE ZwI;	PROCEDURE P*;
+
+	END l
+		;
+	END w.

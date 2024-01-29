@@ -1,0 +1,7 @@
+MODULE N;
+	PROCEDURE ZE5RYZ;
+
+	END e;PROCEDURE U;
+	END W2z
+			;	BEGIN	
+	END D.

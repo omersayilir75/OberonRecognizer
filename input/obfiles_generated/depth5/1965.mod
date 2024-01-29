@@ -1,0 +1,5 @@
+MODULE V;
+	PROCEDURE R;
+	END m
+;
+	END g.

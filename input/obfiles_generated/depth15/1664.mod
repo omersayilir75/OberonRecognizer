@@ -1,0 +1,8 @@
+MODULE iG;
+	VAR
+a* : ARRAY -dq() OF ARRAY ('') OF ARRAY '' OF INTEGER;
+h : BOOLEAN;
+
+	BEGIN
+	
+	END gu.

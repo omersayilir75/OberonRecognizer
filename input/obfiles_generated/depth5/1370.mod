@@ -1,0 +1,13 @@
+MODULE f;
+	PROCEDURE VRY;
+	END jB
+;PROCEDURE a;
+
+	END urN
+	;PROCEDURE te;
+
+	END W		;
+	BEGIN
+	;
+	
+	END e.

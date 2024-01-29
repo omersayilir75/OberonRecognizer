@@ -1,0 +1,5 @@
+MODULE _;
+	TYPE
+MXCZ = RECORD l : INTEGER END;
+
+	END lb.

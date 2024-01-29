@@ -1,0 +1,15 @@
+MODULE pr;	PROCEDURE pb*;
+
+	END fn
+;PROCEDURE g*;
+
+	END oLUJ
+	;PROCEDURE N*;
+
+	END p
+	;PROCEDURE n*;
+	END G
+	;
+	BEGIN
+	
+	END S.

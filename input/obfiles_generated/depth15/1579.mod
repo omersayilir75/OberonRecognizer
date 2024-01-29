@@ -1,0 +1,7 @@
+MODULE Qc;
+	PROCEDURE XSyEv(B : Rw)*;
+
+	END X
+;
+	BEGIN	WBxoSG
+	END B.

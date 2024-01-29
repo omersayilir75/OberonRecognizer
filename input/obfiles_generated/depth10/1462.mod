@@ -1,0 +1,15 @@
+MODULE lPCo2;	PROCEDURE X*;
+
+	END ovt_
+	;TYPE
+m33* = ARRAY a() OF BOOLEAN;TYPE
+r = INTEGER;
+y* = INTEGER;
+VAR
+XOaO, g*, Ph* : BOOLEAN;
+PROCEDURE qb*;	VAR
+bUi*, In* : BOOLEAN;
+e_*, k* : BOOLEAN;	PROCEDURE Xdx(VAR Ee, Fdq : INTEGER);
+	END cu9Lk1
+;	END l8;
+	END V2.

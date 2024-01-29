@@ -1,0 +1,3 @@
+MODULE z;
+	VARjpFaeTx, Q*, f : ARRAY F OF INTEGER;
+	BEGIN		END Y.

@@ -1,0 +1,3 @@
+MODULE m;	PROCEDURE V;
+	END T
+	;	END Bh.

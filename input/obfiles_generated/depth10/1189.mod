@@ -1,0 +1,5 @@
+MODULE h;
+	CONST
+G91M = Vg4b();
+
+	END X.

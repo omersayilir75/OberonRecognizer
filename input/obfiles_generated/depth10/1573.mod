@@ -1,0 +1,10 @@
+MODULE X44cR;
+	
+	BEGIN
+	IF (b) THEN
+	MP	END;
+	WHILE (C) DO
+	KU;
+	
+END
+	END _Ua.

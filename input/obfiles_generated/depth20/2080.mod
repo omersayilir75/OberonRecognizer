@@ -1,0 +1,2 @@
+MODULE P;	
+	END FI2.

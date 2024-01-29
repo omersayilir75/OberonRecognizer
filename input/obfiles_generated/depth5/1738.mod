@@ -1,0 +1,10 @@
+MODULE t9;
+	PROCEDURE t;
+
+	END DJ		;PROCEDURE F;	END Xu
+			;PROCEDURE JDu;
+
+	END m
+		;	BEGIN
+	
+	END gr.

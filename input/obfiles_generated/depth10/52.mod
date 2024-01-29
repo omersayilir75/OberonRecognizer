@@ -1,0 +1,5 @@
+MODULE v;
+	VAR
+TX, x23wX*, m : INTEGER;
+
+	END M0.

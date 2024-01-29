@@ -1,0 +1,2 @@
+MODULE kGsz;	
+	END l.

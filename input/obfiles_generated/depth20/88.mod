@@ -1,0 +1,5 @@
+MODULE _;
+	TYPEjh = ARRAY ~'' OF INTEGER;
+Rs0J = j;
+H* = RECORD Aj66 : INTEGER END;
+	END K.

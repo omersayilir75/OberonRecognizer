@@ -1,0 +1,12 @@
+MODULE Ua6;
+	PROCEDURE yz;
+
+	END YZjLKbL
+		;PROCEDURE X*;
+	BEGIN
+	REPEAT
+	
+	UNTIL H;
+	vt := G;	WHILE n() DO
+	END;	
+	END Q;	END gt.

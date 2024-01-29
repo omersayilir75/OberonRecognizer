@@ -1,0 +1,4 @@
+MODULE w7YIsy_R;
+	PROCEDURE al6(VAR T, G : INTEGER);
+	END _7		;
+	END i.

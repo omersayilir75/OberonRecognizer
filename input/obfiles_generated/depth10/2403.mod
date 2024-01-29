@@ -1,0 +1,6 @@
+MODULE g;
+	TYPE
+r = BOOLEAN;k* = y;wawn* = ARRAY y() OF BOOLEAN;
+_CA = ARRAY Kk() OF BOOLEAN;
+y08V = BOOLEAN;
+	END Y.

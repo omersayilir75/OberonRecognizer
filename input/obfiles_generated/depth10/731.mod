@@ -1,0 +1,5 @@
+MODULE S0_;
+	
+	BEGIN
+	
+	END o.

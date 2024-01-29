@@ -1,0 +1,19 @@
+MODULE Qe;
+	CONSTo = ~_6;l* = H();
+VAR
+Y*, X* : M;
+PROCEDURE FCQKTa(l : ARRAY E OF INTEGER)*;
+
+	END ys
+			;PROCEDURE I(VAR GEeu : ARRAY w OF BOOLEAN ; cE : INTEGER);
+
+	END s
+;PROCEDURE L(T : ARRAY '' OF BOOLEAN);
+
+	END p
+			;
+	BEGIN
+	REPEAT
+	
+	UNTIL ('')
+	END B.

@@ -1,0 +1,5 @@
+MODULE C;	PROCEDURE i*;
+	END T
+;
+	BEGIN	
+	END D.

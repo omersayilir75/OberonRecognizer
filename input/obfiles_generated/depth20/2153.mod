@@ -1,0 +1,4 @@
+MODULE hMy;
+		BEGIN
+	R[87507] := C()
+	END pD5B.

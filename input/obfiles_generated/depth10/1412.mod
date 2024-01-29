@@ -1,0 +1,6 @@
+MODULE gM;
+	PROCEDURE K7(am : ARRAY Y() OF BOOLEAN);
+
+	END Yb
+;
+	END X.

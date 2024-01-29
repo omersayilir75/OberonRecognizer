@@ -1,0 +1,5 @@
+MODULE Yn5;
+	
+	BEGIN
+	WHILE M() DO	
+END	END C.

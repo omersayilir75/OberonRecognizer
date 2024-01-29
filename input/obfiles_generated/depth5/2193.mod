@@ -1,0 +1,4 @@
+MODULE Yu;
+	PROCEDURE WP*;
+
+	END l			;	END P.

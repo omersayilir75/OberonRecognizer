@@ -1,0 +1,7 @@
+MODULE l7D;
+	
+	BEGIN
+	WHILE g DO
+	;
+	
+END	END Cm.

@@ -1,0 +1,12 @@
+MODULE hTH6;	PROCEDURE y7(VAR xUfm, j8D, RU, d : BOOLEAN ; A : ARRAY T7() OF BOOLEAN ; vHKq, lL7, sC2Mv : ARRAY '1''' OF INTEGER)*;
+	VAR
+m5 : INTEGER;
+k* : INTEGER;G*, k : BOOLEAN;
+g : BOOLEAN;
+xN*, lMiw*, RAjY* : BOOLEAN;
+	END Ez8
+		;	BEGIN	IF N() THEN
+	z5;
+	
+	END
+	END NpcH1Q.

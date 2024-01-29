@@ -1,0 +1,12 @@
+MODULE QR;
+	PROCEDURE h*;
+	END m
+;PROCEDURE CeC;
+
+	END v	;PROCEDURE m9J;
+	END P
+;PROCEDURE B9*;
+	END ba		;
+	BEGIN	;
+	
+	END g.

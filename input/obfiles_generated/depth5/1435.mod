@@ -1,0 +1,8 @@
+MODULE W;
+	PROCEDURE r;	END D
+;PROCEDURE k*;
+	END L
+;PROCEDURE E*;
+	END f
+;
+	END BRn.

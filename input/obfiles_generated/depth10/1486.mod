@@ -1,0 +1,8 @@
+MODULE J;
+	VARA* : ARRAY W OF BOOLEAN;VAR
+b47q : INTEGER;PROCEDURE IK*;	PROCEDURE E(VAR TD, A : INTEGER ; U, EtY, nD : INTEGER ; i, D, n2 : ei8k ; J, KsSd : S ; R, H, U, LL : BOOLEAN);	END W
+;
+	END E	;	BEGIN
+	REPEAT
+	
+	UNTIL q()	END O.

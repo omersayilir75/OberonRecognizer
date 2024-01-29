@@ -1,0 +1,5 @@
+MODULE oX;
+	PROCEDURE u;
+	END Q
+;
+	END _1.

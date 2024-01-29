@@ -1,0 +1,8 @@
+MODULE j;	PROCEDURE z;	END zJ6
+;PROCEDURE bs;	END Xs		;PROCEDURE PP4;
+	END C
+			;PROCEDURE K2*;
+
+	END b8
+		;
+	BEGIN		END dh.

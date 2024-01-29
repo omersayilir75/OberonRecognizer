@@ -1,0 +1,5 @@
+MODULE F;
+		BEGIN
+	WHILE '' * u() DO
+	LI
+END	END vCI0w.

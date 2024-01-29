@@ -1,0 +1,15 @@
+MODULE i;
+	PROCEDURE yHj(M3 : RECORD C0Y5F, G, rBV, A : ARRAY Zh OF BOOLEAN END)*;
+	CONST
+W = 8;
+	PROCEDURE Zp*;
+	END D
+;
+	BEGIN
+	REPEAT
+	QrB
+	UNTIL -'p' < '}'''	END I
+;
+	BEGIN
+	d := (Dj)
+	END R.

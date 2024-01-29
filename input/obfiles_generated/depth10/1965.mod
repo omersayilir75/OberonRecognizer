@@ -1,0 +1,6 @@
+MODULE R;
+	TYPE
+Z* = BOOLEAN;
+TYPEs = BOOLEAN;
+
+	END x.

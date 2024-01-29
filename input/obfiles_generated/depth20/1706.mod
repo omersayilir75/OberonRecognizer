@@ -1,0 +1,6 @@
+MODULE N6W;	PROCEDURE h*;
+	TYPE
+hXM* = INTEGER;
+	BEGIN	Z_
+	END o	;
+	END ekZ.

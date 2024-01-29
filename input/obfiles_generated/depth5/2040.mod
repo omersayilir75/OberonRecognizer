@@ -1,0 +1,7 @@
+MODULE bs;
+	PROCEDURE h2KD4*;
+
+	END rHw1JqG
+;
+	BEGIN
+		END _J.

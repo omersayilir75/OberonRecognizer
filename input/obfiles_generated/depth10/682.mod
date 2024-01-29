@@ -1,0 +1,12 @@
+MODULE H;
+	
+	BEGIN
+	REPEAT
+	;
+	yj;
+	VK
+	UNTIL -'N''';
+	REPEAT
+	
+	UNTIL IyY()
+	END UX0.

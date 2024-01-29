@@ -1,0 +1,10 @@
+MODULE muPA;
+	VAR
+Z, q*, JL* : RECORD g9, LI, h : ARRAY ~278 OF ARRAY '' OF RECORD us : INTEGER;
+qCog, W : INTEGER;
+wt : INTEGER END END;
+PROCEDURE U*;
+
+	END y
+	;
+	END e.

@@ -1,0 +1,6 @@
+MODULE H;
+	PROCEDURE H*;
+
+	END w3
+	;
+	END o.

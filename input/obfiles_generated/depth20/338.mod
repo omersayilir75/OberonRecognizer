@@ -1,0 +1,4 @@
+MODULE GNv;
+	TYPEl* = ARRAY (s(451, BfT.sd[ybAU0])) OF BOOLEAN;
+
+	END B3.

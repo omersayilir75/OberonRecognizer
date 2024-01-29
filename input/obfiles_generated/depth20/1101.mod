@@ -1,0 +1,8 @@
+MODULE P;
+	PROCEDURE B7(H : ARRAY N[O8w] OF RECORD j, e, s4, E, He, FuD, xm, L : RECORD q, h : BOOLEAN END END)*;
+
+	END Ijz
+;
+	BEGIN
+	
+	END lG.

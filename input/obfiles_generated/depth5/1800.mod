@@ -1,0 +1,3 @@
+MODULE HymN;
+	PROCEDURE k;
+	END F		;	END M.

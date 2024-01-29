@@ -1,0 +1,15 @@
+MODULE FV;
+	
+	BEGIN	IF un * j THEN
+	;
+	r
+ELSIF '' * '' THEN
+	ELSIF -uoN3() THEN
+	XPd2I
+ELSIF ~'}' THEN
+	xAs9
+ELSIF MNt  MOD  DaID() THEN
+	DR	END;	WHILE KK() DO
+	c
+END
+	END MP.

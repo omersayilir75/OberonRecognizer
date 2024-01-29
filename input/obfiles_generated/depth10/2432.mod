@@ -1,0 +1,9 @@
+MODULE Vi;
+	
+	BEGIN
+	IF (B()) THEN
+	u
+ELSE
+	r
+	END
+	END J.

@@ -1,0 +1,8 @@
+MODULE c;	PROCEDURE Ma;
+	PROCEDURE Fe*;
+
+	END c9V0w
+;	END N5;TYPE
+CXG8* = ARRAY 6 OR owTXWV('`''''''''') OF INTEGER;
+
+	END Y.

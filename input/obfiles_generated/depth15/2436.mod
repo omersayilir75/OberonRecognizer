@@ -1,0 +1,5 @@
+MODULE c;
+	
+	BEGIN
+	M
+	END p.

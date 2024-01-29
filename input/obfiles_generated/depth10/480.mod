@@ -1,0 +1,5 @@
+MODULE xAU;
+	PROCEDURE C(VAR UO3oj5X : a8P ; VAR w, Y8 : ARRAY j() OF qqU)*;
+
+	END P	;
+	END D.

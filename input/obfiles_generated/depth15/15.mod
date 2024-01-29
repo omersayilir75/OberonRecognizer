@@ -1,0 +1,3 @@
+MODULE Q;
+	TYPEH* = ARRAY FO.Jvd.Jf[N()][c()] OF INTEGER;
+	END BM.

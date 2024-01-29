@@ -1,0 +1,5 @@
+MODULE C;
+	PROCEDURE u;
+
+	END G;	BEGIN
+		END gEd.

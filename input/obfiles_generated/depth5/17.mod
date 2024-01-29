@@ -1,0 +1,11 @@
+MODULE L;
+	PROCEDURE M5;
+
+	END D
+;PROCEDURE w*;
+
+	END p
+;PROCEDURE FI;
+	END lu
+;
+	END OC.

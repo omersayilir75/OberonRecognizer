@@ -1,0 +1,20 @@
+MODULE KzW;
+	PROCEDURE m(VAR Gd, Xh, u : RECORD i, BX91l, df : ARRAY Be4 OF g;
+o : ARRAY G() OF Bq END ; VAR mpEJH7, E : RECORD Za : ARRAY kO() OF BOOLEAN END ; N, TVj6d : RECORD A, VO, pqMTT, s : ARRAY E OF BOOLEAN;
+U : Z8;
+FI0U4 : ARRAY A() OF BOOLEAN;F, y, wRFv, zd : ARRAY up OF A END ; Z6, m : BOOLEAN)*;
+	PROCEDURE Q(QC, Xy : RECORD aka : ARRAY c() OF BOOLEAN;
+p : ARRAY '''''hl=' OF BOOLEAN END)*;	END DH;	BEGIN	T(gZ.k.TA.Rl);	w := (cOE);
+	jR.X := _7('' * '-='' ''')
+	END z;PROCEDURE U(VAR Dr : ARRAY x.V & 1 OF ARRAY NyC - v OF ARRAY w OF BOOLEAN)*;
+
+	END Q
+		;TYPE
+S = RECORD IG : ARRAY H OF yPnGxqVs2 END;
+Zrl* = BOOLEAN;
+
+	BEGIN	REPEAT	WHILE ~wSw DO
+	WHILE l() DO
+	DGHQ33H8y
+ENDEND
+	UNTIL ACYv0()	END J.

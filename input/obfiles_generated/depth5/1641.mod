@@ -1,0 +1,9 @@
+MODULE g;
+	PROCEDURE A;
+
+	END u
+		;PROCEDURE P;
+
+	END vs
+;
+	END Kcgf.

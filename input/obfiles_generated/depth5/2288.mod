@@ -1,0 +1,8 @@
+MODULE d;
+	PROCEDURE KQ6*;
+
+	END r;PROCEDURE w*;
+
+	END JQeQ
+		;
+	END YgWDC.

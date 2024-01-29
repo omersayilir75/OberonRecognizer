@@ -1,0 +1,8 @@
+MODULE W;
+	TYPE
+X8 = INTEGER;
+ru = INTEGER;
+A* = ARRAY '|' OF mui;VAR
+ay* : ARRAY _6vM5c2() OF BOOLEAN;
+
+	END dB.

@@ -1,0 +1,4 @@
+MODULE O;	PROCEDURE N*;
+
+	END e;
+	END qG.

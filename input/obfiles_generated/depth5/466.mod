@@ -1,0 +1,7 @@
+MODULE yCkZ;
+	PROCEDURE x7*;
+
+	END d_N
+;
+	BEGIN	
+	END HP.

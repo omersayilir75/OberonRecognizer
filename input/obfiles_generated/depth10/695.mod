@@ -1,0 +1,4 @@
+MODULE Y5;	PROCEDURE QJ*;
+	VARPx* : BOOLEAN;
+	END d	;
+	END J.

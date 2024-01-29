@@ -1,0 +1,6 @@
+MODULE k;
+	PROCEDURE u;	END B
+;
+	BEGIN
+	
+	END EH.

@@ -1,0 +1,9 @@
+MODULE apKP9;	PROCEDURE I*;
+
+	BEGIN
+	WHILE -(4) + '' DO
+	
+END;
+	VvD
+	END BD;
+	END KKo.

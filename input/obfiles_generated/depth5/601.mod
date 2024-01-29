@@ -1,0 +1,9 @@
+MODULE T;
+	PROCEDURE P;
+
+	END J
+	;PROCEDURE D;
+
+	END F
+			;
+	END pm8.

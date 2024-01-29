@@ -1,0 +1,37 @@
+MODULE w;
+	PROCEDURE c(VAR n : BOOLEAN);
+	END rP
+;PROCEDURE n*;
+	PROCEDURE A*;
+	PROCEDURE X(VAR J, jEpMXK : INTEGER ; VAR QlIJ_ : INTEGER ; N, O, F4i2 : INTEGER ; c, iez, ZRb6gbdi4 : INTEGER ; VAR zU, HOGJD : INTEGER ; XI, i : INTEGER)*;
+	PROCEDURE kY2Tj;
+
+	BEGIN	;
+	;
+		END NPw
+	;	END Z	;	CONST
+ra = v();	PROCEDURE Pf;	PROCEDURE loR4eDQsVc*;
+	PROCEDURE n*;
+	PROCEDURE p;
+
+	END Z;
+	END g
+					;	PROCEDURE W*;
+
+	END kG
+	;
+	END W;	PROCEDURE c*;
+
+	END CX
+;	BEGIN	
+	END D9viw
+;	BEGIN
+	y
+	END cbE4lk;
+	END S
+	;
+	BEGIN
+	GX.l.y5 := '' OR G();	REPEAT
+	
+	UNTIL ''
+	END L0p.

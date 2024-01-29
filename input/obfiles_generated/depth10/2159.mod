@@ -1,0 +1,8 @@
+MODULE US;
+	VAR
+V*, O*, y4S* : INTEGER;
+
+	BEGIN
+	WHILE '''' DO
+	A
+END	END Z4.

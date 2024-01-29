@@ -1,0 +1,7 @@
+MODULE g;
+	
+	BEGIN
+	REPEAT
+	Esh
+	UNTIL ''''''
+	END HZPy.

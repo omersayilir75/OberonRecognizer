@@ -1,0 +1,20 @@
+MODULE oiH;	
+	BEGIN
+	WHILE tYO() DO
+	WHILE M1.Vb.t.df DO
+	IF z7FVe() THEN
+	Zyo
+ELSE	Y;	
+	END;
+	IF Q THEN
+	aV
+ELSIF '' THEN
+	a;
+	EELSIF '' THEN
+	
+ELSIF e7() THEN
+	Y
+	END;
+	
+ENDEND
+	END JC.

@@ -1,0 +1,23 @@
+MODULE f;
+	PROCEDURE d*;	PROCEDURE W3uF9J;
+	CONST
+R = E();Goz = O();
+	BEGIN
+		END V
+;	PROCEDURE yUb;
+
+	BEGIN
+	
+	END iL
+	;
+	BEGIN
+	REPEAT		UNTIL S
+	END a
+;
+	BEGIN
+	REPEAT
+	tf2;
+	XSw
+	UNTIL FF  MOD  KA;	REPEAT	
+	UNTIL JH8()
+	END D9.

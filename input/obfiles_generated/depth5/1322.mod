@@ -1,0 +1,8 @@
+MODULE hT3;
+	PROCEDURE BQkg*;
+
+	END kM
+		;
+	BEGIN
+	
+	END eAd.

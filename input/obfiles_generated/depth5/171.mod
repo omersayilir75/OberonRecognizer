@@ -1,0 +1,4 @@
+MODULE R;	
+	BEGIN
+	
+	END o.

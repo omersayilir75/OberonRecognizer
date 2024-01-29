@@ -1,0 +1,12 @@
+MODULE ki;
+	PROCEDURE A*;	END s
+;PROCEDURE H;
+
+	END W
+;PROCEDURE H;
+
+	END p
+		;PROCEDURE _;
+
+	END j_	;	BEGIN	
+	END L.

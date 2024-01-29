@@ -1,0 +1,13 @@
+MODULE GJ;
+	
+	BEGIN
+	IF (80696) THEN
+	REPEAT
+	sx.vgW.DB4Mi.O.k := p
+	UNTIL -'='  DIV  R()
+ELSIF 96 THEN
+	
+ELSE
+	
+	END
+	END D0.

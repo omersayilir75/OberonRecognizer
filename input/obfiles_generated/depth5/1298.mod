@@ -1,0 +1,7 @@
+MODULE C;
+	PROCEDURE w;
+
+	END K
+	;PROCEDURE x;
+	END yo
+;	END v.

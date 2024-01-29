@@ -1,0 +1,5 @@
+MODULE F;
+	
+	BEGIN
+	WHILE Ym[~R6(I()  MOD  DG())].h4 DO
+	GEND	END q.

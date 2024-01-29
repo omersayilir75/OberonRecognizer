@@ -1,0 +1,10 @@
+MODULE HJ;
+	PROCEDURE lQ0*;
+	END Evt
+	;TYPE
+p7* = F;
+CUf* = ARRAY Yi() OF SC;
+b = ARRAY CA OF BOOLEAN;
+
+	BEGIN	Pp8m := X
+	END T.

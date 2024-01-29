@@ -1,0 +1,16 @@
+MODULE V;
+	PROCEDURE t1d0vB2U;
+	END vD
+		;PROCEDURE _TVP;
+
+	END UpGH
+;PROCEDURE TB*;
+
+	END N
+			;PROCEDURE hi;
+	END L
+		;
+	BEGIN
+	;
+	;
+		END J.

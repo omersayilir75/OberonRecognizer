@@ -1,0 +1,4 @@
+MODULE K;	
+	BEGIN
+	k := --88  DIV  27483
+	END u1.

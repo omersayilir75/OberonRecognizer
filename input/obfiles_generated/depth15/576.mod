@@ -1,0 +1,10 @@
+MODULE C;	PROCEDURE qe(VAR n6, Np1 : ARRAY FUZJY OF INTEGER ; fp, ly, LzP2 : RECORD w : ARRAY e() OF GCxH;
+zo, rIxuJ : BOOLEAN END)*;
+	PROCEDURE eDk;
+	END hVtn
+		;	VAR
+N, gB5_Zc* : RECORD LV : ARRAY '!''[Q' OF BOOLEAN END;
+	TYPE
+A* = ARRAY '' OF U;
+	END E_
+;	END eu.

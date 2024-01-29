@@ -1,0 +1,12 @@
+MODULE XuTxErs;
+	PROCEDURE NwB(y, Oh, hy : BOOLEAN ; k : ARRAY yz() OF INTEGER)*;
+
+	BEGIN
+	WHILE MJ() DO
+	
+END
+	END s
+;CONST
+s* = AX();
+
+	END C.

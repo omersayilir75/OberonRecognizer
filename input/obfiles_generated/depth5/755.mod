@@ -1,0 +1,9 @@
+MODULE Gal;
+	PROCEDURE Kt2c;
+
+	END AJ
+;
+	BEGIN
+	;
+	
+	END H.

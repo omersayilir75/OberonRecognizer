@@ -1,0 +1,6 @@
+MODULE I;
+	PROCEDURE kfP;
+
+	END PSnq7
+;
+	BEGIN		END cN.

@@ -1,0 +1,7 @@
+MODULE H5;
+	
+	BEGIN
+	REPEAT
+	aUN
+	UNTIL '+''k'
+	END x.

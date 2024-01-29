@@ -1,0 +1,15 @@
+MODULE Jad5;
+	PROCEDURE P;
+	TYPE
+E = INTEGER;Q* = ARRAY J() OF RECORD z, b, u : RECORD M8y, I : TUMR END;
+V, jC9 : INTEGER;
+mdB : ARRAY '9' + U() OF ARRAY Zphwl OF lE3R3d END;
+	PROCEDURE rN(VAR e : BOOLEAN ; VAR G : ARRAY '' OF RECORD O, lo : ARRAY w OR '' OF BOOLEAN;
+B : RECORD E : BOOLEAN;
+S : U;l3, Z9 : INTEGER;
+RZjl : MXI END END ; CC : RECORD M : INTEGER;
+i_10HmNQcEKc : ARRAY (uXwQKFwh()  MOD  GY_e) OF RECORD n : ij END END ; VAR OZsWR, hlu9q2, z : BOOLEAN ; w, vb : RECORD MV : INTEGER END ; cP, Wv : ARRAY LCf() OF ARRAY -3 OF RECORD PE : ARRAY 'yV''' OF BOOLEAN END ; uRfu : ARRAY (('' = 'X') & (U - L())) OF BOOLEAN ; JL : ARRAY (W() * ('''''') # qZqcg(L, Kk1)) OF RECORD pI : Z END ; k : ARRAY x.uAS.q.T6.C8  MOD  78 # O(~'A') OF INTEGER);
+	END E
+				;
+	END PA
+;	END c.

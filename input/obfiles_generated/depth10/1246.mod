@@ -1,0 +1,4 @@
+MODULE B;
+	PROCEDURE zkP(VAR D, T : ARRAY '''MZ' OF INTEGER ; VAR kT : S_t);
+	END F2					;
+	END Rj.

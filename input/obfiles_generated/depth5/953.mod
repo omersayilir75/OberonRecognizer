@@ -1,0 +1,7 @@
+MODULE dhz;
+	PROCEDURE O0*;
+	END BI
+	;
+	BEGIN
+	
+	END O_D4P.

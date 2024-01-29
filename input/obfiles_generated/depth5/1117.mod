@@ -1,0 +1,10 @@
+MODULE G;	PROCEDURE d*;
+
+	END ZWdy;PROCEDURE Pw4bY;
+
+	END P
+;
+	BEGIN	;
+	;
+	
+	END JN.

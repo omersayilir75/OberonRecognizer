@@ -1,0 +1,10 @@
+MODULE y;
+	VAR
+bQk* : BOOLEAN;
+
+	BEGIN
+	WHILE '' OR Kx DO
+	kA;
+	
+END
+	END QQVu11Y5O.

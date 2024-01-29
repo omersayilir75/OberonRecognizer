@@ -1,0 +1,6 @@
+MODULE Q;	PROCEDURE Y*;
+	END g84
+;
+	BEGIN
+	
+	END E.

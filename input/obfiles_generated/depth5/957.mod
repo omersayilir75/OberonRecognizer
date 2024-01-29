@@ -1,0 +1,8 @@
+MODULE L;
+	PROCEDURE K;
+
+	END NOa
+;PROCEDURE Kw8;
+	END Mqdssg
+;
+	END C.

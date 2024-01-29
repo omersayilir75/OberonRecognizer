@@ -1,0 +1,10 @@
+MODULE MkxOE;
+	VAR
+F* : ARRAY -O() # x OF RECORD W : ARRAY (~Q()) OF ARRAY ('7') OF V;
+y30, A, A4B, U : RECORD x_, Vsi_, O, q : ARRAY KU() OF INTEGER END END;
+PROCEDURE QlL;
+	END ul
+		;CONST
+o = aWJT;
+
+	END P.

@@ -1,0 +1,8 @@
+MODULE t;
+	PROCEDURE v*;	END GT
+;PROCEDURE _*;
+
+	END SKR	;
+	BEGIN
+	
+	END x.

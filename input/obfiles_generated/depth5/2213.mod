@@ -1,0 +1,9 @@
+MODULE ZC;
+	PROCEDURE g*;
+
+	END OK
+;
+	BEGIN
+	;
+	
+	END C.

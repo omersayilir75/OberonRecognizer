@@ -1,0 +1,4 @@
+MODULE Z;	TYPE
+pz4* = ARRAY i3() OF B;R7 = ARRAY '' OF C2;
+
+	END sVQ.

@@ -1,0 +1,5 @@
+MODULE lG;
+	
+	BEGIN
+	
+	END tXd.

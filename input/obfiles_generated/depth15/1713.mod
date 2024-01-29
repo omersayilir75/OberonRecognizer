@@ -1,0 +1,5 @@
+MODULE Trj;
+	PROCEDURE X;
+
+	END K;
+	END s.

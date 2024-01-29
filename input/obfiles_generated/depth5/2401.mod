@@ -1,0 +1,14 @@
+MODULE v5h;
+	PROCEDURE X42*;
+
+	END Zu
+	;PROCEDURE zpvao;
+
+	END _0
+	;PROCEDURE ou*;
+
+	END B	;PROCEDURE jL*;
+
+	END t
+;
+	END k.

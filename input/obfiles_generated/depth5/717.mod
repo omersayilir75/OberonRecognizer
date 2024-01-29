@@ -1,0 +1,6 @@
+MODULE ye;
+	PROCEDURE B;
+	END A
+		;
+	BEGIN	
+	END QjoW.

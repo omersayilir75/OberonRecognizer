@@ -1,0 +1,5 @@
+MODULE D;
+	
+	BEGIN
+	f
+	END O.

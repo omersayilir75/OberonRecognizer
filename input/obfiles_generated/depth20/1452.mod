@@ -1,0 +1,9 @@
+MODULE G;
+	PROCEDURE _*;
+	CONST
+Y7* = Q;
+
+	END C
+;TYPE
+R = BOOLEAN;
+	END M.

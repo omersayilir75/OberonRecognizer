@@ -1,0 +1,7 @@
+MODULE C;
+	PROCEDURE y5U*;
+
+	END n
+;
+	BEGIN	
+	END gUNy.

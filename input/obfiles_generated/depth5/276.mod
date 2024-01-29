@@ -1,0 +1,1 @@
+MODULE rA;		END kcOA.

@@ -1,0 +1,7 @@
+MODULE _8;
+	
+	BEGIN
+	;
+	REPEAT
+	i	UNTIL p()
+	END J.

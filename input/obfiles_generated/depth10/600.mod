@@ -1,0 +1,32 @@
+MODULE M;
+	VARc* : ARRAY D5 OF BOOLEAN;
+d, f* : ARRAY 'C' OF INTEGER;
+J, NS : ARRAY '''' OF BOOLEAN;
+PROCEDURE c(u, b, wTfnr4, q, ZBx0_y : BOOLEAN ; d : BOOLEAN ; I, Tn, NA : ARRAY X OF H);
+	PROCEDURE M(VAR F : BOOLEAN ; r : INTEGER ; J, S : BOOLEAN ; wHEm1N, Iv, F, g, X, C, N, WQ, Y, HYFt, h, Hw : BOOLEAN);
+
+	BEGIN
+	WV;
+	uyY;
+	
+	END oa
+;	PROCEDURE U*;
+	CONST
+h49 = ibq5h6U();
+M* = v9oV;
+	VAR
+xU : BOOLEAN;
+
+	END LE
+		;	VAR
+f3 : BOOLEAN;
+MHU1zF*, Bc1* : INTEGER;
+
+	END h
+	;TYPEX* = ARRAY '''' OF FVH;
+P = ARRAY oq OF F;V = ARRAY Yr OF D;
+VAR
+sGIM : INTEGER;VAR
+wR* : ARRAY TZWfWI OF W;
+s8* : BOOLEAN;
+	BEGIN		END JO45v.

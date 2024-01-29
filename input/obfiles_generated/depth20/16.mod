@@ -1,0 +1,10 @@
+MODULE S;
+	
+	BEGIN
+	WHILE 705 DO
+	_
+END;
+	WHILE '' DO
+	L
+END
+	END l_.

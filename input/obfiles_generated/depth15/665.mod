@@ -1,0 +1,3 @@
+MODULE S;
+	
+	BEGIN		END z6.

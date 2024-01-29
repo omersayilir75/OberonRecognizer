@@ -1,0 +1,12 @@
+MODULE Z;
+	TYPEm = RECORD G : ARRAY '' OF INTEGER;
+W, J, V, G : rG;
+R, oVt, hi : BOOLEAN;
+P : ARRAY yA OF INTEGER END;
+pJ* = RECORD yJq, R, UV, PR5dX, sdG : ARRAY v OF INTEGER;N, b, FP : ARRAY l OF INTEGER END;
+o = INTEGER;
+g* = RECORD W, G, f : BOOLEAN;
+mb, E1B, F : BOOLEAN;
+Z, t : ARRAY Y OF c END;
+CONST
+V = ':';Zr3l = 5;	END I.

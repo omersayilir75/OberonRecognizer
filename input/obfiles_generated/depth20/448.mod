@@ -1,0 +1,3 @@
+MODULE A;
+	
+	END T.

@@ -1,0 +1,6 @@
+MODULE L;
+	PROCEDURE H*;
+	END PrBv6	;PROCEDURE k;
+
+	END kt7
+;	END b.

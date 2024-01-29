@@ -1,0 +1,5 @@
+MODULE D;
+	PROCEDURE dD*;
+	END I
+;	BEGIN	;	;
+		END M.

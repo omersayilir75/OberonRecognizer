@@ -1,0 +1,8 @@
+MODULE J;
+	PROCEDURE oKgfsHn*;	VARMDF*, v : INTEGER;AS* : F;
+X6PvG7UX : BOOLEAN;
+	TYPE
+e = INTEGER;
+
+	END S
+;	END afsY.

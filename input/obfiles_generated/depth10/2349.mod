@@ -1,0 +1,4 @@
+MODULE Ted;	
+	BEGIN
+	REPEAT	wdh
+	UNTIL wl()	END F.

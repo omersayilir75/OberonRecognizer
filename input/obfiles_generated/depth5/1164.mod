@@ -1,0 +1,10 @@
+MODULE K_;	PROCEDURE Mr;
+
+	END dG
+;PROCEDURE u*;
+	END x;PROCEDURE P_;
+	END Y
+;	BEGIN
+	;
+	
+	END I.

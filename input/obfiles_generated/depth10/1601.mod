@@ -1,0 +1,102 @@
+MODULE ucp;
+	PROCEDURE FmG(D, g : INTEGER ; VAR F, Oh : W ; VAR Q : INTEGER);
+	PROCEDURE UI;
+
+	END E	;
+	END y	;PROCEDURE ADN;
+	END rK	;VAR
+h*, g : ARRAY jF OF INTEGER;
+tySPkT*, S : INTEGER;rHC78O*, yi, Bb*, kyr, D, a : INTEGER;
+ot*, Q : L6PQh;
+SZIZXAh* : ARRAY t() OF INTEGER;
+TYPE
+UB* = iirFdyQ;
+PROCEDURE u(VAR btT, v, K : ARRAY tr() OF BOOLEAN);
+	PROCEDURE R*;
+
+	END g3y
+;	PROCEDURE Pz*;
+	VARj* : INTEGER;
+	BEGIN	V	END fP_3
+;	PROCEDURE Z(VAR E, Q, V, D : INTEGER ; VAR _ : PV ; VAR W : INTEGER);
+	VARA, i*, fC* : BOOLEAN;
+	PROCEDURE i(R4hKG1 : INTEGER);
+	PROCEDURE M*;	PROCEDURE M;	PROCEDURE kNg*;
+
+	END h
+;	PROCEDURE rd;
+
+	END PX		;
+	BEGIN
+		END n
+;	PROCEDURE p*;
+
+	BEGIN
+		END ezDHw4n;	PROCEDURE Q;
+	END O
+;	PROCEDURE l*;
+	PROCEDURE JpC;	END PB
+;	BEGIN
+	;
+	;
+	
+	END X
+			;	PROCEDURE Y;	PROCEDURE p1a;
+
+	END r
+;
+	END z		;	PROCEDURE O*;	PROCEDURE W;	END k8Pc
+		;
+	END MB
+			;
+	END q
+		;	PROCEDURE i9lgLL*;
+	END X
+;	PROCEDURE G*;
+	PROCEDURE Ji*;
+	PROCEDURE P*;
+	END f1
+;	PROCEDURE MHr*;
+
+	END Sb
+;
+	END gm8d
+	;	PROCEDURE j*;	PROCEDURE X;
+
+	END Eq
+;
+	BEGIN
+	;
+	;
+	
+	END V
+	;	PROCEDURE B;
+
+	BEGIN
+	
+	END q
+	;
+	END h
+		;	PROCEDURE _;
+
+	BEGIN
+	
+	END pW
+;	PROCEDURE f2;
+	PROCEDURE S*;
+
+	END x
+	;
+	BEGIN
+	
+	END K
+;	BEGIN	dS4;
+	d6V
+	END S
+;	END z
+;
+	BEGIN
+	;
+	P := Z
+	END TM			;
+	END E.

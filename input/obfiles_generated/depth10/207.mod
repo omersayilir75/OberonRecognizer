@@ -1,0 +1,14 @@
+MODULE En;	TYPE
+Yvqx* = ARRAY On() OF tE;
+PROCEDURE v(D : BOOLEAN)*;
+	TYPE
+X = BOOLEAN;
+N = BOOLEAN;	END Q5dS;
+	BEGIN
+	REPEAT
+	
+	UNTIL (dP);
+	WHILE r()  DIV  G() DO
+	;
+	iEND
+	END PD.

@@ -1,0 +1,5 @@
+MODULE e;
+	PROCEDURE A;	END d
+				;	BEGIN
+	
+	END SIv34.

@@ -1,0 +1,49 @@
+MODULE ew;	VAR
+Ki* : RECORD Jrbq, RMsLo3 : ARRAY dv() OF INTEGER;
+KL, l : BOOLEAN;
+KFrn : INTEGER END;
+MU*, VV, z, o : RECORD P, g, RT, s, P3 : BOOLEAN;
+C, Y, Y : ARRAY '''m' OF BOOLEAN END;
+PROCEDURE f(G : INTEGER ; Ys : ARRAY P() - R + 23485 OF INTEGER ; VAR P, FKNx : RECORD i, _ : BOOLEAN;
+yj : ARRAY hZ OF le;xRB : ARRAY Zj OF INTEGER END);
+	VARMP* : RECORD k, Z : BOOLEAN;
+Ff : ARRAY tkr() OF _oYE END;
+n* : BOOLEAN;
+E, wCZSZUt, g, P_z, d*, N* : RECORD rA, g, E : ARRAY UT OF INTEGER END;
+	TYPE
+S = RECORD TzV43, N : BOOLEAN END;
+uj = ARRAY ~'' OF RECORD HY93K, f : BOOLEAN END;Gk* = RECORD x, Yn : ARRAY QtDG3 OF BOOLEAN;L : KL END;
+	PROCEDURE W;	CONST
+f2 = zB('');
+V* = tAs  DIV  l OR 'r''tP''' > gc;	PROCEDURE WqxG(y : RECORD I, Bh, tI, T, tbL, S : INTEGER;
+XT5 : BOOLEAN END ; VAR GgU, RPbM : RECORD z, yGi, K : INTEGER END)*;
+	BEGIN	L[o()][o()].Sx.v2 := g() + i
+	END DV
+	;	PROCEDURE eV(J : ARRAY 'K'  DIV  Pf() OF ARRAY W OF INTEGER)*;
+	END pgUuR5Zg
+		;	TYPE
+jq* = INTEGER;
+
+	END W;	PROCEDURE o(VAR N : RECORD AfBq : INTEGER;
+O : h;
+Z, S, O : BOOLEAN END ; VAR c_ : RECORD Qq48, bIXO8eB, R : BOOLEAN END);
+	BEGIN	a := 'bL'' ''';
+	IF xj() * ''  MOD  yEC THEN
+	REPEAT
+	;	;
+		UNTIL H
+	END;
+	WHILE 59 DO	
+END
+	END G
+;	TYPEXIe* = ARRAY (A > orF) OF RECORD aW : hA END;	END I
+;
+	BEGIN
+	eL;	IF '' THEN
+	REPEAT
+	IF '' THEN
+	K
+ELSIF Z THEN	
+ELSIF '' THEN	A1lGodR
+	END	UNTIL BgH.v.v
+	END	END X.

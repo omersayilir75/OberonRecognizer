@@ -1,0 +1,10 @@
+MODULE p;
+	PROCEDURE XsV;
+
+	END pe
+	;PROCEDURE S;
+	END q
+	;
+	BEGIN
+	
+	END cY.

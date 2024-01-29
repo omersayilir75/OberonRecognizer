@@ -1,0 +1,18 @@
+MODULE lwXn;
+	PROCEDURE nT*;
+
+	END ELO
+	;PROCEDURE V*;
+
+	END f
+;PROCEDURE g*;
+
+	END B	;PROCEDURE fJ*;
+
+	END B
+;PROCEDURE nO*;
+	END O
+;
+	BEGIN
+	
+	END o.

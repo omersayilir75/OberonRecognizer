@@ -1,0 +1,10 @@
+MODULE DL;
+	PROCEDURE F*;
+
+	END mR;PROCEDURE Q7;
+
+	END T
+;
+	BEGIN
+	
+	END T.

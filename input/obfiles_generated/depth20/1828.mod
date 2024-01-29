@@ -1,0 +1,6 @@
+MODULE h;
+	VAR
+EK : BOOLEAN;
+t : INTEGER;
+
+	END PkmFQ.

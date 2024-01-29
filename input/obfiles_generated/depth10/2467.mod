@@ -1,0 +1,8 @@
+MODULE PIE;
+	
+	BEGIN
+	REPEAT
+	
+	UNTIL -XwYM();
+	S := ''''
+	END KU9v.

@@ -1,0 +1,6 @@
+MODULE Y;
+	VARs6Nr*, KB : ARRAY IP OF INTEGER;
+C*, s : CCSd;
+PROCEDURE Qa*;
+	END Zb
+;	END M.

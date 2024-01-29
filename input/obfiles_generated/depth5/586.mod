@@ -1,0 +1,7 @@
+MODULE V;
+	PROCEDURE zw;
+	END s83P
+	;	BEGIN
+	;
+	
+	END V.

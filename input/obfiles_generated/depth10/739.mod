@@ -1,0 +1,22 @@
+MODULE U;
+	TYPE
+UN = INTEGER;s = INTEGER;_M* = BOOLEAN;
+PROCEDURE Hm;
+	BEGIN
+	IF '''''' THEN
+	;	
+ELSIF '''' THEN
+	
+ELSIF n THEN
+	ELSIF Rv THEN
+	;
+	
+ELSIF ZT() THEN	
+ELSE	;	;
+	;
+	
+	END;
+	REPEAT
+	
+	UNTIL S()	END VFBw	;
+	END b1.

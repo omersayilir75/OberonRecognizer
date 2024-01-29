@@ -1,0 +1,1 @@
+MODULE p;	CONSTUN = bA # '';	END a.

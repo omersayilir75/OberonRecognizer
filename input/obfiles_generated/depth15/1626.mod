@@ -1,0 +1,6 @@
+MODULE j;
+	VAR
+Cy1ai*, K, C* : ARRAY 02 OF BOOLEAN;
+l : RECORD zUu : INTEGER END;
+
+	END wHPc.

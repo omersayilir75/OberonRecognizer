@@ -1,0 +1,14 @@
+MODULE f;
+	PROCEDURE J(Y, C, I : ARRAY '2''' OF INTEGER);
+
+	BEGIN
+	WHILE '' DO
+	;	
+END
+	END Sh
+;
+	BEGIN
+	REPEAT
+	h
+	UNTIL ~''
+	END HI.

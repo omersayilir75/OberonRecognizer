@@ -1,0 +1,4 @@
+MODULE QtO;
+	
+	BEGIN	ki.SK := 02440
+	END T.

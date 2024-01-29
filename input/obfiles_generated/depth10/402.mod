@@ -1,0 +1,5 @@
+MODULE R;
+	PROCEDURE w*;
+	END Vg2k
+;
+	END pU1.

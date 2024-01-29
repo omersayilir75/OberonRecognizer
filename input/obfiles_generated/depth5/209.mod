@@ -1,0 +1,9 @@
+MODULE p;
+	PROCEDURE A;
+
+	END u0O9
+;PROCEDURE uf;
+
+	END VRc
+;
+	END e.

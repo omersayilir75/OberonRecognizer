@@ -1,0 +1,6 @@
+MODULE tv;
+	VARle, lOSf*, f5g*, i6* : RECORD _, V, j : RECORD Pz, f : RECORD rWp : BOOLEAN END END;
+YtC : INTEGER;
+vE, _ : ARRAY S OF INTEGER END;
+
+	END BE.

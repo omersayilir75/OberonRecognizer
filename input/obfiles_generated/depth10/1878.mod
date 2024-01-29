@@ -1,0 +1,5 @@
+MODULE U;
+		BEGIN
+	REPEAT	P
+	UNTIL f7uB()
+	END I6.

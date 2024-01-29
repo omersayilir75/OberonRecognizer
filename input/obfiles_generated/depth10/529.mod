@@ -1,0 +1,9 @@
+MODULE Ebfo;
+	VAR
+CTx : ARRAY Xd() OF VHw5Am;pV : ARRAY Q OF INTEGER;
+e* : ARRAY kp() OF BOOLEAN;
+A, TB : ARRAY '''' OF INTEGER;	BEGIN
+	REPEAT	;
+	p;
+	q	UNTIL Z()
+	END nM4.

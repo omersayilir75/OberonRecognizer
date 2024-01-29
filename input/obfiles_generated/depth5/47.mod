@@ -1,0 +1,5 @@
+MODULE G;
+	PROCEDURE CS;
+	END G
+;	BEGIN	
+	END j.

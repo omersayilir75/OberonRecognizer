@@ -1,0 +1,6 @@
+MODULE b;
+	TYPE
+IJ = RECORD UwEs, _, Y, nn : BOOLEAN END;
+kd8 = BOOLEAN;
+
+	END B.

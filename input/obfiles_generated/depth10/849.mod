@@ -1,0 +1,12 @@
+MODULE D1;
+	
+	BEGIN
+	IF b THEN
+	;
+	
+ELSIF yV THEN
+	n
+ELSE
+	B
+	END
+	END Fk6.

@@ -1,0 +1,6 @@
+MODULE N;
+	PROCEDURE L*;
+	END xD
+;
+	BEGIN
+	;		END v.

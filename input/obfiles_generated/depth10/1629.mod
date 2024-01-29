@@ -1,0 +1,4 @@
+MODULE DpZ77;
+	PROCEDURE jV(Zt : INTEGER)*;
+	END n3uNh	;	BEGIN	WHILE P + e() DO	T8
+END;	REPEAT	yFl;		UNTIL QAj5	END rL.

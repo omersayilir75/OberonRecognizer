@@ -1,0 +1,3 @@
+MODULE lpV;
+	PROCEDURE Z*;
+	END zn	;	END A.

@@ -1,0 +1,5 @@
+MODULE WerlMS;
+		BEGIN
+	REPEAT
+	;
+	B	UNTIL -j()	END l.

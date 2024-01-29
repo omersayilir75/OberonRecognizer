@@ -1,0 +1,8 @@
+MODULE wi;
+	PROCEDURE OB*;
+
+	END T
+;PROCEDURE D*;
+
+	END _		;
+	END g1.

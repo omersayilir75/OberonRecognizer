@@ -1,0 +1,12 @@
+MODULE M;
+	PROCEDURE k*;
+
+	END f
+			;PROCEDURE q;
+
+	END lFP
+;PROCEDURE M*;
+
+	END V
+;
+	END pDHjM.

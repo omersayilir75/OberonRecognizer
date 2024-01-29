@@ -1,0 +1,11 @@
+MODULE B;	PROCEDURE Y;
+
+	END fTA
+;PROCEDURE dA*;
+
+	END cLa6
+;
+	BEGIN	;
+	;
+	
+	END C.

@@ -1,0 +1,12 @@
+MODULE ekz7;	PROCEDURE F*;
+	END E
+	;PROCEDURE K;
+	END p	;PROCEDURE L*;
+
+	END eIXXE
+	;PROCEDURE YH*;
+
+	END HK
+	;
+	BEGIN	;	
+	END t.

@@ -1,0 +1,35 @@
+MODULE Kb;
+	PROCEDURE O(Y, Y, kb : ARRAY S OF INTEGER);
+	PROCEDURE P;
+
+	BEGIN
+	g;
+	;
+	P	END z0;	PROCEDURE Z8Csuj(VAR Tu10A, gD : BOOLEAN)*;
+	VAR
+_qF : uL;
+vj* : V9;	BEGIN
+	
+	END xwlwm3y
+;	PROCEDURE l;	TYPE
+U* = E4T;
+
+	BEGIN
+		END p
+	;
+	BEGIN
+	IF smO4 THEN	
+ELSE
+	
+	END
+	END x
+			;PROCEDURE Py;
+	END e
+;TYPE
+U = BOOLEAN;
+PROCEDURE eF;
+
+	END _UX
+				;	BEGIN
+	
+	END Q.

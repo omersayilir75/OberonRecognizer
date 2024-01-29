@@ -1,0 +1,10 @@
+MODULE gr;
+	PROCEDURE B;
+	END ae;PROCEDURE iVu*;
+
+	END M
+	;PROCEDURE Xz;
+
+	END yYkMtrgw
+	;	BEGIN
+		END B.

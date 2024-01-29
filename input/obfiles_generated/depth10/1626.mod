@@ -1,0 +1,10 @@
+MODULE Y;
+	PROCEDURE Fr5*;
+
+	END I
+				;PROCEDURE mi7;
+	CONST
+Q = 'l';
+	END y
+;
+	END qZ.

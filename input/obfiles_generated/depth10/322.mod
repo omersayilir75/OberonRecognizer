@@ -1,0 +1,25 @@
+MODULE Y5I;	PROCEDURE z(VAR a : ARRAY Y() OF INTEGER)*;
+	PROCEDURE X(VAR GH : p);
+	PROCEDURE P(VAR p : INTEGER)*;
+
+	END j
+;	PROCEDURE uei(Tu : INTEGER ; VAR A : BOOLEAN)*;
+	BEGIN
+	D;
+	y;
+	
+	END NV
+;
+	END SN7;	PROCEDURE w*;
+	VAR
+J : BOOLEAN;
+bav* : BOOLEAN;	CONST
+mms* = dbK;
+nCpGYXD* = RmF;
+p* = PZ();
+	VARkO_ : H;
+	END h
+;
+	BEGIN
+	FG5	END f3Gw
+;	END D.

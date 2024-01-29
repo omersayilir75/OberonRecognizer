@@ -1,0 +1,4 @@
+MODULE G;
+	PROCEDURE tGB*;	END Y
+	;
+	END h.

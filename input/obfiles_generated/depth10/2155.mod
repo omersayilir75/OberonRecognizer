@@ -1,0 +1,18 @@
+MODULE m;	PROCEDURE q(bsI, W : INTEGER ; Fy, C : BOOLEAN)*;
+	PROCEDURE WjF;
+	END d
+;	CONST
+X = A();Rm = '';
+	PROCEDURE J(Dy : INTEGER ; b0Tr, c, AKi : INTEGER ; VAR t : INTEGER ; I7meV : BOOLEAN ; VAR l, nABFo1 : BOOLEAN ; VAR Ly, L : INTEGER ; VAR m, CzbA, T : BOOLEAN);	PROCEDURE B;
+
+	END a
+	;
+	END _
+;
+	BEGIN	REPEAT
+	;
+	
+	UNTIL m6
+	END K5o
+;
+	END u.

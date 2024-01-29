@@ -1,0 +1,4 @@
+MODULE NCF;	
+	BEGIN
+	REPEAT	
+	UNTIL 3;	PE7 := (240)	END HmP.

@@ -1,0 +1,23 @@
+MODULE P;
+	PROCEDURE o;
+
+	END pZ
+;PROCEDURE _*;
+	PROCEDURE y(VAR SK : Z);
+
+	BEGIN
+	y;
+	n
+	END vu;
+	BEGIN
+	IF u() THEN
+	;
+	
+ELSIF i THEN	
+	END
+	END R
+;TYPE
+exw = INTEGER;H = ARRAY g() OF INTEGER;
+T = INTEGER;
+	BEGIN	REPEAT
+		UNTIL 'Y|'	END cG4.

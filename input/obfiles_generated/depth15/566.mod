@@ -1,0 +1,7 @@
+MODULE k;
+	
+	BEGIN
+	REPEAT
+	PzJhPK
+	UNTIL ''
+	END Z.

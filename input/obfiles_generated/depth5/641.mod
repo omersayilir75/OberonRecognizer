@@ -1,0 +1,9 @@
+MODULE wZ20;	PROCEDURE Yj;
+
+	END CLb
+	;PROCEDURE C*;
+	END z
+	;PROCEDURE Q*;
+	END K	;
+	BEGIN
+		END uH.

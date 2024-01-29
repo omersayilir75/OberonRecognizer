@@ -1,0 +1,5 @@
+MODULE D8o;
+	VAR
+J* : INTEGER;
+vle* : ARRAY ('') OF BOOLEAN;
+	END C0.

@@ -1,0 +1,23 @@
+MODULE lY;
+	PROCEDURE M*;
+	PROCEDURE h7*;
+	PROCEDURE DIs(VAR v, M : f);	END Z
+;
+	BEGIN	;	w5
+	END k
+;	VARC*, w* : BOOLEAN;
+dgUh* : Z;
+	PROCEDURE F;
+	BEGIN
+	zM	END vJ
+;	TYPE
+oyZ* = BOOLEAN;
+NIx = ej;
+vQ = E;
+	END Xr
+	;TYPE
+g = ARRAY V OF BOOLEAN;
+Hn* = BOOLEAN;
+A7* = INTEGER;
+
+	END MT.

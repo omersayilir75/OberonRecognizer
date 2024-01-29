@@ -1,0 +1,19 @@
+MODULE Srs;
+	PROCEDURE R*;
+
+	END J_
+;PROCEDURE OI0gDf;
+
+	END U;PROCEDURE hF;
+
+	END jx
+;PROCEDURE nm*;
+
+	END U_
+;PROCEDURE D;
+
+	END XpJ
+;
+	BEGIN
+	
+	END kt.

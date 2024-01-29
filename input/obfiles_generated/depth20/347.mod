@@ -1,0 +1,4 @@
+MODULE P;
+	TYPE
+N = RECORD qM : ARRAY 3 = (i <= m()) OF BOOLEAN END;
+	END RwFNf.

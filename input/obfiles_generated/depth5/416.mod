@@ -1,0 +1,5 @@
+MODULE gK;
+	PROCEDURE cs;
+	END pAX
+	;
+	END tG.

@@ -1,0 +1,4 @@
+MODULE cJ2;
+	
+	BEGIN	QO := ''
+	END IWS.

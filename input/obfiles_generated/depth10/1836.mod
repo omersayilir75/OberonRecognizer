@@ -1,0 +1,36 @@
+MODULE D;
+	TYPE
+m* = INTEGER;
+x = ARRAY bCK OF wh;
+PROCEDURE p(VAR Y9, V, n : INTEGER ; VAR I, IrLu, t1 : BOOLEAN);
+	BEGIN
+	;
+	IF U THEN
+	;
+	
+ELSIF g() THEN
+	
+ELSIF CC5C4k THEN	;
+	
+ELSE
+	;
+	;	
+	END;	REPEAT		UNTIL r;
+	REPEAT
+		UNTIL P();
+	WHILE '' DO
+	;	
+END
+	END L
+	;PROCEDURE aa(Z, pYc : ARRAY _N OF X2);
+	END D	;TYPE
+lc = ARRAY '''6''@' OF BOOLEAN;
+k = ARRAY L OF c;CONST
+qZ = '';
+PROCEDURE INA8p*;	END v
+;
+	BEGIN
+	WHILE ']' & F31 DO
+	c0
+END
+	END A.

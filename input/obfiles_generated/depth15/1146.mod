@@ -1,0 +1,4 @@
+MODULE MB7;	CONST
+jH = 5;
+
+	END lO7Rxt8iZ.

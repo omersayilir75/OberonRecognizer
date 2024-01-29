@@ -1,0 +1,66 @@
+MODULE K8Hhu;
+	PROCEDURE A*;	PROCEDURE Hg*;
+
+	BEGIN
+	
+	END Ok
+;	PROCEDURE TBq(VAR h, LEE9 : BOOLEAN)*;
+	VARQ* : INTEGER;	PROCEDURE u*;	PROCEDURE R;
+
+	END Rn
+;	PROCEDURE or*;
+
+	END a
+	;
+	END F
+		;	PROCEDURE VB;	BEGIN
+	
+	END B
+;	PROCEDURE J(VQ, d, H4JI4 : INTEGER);
+	PROCEDURE k;	END gya
+;	PROCEDURE IL;
+	PROCEDURE SU*;	BEGIN	
+	END H
+				;
+	END v;	PROCEDURE X_;	PROCEDURE d52;
+	PROCEDURE V;
+	END T;
+	BEGIN
+	;	
+	END TSo
+				;	END T
+;	END zO
+	;	PROCEDURE _;	PROCEDURE R*;
+	PROCEDURE Qc;
+	END d
+	;	PROCEDURE q*;
+
+	END y
+;
+	BEGIN
+	
+	END Wz
+				;	PROCEDURE tB6;
+
+	END a
+		;	PROCEDURE n;
+
+	BEGIN
+	
+	END Rm8AbS	;	PROCEDURE c*;
+
+	END wd					;
+	END U		;	END tX	;	VAR
+gB, C* : INTEGER;	CONST
+RKWDxQkc* = '''';
+P = G;	TYPE
+hfB = BOOLEAN;
+	PROCEDURE Hra;
+
+	BEGIN
+	b
+	END TW
+;
+	END J
+;
+	END Ig.

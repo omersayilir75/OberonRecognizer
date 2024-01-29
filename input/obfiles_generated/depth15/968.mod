@@ -1,0 +1,5 @@
+MODULE bb;
+	TYPE
+Lma = INTEGER;
+
+	END y.

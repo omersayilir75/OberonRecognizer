@@ -1,0 +1,7 @@
+MODULE s;
+	PROCEDURE d*;
+	END Q
+	;
+	BEGIN
+	
+	END cCUd.

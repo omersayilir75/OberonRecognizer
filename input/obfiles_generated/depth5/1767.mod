@@ -1,0 +1,5 @@
+MODULE b;
+	PROCEDURE zZ*;	END p
+;
+	BEGIN	
+	END Zd.

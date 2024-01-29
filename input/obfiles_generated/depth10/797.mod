@@ -1,0 +1,4 @@
+MODULE B2;
+		BEGIN
+	h
+	END Z.

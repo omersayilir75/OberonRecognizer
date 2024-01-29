@@ -1,0 +1,8 @@
+MODULE Q;
+	PROCEDURE q*;
+	END u
+			;PROCEDURE UZHU*;
+	END o
+;	BEGIN	;
+	
+	END B.

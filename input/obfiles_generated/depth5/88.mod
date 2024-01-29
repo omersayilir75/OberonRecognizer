@@ -1,0 +1,8 @@
+MODULE P;
+	PROCEDURE TY*;
+
+	END mfQm0
+;PROCEDURE F;
+	END uA1Ic
+	;
+	END O.

@@ -1,0 +1,15 @@
+MODULE No;
+	PROCEDURE z(E_5F : BOOLEAN)*;	PROCEDURE qv6(VAR L42 : INTEGER)*;
+
+	END O4RYi
+;
+	BEGIN
+		END A
+;VAR
+cC*, G*, N, WI : ARRAY '''=' OF BOOLEAN;
+CONST
+fQq = _;
+U* = GZmdpmV;
+
+	BEGIN
+		END yi8.

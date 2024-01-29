@@ -1,0 +1,7 @@
+MODULE H;	PROCEDURE O;
+
+	BEGIN
+	
+	END naW
+;CONST
+t* = '';	END U.

@@ -1,0 +1,15 @@
+MODULE W;
+	PROCEDURE d*;
+
+	END wf
+;PROCEDURE wv3*;
+
+	END dpI
+;PROCEDURE h;
+
+	END rAKU0
+			;PROCEDURE yg02X;
+
+	END DOo
+		;
+	END h.

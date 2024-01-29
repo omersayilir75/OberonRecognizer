@@ -1,0 +1,13 @@
+MODULE LXWO;
+	PROCEDURE B(I : RECORD X : INTEGER;
+LV, J : z;K1, E : INTEGER;
+T : RECORD e : BOOLEAN END;
+j : N;L, N3Vb, l, O, _hf3 : ARRAY '' OF RECORD r, W : ARRAY 'Z' OF BOOLEAN END END)*;
+	PROCEDURE e*;
+	END T;	PROCEDURE ywFr(VAR x : itn)*;
+
+	END v
+	;
+	END Y
+;
+	END h.

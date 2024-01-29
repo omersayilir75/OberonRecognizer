@@ -1,0 +1,13 @@
+MODULE L0;
+	VAR
+j*, P9 : INTEGER;a*, Xyg9*, j* : P;S4Lhz6* : ARRAY 'PE\' OF BOOLEAN;
+TYPEq = BOOLEAN;
+lL* = BOOLEAN;
+J = INTEGER;R = BOOLEAN;
+s = Z;
+PROCEDURE G(VAR ea : T ; VAR E, xF9H3, S, d, _, E : BOOLEAN ; VAR CDm : BOOLEAN ; VAR r : ARRAY o() OF v ; s : ARRAY zBpJ() OF INTEGER)*;
+	BEGIN
+	r
+	END UJ
+;
+	END w78.

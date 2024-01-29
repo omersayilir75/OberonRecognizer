@@ -1,0 +1,6 @@
+MODULE K;
+	PROCEDURE X(VAR vbYz : ARRAY '' OF BOOLEAN)*;
+
+	END z
+;
+	END VXO.

@@ -1,0 +1,4 @@
+MODULE GN;	
+	BEGIN
+	
+	END h.

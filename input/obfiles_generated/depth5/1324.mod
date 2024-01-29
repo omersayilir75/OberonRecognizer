@@ -1,0 +1,4 @@
+MODULE t;	PROCEDURE t*;
+	END T
+		;
+	END E.

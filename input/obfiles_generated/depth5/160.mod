@@ -1,0 +1,7 @@
+MODULE n;
+	PROCEDURE I*;
+	END kwG8;PROCEDURE p3go*;
+	END De
+	;
+	BEGIN
+		END WaAn.

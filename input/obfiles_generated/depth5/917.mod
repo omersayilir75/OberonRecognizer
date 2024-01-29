@@ -1,0 +1,9 @@
+MODULE w3;
+	PROCEDURE wZY;
+
+	END ZGQY;PROCEDURE P7;
+	END bbp_
+		;PROCEDURE kol*;
+
+	END n;
+	END m.

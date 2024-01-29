@@ -1,0 +1,5 @@
+MODULE UOcts;	TYPE
+i = RECORD h2od, rd3, eZ : RECORD Q2I : INTEGER END;
+G : BOOLEAN END;
+
+	END V.

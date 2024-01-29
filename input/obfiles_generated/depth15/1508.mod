@@ -1,0 +1,3 @@
+MODULE qT;
+	
+	END p6.

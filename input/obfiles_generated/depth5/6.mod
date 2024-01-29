@@ -1,0 +1,1 @@
+MODULE G;		END Q.

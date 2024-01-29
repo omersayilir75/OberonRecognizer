@@ -1,0 +1,12 @@
+MODULE R;
+	PROCEDURE a9m;	BEGIN
+	WHILE T DO
+	;
+	
+END;	IF f() THEN
+	
+ELSE
+	
+	END	END KsP0F
+			;
+	END j8.

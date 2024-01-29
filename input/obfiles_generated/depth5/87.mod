@@ -1,0 +1,16 @@
+MODULE z;
+	PROCEDURE c*;
+
+	END s
+	;PROCEDURE Pz*;
+
+	END l4La_S		;PROCEDURE W;
+	END _		;PROCEDURE sTe;
+
+	END sR;PROCEDURE m*;
+	END O
+			;PROCEDURE C*;
+	END G;	BEGIN
+	;
+	
+	END pOfG8.

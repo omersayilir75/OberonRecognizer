@@ -1,0 +1,10 @@
+MODULE Mqo;
+	PROCEDURE Y*;
+
+	END pb		;PROCEDURE Se;
+
+	END IV
+	;PROCEDURE dE;
+	END doN7RZ6
+;	BEGIN
+		END Z.

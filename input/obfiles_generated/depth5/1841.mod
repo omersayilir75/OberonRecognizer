@@ -1,0 +1,9 @@
+MODULE Y;
+	PROCEDURE ow8zQ*;
+
+	END iZ;PROCEDURE r*;
+
+	END Cq
+		;PROCEDURE r;
+	END nHheqWUy
+;	END Yw.

@@ -1,0 +1,5 @@
+MODULE GReuSYRGK;
+	
+	BEGIN
+	
+	END qi.

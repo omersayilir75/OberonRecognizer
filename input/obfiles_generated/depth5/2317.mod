@@ -1,0 +1,4 @@
+MODULE n;
+	PROCEDURE J*;
+
+	END _		;	END F.

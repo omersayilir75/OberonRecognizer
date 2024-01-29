@@ -1,0 +1,5 @@
+MODULE X;
+	
+	BEGIN
+	k
+	END i1h.

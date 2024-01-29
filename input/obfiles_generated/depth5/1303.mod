@@ -1,0 +1,10 @@
+MODULE R;
+	PROCEDURE r;	END Xd
+	;PROCEDURE mp*;
+
+	END w
+;PROCEDURE P;
+
+	END pI5
+;
+	END a.

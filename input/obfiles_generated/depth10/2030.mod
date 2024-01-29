@@ -1,0 +1,12 @@
+MODULE PD;
+	CONST
+HS5* = '' + ma_();
+PROCEDURE h4*;
+	PROCEDURE O(VAR D8 : INTEGER);
+
+	END l
+	;
+	BEGIN
+		END U
+	;
+	END fP.

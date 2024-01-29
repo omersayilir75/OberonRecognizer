@@ -1,0 +1,4 @@
+MODULE X2;
+	TYPEPjBnj = RECORD jW, yS : INTEGER END;
+
+	END z.

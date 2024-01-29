@@ -1,0 +1,34 @@
+MODULE u;
+	PROCEDURE IV1eUF2iZ;
+	VAR
+dz, V* : ARRAY T() - ~662 OF BOOLEAN;
+GBj*, CUo : RECORD l : RECORD f, K : INTEGER END;J : Ul END;
+q*, eFb : INTEGER;
+i : BOOLEAN;	VAR
+xe, k : INTEGER;
+K* : BOOLEAN;	CONST
+yg* = ~2;
+
+	END y
+;PROCEDURE Q;	PROCEDURE k1;
+	BEGIN
+	n((69167))
+	END _Ev
+		;	TYPE
+Em = RECORD kro, h, j, p : BOOLEAN END;
+pv = RECORD kf : RECORD j35i, e : ARRAY _PZ() OF BOOLEAN END;yK : ARRAY t('''') OR -ycVT() OF RECORD S : INTEGER;
+tH : BOOLEAN END END;E = RECORD d, B : Y;
+M4K : RECORD PX : INTEGER END END;
+_j0* = INTEGER;N* = RECORD zw, j, H : RECORD KS, a, d, tB1 : h7 END END;
+
+	BEGIN
+	ga.wa2[''] := c(5, ~M)
+	END l
+	;TYPE
+xd = INTEGER;
+VAR
+R3G*, YQW4, S : LBw;PROCEDURE c;
+
+	END J
+;
+	END s4Q3fLXX.

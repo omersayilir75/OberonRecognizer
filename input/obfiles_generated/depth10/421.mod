@@ -1,0 +1,54 @@
+MODULE ia;	PROCEDURE wX*;
+	CONSTVGq = p;b = JjG6();	PROCEDURE o4(VAR lwtX, K : BOOLEAN)*;	TYPE
+v1s9 = INTEGER;	PROCEDURE PP*;
+	END N
+;
+	BEGIN
+	BPC;
+	
+	END seYVO					;	BEGIN
+	IF yX() THEN
+	
+	END;
+	IF oFR THEN
+	ELSIF '''E' THEN
+	
+ELSIF '' THEN
+	ELSIF M() THEN
+	ELSIF '' THEN
+	;
+	
+ELSIF C() THEN
+	
+ELSIF p() THEN
+	;
+	ELSIF '' THEN	
+ELSE
+	;
+	
+	END;
+	REPEAT
+	;
+	;
+	;
+	;		UNTIL '';	REPEAT
+		UNTIL ''''	END gT1
+	;TYPE
+bvS* = ARRAY ER OF BOOLEAN;
+PROCEDURE TK4AHJgNKX;
+
+	BEGIN
+	REPEAT
+		UNTIL c()	END r	;
+	BEGIN
+	REPEAT	Q;
+	i;
+	M
+	UNTIL '0';	REPEAT
+	pp
+	UNTIL ('''');
+	REPEAT
+	a;
+	
+	UNTIL Th()
+	END p48Vj.

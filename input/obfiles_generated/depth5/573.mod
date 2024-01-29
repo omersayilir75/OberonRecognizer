@@ -1,0 +1,12 @@
+MODULE N;
+	PROCEDURE ASw*;
+	END R
+;PROCEDURE eHE;
+	END b
+				;PROCEDURE z*;
+
+	END WE0g_A;PROCEDURE zbSh*;
+	END K
+		;PROCEDURE eqP;
+	END r			;
+	END h.

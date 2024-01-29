@@ -1,0 +1,7 @@
+MODULE N;
+	PROCEDURE P;
+
+	END j1
+	;
+	BEGIN
+		END D.

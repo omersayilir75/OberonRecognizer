@@ -1,0 +1,12 @@
+MODULE q;	PROCEDURE Oa5vkK;
+
+	END m	;PROCEDURE rV*;
+
+	END zL
+;PROCEDURE q;
+
+	END mO			;PROCEDURE z*;
+
+	END QN8;PROCEDURE v*;	END M
+			;	BEGIN
+		END f.

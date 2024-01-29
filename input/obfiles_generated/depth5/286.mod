@@ -1,0 +1,4 @@
+MODULE X;
+	PROCEDURE Q;
+	END d;
+	END aM2.

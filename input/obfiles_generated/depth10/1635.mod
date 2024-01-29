@@ -1,0 +1,2 @@
+MODULE Vi0;	TYPEf = ARRAY '''' OF U;
+	END AD.

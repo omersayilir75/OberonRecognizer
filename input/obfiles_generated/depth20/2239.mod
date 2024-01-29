@@ -1,0 +1,3 @@
+MODULE up_S;	VAR
+C7381O* : ARRAY --~ENc() OR 'O''' OF BOOLEAN;
+	END YG_zN.

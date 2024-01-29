@@ -1,0 +1,10 @@
+MODULE L7BUDhyN;
+	PROCEDURE D(VAR Vs, VL, N, b, qM, t : INTEGER ; VAR K : ARRAY X8 OF INTEGER ; VAR PyBh, L : mg ; VAR g8g, y, T : BOOLEAN)*;
+	CONST
+SI* = W;
+
+	BEGIN
+	
+	END Vs
+			;
+	END G6.

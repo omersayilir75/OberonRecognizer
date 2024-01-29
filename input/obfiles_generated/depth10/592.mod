@@ -1,0 +1,5 @@
+MODULE sA;
+	TYPE
+F3Jd* = INTEGER;
+
+	END D.

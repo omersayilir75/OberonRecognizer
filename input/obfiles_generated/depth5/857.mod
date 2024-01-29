@@ -1,0 +1,15 @@
+MODULE Zt;	PROCEDURE l*;
+	END y
+	;PROCEDURE a*;
+
+	END S
+			;PROCEDURE nQ*;
+
+	END S
+					;PROCEDURE TF*;
+
+	END w
+	;PROCEDURE E;
+
+	END u
+;	END qGD.

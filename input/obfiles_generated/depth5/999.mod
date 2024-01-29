@@ -1,0 +1,10 @@
+MODULE L;
+	PROCEDURE X;
+
+	END TE
+;PROCEDURE L;
+
+	END S
+	;PROCEDURE u;	END B
+	;
+	END T.

@@ -1,0 +1,8 @@
+MODULE D9;	TYPEz* = ARRAY o OF D;
+tK* = INTEGER;
+ewt = ARRAY K <= -ErcHb8i() OF INTEGER;
+Lb8j = ARRAY 6 OF ARRAY (I()) OF ARRAY pQ() OF qcf;
+bom8 = RECORD i, K, AXQ : BOOLEAN END;
+F5 = RECORD OO, K : ARRAY f OF y END;
+
+	END tQy.

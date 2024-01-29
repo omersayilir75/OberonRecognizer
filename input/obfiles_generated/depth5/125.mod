@@ -1,0 +1,8 @@
+MODULE d;
+	PROCEDURE O;
+	END L
+;PROCEDURE vD;
+
+	END U9
+;
+	END s.

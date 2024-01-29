@@ -1,0 +1,6 @@
+MODULE nKd;
+	VAR
+lA*, i : RECORD z : INTEGER;
+Vbi, JM : ARRAY NiAuIm OF P8 END;
+
+	END MivJ0Z9.

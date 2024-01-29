@@ -1,0 +1,16 @@
+MODULE NWqs;
+	PROCEDURE M8u;
+
+	END LH
+			;PROCEDURE a7L*;
+	END j	;PROCEDURE hRA;
+	END WZd
+			;PROCEDURE R*;
+	END ii
+					;PROCEDURE Yao*;
+
+	END R
+;PROCEDURE L7*;
+
+	END XNB
+		;	END s5.

@@ -1,0 +1,86 @@
+MODULE Hao;
+	VARBD, _ : ARRAY b() OF INTEGER;HVmps* : BOOLEAN;
+s* : ARRAY '' OF X;
+CONSTX9Dd = O = juJ();
+PROCEDURE N;
+	TYPE
+j* = INTEGER;
+x* = BOOLEAN;
+	PROCEDURE G;	CONST
+KKi6 = '''''';
+N* = '';
+t* = o();
+	TYPEVWF8* = BOOLEAN;
+CFy* = BOOLEAN;
+CA* = INTEGER;
+c0* = K;
+	BEGIN
+	
+	END NQ
+	;
+	END AD			;PROCEDURE JHAEQ(VAR C, k : ARRAY PP() OF FX ; VAR wBcfF, kLL : _);
+
+	END m
+			;PROCEDURE c(Bok : ARRAY gN OF INTEGER ; VAR M : ARRAY rk OF BOOLEAN)*;	PROCEDURE sm(v : BOOLEAN);	TYPE
+G* = INTEGER;
+	PROCEDURE Jw*;	PROCEDURE SU;
+	END f;	PROCEDURE ZQY;
+
+	END t
+	;	PROCEDURE e;
+	END jEF
+	;	PROCEDURE r*;
+
+	END y
+	;	PROCEDURE r_;
+	PROCEDURE C1;
+
+	END z46Z
+;
+	BEGIN
+	;
+	;
+	;
+	;
+	;	;
+	
+	END tbgc
+;
+	END O90f;	PROCEDURE TJ(dzi, wE : BOOLEAN);
+	PROCEDURE L4kaVpi;
+	BEGIN
+	
+	END h
+;	PROCEDURE J_;	PROCEDURE il;
+	END l
+	;
+	BEGIN
+	
+	END IgkRGy		;
+	END K
+;	TYPE
+i* = BOOLEAN;M0* = INTEGER;
+
+	BEGIN
+	s	END r
+		;	PROCEDURE R9*;	PROCEDURE U(x : INTEGER);	BEGIN
+	Z;
+	;
+		END D;
+	END IO
+;	CONST
+W = BJ2;
+	PROCEDURE Cg(XI : INTEGER ; RL : BOOLEAN ; VAR fD2, R : rH);
+
+	BEGIN
+	;
+	T
+	END n
+			;	VAR
+F, l*, H*, mJl* : INTEGER;
+Y_W, BfN : BOOLEAN;
+
+	END U
+;CONST
+Cd = -NHT;
+	END b.

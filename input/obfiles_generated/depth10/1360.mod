@@ -1,0 +1,56 @@
+MODULE _ajNgw;
+	PROCEDURE k*;
+	VAR
+XVo2K* : BOOLEAN;
+Q*, i2uv* : BOOLEAN;
+	END O4
+	;CONST
+wBLI* = (H());VAR
+rRf, uJMS* : INTEGER;
+PROCEDURE py;	PROCEDURE Iy(K : Zh)*;
+	PROCEDURE N(l : BOOLEAN);	PROCEDURE V*;
+
+	BEGIN
+	
+	END A;	PROCEDURE GfR*;
+	END I		;	PROCEDURE K*;	BEGIN		END CWMI
+;	PROCEDURE i7YrD*;
+
+	BEGIN
+	
+	END U;	PROCEDURE Z;
+	END n
+;	END br			;	CONST
+UG4na5g* = U();
+O* = '.';ThAW* = Q8();
+	PROCEDURE c(VAR tz7C7BqX : INTEGER);
+	PROCEDURE Y;
+
+	BEGIN
+	
+	END Y0nF
+;
+	END X;
+	END sZBV8w
+;	CONST
+JRNe* = '''H';	TYPE
+fJxNn* = BOOLEAN;
+	TYPEL = BOOLEAN;	PROCEDURE Q*;
+
+	END S
+;	VARNs* : M;
+Ldi : INTEGER;
+l* : BOOLEAN;
+	BEGIN
+	KY := v	END S;VAR
+U, Vw, i*, Y, jw : ARRAY s OF BOOLEAN;
+z* : ARRAY '' OF INTEGER;
+A* : ARRAY RK OF INTEGER;
+PROCEDURE m(A, W8t : ARRAY g() OF BOOLEAN);
+
+	END Z
+				;
+	BEGIN
+	WHILE Fbe() DO
+	jEND
+	END uRv.

@@ -1,0 +1,9 @@
+MODULE B;
+	PROCEDURE Rq;
+	END s
+;PROCEDURE L;
+
+	END l
+	;
+	BEGIN	
+	END N.

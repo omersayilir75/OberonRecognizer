@@ -1,0 +1,14 @@
+MODULE c;
+	PROCEDURE KcIM;
+
+	END p
+;PROCEDURE L;
+	TYPE
+B* = RECORD i : F END;
+L = ARRAY N7() OF RECORD U, Gd : ms;
+U : INTEGER END;
+mD* = RECORD HV, W : Ly;
+Mi, P5 : ARRAY C7iw() OF L END;
+	END Z
+;
+	END C.

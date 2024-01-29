@@ -1,0 +1,17 @@
+MODULE WnBc;
+	
+	BEGIN
+	REPEAT
+	IF 4 THEN
+	WHILE '''69' DO	bENDELSIF 5 THEN
+	
+ELSIF AO.P.Oe THEN
+	WHILE Jb() DO
+	H;	pEND
+ELSE
+	WHILE '' DO	;
+	B
+END
+	END
+	UNTIL -TI
+	END dwyy7F.

@@ -1,0 +1,7 @@
+MODULE Mk;
+	PROCEDURE l;
+
+	END Z		;PROCEDURE vT*;
+
+	END Ntd;
+	END v.

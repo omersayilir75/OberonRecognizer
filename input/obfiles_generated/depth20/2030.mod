@@ -1,0 +1,15 @@
+MODULE UJogdk;
+	PROCEDURE E*;
+
+	END E
+		;PROCEDURE cqw*;
+
+	END J;TYPE
+K = ARRAY BS OF RECORD KX, E : Fce;
+f, B : INTEGER;ny : ARRAY -'''O''' OF ARRAY HV() OF ARRAY d() OF T END;
+VARkl* : BOOLEAN;
+T*, S* : RECORD K, d, V : BOOLEAN;
+o, x4Zu4r : RECORD j : ARRAY w() # '''''' OF ARRAY a6() OF BOOLEAN END;
+u : RECORD n, I5, r : RECORD P : INTEGER END;
+_h : ARRAY Q # w() OF ARRAY Ib OF INTEGER END END;
+	END E.

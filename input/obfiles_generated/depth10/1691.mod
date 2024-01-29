@@ -1,0 +1,5 @@
+MODULE I;	VAR
+J, NF : ARRAY 'm' OF BOOLEAN;
+u : ZybOQ;
+
+	END QHLG.

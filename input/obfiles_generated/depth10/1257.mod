@@ -1,0 +1,37 @@
+MODULE vo;
+	TYPE
+v* = BOOLEAN;PROCEDURE W3G(MU : BOOLEAN ; VAR G : ARRAY U OF INTEGER ; VAR m, Jfe3, BI5CrlR, J : ARRAY hm() OF BOOLEAN);
+	BEGIN	REPEAT
+	
+	UNTIL N_A9	END d
+	;PROCEDURE g*;
+
+	BEGIN
+	G := '';
+	q := N()
+	END o
+		;PROCEDURE to(VAR q, w : ARRAY Q() OF BOOLEAN);
+
+	END Hu
+	;PROCEDURE S6*;
+
+	END O
+			;PROCEDURE L*;
+	END L
+		;TYPE
+X = ARRAY o OF INTEGER;
+E* = ARRAY Kk OF INTEGER;
+GRv = INTEGER;S* = VMH;
+	BEGIN
+	IF -u() THEN
+	
+ELSIF ('') THEN
+	;
+	;
+	
+ELSE
+	;	;
+	_7;
+	l
+	END
+	END v.

@@ -1,0 +1,6 @@
+MODULE a;
+	TYPE
+bn* = RECORD R0, c : R;
+OZNY : kD;p : BOOLEAN END;
+e* = ARRAY (HBc) OF ARRAY ~UxUQk() OF ARRAY '\' OF INTEGER;
+	END i.

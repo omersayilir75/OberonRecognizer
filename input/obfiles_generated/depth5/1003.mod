@@ -1,0 +1,3 @@
+MODULE a;	PROCEDURE D*;
+	END y
+	;	END E.

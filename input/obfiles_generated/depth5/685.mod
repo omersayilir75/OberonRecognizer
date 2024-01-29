@@ -1,0 +1,14 @@
+MODULE yCl;
+	PROCEDURE I;
+
+	END W6qa
+;PROCEDURE vP;
+
+	END V
+;PROCEDURE w;
+
+	END r
+		;PROCEDURE jvkW*;
+	END m
+	;
+	END o.

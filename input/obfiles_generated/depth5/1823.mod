@@ -1,0 +1,10 @@
+MODULE Z;
+	PROCEDURE uxu*;
+
+	END Yy
+	;PROCEDURE Hyb32r;
+	END xHW
+;
+	BEGIN
+	
+	END c.

@@ -1,0 +1,15 @@
+MODULE R;	
+	BEGIN
+	IF C THEN
+	
+ELSIF '' THEN
+	
+ELSIF 'BV' THEN
+	SI
+ELSIF _() >= PSibsUYa() THEN
+	
+ELSE
+	;
+	ERI	END;
+	
+	END Y.

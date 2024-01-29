@@ -1,0 +1,7 @@
+MODULE p0;	PROCEDURE l*;	END Mx
+		;PROCEDURE kdVui;
+	END r	;PROCEDURE P*;
+	END n
+		;
+	BEGIN
+		END E.

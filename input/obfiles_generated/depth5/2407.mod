@@ -1,0 +1,10 @@
+MODULE Z;
+	PROCEDURE J;
+
+	END OZ;PROCEDURE y;
+
+	END pr;
+	BEGIN
+	;	;
+	
+	END xR.

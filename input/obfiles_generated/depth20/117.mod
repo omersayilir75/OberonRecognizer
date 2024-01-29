@@ -1,0 +1,2 @@
+MODULE y;	
+	END x.

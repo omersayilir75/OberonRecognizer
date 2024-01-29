@@ -1,0 +1,10 @@
+MODULE c9;
+	PROCEDURE IxE*;
+
+	END wwV
+		;PROCEDURE X;
+	END S
+;
+	BEGIN
+	
+	END VU.

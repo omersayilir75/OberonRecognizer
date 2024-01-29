@@ -1,0 +1,8 @@
+MODULE F;	PROCEDURE Q5oK*;
+
+	END FAw
+;PROCEDURE y*;
+	END lx
+;PROCEDURE _*;
+	END nL;
+	END Dk.

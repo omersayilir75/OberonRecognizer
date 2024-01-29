@@ -1,0 +1,8 @@
+MODULE R;
+	PROCEDURE F*;
+	END c
+	;
+	BEGIN
+	;
+	
+	END B.

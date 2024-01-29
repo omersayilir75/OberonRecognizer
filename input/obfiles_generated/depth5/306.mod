@@ -1,0 +1,4 @@
+MODULE tWbh0;
+	PROCEDURE n;
+	END t
+;	END B.

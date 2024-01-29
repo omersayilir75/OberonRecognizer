@@ -1,0 +1,22 @@
+MODULE A;
+	PROCEDURE G*;	END iu9Pw
+;PROCEDURE j*;
+	END RmU05
+			;PROCEDURE eG*;
+
+	END T
+	;PROCEDURE Vv*;
+
+	END BSo
+;PROCEDURE s;
+
+	END BeM
+;PROCEDURE oog3;
+
+	END P
+;PROCEDURE O;
+
+	END i			;PROCEDURE K;
+
+	END H1n	;
+	END q.

@@ -1,0 +1,12 @@
+MODULE NWoxc;	PROCEDURE G11AlHwI;
+
+	END zCj
+	;PROCEDURE U;
+
+	END A
+;PROCEDURE Q;
+	END x
+;	BEGIN	;
+	;
+	
+	END Y.

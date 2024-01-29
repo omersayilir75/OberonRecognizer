@@ -1,0 +1,5 @@
+MODULE AWeWD;
+	PROCEDURE Y;
+
+	END O		;
+	BEGIN	X	END YG.

@@ -1,0 +1,3 @@
+MODULE EcE0Y;	PROCEDURE g(VAR blc, O, r : ARRAY '' OF YCo ; VAR W, VU : BOOLEAN)*;	END H;
+	BEGIN	U
+	END x.

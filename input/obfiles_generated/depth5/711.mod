@@ -1,0 +1,5 @@
+MODULE k;
+	
+	BEGIN
+	
+	END X.

@@ -1,0 +1,109 @@
+MODULE x2;
+	PROCEDURE EZGVX;
+	PROCEDURE x(VAR l : zi8w)*;
+	PROCEDURE w;
+	PROCEDURE O*;
+	PROCEDURE f*;
+	PROCEDURE gJl*;
+
+	END m
+	;	PROCEDURE nVNY4;
+
+	END y
+	;
+	BEGIN
+	;
+	;
+	;
+	;
+	
+	END E
+	;
+	END K
+		;	PROCEDURE m;
+	BEGIN
+	;
+	
+	END S
+;	PROCEDURE dK;
+
+	END B
+			;
+	END W
+;	VAR
+v*, t*, l6, TG, PjzhQfP3c* : INTEGER;
+
+	END N
+;	PROCEDURE m;
+	TYPE
+w = BOOLEAN;
+	PROCEDURE S*;
+	PROCEDURE H*;
+
+	BEGIN
+	
+	END Xz
+	;	PROCEDURE T*;
+
+	BEGIN
+	;
+	
+	END w
+;	PROCEDURE u;
+	PROCEDURE S;
+
+	BEGIN
+	
+	END yh
+;	PROCEDURE sr;
+	PROCEDURE b;
+
+	END l
+;	PROCEDURE p*;
+
+	END A
+			;
+	END w
+		;	PROCEDURE gwj;
+	PROCEDURE EpH1m*;
+	END C
+	;
+	BEGIN
+	;
+	
+	END T
+	;
+	BEGIN
+	;
+	
+	END t
+;	PROCEDURE qbi2r;
+	PROCEDURE W*;
+	PROCEDURE by*;
+
+	END D
+				;
+	END Lm
+	;
+	END R
+	;
+	BEGIN
+	wjsR
+	END n
+;	PROCEDURE Zn(VAR N : INTEGER);
+	PROCEDURE Luz6nYAUl;
+
+	END kmt
+			;
+	BEGIN
+	
+	END u
+			;
+	END h
+;
+	END B
+;PROCEDURE GRsG(y : ARRAY '1''''' OF BOOLEAN ; I, ec, sf, I : ARRAY F() OF BOOLEAN)*;
+
+	END boP
+			;
+	END D0.

@@ -1,0 +1,4 @@
+MODULE SiM6MA;	
+	BEGIN
+	
+	END l.

@@ -1,0 +1,6 @@
+MODULE u;
+	PROCEDURE q;
+
+	END cuFYf
+;
+	END x.

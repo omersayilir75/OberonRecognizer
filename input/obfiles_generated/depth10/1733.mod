@@ -1,0 +1,2 @@
+MODULE Z;	TYPEA = ARRAY n OF BOOLEAN;
+	END Cqy.

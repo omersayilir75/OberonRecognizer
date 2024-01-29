@@ -1,0 +1,5 @@
+MODULE kUUMF;
+	
+	BEGIN
+	
+	END a.

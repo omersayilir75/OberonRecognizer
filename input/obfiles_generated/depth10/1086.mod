@@ -1,0 +1,15 @@
+MODULE v;
+	VAR
+C5 : ARRAY E OF INTEGER;
+Ju : INTEGER;
+f : ARRAY f() OF BOOLEAN;g* : ARRAY X OF JqY;
+qc8 : ARRAY kM() OF BOOLEAN;u* : ARRAY XVk() OF BOOLEAN;
+e*, FKDG, K, xWf3 : ARRAY '' OF INTEGER;
+wU* : INTEGER;
+P, f : ARRAY n() OF z2;F*, U, PB : ARRAY 'Y' OF INTEGER;
+PROCEDURE j;
+
+	BEGIN
+	U := '$'''''
+	END oZ;
+	END k.

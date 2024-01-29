@@ -1,0 +1,4 @@
+MODULE c1bR;
+	PROCEDURE t(VAR GJY : ARRAY ~QK() & F() OR dnd() OF RECORD o, MN : INTEGER END);
+	END u
+;	END hUF.

@@ -1,0 +1,8 @@
+MODULE Vi;
+	PROCEDURE dw;
+
+	END m0
+;
+	BEGIN
+	
+	END jQdY.

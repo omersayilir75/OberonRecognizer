@@ -1,0 +1,5 @@
+MODULE k;
+	TYPEp = RECORD o : ARRAY w() OF RECORD t : INTEGER;Y, ni : ARRAY p OF BOOLEAN;
+hC : ARRAY u OF G END END;
+
+	END x.

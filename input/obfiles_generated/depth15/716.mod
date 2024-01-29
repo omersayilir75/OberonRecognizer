@@ -1,0 +1,3 @@
+MODULE GhP;	VAR
+y* : BOOLEAN;
+	END A.

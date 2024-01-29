@@ -1,0 +1,4 @@
+MODULE A;
+		BEGIN
+	T := 85  MOD  8
+	END Jy.

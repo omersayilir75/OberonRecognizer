@@ -1,0 +1,51 @@
+MODULE MR;
+	PROCEDURE L;
+
+	END o
+			;PROCEDURE k5Hb(VAR q5oOD : ARRAY '''!' OF INTEGER);
+	PROCEDURE y30;
+	PROCEDURE F(w : BOOLEAN ; T, GmPC : x3 ; VAR i : h)*;
+	PROCEDURE Zw;
+	PROCEDURE o0*;
+	PROCEDURE xjv*;
+	END D
+	;
+	END eQ
+	;
+	END Jo
+;
+	BEGIN
+	w_3g1m;
+	
+	END MF2	;	TYPE
+H = INTEGER;
+	PROCEDURE t(i, hTNKC, UKZx, y, i : BOOLEAN ; VAR lSa : BOOLEAN ; VAR ffb : BOOLEAN ; VAR _, sso : INTEGER);	BEGIN	;		END XrXt;
+	BEGIN
+	
+	END rF
+;
+	BEGIN
+	WHILE V DO
+	;
+	
+END;
+	;	IF wEgIH THEN	
+ELSIF pPP THEN
+	;
+	ELSIF GyOOo_() THEN
+	
+	END;
+	WHILE '' DO
+	;	;
+	;
+	;	
+END;
+	WHILE V DO
+	
+END
+	END bM
+	;
+	BEGIN
+	REPEAT	vHMC
+	UNTIL (O)
+	END RLxR.

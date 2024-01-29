@@ -1,0 +1,7 @@
+MODULE a;
+	PROCEDURE X;
+	END Y
+		;	BEGIN
+	;
+	
+	END A9.

@@ -1,0 +1,12 @@
+MODULE F;
+	PROCEDURE W*;
+
+	END J
+				;PROCEDURE t*;
+
+	END u
+	;PROCEDURE jK;
+
+	END Y
+				;
+	END Frg.

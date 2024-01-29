@@ -1,0 +1,3 @@
+MODULE h;	PROCEDURE bytQ;
+	END h
+;	END M.

@@ -1,0 +1,11 @@
+MODULE GBC;
+	TYPEJO = ARRAY m() OF BOOLEAN;
+i = ARRAY I OF INTEGER;PnN* = BOOLEAN;
+Ww = BOOLEAN;
+
+	BEGIN
+	rX9dc('w');
+	REPEAT
+	
+	UNTIL i()
+	END S.

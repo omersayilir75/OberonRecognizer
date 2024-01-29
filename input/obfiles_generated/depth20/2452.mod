@@ -1,0 +1,6 @@
+MODULE S;
+		BEGIN
+	REPEAT
+	e
+	UNTIL ''
+	END Ft.

@@ -1,0 +1,3 @@
+MODULE Qi;
+	TYPEe = ARRAY '''''' OF BOOLEAN;
+	END JN.

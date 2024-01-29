@@ -1,0 +1,7 @@
+MODULE K;
+	PROCEDURE R;
+
+	END Y
+;	BEGIN
+	
+	END gjcEa.

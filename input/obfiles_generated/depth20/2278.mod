@@ -1,0 +1,5 @@
+MODULE y;
+	
+	BEGIN
+	G
+	END n.

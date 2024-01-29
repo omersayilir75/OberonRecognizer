@@ -1,0 +1,5 @@
+MODULE y;
+	PROCEDURE z*;
+	END L9	;	BEGIN
+	
+	END f.

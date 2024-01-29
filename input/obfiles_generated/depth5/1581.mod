@@ -1,0 +1,7 @@
+MODULE h;
+	PROCEDURE V;
+	END K
+;
+	BEGIN
+	
+	END CcPr.

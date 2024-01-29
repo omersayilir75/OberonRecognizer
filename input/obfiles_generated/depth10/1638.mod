@@ -1,0 +1,4 @@
+MODULE r0;	VAR
+iM : ARRAY L OF INTEGER;
+
+	END mt.

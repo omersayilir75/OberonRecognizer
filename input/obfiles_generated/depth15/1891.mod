@@ -1,0 +1,18 @@
+MODULE k_;	PROCEDURE C(p : RECORD u5 : ARRAY '' OF INTEGER;
+T : BOOLEAN;N : x;
+X : ARRAY 'a' OF INTEGER END);
+
+	END Mv7y
+		;PROCEDURE D3(G8 : RECORD Ht : ARRAY J() OF INTEGER END)*;
+	PROCEDURE Q(yA : RECORD gjl : O5;
+oC, _s_J9R, C3c : ARRAY I() OF INTEGER;
+PmPN, j : ARRAY '''' OF INTEGER;w : ARRAY a() OF _4eBv;
+l, XL5 : ARRAY 'K' OF BOOLEAN END);
+	BEGIN	;
+	WHILE -b0lzG() < 'n~''0' DO
+	jtSa := '#K'''END
+	END LRZna
+;
+	END tX
+;
+	END Hb.

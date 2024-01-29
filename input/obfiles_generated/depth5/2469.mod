@@ -1,0 +1,3 @@
+MODULE P;
+		BEGIN	
+	END G.

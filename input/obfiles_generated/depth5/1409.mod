@@ -1,0 +1,5 @@
+MODULE Y;	PROCEDURE q;
+	END N
+;
+	BEGIN	
+	END r.

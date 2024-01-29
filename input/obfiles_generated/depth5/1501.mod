@@ -1,0 +1,6 @@
+MODULE Dm;	PROCEDURE T*;
+
+	END R
+		;PROCEDURE D*;
+
+	END NiKg	;	END H.

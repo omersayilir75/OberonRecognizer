@@ -1,0 +1,5 @@
+MODULE f;
+	TYPE
+MZ = BOOLEAN;
+
+	END GaGu2R.

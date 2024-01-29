@@ -1,0 +1,5 @@
+MODULE T;
+	VAR
+Q3* : INTEGER;
+F* : INTEGER;
+	END yJ.

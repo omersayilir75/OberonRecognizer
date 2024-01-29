@@ -1,0 +1,4 @@
+MODULE j09;
+	PROCEDURE nar*;	END i9;	BEGIN
+	
+	END oU.

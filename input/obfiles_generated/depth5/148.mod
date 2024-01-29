@@ -1,0 +1,13 @@
+MODULE Xs;
+	PROCEDURE F*;
+
+	END uut
+	;PROCEDURE jByaJZSdqX7CTLJ*;
+
+	END mEA
+;PROCEDURE p;
+	END J
+							;
+	BEGIN
+	
+	END St.

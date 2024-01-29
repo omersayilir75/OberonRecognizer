@@ -1,0 +1,3 @@
+MODULE rG;	TYPE
+o6* = ARRAY d() OF INTEGER;
+	END Oz.

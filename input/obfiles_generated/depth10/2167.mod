@@ -1,0 +1,5 @@
+MODULE mBe;
+	
+	BEGIN	REPEAT
+	nr	UNTIL -''''
+	END XH.

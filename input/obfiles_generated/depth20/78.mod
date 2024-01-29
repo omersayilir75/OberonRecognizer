@@ -1,0 +1,5 @@
+MODULE Jti;
+	TYPEL* = BOOLEAN;
+VAR
+JUM*, DA, jp : FJ;
+	END B.

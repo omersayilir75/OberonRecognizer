@@ -1,0 +1,12 @@
+MODULE Q;
+	VAR
+Udcy* : ARRAY AQbDv OF RECORD AFUltdC, O9wo, R, LjG : ARRAY (HTG()) OF BOOLEAN END;
+Q*, T, SZ* : RECORD bL, g, j : ARRAY ''''  MOD  uo OR AJ OR G() OF RECORD XOOps, GQ : J;
+C, r, Y, W : BOOLEAN END;Er, I : RECORD z, B, U : ARRAY y() OF ARRAY '' OF BOOLEAN END END;
+a* : RECORD U : INTEGER END;
+A : ARRAY '''' OF ARRAY ''  MOD  (('' OR df())) OF ARRAY 98 * -cQeI_FPM OF ARRAY -zi OF RECORD k9, z : l END;
+PROCEDURE A;
+
+	END KHf
+		;
+	END WcsYWRa10.

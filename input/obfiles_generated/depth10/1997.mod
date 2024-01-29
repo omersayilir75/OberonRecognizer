@@ -1,0 +1,19 @@
+MODULE t;	PROCEDURE Q;
+	VARjwhxDG, RV8 : INTEGER;
+Q, gA : INTEGER;
+
+	BEGIN	REPEAT
+	;
+	
+	UNTIL '5'
+	END pbX
+;PROCEDURE y*;
+	BEGIN	IF Moba THEN	;
+	
+ELSIF SX0() THEN
+	
+ELSIF 'V' THEN		END
+	END c
+			;	BEGIN
+	Y8I1Y
+	END J.

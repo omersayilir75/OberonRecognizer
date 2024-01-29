@@ -1,0 +1,4 @@
+MODULE A;
+	
+	BEGIN
+		END Z.

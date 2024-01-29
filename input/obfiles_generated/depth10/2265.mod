@@ -1,0 +1,3 @@
+MODULE n;
+	VARU4* : ARRAY Sfb OF INTEGER;
+	END Em1C.

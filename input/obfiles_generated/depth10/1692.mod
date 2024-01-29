@@ -1,0 +1,80 @@
+MODULE p;
+	PROCEDURE JG1D(Rg, yd : ARRAY E OF BOOLEAN ; q : ARRAY '''z' OF INTEGER ; VAR D : ARRAY '5' OF BOOLEAN);
+	PROCEDURE c*;
+	PROCEDURE Z(VAR c8v : BOOLEAN)*;
+	PROCEDURE q;
+	PROCEDURE p*;	PROCEDURE L9*;
+
+	END ctbbW6
+			;	PROCEDURE ifKOO*;
+	END xu
+	;	PROCEDURE XRN*;
+
+	END f
+;	PROCEDURE Nl*;
+
+	END qoia
+;	BEGIN	;
+	;	
+	END Lk
+;	PROCEDURE v;
+
+	BEGIN
+	
+	END DZQ			;
+	END g4
+	;	PROCEDURE k3;
+	PROCEDURE J0M*;
+	END q_		;	PROCEDURE ll;
+	PROCEDURE f;
+
+	END mgTp1
+		;	PROCEDURE r;
+	END u
+;	PROCEDURE E;
+	END H
+;	PROCEDURE zSY2*;
+	END eU
+	;
+	END vGdG
+			;	PROCEDURE K;
+
+	END WU
+				;	PROCEDURE LcT;
+	PROCEDURE VC;
+
+	END z;	PROCEDURE _*;
+	END s
+;
+	END B
+	;
+	BEGIN
+	
+	END V		;	PROCEDURE r;
+
+	BEGIN
+		END _S
+	;
+	END vg
+;
+	BEGIN
+	
+	END Yx6;
+	BEGIN
+	IF mP() THEN
+	;
+	;	;	ELSIF A() THEN
+	;
+		END;
+	;	g
+	END W
+;
+	BEGIN	;
+	IF K THEN
+	o;	
+ELSIF lCYKgB7x() * rx THEN	;
+	
+ELSE
+	
+	END
+	END UA.

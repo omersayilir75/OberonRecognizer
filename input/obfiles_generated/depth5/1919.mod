@@ -1,0 +1,5 @@
+MODULE N;
+	PROCEDURE b*;
+
+	END e;
+	END B73.

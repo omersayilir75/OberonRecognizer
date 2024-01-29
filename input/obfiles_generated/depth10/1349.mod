@@ -1,0 +1,7 @@
+MODULE f;
+	
+	BEGIN
+	WHILE C DO
+	O;	;
+	QEND
+	END GM0.

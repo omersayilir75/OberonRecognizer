@@ -1,0 +1,11 @@
+MODULE O;
+	PROCEDURE K*;
+
+	END tw
+	;PROCEDURE ir;
+
+	END uDt
+		;
+	BEGIN
+	
+	END yCea.

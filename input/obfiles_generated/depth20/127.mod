@@ -1,0 +1,4 @@
+MODULE g;
+	TYPEzP* = RECORD f : huW43 END;
+x* = INTEGER;
+	END H.

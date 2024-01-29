@@ -1,0 +1,17 @@
+MODULE B;
+	PROCEDURE Hzc;	END k	;PROCEDURE zv;
+	END ye
+;PROCEDURE K;
+	END _
+			;PROCEDURE n*;
+
+	END W6t
+	;PROCEDURE bq;	END Y39
+;PROCEDURE j;
+	END W
+;PROCEDURE lP;
+	END P
+		;
+	BEGIN	;
+	;	
+	END U.

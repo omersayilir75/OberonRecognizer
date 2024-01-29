@@ -1,0 +1,4 @@
+MODULE p;	PROCEDURE O*;
+
+	END Y2
+	;	END gs.

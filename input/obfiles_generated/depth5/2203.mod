@@ -1,0 +1,25 @@
+MODULE I;
+	PROCEDURE Z;
+
+	END ZuC	;PROCEDURE Bd;
+
+	END WyU5
+;PROCEDURE W;
+	END Z
+						;PROCEDURE pFCcP*;
+
+	END zFk
+	;PROCEDURE O;
+
+	END a
+;PROCEDURE v;
+
+	END F
+;PROCEDURE zPrOB*;
+
+	END BSVX
+		;
+	BEGIN
+	;
+	;
+		END n.

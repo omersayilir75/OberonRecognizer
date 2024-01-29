@@ -1,0 +1,10 @@
+MODULE f2B;	PROCEDURE _*;
+
+	END TLwHgUuM
+;PROCEDURE jB*;
+	END HQ
+;PROCEDURE T4;
+
+	END h
+		;
+	END xWI.

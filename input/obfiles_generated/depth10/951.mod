@@ -1,0 +1,6 @@
+MODULE z;
+	TYPE
+A* = BOOLEAN;
+
+	BEGIN	
+	END x.

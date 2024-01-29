@@ -1,0 +1,8 @@
+MODULE BrjH8;
+	
+	BEGIN
+	;	REPEAT
+	
+	UNTIL oRU6();
+	REPEAT	PjP
+	UNTIL B	END _5.

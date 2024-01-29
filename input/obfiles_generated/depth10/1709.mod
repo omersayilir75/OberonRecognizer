@@ -1,0 +1,5 @@
+MODULE i;	TYPEgc* = INTEGER;
+t = BOOLEAN;
+	BEGIN
+	vO;	WHILE M DO	END
+	END i.

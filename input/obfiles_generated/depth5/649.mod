@@ -1,0 +1,8 @@
+MODULE DLcGr;
+	PROCEDURE eoj;
+	END o
+	;PROCEDURE E*;
+
+	END E
+					;
+	END B.

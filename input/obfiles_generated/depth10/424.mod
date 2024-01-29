@@ -1,0 +1,8 @@
+MODULE R;	
+	BEGIN
+	REPEAT
+	NN;
+	TFX
+	UNTIL bxX();	WHILE j  MOD  qtE() DO	
+END
+	END bzV.

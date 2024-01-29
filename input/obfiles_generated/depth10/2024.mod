@@ -1,0 +1,20 @@
+MODULE Y;
+	VAR
+q : ARRAY YRy0() OF BOOLEAN;WY* : ARRAY '''' OF BOOLEAN;j*, VDQxy* : INTEGER;
+PROCEDURE F*;
+	VAR
+ti* : BOOLEAN;
+
+	BEGIN
+	;
+	u
+	END J
+		;
+	BEGIN	IF '''' * P() THEN
+	_
+ELSIF Td THEN
+	
+ELSE
+	I;	T
+	END
+	END _bZ.

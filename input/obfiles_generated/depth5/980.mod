@@ -1,0 +1,13 @@
+MODULE p;
+	PROCEDURE HVw;
+
+	END z
+		;PROCEDURE qW;
+	END J
+;PROCEDURE HU*;
+
+	END Y
+	;PROCEDURE qk;
+
+	END P
+		;	END mI.

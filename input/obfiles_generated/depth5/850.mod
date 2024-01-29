@@ -1,0 +1,6 @@
+MODULE PgI7;
+	PROCEDURE n*;
+
+	END K
+		;
+	END GEL.

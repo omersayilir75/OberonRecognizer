@@ -1,0 +1,6 @@
+MODULE DW_gosB;
+	PROCEDURE z*;
+
+	END V
+		;
+	END Cx.

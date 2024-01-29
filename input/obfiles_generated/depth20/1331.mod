@@ -1,0 +1,5 @@
+MODULE T;
+	TYPE
+yf1n* = ARRAY ~-'' + PS > -qw_Eb & 4124 # 77 OF RECORD KS : INTEGER;QFQQh, I_, K : ARRAY HtQ2rWOc2.S OF k0RX_7 END;
+
+	END PKcJT.

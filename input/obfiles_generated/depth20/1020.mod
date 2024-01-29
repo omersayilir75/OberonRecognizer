@@ -1,0 +1,3 @@
+MODULE x;
+	VARH* : BOOLEAN;
+	END e.

@@ -1,0 +1,5 @@
+MODULE Wm;
+	
+	BEGIN
+	f
+	END C.

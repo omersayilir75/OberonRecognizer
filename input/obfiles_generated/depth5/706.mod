@@ -1,0 +1,5 @@
+MODULE cn;
+	PROCEDURE Y*;
+
+	END h;
+	END YB.

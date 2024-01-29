@@ -1,0 +1,12 @@
+MODULE l2;
+	PROCEDURE Jn*;
+
+	BEGIN	Z.w := 573694257	END gw	;TYPEen = RECORD _, JlTz2Gl : ARRAY rK_() OF RECORD M : ARRAY rs OF R;
+E, EX : ARRAY suE OF INTEGER END;
+j, d : ARRAY ((b() > Nd())) OF RECORD c, eK_, lhUcp : ARRAY T() OF INTEGER;
+IWdu : ARRAY a_() OF BOOLEAN END;X, kZ, g, ZO, xw : ARRAY NIBgD <= U() & ~Pt = dXDi() OF RECORD Y : INTEGER;h : ARRAY I OF INTEGER END;
+g : BOOLEAN END;
+
+	BEGIN
+	
+	END NwZ.

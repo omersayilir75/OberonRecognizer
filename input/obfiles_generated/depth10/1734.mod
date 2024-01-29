@@ -1,0 +1,2 @@
+MODULE Y;	
+	END qoc.

@@ -1,0 +1,7 @@
+MODULE KCT;
+	PROCEDURE r3h;
+	END Mf
+	;
+	BEGIN	;
+	
+	END T.

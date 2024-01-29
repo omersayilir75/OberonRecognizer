@@ -1,0 +1,5 @@
+MODULE L;
+	PROCEDURE SO2y(VAR yZ : ARRAY dpk(U) OF RECORD C0oWesIT4, UG7CA, t7, Dv, IG, t : INTEGER;gAj : NV;
+PY3t : e END)*;
+	END i;
+	END wa12.

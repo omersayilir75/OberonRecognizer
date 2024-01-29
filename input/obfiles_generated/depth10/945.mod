@@ -1,0 +1,12 @@
+MODULE Z3;
+	PROCEDURE TN*;
+
+	BEGIN
+	REPEAT
+	;
+	;
+	
+	UNTIL '}'
+	END r
+;
+	END LD5fLmLf.

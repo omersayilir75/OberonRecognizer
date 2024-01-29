@@ -1,0 +1,11 @@
+MODULE X;
+	PROCEDURE J6;
+	END y;PROCEDURE A*;
+	END fc
+		;PROCEDURE wd;
+
+	END tAg
+;PROCEDURE G;
+
+	END F
+	;	END sqe.

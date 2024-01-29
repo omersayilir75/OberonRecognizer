@@ -1,0 +1,3 @@
+MODULE I;
+	VAR
+X8k : BOOLEAN;	END a.

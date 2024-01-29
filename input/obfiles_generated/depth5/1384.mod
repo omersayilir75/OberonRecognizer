@@ -1,0 +1,7 @@
+MODULE cOf;
+	PROCEDURE S*;
+
+	END ayy;PROCEDURE c*;
+
+	END l;	BEGIN
+		END A.

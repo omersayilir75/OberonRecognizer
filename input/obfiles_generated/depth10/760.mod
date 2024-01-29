@@ -1,0 +1,5 @@
+MODULE y;
+	
+	BEGIN
+	
+	END K.

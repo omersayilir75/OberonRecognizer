@@ -1,0 +1,2 @@
+MODULE Ez;
+		END a.

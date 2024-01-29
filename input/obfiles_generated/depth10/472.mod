@@ -1,0 +1,1 @@
+MODULE mQr;		END K.

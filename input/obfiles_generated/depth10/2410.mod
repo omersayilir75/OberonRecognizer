@@ -1,0 +1,4 @@
+MODULE m;	
+	BEGIN	REPEAT
+	
+	UNTIL k()	END v.

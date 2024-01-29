@@ -1,0 +1,1 @@
+MODULE OkF;		BEGIN	REPEAT		UNTIL '' <= '''';		END xwEa.

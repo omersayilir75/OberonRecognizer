@@ -1,0 +1,6 @@
+MODULE R;
+	PROCEDURE aKTv(A : BOOLEAN)*;
+
+	END Nd
+;
+	END q.

@@ -1,0 +1,11 @@
+MODULE tNn;
+	VAR
+T7Y, aEyc* : XXQP;
+PROCEDURE _;
+	END V04P
+;TYPEauvO* = z;
+PROCEDURE k(VAR D, NW : ARRAY CC OF BOOLEAN)*;
+
+	END I
+;
+	END D.

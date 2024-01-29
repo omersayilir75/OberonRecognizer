@@ -1,0 +1,6 @@
+MODULE L5aGE2;
+	PROCEDURE k(VAR _l6, z : RECORD a3 : INTEGER END);
+
+	END c
+	;
+	END W.

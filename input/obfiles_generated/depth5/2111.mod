@@ -1,0 +1,7 @@
+MODULE u;
+	PROCEDURE X;
+
+	END E
+	;
+	BEGIN
+		END EX.

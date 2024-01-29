@@ -1,0 +1,11 @@
+MODULE D;
+	PROCEDURE p*;
+
+	END H
+	;PROCEDURE a*;
+
+	END bVQ_
+;
+	BEGIN
+	
+	END n.

@@ -1,0 +1,8 @@
+MODULE BmaD;
+	PROCEDURE Ax(VAR v : ARRAY ~(I) OF RECORD R, IO, d, z : BOOLEAN END ; t, E, h, u : RECORD zg, BwJV : ARRAY ';' OF INTEGER;
+z, DXKxg, rWG : BOOLEAN END ; D : RECORD u, s : ARRAY '' OF INTEGER;
+j, J : INTEGER END);
+
+	END q
+;
+	END T_S.

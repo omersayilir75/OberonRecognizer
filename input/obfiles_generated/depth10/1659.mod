@@ -1,0 +1,14 @@
+MODULE e;
+	PROCEDURE rbuC*;
+	VAR
+b6_ : T6;
+	END U
+;VARS : BOOLEAN;
+S5S* : ARRAY X94VC OF T;
+pu, w : FDbG2v;W8, Z8* : ARRAY g OF BOOLEAN;
+Hg* : INTEGER;
+
+	BEGIN
+	IF W THEN	ELSE	G0EW
+	END
+	END p.

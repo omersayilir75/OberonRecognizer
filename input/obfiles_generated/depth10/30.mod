@@ -1,0 +1,5 @@
+MODULE w7h;
+	TYPE
+O = ARRAY A9W() OF BOOLEAN;
+
+	END D.

@@ -1,0 +1,5 @@
+MODULE B;	PROCEDURE WS8Y;
+
+	END k
+						;
+	END f6.

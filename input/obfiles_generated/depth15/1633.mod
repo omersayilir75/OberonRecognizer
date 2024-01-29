@@ -1,0 +1,15 @@
+MODULE aE3K;
+	TYPEz* = RECORD b : ARRAY L OF INTEGER END;
+i* = ARRAY '' - MdW > q * v() OF BOOLEAN;
+v = BOOLEAN;Qb = ARRAY 8 OF ARRAY -R OF BOOLEAN;
+c7KI = INTEGER;
+PROCEDURE f(Nd, o, SWKY, S : INTEGER ; VAR V : ARRAY yE81o(A(), qC  MOD  '''p') OF RECORD Vk : a END)*;
+
+	BEGIN
+	WHILE z4[''] DO	G;
+	WHILE '''''' > xr() DO
+	
+ENDEND;	WHILE 70 DO
+	RJ
+END	END fy;
+	END M.

@@ -1,0 +1,4 @@
+MODULE Gk;	
+	BEGIN
+	nQA.i := 31539
+	END X.

@@ -1,0 +1,6 @@
+MODULE t4WVh;
+	PROCEDURE Fk*;
+
+	END b
+		;
+	END b.

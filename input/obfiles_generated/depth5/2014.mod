@@ -1,0 +1,10 @@
+MODULE q;
+	PROCEDURE Zo*;
+	END K
+	;PROCEDURE y;
+	END p
+;PROCEDURE y*;
+
+	END W2
+;
+	END K.

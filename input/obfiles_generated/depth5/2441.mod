@@ -1,0 +1,13 @@
+MODULE V;
+	PROCEDURE TtE*;
+
+	END Ep
+		;PROCEDURE G*;
+	END X
+	;PROCEDURE h2;
+	END z
+;PROCEDURE sQ*;
+	END S		;
+	BEGIN
+	;
+		END ws8.

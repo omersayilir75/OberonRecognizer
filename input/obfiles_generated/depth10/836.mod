@@ -1,0 +1,8 @@
+MODULE M;
+	
+	BEGIN	IF f()  MOD  p THEN	G06a
+ELSIF (h) THEN	ELSIF b THEN
+	
+ELSE	n
+	END
+	END jd9J.

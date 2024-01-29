@@ -1,0 +1,2 @@
+MODULE B;		BEGIN
+		END u.

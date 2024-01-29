@@ -1,0 +1,8 @@
+MODULE CTKFY;
+	
+	BEGIN
+	REPEAT
+	R	UNTIL f - p4ug;
+	;
+	
+	END M.

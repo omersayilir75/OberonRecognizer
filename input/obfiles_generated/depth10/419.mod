@@ -1,0 +1,10 @@
+MODULE w;
+	
+	BEGIN
+	IF '8' THEN
+	
+ELSE
+	;
+	
+	END
+	END Q.

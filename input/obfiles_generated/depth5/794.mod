@@ -1,0 +1,11 @@
+MODULE r;
+	PROCEDURE E;
+
+	END x
+		;PROCEDURE zQ*;
+
+	END E	;PROCEDURE Pe;
+
+	END n
+;
+	END l.

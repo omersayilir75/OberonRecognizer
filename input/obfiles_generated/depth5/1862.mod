@@ -1,0 +1,10 @@
+MODULE Sz;	PROCEDURE N1;
+
+	END n1
+;PROCEDURE jX*;
+
+	END z
+	;
+	BEGIN
+	;
+		END w.

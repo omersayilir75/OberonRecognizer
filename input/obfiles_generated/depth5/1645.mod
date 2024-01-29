@@ -1,0 +1,11 @@
+MODULE _Q;
+	PROCEDURE nX*;
+
+	END l
+		;PROCEDURE T;
+
+	END B
+;
+	BEGIN
+	;	
+	END guM.

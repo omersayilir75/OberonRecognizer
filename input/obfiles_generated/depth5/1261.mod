@@ -1,0 +1,7 @@
+MODULE L;
+	PROCEDURE U2*;
+	END N8
+	;PROCEDURE s*;
+
+	END j
+;	END l.

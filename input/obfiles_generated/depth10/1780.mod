@@ -1,0 +1,4 @@
+MODULE M;
+	TYPE
+gg* = BOOLEAN;
+	END gX.

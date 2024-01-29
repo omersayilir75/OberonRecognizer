@@ -1,0 +1,21 @@
+MODULE ZL;
+	PROCEDURE YQJcyW;
+	PROCEDURE C;
+
+	END L
+;
+	BEGIN
+	GQ := '';
+	p
+	END Y
+;CONST
+Ir2gA = (P());
+PROCEDURE J(FI, G : D ; VAR Lz, XfVm, b : ARRAY p OF BOOLEAN)*;
+
+	END V	;PROCEDURE SIDx(VAR HDQ, Lj : ARRAY '' OF BOOLEAN)*;
+	END V_xuUU;
+	BEGIN	WHILE '' DO
+	;
+	;
+	
+END	END s.

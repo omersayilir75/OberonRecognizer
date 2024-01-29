@@ -1,0 +1,2 @@
+MODULE T;	PROCEDURE b__;	END F
+;	END D.

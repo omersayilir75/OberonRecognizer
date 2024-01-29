@@ -1,0 +1,6 @@
+MODULE G;
+	PROCEDURE S*;
+	END y
+;PROCEDURE wZj*;
+	END DTy;
+	END e.

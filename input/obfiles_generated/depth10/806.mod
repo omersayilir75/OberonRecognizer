@@ -1,0 +1,7 @@
+MODULE LBd;
+	
+	BEGIN	IF (PA3h) THEN	
+ELSE
+	oz
+	END
+	END Jd.

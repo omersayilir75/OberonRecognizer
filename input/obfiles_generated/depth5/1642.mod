@@ -1,0 +1,9 @@
+MODULE k;
+	PROCEDURE X5F*;
+
+	END gQN
+	;
+	BEGIN
+	;
+	
+	END ka.

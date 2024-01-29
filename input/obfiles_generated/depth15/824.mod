@@ -1,0 +1,10 @@
+MODULE Nmp;	VAR
+cf, c, k* : RECORD H, D : ARRAY G OF INTEGER;
+B, YrM, R, E6R, FF : ARRAY z() OF BOOLEAN;
+x : ARRAY aT() OF R END;VARe : Mo;
+W : INTEGER;
+VARTZ* : ARRAY 94399 OF INTEGER;
+wg, U, V*, R*, N, U* : ARRAY j.i OF ARRAY ~Bz3 OF ARRAY '' OF i;U : j;
+	BEGIN
+	V
+	END K3H.

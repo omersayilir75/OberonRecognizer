@@ -1,0 +1,5 @@
+MODULE XgpV1;
+	
+	BEGIN	WHILE jV()  DIV  '' DO	A
+END
+	END Mi.

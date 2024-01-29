@@ -1,0 +1,5 @@
+MODULE q;
+	
+	BEGIN
+	
+	END L.

@@ -1,0 +1,9 @@
+MODULE G;
+	PROCEDURE No;
+	END LO;PROCEDURE x*;
+	END Gr
+	;PROCEDURE h*;
+
+	END v
+				;	BEGIN
+		END pv.

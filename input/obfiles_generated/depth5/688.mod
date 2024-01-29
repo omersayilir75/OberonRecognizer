@@ -1,0 +1,6 @@
+MODULE E;
+	PROCEDURE o;
+
+	END S
+;
+	END NQ.

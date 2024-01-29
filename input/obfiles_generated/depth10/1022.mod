@@ -1,0 +1,5 @@
+MODULE OL;
+	TYPEi* = ARRAY k OF INTEGER;
+h = INTEGER;
+	BEGIN	Tj.O := -ZN()
+	END zT.

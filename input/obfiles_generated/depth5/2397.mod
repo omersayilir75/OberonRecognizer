@@ -1,0 +1,2 @@
+MODULE r1f;	PROCEDURE h;
+	END a;	END IT6.

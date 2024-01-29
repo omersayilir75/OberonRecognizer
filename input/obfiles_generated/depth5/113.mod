@@ -1,0 +1,16 @@
+MODULE H;
+	PROCEDURE t*;
+
+	END o;PROCEDURE pe;
+
+	END utn
+;PROCEDURE l*;
+	END gzmE9
+;PROCEDURE cFt;
+	END Bt
+;PROCEDURE _S*;
+
+	END DJ
+	;PROCEDURE F2;
+	END z
+;	BEGIN		END J.

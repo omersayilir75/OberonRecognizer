@@ -1,0 +1,10 @@
+MODULE xg;
+	PROCEDURE VvP3SQ;
+	END Y	;PROCEDURE X;
+
+	END Q
+		;PROCEDURE l;
+
+	END L;
+	BEGIN	
+	END idXg.

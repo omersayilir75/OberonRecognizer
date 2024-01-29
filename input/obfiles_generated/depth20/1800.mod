@@ -1,0 +1,13 @@
+MODULE eV;	PROCEDURE o(F : ARRAY ('7n' * ((''))) OF ARRAY ~(~Gp) OF ARRAY R OF RECORD E : BOOLEAN;
+km2GJJ, x, J_ : INTEGER END ; Rnk : RECORD R, ypOP : RECORD Wn, ms, B1, w : ARRAY Hf - f OF BOOLEAN END END);
+	VAR
+Nfs, Nr1hRE : RECORD t : RECORD C0qFT, O, rdw : ARRAY '''' OF r;
+E, ymO_34v : INTEGER END END;
+g : RECORD aqe : ARRAY -'' - f  DIV  T OF RECORD hA : BQ END;
+B : INTEGER END;
+
+	BEGIN
+	
+	END Y
+;CONSTU4Xns = '';
+	END eE.

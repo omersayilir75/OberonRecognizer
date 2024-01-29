@@ -1,0 +1,2 @@
+MODULE YG;
+		END t.

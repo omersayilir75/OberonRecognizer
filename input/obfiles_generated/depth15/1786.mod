@@ -1,0 +1,4 @@
+MODULE B1;
+	PROCEDURE U*;
+	END zT		;TYPE
+N2* = BOOLEAN;	END fB.

@@ -1,0 +1,7 @@
+MODULE VqXh;
+	PROCEDURE zR;
+
+	END Dk;PROCEDURE Y*;
+	END dC
+	;
+	END B.

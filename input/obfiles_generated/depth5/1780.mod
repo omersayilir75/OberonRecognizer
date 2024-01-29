@@ -1,0 +1,6 @@
+MODULE h;
+	PROCEDURE iu_2X*;
+
+	END R
+;
+	END X.

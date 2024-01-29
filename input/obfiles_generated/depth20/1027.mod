@@ -1,0 +1,5 @@
+MODULE V;
+	PROCEDURE FA(n : INTEGER ; dDY, G, FK6 : ARRAY PH[-GYw()].P OF RECORD Wzz, IyJ : ARRAY ~Q4 * yN() <= v OF INTEGER END);
+	END U
+				;
+	END s.

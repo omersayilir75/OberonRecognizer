@@ -1,0 +1,4 @@
+MODULE e;
+	PROCEDURE IP7;	END mC2Z8IvG
+	;
+	END C.

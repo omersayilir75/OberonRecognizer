@@ -1,0 +1,3 @@
+MODULE D;	PROCEDURE eX;
+
+	END t;	END Mo.

@@ -1,0 +1,5 @@
+MODULE WjUCPu;
+	PROCEDURE y*;	END L
+	;
+	BEGIN	
+	END X.
