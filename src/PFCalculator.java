@@ -1,17 +1,13 @@
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.util.JSONPObject;
 import gen.no_whitespace.OberonGrammarLexer;
-import gen.no_whitespace.OberonGrammarParser;
-import netscape.javascript.JSObject;
 import org.antlr.v4.runtime.*;
-import org.antlr.v4.runtime.tree.*;
-
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.HashSet;
 import java.util.Hashtable;
-import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
@@ -25,13 +21,31 @@ public class PFCalculator {
 
     public static void main(String[] args) throws IOException {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
-//        String pathName = "C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\input\\obfiles";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName))) {
+        System.out.println("GA based input");
+        String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
             paths.parallel().forEach(PFCalculator::processFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        System.out.println("depth 10 input (+ original ob files)");
+        String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName_d10))) {
+            paths.parallel().forEach(PFCalculator::processFile);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("depth 20 input");
+        String pathName_d20 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_20\\generated_input";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName_d20))) {
+            paths.parallel().forEach(PFCalculator::processFile);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        new ObjectMapper().writeValue(new File("C:\\Users\\omer_\\Desktop\\precede_and_follow_all_datasets.json"), tokenNeighboursHashtable);
     }
 
     private static void processFile(Path directory) {
