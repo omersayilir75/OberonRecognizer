@@ -1,30 +1,30 @@
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.util.JSONPObject;
+import com.fasterxml.jackson.databind.module.SimpleModule;
 import gen.no_whitespace.OberonGrammarLexer;
 import org.antlr.v4.runtime.*;
+
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.HashSet;
 import java.util.Hashtable;
+import java.util.Iterator;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
 
-public class PFCalculator {
-    static AtomicInteger noPassed = new AtomicInteger(0);
-    static AtomicInteger noFailed = new AtomicInteger(0);
+public class PPCalculator {
     static AtomicInteger noProcessed = new AtomicInteger(0);
-    static FileWriter log;
-    static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable =  new Hashtable<Integer, TokenNeighbours>();
+    static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
 
     public static void main(String[] args) throws IOException {
         // Folder path:
         System.out.println("GA based input");
         String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
-            paths.parallel().forEach(PFCalculator::processFile);
+            paths.parallel().forEach(PPCalculator::processFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -32,7 +32,7 @@ public class PFCalculator {
         System.out.println("depth 10 input (+ original ob files)");
         String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_d10))) {
-            paths.parallel().forEach(PFCalculator::processFile);
+            paths.parallel().forEach(PPCalculator::processFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -40,12 +40,33 @@ public class PFCalculator {
         System.out.println("depth 20 input");
         String pathName_d20 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_20\\generated_input";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_d20))) {
-            paths.parallel().forEach(PFCalculator::processFile);
+            paths.parallel().forEach(PPCalculator::processFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        new ObjectMapper().writeValue(new File("C:\\Users\\omer_\\Desktop\\precede_and_follow_all_datasets.json"), tokenNeighboursHashtable);
+        ObjectMapper mapper = new ObjectMapper();
+        SimpleModule module = new SimpleModule();
+        module.addSerializer(TokenTypePair.class, new TokenTypePairSerializer());
+        mapper.registerModule(module);
+
+        mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\precede_and_follow_all_datasets.json"), tokenNeighboursHashtable);
+
+        HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
+        for (int i : tokenNeighboursHashtable.keySet()) {
+            TokenNeighbours neighbours = tokenNeighboursHashtable.get(i);
+            if (neighbours != null) {
+                for (int j : tokenNeighboursHashtable.keySet()) {
+                    if (!(neighbours.follow.contains(j))) {
+                        TokenTypePair pair = new TokenTypePair();
+                        pair.first = i;
+                        pair.second = j;
+                        poisonedPairs.add(pair);
+                    }
+                }
+            }
+        }
+        mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\poisoned_pairs_ob0.json"), poisonedPairs);
     }
 
     private static void processFile(Path directory) {
@@ -78,16 +99,16 @@ public class PFCalculator {
 
                 }
                 noProcessed.incrementAndGet();
-                if (noProcessed.get() % 1000 == 0 ){
+                if (noProcessed.get() % 1000 == 0) {
                     System.out.println("Processed " + noProcessed.get() + " files.");
                 }
             } catch (IOException e) {
                 e.printStackTrace();
             } finally {
-                if (reader != null){
-                    try{
+                if (reader != null) {
+                    try {
                         reader.close();
-                    }catch (IOException e){
+                    } catch (IOException e) {
                         e.printStackTrace();
                     }
 

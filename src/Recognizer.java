@@ -22,7 +22,7 @@ public class Recognizer {
 
     public static void main(String[] args) throws IOException {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\obgensamples\\depth_10\\generated_input";
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
 
         log = new FileWriter("log.txt");
 
