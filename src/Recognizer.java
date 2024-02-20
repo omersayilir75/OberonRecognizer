@@ -22,7 +22,7 @@ public class Recognizer {
 
     public static void main(String[] args) throws IOException {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev";
 
         log = new FileWriter("log.txt");
 
@@ -52,12 +52,12 @@ public class Recognizer {
                 ParseTree tree = parser.moduleDefinition();
 
                 if (parser.getNumberOfSyntaxErrors() == 0) {
-//                        System.out.println(program.getName() + " PASS");
-//                          log.write(program.getPath() + " PASS\n");
+                        System.out.println(program.getName() + " PASS");
+                          log.write(program.getPath() + " PASS\n");
                     noPassed.incrementAndGet();
                 } else {
-                    System.out.println(program.getName() + " FAIL");
-                    log.write(program.getPath() + " FAIL\n");
+//                    System.out.println(program.getName() + " FAIL");
+//                    log.write(program.getPath() + " FAIL\n");
                     noFailed.incrementAndGet();
                 }
                 noProcessed.incrementAndGet();

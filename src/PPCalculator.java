@@ -18,8 +18,9 @@ import java.util.stream.Stream;
 public class PPCalculator {
     static AtomicInteger noProcessed = new AtomicInteger(0);
     static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
+    static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
 
-    public static void main(String[] args) throws IOException {
+    public static HashSet<TokenTypePair> calculatePoisonedPairs() throws IOException {
         // Folder path:
         System.out.println("GA based input");
         String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
@@ -52,21 +53,20 @@ public class PPCalculator {
 
         mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\precede_and_follow_all_datasets.json"), tokenNeighboursHashtable);
 
-        HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
+
         for (int i : tokenNeighboursHashtable.keySet()) {
             TokenNeighbours neighbours = tokenNeighboursHashtable.get(i);
             if (neighbours != null) {
                 for (int j : tokenNeighboursHashtable.keySet()) {
                     if (!(neighbours.follow.contains(j))) {
-                        TokenTypePair pair = new TokenTypePair();
-                        pair.first = i;
-                        pair.second = j;
+                        TokenTypePair pair = new TokenTypePair(i, j);
                         poisonedPairs.add(pair);
                     }
                 }
             }
         }
         mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\poisoned_pairs_ob0.json"), poisonedPairs);
+        return poisonedPairs;
     }
 
     private static void processFile(Path directory) {
