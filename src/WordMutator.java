@@ -1,15 +1,17 @@
 import gen.no_whitespace.OberonGrammarLexer;
+import jdk.jshell.spi.ExecutionControl;
 import org.antlr.v4.runtime.*;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.HashSet;
+import java.util.Hashtable;
+import java.util.stream.Stream;
 
 public class WordMutator {
+    static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
+    static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
     public static void main(String[] args) throws IOException {
-        HashSet<TokenTypePair> poisonedPairs = PPCalculator.calculatePoisonedPairs();
+        PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances);
         BufferedReader reader = null;
         // file to test on:
         String filePath = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input\\obfiles\\testoberon0.mod";
@@ -35,16 +37,82 @@ public class WordMutator {
             //token deletion:
             tokenDeletion(filePath, i, poisonedPairs);
 
-            //token insertion:
-            // for all pps that start with token, perform token insertion and save and save.
+            // token insertion:
+            tokenInsertion(filePath, i ,poisonedPairs, tokenInstances);
 
-            //token substitution :
-            // for all pps that start with token, substitute nextToken with an instance of one of the poisoned right part
+            // token substitution :
+            tokenSubstitution(filePath, i ,poisonedPairs, tokenInstances);
 
             //token transposition:
             tokenTransposition(filePath, i, poisonedPairs);
         }
 
+
+
+    }
+
+    private static void tokenSubstitution(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances) throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(filePath));
+        CharStream input = CharStreams.fromReader(reader);
+        OberonGrammarLexer lexer = new OberonGrammarLexer(input);
+        CommonTokenStream tokens = new CommonTokenStream(lexer);
+        tokens.fill();
+
+        Token token = tokens.get(currentPos);
+        Token nextToken = currentPos < tokens.size() - 1 ? tokens.get(currentPos + 1) : null;
+        if (nextToken != null) {
+            int tokenType = token.getType();
+            //get poisoned pairs for tokenType:
+            TokenTypePair[] poisonedPairsForToken = poisonedPairs.stream().filter(p -> p.first == tokenType).toArray(TokenTypePair[]::new);
+            // for each poisoned pair, create a new file where the pp token is inserted
+            for (TokenTypePair pp : poisonedPairsForToken) {
+                String toInsert = tokenInstances.get(pp.second);
+                TokenStreamRewriter rewriter = new TokenStreamRewriter(tokens);
+                rewriter.replace(nextToken, toInsert);
+
+                spaceSerializer(rewriter, tokens);
+
+                String modifiedProgram = rewriter.getText();
+                FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_" + currentPos + '_' + pp.second + "_tokenSubstitution.mod");
+                try (writer) {
+                    writer.write(modifiedProgram);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    }
+
+    private static void tokenInsertion(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances) throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(filePath));
+        CharStream input = CharStreams.fromReader(reader);
+        OberonGrammarLexer lexer = new OberonGrammarLexer(input);
+        CommonTokenStream tokens = new CommonTokenStream(lexer);
+        tokens.fill();
+
+        Token token = tokens.get(currentPos);
+
+        int tokenType = token.getType();
+
+        //get poisoned pairs for tokenType:
+        TokenTypePair[] poisonedPairsForToken = poisonedPairs.stream().filter(p -> p.first == tokenType).toArray(TokenTypePair[]::new);
+        // for each poisoned pair, create a new file where the pp token is inserted
+        for(TokenTypePair pp : poisonedPairsForToken){
+            String toInsert = tokenInstances.get(pp.second);
+            toInsert = " " + toInsert; //add space
+            TokenStreamRewriter rewriter = new TokenStreamRewriter(tokens);
+            rewriter.insertAfter(token, toInsert);
+
+            spaceSerializer(rewriter,tokens);
+
+            String modifiedProgram = rewriter.getText();
+            FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_" + currentPos + '_' + pp.second + "_tokenInsertion.mod");
+            try(writer){
+                writer.write(modifiedProgram);
+            } catch(IOException e){
+                e.printStackTrace();
+            }
+        }
 
 
     }
@@ -185,9 +253,6 @@ public class WordMutator {
             }
         }
     }
-
-
-
     private static void tokenSwapper (Token left, Token right, TokenStreamRewriter rewriter){
         String leftText = left.getText();
         String rightText = right.getText();
@@ -196,5 +261,10 @@ public class WordMutator {
         rewriter.replace(right, leftText);
     }
 
-
+    private static void spaceSerializer (TokenStreamRewriter rewriter, CommonTokenStream tokens) {
+        for (int i=0; i<tokens.size(); i++) {
+            Token cur = tokens.get(i);
+            rewriter.insertAfter(cur, " ");
+        }
+    }
 }
