@@ -1,55 +1,77 @@
 import gen.no_whitespace.OberonGrammarLexer;
-import jdk.jshell.spi.ExecutionControl;
 import org.antlr.v4.runtime.*;
 
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.HashSet;
 import java.util.Hashtable;
+import java.util.UUID;
 import java.util.stream.Stream;
 
-
-//TODO: see why the positive samples keep getting generated...
 public class WordMutator {
     static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
     static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
 
+    static String targetPath = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev";
+
     public static void main(String[] args) throws IOException {
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances);
-        BufferedReader reader = null;
-        // file to test on:
-        String filePath = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input\\obfiles\\testoberon0.mod";
-        // open and create a tokenstream:
-        reader = new BufferedReader(new FileReader(filePath));
-        CharStream input = CharStreams.fromReader(reader);
-        OberonGrammarLexer lexer = new OberonGrammarLexer(input);
-        CommonTokenStream tokens = new CommonTokenStream(lexer);
-        tokens.fill();
 
-        for (int i = 0; i < tokens.size(); i++) {
-
-            Token prevToken = i > 0 ? tokens.get(i - 1) : null;
-            Token token = tokens.get(i);
-            Token nextToken = i < tokens.size() - 1 ? tokens.get(i + 1) : null;
-
-            // conditions of predicate 1
-
-            //token deletion:
-            tokenDeletion(filePath, i, poisonedPairs);
-
-            // token insertion:
-            tokenInsertion(filePath, i ,poisonedPairs, tokenInstances);
-
-            // token substitution :
-            tokenSubstitution(filePath, i, poisonedPairs, tokenInstances);
-
-            //token transposition:
-            tokenTransposition(filePath, i, poisonedPairs);
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\input";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName))) {
+            paths.parallel().forEach(WordMutator::processFile);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-
-
     }
 
-    private static void tokenSubstitution(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances) throws IOException {
+    private static void processFile(Path directory) {
+        BufferedReader reader = null;
+        File program = directory.toFile();
+
+        if (program.isFile()) {  //walk also goes through dirs...
+            try {
+                // file to test on:
+                String filePath = program.getAbsolutePath();
+                // open and create a tokenstream:
+                reader = new BufferedReader(new FileReader(filePath));
+                CharStream input = CharStreams.fromReader(reader);
+                OberonGrammarLexer lexer = new OberonGrammarLexer(input);
+                CommonTokenStream tokens = new CommonTokenStream(lexer);
+                tokens.fill();
+
+                String filename = program.getName();
+                for (int i = 0; i < tokens.size(); i++) {
+                    // conditions of predicate 1
+                    //token deletion:
+                    tokenDeletion(filePath, i, poisonedPairs, filename);
+                    // token insertion:
+                    tokenInsertion(filePath, i ,poisonedPairs, tokenInstances, filename);
+                    // token substitution :
+                    tokenSubstitution(filePath, i, poisonedPairs, tokenInstances, filename);
+                    //token transposition:
+                    tokenTransposition(filePath, i, poisonedPairs, filename);
+                }
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            } finally {
+                if (reader != null){
+                    try{
+                        reader.close();
+                    }catch (IOException e){
+                        e.printStackTrace();
+                    }
+
+                }
+
+            }
+        }
+    }
+
+    private static void tokenSubstitution(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances, String filename) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
         OberonGrammarLexer lexer = new OberonGrammarLexer(input);
@@ -73,7 +95,8 @@ public class WordMutator {
                 spaceSerializer(rewriter, tokens);
 
                 String modifiedProgram = rewriter.getText();
-                FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_prev_" + currentPos + '_' + pp.first + "_tokenSubstitution.mod");
+                UUID uuid = UUID.randomUUID();
+                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
                 try (writer) {
                     writer.write(modifiedProgram);
                 } catch (IOException e) {
@@ -95,7 +118,8 @@ public class WordMutator {
                 spaceSerializer(rewriter, tokens);
 
                 String modifiedProgram = rewriter.getText();
-                FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_next_" + currentPos + '_' + pp.second + "_tokenSubstitution.mod");
+                UUID uuid = UUID.randomUUID();
+                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
                 try (writer) {
                     writer.write(modifiedProgram);
                 } catch (IOException e) {
@@ -105,7 +129,7 @@ public class WordMutator {
         }
     }
 
-    private static void tokenInsertion(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances) throws IOException {
+    private static void tokenInsertion(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances, String filename) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
         OberonGrammarLexer lexer = new OberonGrammarLexer(input);
@@ -128,7 +152,8 @@ public class WordMutator {
             spaceSerializer(rewriter, tokens);
 
             String modifiedProgram = rewriter.getText();
-            FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_insert_after_" + currentPos + '_' + pp.second + "_tokenInsertion.mod");
+            UUID uuid = UUID.randomUUID();
+            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
@@ -147,7 +172,8 @@ public class WordMutator {
             spaceSerializer(rewriter, tokens);
 
             String modifiedProgram = rewriter.getText();
-            FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_insert_before_" + currentPos + '_' + pp.first + "_tokenInsertion.mod");
+            UUID uuid = UUID.randomUUID();
+            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" +filename);
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
@@ -158,7 +184,7 @@ public class WordMutator {
 
     }
 
-    private static void tokenDeletion(String filePath, Integer currentPos, HashSet<TokenTypePair> poisonedPairs) throws IOException {
+    private static void tokenDeletion(String filePath, Integer currentPos, HashSet<TokenTypePair> poisonedPairs, String filename) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
         OberonGrammarLexer lexer = new OberonGrammarLexer(input);
@@ -169,8 +195,7 @@ public class WordMutator {
         Token token = tokens.get(currentPos);
         Token nextToken = currentPos < tokens.size() - 1 ? tokens.get(currentPos + 1) : null;
 
-        int prevType = prevToken != null ? prevToken.getType() : -2; // -1 reserved for EOF
-        int tokenType = token.getType();
+        int prevType = prevToken != null ? prevToken.getType() : -2;
         int nextType = nextToken != null ? nextToken.getType() : -2;
 
         TokenTypePair searchToken = new TokenTypePair(prevType, nextType);
@@ -186,7 +211,8 @@ public class WordMutator {
             }
 
             String modifiedProgram = rewriter.getText();
-            FileWriter writer = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_" + currentPos + "_tokenDeletion.mod");
+            UUID uuid = UUID.randomUUID();
+            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
@@ -195,7 +221,7 @@ public class WordMutator {
         }
     }
 
-    private static void tokenTransposition(String filePath, Integer currentPos, HashSet<TokenTypePair> poisonedPairs) throws IOException {
+    private static void tokenTransposition(String filePath, Integer currentPos, HashSet<TokenTypePair> poisonedPairs, String filename) throws IOException {
 
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
@@ -225,7 +251,8 @@ public class WordMutator {
                     tokenSwapper(nextToken, nextNextToken, rewriterCase1);
                     spaceSerializer(rewriterCase1, tokens);
                     String modifiedProgramCase1 = rewriterCase1.getText();
-                    FileWriter writerCase1 = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_" + currentPos + "_case1_" + "_tokenTransposition.mod");
+                    UUID uuidCase1 = UUID.randomUUID();
+                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuidCase1  + "_" +  filename);
                     try (writerCase1) {
                         writerCase1.write(modifiedProgramCase1);
                     } catch (IOException e) {
@@ -236,7 +263,8 @@ public class WordMutator {
                     tokenSwapper(token, nextToken, rewriterCase3);
                     spaceSerializer(rewriterCase3, tokens);
                     String modifiedProgramCase3 = rewriterCase3.getText();
-                    FileWriter writerCase3 = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_" + currentPos + "_case3_" + "_tokenTransposition.mod");
+                    UUID uuidCase3 = UUID.randomUUID();
+                    FileWriter writerCase3 = new FileWriter(targetPath + "\\" + uuidCase3 + "_" + filename);
                     try (writerCase3) {
                         writerCase3.write(modifiedProgramCase3);
                     } catch (IOException e) {
@@ -248,7 +276,8 @@ public class WordMutator {
                     tokenSwapper(token, prevToken, rewriter);
                     spaceSerializer(rewriter, tokens);
                     String modifiedProgramCase1 = rewriter.getText();
-                    FileWriter writerCase1 = new FileWriter("C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev\\testoberon0_" + currentPos + "_case2_" + "_tokenTransposition.mod");
+                    UUID uuid = UUID.randomUUID();
+                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
                     try (writerCase1) {
                         writerCase1.write(modifiedProgramCase1);
                     } catch (IOException e) {
