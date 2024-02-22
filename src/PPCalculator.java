@@ -21,13 +21,6 @@ public class PPCalculator {
 
     public static void calculatePoisonedPairs(HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances) throws IOException {
         // Folder path:
-        System.out.println("GA based input");
-        String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
-              paths.parallel().forEach(p -> processFile(p,tokenInstances));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
         System.out.println("positives found from word mutation input");
         String pathName_WM = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\cases_from_word_mutation";
@@ -36,6 +29,15 @@ public class PPCalculator {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        System.out.println("GA based input");
+        String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
+              paths.parallel().forEach(p -> processFile(p,tokenInstances));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
 
         System.out.println("depth 10 input (+ original ob files)");
         String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
@@ -93,16 +95,19 @@ public class PPCalculator {
                     Token nextToken = i < tokens.size() - 1 ? tokens.get(i + 1) : null;
 
                     int tokenType = token.getType();
-                    int prevType = prevToken != null ? prevToken.getType() : -2; // -1 reserved for EOF
-                    int nextType = nextToken != null ? nextToken.getType() : -2;
 
-                    TokenNeighbours neighbours = tokenNeighboursHashtable.getOrDefault(tokenType, null);
-                    tokenInstances.put(tokenType, token.getText());
+                    if (tokenType != -1) { // not doing -1, EOF is a token but not text that can be injected mid-file...
+                        int prevType = prevToken != null ? prevToken.getType() : -2; // -1 reserved for EOF
+                        int nextType = nextToken != null ? nextToken.getType() : -2;
 
-                    if (neighbours == null) neighbours = new TokenNeighbours();
-                    if (prevType != -2) neighbours.precede.add(prevType);
-                    if (nextType != -2) neighbours.follow.add(nextType);
-                    tokenNeighboursHashtable.put(tokenType, neighbours);
+                        TokenNeighbours neighbours = tokenNeighboursHashtable.getOrDefault(tokenType, null);
+                        tokenInstances.put(tokenType, token.getText());
+
+                        if (neighbours == null) neighbours = new TokenNeighbours();
+                        if (prevType != -2 && prevType != -1) neighbours.precede.add(prevType);
+                        if (nextType != -2 && nextType != -1) neighbours.follow.add(nextType);
+                        tokenNeighboursHashtable.put(tokenType, neighbours);
+                    }
 
                 }
                 noProcessed.incrementAndGet();
