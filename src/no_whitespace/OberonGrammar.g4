@@ -4,7 +4,7 @@ moduleDefinition:
 		MODULE n=ID ';'
 		declarations
 		block
-		'.'
+		'.' EOF
 		;
 
 declarations:
