@@ -5,11 +5,9 @@ import com.fasterxml.jackson.databind.ser.std.StdSerializer;
 import java.io.IOException;
 
 public class TokenTypePairSerializer extends StdSerializer<TokenTypePair> {
-
     public TokenTypePairSerializer() {
         this(null);
     }
-
     public TokenTypePairSerializer(Class<TokenTypePair> t) {
         super(t);
     }

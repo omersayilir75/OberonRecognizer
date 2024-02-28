@@ -15,9 +15,7 @@ import java.util.stream.Stream;
 public class Recognizer {
     static AtomicInteger noPassed = new AtomicInteger(0);
     static AtomicInteger noFailed = new AtomicInteger(0);
-
     static AtomicInteger noProcessed = new AtomicInteger(0);
-
     static FileWriter log;
 
     public static void main(String[] args) throws IOException {
