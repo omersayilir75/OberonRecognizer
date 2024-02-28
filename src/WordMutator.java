@@ -13,9 +13,10 @@ import java.util.stream.Stream;
 public class WordMutator {
     static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
     static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
+    static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
     static String targetPath = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev";
     public static void main(String[] args) throws IOException {
-        PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances);
+        PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
 
         String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\input";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName))) {

@@ -17,15 +17,25 @@ import java.util.stream.Stream;
 
 public class PPCalculator {
     static AtomicInteger noProcessed = new AtomicInteger(0);
-    static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
 
-    public static void calculatePoisonedPairs(HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances) throws IOException {
+    public static void calculatePoisonedPairs(HashSet<TokenTypePair> poisonedPairs,
+                                              Hashtable<Integer, String> tokenInstances,
+                                              Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable) throws IOException {
         // Folder path:
+
+
+        System.out.println("Handwritten compiler tests");
+        String pathName_comptests = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\compiler_test_cases";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName_comptests))) {
+            paths.parallel().forEach(p -> processFile(p,tokenInstances, tokenNeighboursHashtable));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         System.out.println("positives found from word mutation input");
         String pathName_WM = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\cases_from_word_mutation";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_WM))) {
-            paths.parallel().forEach(p -> processFile(p,tokenInstances));
+            paths.parallel().forEach(p -> processFile(p,tokenInstances, tokenNeighboursHashtable));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -33,7 +43,7 @@ public class PPCalculator {
         System.out.println("GA based input");
         String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
-              paths.parallel().forEach(p -> processFile(p,tokenInstances));
+              paths.parallel().forEach(p -> processFile(p,tokenInstances, tokenNeighboursHashtable));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -42,7 +52,7 @@ public class PPCalculator {
         System.out.println("depth 10 input (+ original ob files)");
         String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_d10))) {
-            paths.parallel().forEach(p -> processFile(p, tokenInstances));
+            paths.parallel().forEach(p -> processFile(p, tokenInstances, tokenNeighboursHashtable));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -50,7 +60,7 @@ public class PPCalculator {
         System.out.println("depth 20 input");
         String pathName_d20 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_20\\generated_input";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_d20))) {
-            paths.parallel().forEach(p -> processFile(p, tokenInstances));
+            paths.parallel().forEach(p -> processFile(p, tokenInstances, tokenNeighboursHashtable));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -77,7 +87,8 @@ public class PPCalculator {
         mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\poisoned_pairs_ob0.json"), poisonedPairs);
     }
 
-    private static void processFile(Path directory, Hashtable<Integer, String> tokenInstances) {
+    private static void processFile(Path directory, Hashtable<Integer, String> tokenInstances, Hashtable<Integer,
+            TokenNeighbours> tokenNeighboursHashtable) {
         BufferedReader reader = null;
         File program = directory.toFile();
 
