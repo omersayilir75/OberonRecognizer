@@ -14,7 +14,7 @@ public class WordMutator {
     static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
     static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
     static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
-    static String targetPath = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev";
+    static String targetPath = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\output";
     public static void main(String[] args) throws IOException {
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
 
@@ -52,6 +52,8 @@ public class WordMutator {
                     //token transposition:
                     tokenTransposition(filePath, i, poisonedPairs, filename);
                 }
+
+                System.out.println("Word mutation completed for file " + program.getName() + '.');
 
             } catch (IOException e) {
                 e.printStackTrace();
@@ -94,7 +96,7 @@ public class WordMutator {
 
                 String modifiedProgram = rewriter.getText();
                 UUID uuid = UUID.randomUUID();
-                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
+                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
                 try (writer) {
                     writer.write(modifiedProgram);
                 } catch (IOException e) {
@@ -117,7 +119,7 @@ public class WordMutator {
 
                 String modifiedProgram = rewriter.getText();
                 UUID uuid = UUID.randomUUID();
-                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
+                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
                 try (writer) {
                     writer.write(modifiedProgram);
                 } catch (IOException e) {
@@ -151,7 +153,7 @@ public class WordMutator {
 
             String modifiedProgram = rewriter.getText();
             UUID uuid = UUID.randomUUID();
-            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
+            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
@@ -171,7 +173,7 @@ public class WordMutator {
 
             String modifiedProgram = rewriter.getText();
             UUID uuid = UUID.randomUUID();
-            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" +filename);
+            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" +filename + ".txt");
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
@@ -210,7 +212,7 @@ public class WordMutator {
 
             String modifiedProgram = rewriter.getText();
             UUID uuid = UUID.randomUUID();
-            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
+            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
@@ -250,7 +252,7 @@ public class WordMutator {
                     spaceSerializer(rewriterCase1, tokens);
                     String modifiedProgramCase1 = rewriterCase1.getText();
                     UUID uuidCase1 = UUID.randomUUID();
-                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuidCase1  + "_" +  filename);
+                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuidCase1  + "_" +  filename + ".txt");
                     try (writerCase1) {
                         writerCase1.write(modifiedProgramCase1);
                     } catch (IOException e) {
@@ -262,7 +264,7 @@ public class WordMutator {
                     spaceSerializer(rewriterCase3, tokens);
                     String modifiedProgramCase3 = rewriterCase3.getText();
                     UUID uuidCase3 = UUID.randomUUID();
-                    FileWriter writerCase3 = new FileWriter(targetPath + "\\" + uuidCase3 + "_" + filename);
+                    FileWriter writerCase3 = new FileWriter(targetPath + "\\" + uuidCase3 + "_" + filename + ".txt");
                     try (writerCase3) {
                         writerCase3.write(modifiedProgramCase3);
                     } catch (IOException e) {
@@ -275,7 +277,7 @@ public class WordMutator {
                     spaceSerializer(rewriter, tokens);
                     String modifiedProgramCase1 = rewriter.getText();
                     UUID uuid = UUID.randomUUID();
-                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuid + "_" + filename);
+                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
                     try (writerCase1) {
                         writerCase1.write(modifiedProgramCase1);
                     } catch (IOException e) {

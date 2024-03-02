@@ -20,7 +20,7 @@ public class Recognizer {
 
     public static void main(String[] args) throws IOException {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\indev";
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\output";
 
         log = new FileWriter("log.txt");
 

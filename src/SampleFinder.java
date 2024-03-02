@@ -8,27 +8,23 @@ import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.HashSet;
-import java.util.Hashtable;
+import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
 public class SampleFinder {
-    /*
-     * go through positive samples
-     * check per token which predecessors and successors have been encountered
-     * remove the encountered ones from the arrays in the hashtable
-     * continue until hashtable is empty.
-     */
+
     static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
     static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
     static AtomicInteger noChecked = new AtomicInteger(0);
     static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
     static HashSet<String> pickedFiles = new HashSet<>();
     static FileWriter log;
+    static FileWriter csv;
 
     public static void main(String[] args) throws IOException {
         log = new FileWriter("log.txt");
+        csv = new FileWriter("details.csv");
 
         // populate tokenNeighboursHashtable
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
@@ -36,7 +32,7 @@ public class SampleFinder {
         System.out.println("Handwritten compiler tests");
         String pathName_comptests = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\compiler_test_cases";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_comptests))) {
-            paths.parallel().forEach(SampleFinder::checkFile);
+            paths.sorted(Comparator.comparing(p ->p.toFile().length())).forEach(SampleFinder::checkFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -45,24 +41,7 @@ public class SampleFinder {
         System.out.println("GA based input");
         String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
-            paths.parallel().forEach(SampleFinder::checkFile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-
-        System.out.println("depth 10 input");
-        String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_10\\generated_input";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName_d10))) {
-            paths.parallel().forEach(SampleFinder::checkFile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        System.out.println("depth 20 input");
-        String pathName_d20 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\depth_20\\generated_input";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName_d20))) {
-            paths.parallel().forEach(SampleFinder::checkFile);
+            paths.sorted(Comparator.comparing(p ->p.toFile().length())).forEach(SampleFinder::checkFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -70,7 +49,7 @@ public class SampleFinder {
         System.out.println("positives found from word mutation input");
         String pathName_WM = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\cases_from_word_mutation";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_WM))) {
-            paths.parallel().forEach(SampleFinder::checkFile);
+            paths.sorted(Comparator.comparing(p ->p.toFile().length())).forEach(SampleFinder::checkFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -79,6 +58,7 @@ public class SampleFinder {
         }
 
         log.close();
+        csv.close();
     }
 
     private static void checkFile(Path directory) {
@@ -114,7 +94,6 @@ public class SampleFinder {
                         int nextType = nextToken != null ? nextToken.getType() : -2;
 
                         TokenNeighbours neighbours = tokenNeighboursCurrentFile.getOrDefault(tokenType, null);
-                        tokenInstances.put(tokenType, token.getText());
 
                         if (neighbours == null) neighbours = new TokenNeighbours();
                         if (prevType != -2 && prevType != -1) neighbours.precede.add(prevType);
@@ -131,12 +110,26 @@ public class SampleFinder {
 
                             boolean removedPreceding = false;
                             boolean removedFollowing = false;
+                            List<Integer> tokensRemovedPrecede = new LinkedList<>();
+                            List<Integer> tokensRemovedFollow = new LinkedList<>();
+
 
                             for (int j : neighbours.precede) {
                                 removedPreceding = allNeighboursOfTokenType.precede.remove(j);
+                                if (removedPreceding){
+                                    tokensRemovedPrecede.add(j);
+                                }
                             }
                             for (int j : neighbours.follow) {
                                 removedFollowing = allNeighboursOfTokenType.follow.remove(j);
+                                if (removedFollowing){
+                                    tokensRemovedFollow.add(j);
+                                }
+                            }
+
+
+                            if (!tokensRemovedPrecede.isEmpty() || !tokensRemovedFollow.isEmpty()) {
+                                csv.write(program.getPath() + ';' + i  + ';' + tokensRemovedPrecede + ';' + tokensRemovedFollow + '\n');
                             }
 
                             if (removedFollowing || removedPreceding) pickedFiles.add(programPath); // only add to log if something changed

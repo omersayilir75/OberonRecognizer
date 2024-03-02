@@ -84,7 +84,7 @@ public class PPCalculator {
                 }
             }
         }
-        mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\poisoned_pairs_ob0.json"), poisonedPairs);
+        mapper.writeValue(new File("C:\\Users\\omer_\\IdeaProjects\\OberonRecognizer\\poisoned_pairs.json"), poisonedPairs);
     }
 
     private static void processFile(Path directory, Hashtable<Integer, String> tokenInstances, Hashtable<Integer,
