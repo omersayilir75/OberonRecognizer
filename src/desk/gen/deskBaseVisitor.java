@@ -1,7 +1,7 @@
 // Generated from C:/Users/omer_/IdeaProjects/OberonRecognizer/src/desk/grammar/desk.g4 by ANTLR 4.13.1
 package desk.gen;
-import desk.grammar.deskParser;
-import desk.grammar.deskVisitor;
+import desk.gen.deskParser;
+import desk.gen.deskVisitor;
 import org.antlr.v4.runtime.tree.AbstractParseTreeVisitor;
 
 /**

@@ -1,8 +1,8 @@
 // Generated from C:/Users/omer_/IdeaProjects/OberonRecognizer/src/desk/grammar/desk.g4 by ANTLR 4.13.1
 package desk.gen;
 
-import desk.grammar.deskListener;
-import desk.grammar.deskParser;
+import desk.gen.deskListener;
+import desk.gen.deskParser;
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;
 import org.antlr.v4.runtime.tree.TerminalNode;
