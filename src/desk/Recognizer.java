@@ -1,8 +1,9 @@
 package desk;
 
 
-import desk.gen.deskLexer;
-import desk.gen.deskParser;
+
+import desk.desk.grammar.deskTerminalOnlyLexer;
+import desk.desk.grammar.deskTerminalOnlyParser;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
@@ -24,7 +25,7 @@ public class Recognizer {
 
     public static void main(String[] args) throws IOException {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\desk\\wordmutation\\output";
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\desk\\terminalOnly\\generated\\depth10";
 
         log = new FileWriter("log.txt");
 
@@ -48,10 +49,11 @@ public class Recognizer {
                 String programPath = program.getAbsolutePath();
                 reader = new BufferedReader(new FileReader(programPath));
                 CharStream input = CharStreams.fromReader(reader);
-                deskLexer lexer = new deskLexer(input);
+                deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
                 CommonTokenStream tokens = new CommonTokenStream(lexer);
-                deskParser parser = new deskParser(tokens);
+                deskTerminalOnlyParser parser = new deskTerminalOnlyParser(tokens);
                 ParseTree tree = parser.desk();
+
 
                 if (parser.getNumberOfSyntaxErrors() == 0) {
 //                        System.out.println(program.getName() + " PASS");

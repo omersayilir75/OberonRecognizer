@@ -1,6 +1,6 @@
 package desk;
 
-import desk.gen.deskLexer;
+import desk.desk.grammar.deskTerminalOnlyLexer;
 import org.antlr.v4.runtime.*;
 
 import java.io.*;
@@ -20,7 +20,7 @@ public class WordMutator {
     static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
     static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
     static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
-    static String targetBase = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\desk\\wordmutation\\output\\subfolder";
+    static String targetBase = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\desk\\wordmutation\\terminalOnly\\output\\subfolder";
     static AtomicInteger currentOutputSubfolder = new AtomicInteger(1);
     static String targetPath;
     static AtomicInteger filesCreated = new AtomicInteger(0);
@@ -29,7 +29,7 @@ public class WordMutator {
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
         targetPath = targetBase + currentOutputSubfolder.get();
         Files.createDirectory(Paths.get(targetPath));
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\desk\\wordmutation\\input";
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\desk\\wordmutation\\terminalOnly\\input";
         processDir(pathName);
 
     }
@@ -52,7 +52,7 @@ public class WordMutator {
                 // open and create a tokenstream:
                 reader = new BufferedReader(new FileReader(filePath));
                 CharStream input = CharStreams.fromReader(reader);
-                deskLexer lexer = new deskLexer(input);
+                deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
                 CommonTokenStream tokens = new CommonTokenStream(lexer);
                 tokens.fill();
 
@@ -129,7 +129,7 @@ public class WordMutator {
     private static void tokenSubstitution(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances, String filename) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
-        deskLexer lexer = new deskLexer(input);
+        deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
         CommonTokenStream tokens = new CommonTokenStream(lexer);
         tokens.fill();
 
@@ -193,7 +193,7 @@ public class WordMutator {
     private static void tokenInsertion(String filePath, int currentPos, HashSet<TokenTypePair> poisonedPairs, Hashtable<Integer, String> tokenInstances, String filename) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
-        deskLexer lexer = new deskLexer(input);
+        deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
         CommonTokenStream tokens = new CommonTokenStream(lexer);
         tokens.fill();
 
@@ -254,7 +254,7 @@ public class WordMutator {
     private static void tokenDeletion(String filePath, Integer currentPos, HashSet<TokenTypePair> poisonedPairs, String filename) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
-        deskLexer lexer = new deskLexer(input);
+        deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
         CommonTokenStream tokens = new CommonTokenStream(lexer);
         tokens.fill();
 
@@ -295,7 +295,7 @@ public class WordMutator {
 
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         CharStream input = CharStreams.fromReader(reader);
-        deskLexer lexer = new deskLexer(input);
+        deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
         CommonTokenStream tokens = new CommonTokenStream(lexer);
         tokens.fill();
 

@@ -1,7 +1,8 @@
 package desk;
 
 
-import desk.gen.deskLexer;
+
+import desk.desk.grammar.deskTerminalOnlyLexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
@@ -33,7 +34,7 @@ public class SampleFinder {
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
 
 
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\desk\\generated\\smaller_dataset";
+        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\desk\\terminalOnly\\generated\\depth10";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName))) {
             paths.filter(p -> p.toFile().isFile())
                     .sorted(Comparator.comparing((Path p) -> p.toFile().length()).thenComparing(Path::toString))
@@ -65,7 +66,7 @@ public class SampleFinder {
                 String programPath = program.getAbsolutePath();
                 reader = new BufferedReader(new FileReader(programPath));
                 CharStream input = CharStreams.fromReader(reader);
-                deskLexer lexer = new deskLexer(input);
+                deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
                 CommonTokenStream tokens = new CommonTokenStream(lexer);
                 tokens.fill();
 

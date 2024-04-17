@@ -3,7 +3,7 @@ package desk;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.module.SimpleModule;
 
-import desk.gen.deskLexer;
+import desk.desk.grammar.deskTerminalOnlyLexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
@@ -31,7 +31,7 @@ public class PPCalculator {
         // Folder path:
 
 
-        String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\desk\\generated\\smaller_dataset";
+        String pathName_d10 = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\desk\\terminalOnly\\generated\\depth10";
         try (Stream<Path> paths = Files.walk(Paths.get(pathName_d10))) {
             paths.parallel().forEach(p -> processFile(p, tokenInstances, tokenNeighboursHashtable));
         } catch (IOException e) {
@@ -71,7 +71,7 @@ public class PPCalculator {
                 String programPath = program.getAbsolutePath();
                 reader = new BufferedReader(new FileReader(programPath));
                 CharStream input = CharStreams.fromReader(reader);
-                deskLexer lexer = new deskLexer(input);
+                deskTerminalOnlyLexer lexer = new deskTerminalOnlyLexer(input);
                 CommonTokenStream tokens = new CommonTokenStream(lexer);
                 tokens.fill();
                 for (int i = 0; i < tokens.size(); i++) {
