@@ -1,6 +1,6 @@
 # OberonRecognizer
 
-This repository contains the code for a recognizer and a negative sample generator for the language Oberon.
+This repository contains the code for a recognizer and a negative sample generator for the language Oberon-0.
 
 
 
