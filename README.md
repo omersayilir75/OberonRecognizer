@@ -5,7 +5,7 @@ This repository contains the code for a recognizer and a negative sample generat
 
 
 
-Both tools rely on an ANTLR parser, the parser found in  `src/gen/no_whitespace` was generated with the BabyCobol grammar found in the file `src/no_whitespace/OberonGrammar.g4`.
+Both tools rely on an ANTLR parser, the parser found in  `src/gen/no_whitespace` was generated with the Oberon-0 grammar found in the file `src/no_whitespace/OberonGrammar.g4`.
 
 The negative sample generator is based on the word mutation method described by Raselimo, Taljaard and Fischer in their paper _Breaking parsers: mutation-based generation of programs with guaranteed syntax errors_ [[1]](#1).
 
