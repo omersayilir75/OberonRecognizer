@@ -1,6 +1,0 @@
-MODULE M;	PROCEDURE Ha*;
-
-	END ge;
-	BEGIN
-	
-	END b.

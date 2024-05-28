@@ -1,5 +1,0 @@
-MODULE M30;	PROCEDURE z;
-
-	END M
-		;
-	END W.

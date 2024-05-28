@@ -1,2 +1,0 @@
-MODULE ri80;
-		END bNaM.

@@ -1,3 +1,0 @@
-MODULE CO;
-	
-	END yY.

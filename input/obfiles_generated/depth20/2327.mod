@@ -1,2 +1,0 @@
-MODULE kHD;	
-	END Pp.

@@ -1,15 +1,0 @@
-MODULE iG6;
-	PROCEDURE v;
-
-	END L
-	;PROCEDURE Tt*;
-
-	END g4o;PROCEDURE e;	END V			;PROCEDURE MY;	END fb
-;PROCEDURE W;
-
-	END Augm
-	;	BEGIN
-	;
-	;
-	
-	END N.

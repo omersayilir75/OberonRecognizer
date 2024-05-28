@@ -1,3 +1,0 @@
-MODULE V7;
-	
-	END Nqm.

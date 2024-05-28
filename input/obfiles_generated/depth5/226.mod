@@ -1,9 +1,0 @@
-MODULE v;
-	PROCEDURE HW;
-
-	END v
-;PROCEDURE m*;
-
-	END n;PROCEDURE UQ*;
-	END nJ
-		;	BEGIN		END n.

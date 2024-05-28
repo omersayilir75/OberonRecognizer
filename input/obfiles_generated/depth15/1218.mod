@@ -1,4 +1,0 @@
-MODULE _;
-	TYPE
-PN = ARRAY pI(c) >= (s()) OF ARRAY O(h9, V()) OF ARRAY Q1oZu OF BOOLEAN;
-	END zO.

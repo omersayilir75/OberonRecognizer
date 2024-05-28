@@ -1,4 +1,0 @@
-MODULE A;	PROCEDURE U_;
-	END NVH4
-	;
-	END M.

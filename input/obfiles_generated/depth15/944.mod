@@ -1,4 +1,0 @@
-MODULE mD7;
-	TYPE
-L = RECORD K, i : r END;
-	END Sh9MQ79Z.

@@ -1,22 +1,0 @@
-MODULE S;
-	PROCEDURE p;
-
-	END QP
-;PROCEDURE U;
-	BEGIN
-	j := v()
-	END b
-;PROCEDURE lx*;
-	PROCEDURE ER9yy1*;
-
-	BEGIN
-	Ud	END I3S2
-			;
-	END yVHH
-				;
-	BEGIN	WHILE b DO
-	
-END;
-	REPEAT	
-	UNTIL (K())
-	END c.

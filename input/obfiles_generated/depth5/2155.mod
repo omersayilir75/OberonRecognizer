@@ -1,8 +1,0 @@
-MODULE j;
-	PROCEDURE c;
-
-	END otL7	;PROCEDURE Swn;
-
-	END w
-	;
-	END _.

@@ -1,2 +1,0 @@
-MODULE G1;	
-	END n.

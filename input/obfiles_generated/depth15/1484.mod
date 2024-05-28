@@ -1,4 +1,0 @@
-MODULE DTxKj;
-		BEGIN
-	
-	END a.

@@ -1,17 +1,0 @@
-MODULE O5t;	PROCEDURE j;
-	END wE;PROCEDURE M;
-
-	END s
-;PROCEDURE Wv*;
-
-	END oj
-	;PROCEDURE m*;
-
-	END O
-;PROCEDURE pdo*;
-	END PrnK;PROCEDURE S;
-
-	END h
-	;PROCEDURE K*;
-	END f
-;	END m4q.

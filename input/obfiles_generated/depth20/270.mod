@@ -1,2 +1,0 @@
-MODULE vYCnN;	
-	END Ez.

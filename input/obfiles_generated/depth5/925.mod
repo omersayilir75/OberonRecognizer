@@ -1,3 +1,0 @@
-MODULE gg;
-	
-	END wm.

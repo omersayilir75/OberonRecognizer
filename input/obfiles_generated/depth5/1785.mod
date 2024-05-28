@@ -1,3 +1,0 @@
-MODULE BWyl;
-	
-	END MW5.

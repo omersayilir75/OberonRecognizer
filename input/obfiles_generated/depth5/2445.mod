@@ -1,7 +1,0 @@
-MODULE r;
-	PROCEDURE mGnAw;
-	END G
-	;PROCEDURE _*;	END VfD_
-;
-	BEGIN
-		END Sp.

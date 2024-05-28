@@ -1,8 +1,0 @@
-MODULE W1;
-	PROCEDURE _;
-	END p
-	;PROCEDURE z4p;
-
-	END d
-;
-	END U3mRO.

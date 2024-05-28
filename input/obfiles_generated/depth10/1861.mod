@@ -1,5 +1,0 @@
-MODULE E1TH;
-	
-	BEGIN
-	
-	END e.

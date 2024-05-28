@@ -1,3 +1,0 @@
-MODULE vc;
-	
-	END F.

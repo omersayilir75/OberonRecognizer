@@ -1,3 +1,0 @@
-MODULE dep;
-	
-	END G.

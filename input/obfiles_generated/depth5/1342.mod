@@ -1,3 +1,0 @@
-MODULE qj;
-	
-	END D.

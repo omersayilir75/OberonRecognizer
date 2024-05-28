@@ -1,6 +1,0 @@
-MODULE BHd;
-		BEGIN
-	REPEAT
-	WHILE '' DO	REPEAT	gg	UNTIL M()
-END
-	UNTIL '' OR 7  DIV  P <= ''	END z.

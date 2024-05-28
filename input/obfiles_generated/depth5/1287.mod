@@ -1,5 +1,0 @@
-MODULE l;
-	PROCEDURE CH*;
-	END R
-	;	BEGIN
-		END Tw.

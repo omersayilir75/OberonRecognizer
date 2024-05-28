@@ -1,6 +1,0 @@
-MODULE X;
-	VAR
-QH, A, Uzs : BOOLEAN;
-kIu6, LB4v* : BOOLEAN;
-
-	END pS.

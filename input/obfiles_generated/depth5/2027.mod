@@ -1,3 +1,0 @@
-MODULE He;
-	
-	END MIU.

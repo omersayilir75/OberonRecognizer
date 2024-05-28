@@ -1,3 +1,0 @@
-MODULE sOv;
-	
-	END P.

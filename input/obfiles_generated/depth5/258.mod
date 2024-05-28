@@ -1,3 +1,0 @@
-MODULE na;
-	
-	END G.

@@ -1,8 +1,0 @@
-MODULE khmf;
-	PROCEDURE h;
-
-	END g
-;PROCEDURE k*;
-	END Vx	;PROCEDURE iT*;
-	END OlI
-		;	END M.

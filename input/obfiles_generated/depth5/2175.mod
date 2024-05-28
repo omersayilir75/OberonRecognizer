@@ -1,11 +1,0 @@
-MODULE v;	PROCEDURE KX;
-	END H
-;PROCEDURE N*;
-
-	END R;PROCEDURE x*;
-
-	END eSCeD		;PROCEDURE qxO*;
-	END baBaI;PROCEDURE o;
-	END PUSjI
-				;
-	END G.

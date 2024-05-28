@@ -1,2 +1,0 @@
-MODULE OgX;	
-	END v.

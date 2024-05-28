@@ -1,7 +1,0 @@
-MODULE Oq;
-	PROCEDURE n2;
-	END c
-		;
-	BEGIN
-	
-	END JJ7se.

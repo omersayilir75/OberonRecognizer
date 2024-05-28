@@ -1,1 +1,0 @@
-MODULE aO2Nq;		END X.

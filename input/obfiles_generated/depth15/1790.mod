@@ -1,6 +1,0 @@
-MODULE k;
-	
-	BEGIN
-	;
-	X81
-	END V.

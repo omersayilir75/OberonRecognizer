@@ -1,12 +1,0 @@
-MODULE t;
-	PROCEDURE MuN;
-
-	END iPlPy
-			;PROCEDURE N;
-
-	END DgeK
-;PROCEDURE ohu;
-	END HFS3;PROCEDURE Vs*;
-	END J
-;
-	END ui.

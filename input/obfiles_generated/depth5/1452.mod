@@ -1,7 +1,0 @@
-MODULE U;
-	PROCEDURE S;
-	END csnw
-;
-	BEGIN
-	
-	END FE.

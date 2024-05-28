@@ -1,3 +1,0 @@
-MODULE rJ4;
-	
-	END B6j5.

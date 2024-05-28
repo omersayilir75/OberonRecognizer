@@ -1,3 +1,0 @@
-MODULE W;
-	
-	END z3z.

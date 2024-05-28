@@ -1,3 +1,0 @@
-MODULE FWU;
-	
-	END QN.

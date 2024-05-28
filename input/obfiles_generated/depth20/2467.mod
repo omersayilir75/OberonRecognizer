@@ -1,3 +1,0 @@
-MODULE bYZ;
-	
-	END Ks.

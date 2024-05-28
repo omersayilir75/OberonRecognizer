@@ -1,3 +1,0 @@
-MODULE fpA0;
-	
-	END Ig.

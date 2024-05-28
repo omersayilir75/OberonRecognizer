@@ -1,7 +1,0 @@
-MODULE O;
-	
-	BEGIN	REPEAT
-	;
-	fehp4M := df
-	UNTIL 25
-	END LN.

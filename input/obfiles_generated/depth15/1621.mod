@@ -1,8 +1,0 @@
-MODULE a;
-	PROCEDURE K;
-	END J_
-;
-	BEGIN	WHILE bE() DO	DzG5 := 2;
-	
-END
-	END n.

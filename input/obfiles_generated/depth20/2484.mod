@@ -1,3 +1,0 @@
-MODULE HVx;
-	
-	END r.

@@ -1,3 +1,0 @@
-MODULE Xx6;
-	
-	END H.

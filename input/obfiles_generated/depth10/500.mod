@@ -1,7 +1,0 @@
-MODULE uYT;
-	
-	BEGIN
-	WHILE '' DO
-	yLZ
-END
-	END LJxmibzj.

@@ -1,3 +1,0 @@
-MODULE rCg;
-	
-	END AUqle.

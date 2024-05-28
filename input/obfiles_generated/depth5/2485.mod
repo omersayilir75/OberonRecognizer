@@ -1,7 +1,0 @@
-MODULE m0;
-	PROCEDURE S*;
-
-	END qGu
-	;
-	BEGIN
-		END xJyBZ.

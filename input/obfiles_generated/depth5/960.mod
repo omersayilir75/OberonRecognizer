@@ -1,8 +1,0 @@
-MODULE wKIOV8;
-	PROCEDURE x*;
-
-	END O
-;
-	BEGIN
-	
-	END H.

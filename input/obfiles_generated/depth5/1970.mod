@@ -1,10 +1,0 @@
-MODULE FK5sH;
-	PROCEDURE A;
-
-	END k
-;PROCEDURE OW*;
-
-	END pH2g;
-	BEGIN
-	
-	END W.

@@ -1,1 +1,0 @@
-MODULE v;		END O.

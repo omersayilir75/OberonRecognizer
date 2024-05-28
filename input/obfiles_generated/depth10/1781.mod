@@ -1,3 +1,0 @@
-MODULE mE;
-	
-	END Nbs4.

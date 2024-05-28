@@ -1,7 +1,0 @@
-MODULE H;
-	TYPE
-aYT = Y;
-VAR
-J2lbU : INTEGER;iK : J7;
-
-	END k.

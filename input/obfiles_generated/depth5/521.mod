@@ -1,19 +1,0 @@
-MODULE gEv;	PROCEDURE u_J;
-
-	END W;PROCEDURE uqxL;
-
-	END S	;PROCEDURE IDC*;
-
-	END Z
-	;PROCEDURE NZ;
-	END k
-		;PROCEDURE mO*;
-	END c
-;PROCEDURE C*;
-	END m
-						;PROCEDURE CX*;
-	END H	;
-	BEGIN	;
-	;
-	
-	END AF.

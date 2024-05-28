@@ -1,8 +1,0 @@
-MODULE n;	PROCEDURE M;
-	END S9z
-;PROCEDURE _*;
-
-	END Tk
-	;
-	BEGIN	
-	END v.

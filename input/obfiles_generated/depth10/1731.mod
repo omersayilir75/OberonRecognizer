@@ -1,6 +1,0 @@
-MODULE R;	
-	BEGIN
-	;
-	WHILE x DO
-	END
-	END O.

@@ -1,3 +1,0 @@
-MODULE Bz3;
-	
-	END NNdd.

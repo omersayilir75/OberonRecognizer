@@ -1,1 +1,0 @@
-MODULE V;		END INbs.

@@ -1,3 +1,0 @@
-MODULE iMs;
-	
-	END t.

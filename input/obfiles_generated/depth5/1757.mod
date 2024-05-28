@@ -1,2 +1,0 @@
-MODULE k;
-		END GEKN.

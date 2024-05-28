@@ -1,3 +1,0 @@
-MODULE lB;
-	
-	END fQ.

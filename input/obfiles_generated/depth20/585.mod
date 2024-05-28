@@ -1,8 +1,0 @@
-MODULE O;
-	TYPE
-wvG* = BOOLEAN;
-Y3k = ARRAY k() OF y0;
-
-	BEGIN
-	
-	END Q1vCr.

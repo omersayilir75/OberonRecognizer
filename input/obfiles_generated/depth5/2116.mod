@@ -1,2 +1,0 @@
-MODULE E;	
-	END X13.

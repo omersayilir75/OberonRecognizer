@@ -1,9 +1,0 @@
-MODULE C;
-	
-	BEGIN
-	WHILE K.gq.k[-T20] DO
-	REPEAT
-	REPEAT
-		UNTIL ''''''	UNTIL o
-END
-	END RD.

@@ -1,19 +1,0 @@
-MODULE G;
-	PROCEDURE v;	PROCEDURE d;
-	END i
-	;	PROCEDURE v(VAR D8, s4, _sc, M_f : RECORD FA, G : INTEGER;
-wa, bt : BOOLEAN;
-H, P : BOOLEAN END ; VAR C, Zjz, R, yJNK : RECORD OFcQq, A : ARRAY cM2 OF INTEGER END ; aOLT : RECORD Ui : ARRAY e() OF d END)*;	BEGIN	U
-	END w				;	VAR
-J* : RECORD e, e : dK;
-o : ARRAY AdF() OF INTEGER;
-YU : INTEGER;
-wWLNBtM : INTEGER END;uL, d* : RECORD Vo : INTEGER;
-C : ARRAY yU() OF uHYK END;
-k : ARRAY nD = ''  MOD  lf OF INTEGER;
-	PROCEDURE s*;
-
-	END y			;	BEGIN
-		END W
-;
-	END qd.

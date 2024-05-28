@@ -1,2 +1,0 @@
-MODULE b;		BEGIN	
-	END I.

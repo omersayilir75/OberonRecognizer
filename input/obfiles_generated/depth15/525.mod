@@ -1,19 +1,0 @@
-MODULE OB;
-	VAR
-Rs*, x* : BOOLEAN;
-TYPE
-yUAPGpU1* = BOOLEAN;
-cr = ARRAY 24 & (Li) OF RECORD y, py : l;A, j, U_s, Y : F;
-zD7 : INTEGER;u, b : BOOLEAN END;
-CXc = RECORD Le : ARRAY T OF BOOLEAN END;
-DWf* = ARRAY '''''' < 303 OF RECORD G, f : INTEGER;
-R, ZKK : BOOLEAN;
-P6, j : fC END;PROCEDURE h;
-	END wZVlI;TYPE
-bB = ARRAY P8nVn <= '' OR h OF ARRAY ~CvT OF INTEGER;
-eh = BOOLEAN;
-Zn = g;
-j = RECORD j, B, ju : ARRAY '' OF INTEGER END;
-MVz* = RECORD i : ARRAY H() OF INTEGER END;
-
-	END y.

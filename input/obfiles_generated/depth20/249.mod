@@ -1,3 +1,0 @@
-MODULE oa;
-	
-	END rCk.

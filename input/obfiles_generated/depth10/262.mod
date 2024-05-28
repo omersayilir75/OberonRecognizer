@@ -1,2 +1,0 @@
-MODULE S;	
-	END kR.

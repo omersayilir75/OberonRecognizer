@@ -1,3 +1,0 @@
-MODULE lcV;
-	
-	END Y.

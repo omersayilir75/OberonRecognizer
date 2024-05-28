@@ -1,3 +1,0 @@
-MODULE Ab524;
-	
-	END OdC_.

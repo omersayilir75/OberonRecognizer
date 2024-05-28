@@ -1,2 +1,0 @@
-MODULE j;	
-	END NX.

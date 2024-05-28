@@ -1,6 +1,0 @@
-MODULE tT;
-	PROCEDURE c;
-
-	END zMW;
-	BEGIN	
-	END Z.

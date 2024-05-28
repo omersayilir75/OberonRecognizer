@@ -1,3 +1,0 @@
-MODULE DHS;
-	
-	END S.

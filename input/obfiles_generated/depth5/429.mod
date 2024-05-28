@@ -1,9 +1,0 @@
-MODULE A;	PROCEDURE JS*;	END o
-	;PROCEDURE iw*;
-
-	END y
-;PROCEDURE Q;
-	END S
-		;
-	BEGIN	;
-		END DVf.

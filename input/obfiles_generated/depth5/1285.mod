@@ -1,3 +1,0 @@
-MODULE Uq;
-	
-	END Y.

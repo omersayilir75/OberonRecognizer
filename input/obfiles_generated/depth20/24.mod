@@ -1,3 +1,0 @@
-MODULE EW2s;
-	
-	END Ocp.

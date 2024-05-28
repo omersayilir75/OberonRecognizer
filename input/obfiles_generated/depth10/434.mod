@@ -1,5 +1,0 @@
-MODULE c;	
-	BEGIN	REPEAT
-	K;	;
-	sgFPDd0Qn
-	UNTIL J	END N.

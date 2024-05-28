@@ -1,5 +1,0 @@
-MODULE Vm;	PROCEDURE XbK4;
-
-	END lY87w
-	;
-	END z.

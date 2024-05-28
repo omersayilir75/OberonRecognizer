@@ -1,3 +1,0 @@
-MODULE AnWrOJuMxL;
-	
-	END x9.

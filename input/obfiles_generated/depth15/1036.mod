@@ -1,4 +1,0 @@
-MODULE Ib7;
-	
-	BEGIN
-		END s.

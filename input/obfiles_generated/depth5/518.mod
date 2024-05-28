@@ -1,3 +1,0 @@
-MODULE LyW;
-	
-	END P.

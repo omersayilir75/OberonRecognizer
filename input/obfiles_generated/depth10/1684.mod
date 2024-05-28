@@ -1,12 +1,0 @@
-MODULE IC;
-	TYPE
-VT* = BOOLEAN;
-VARF* : ARRAY KzZ OF BOOLEAN;
-	BEGIN
-	WHILE FoQ DO
-	
-END;
-	REPEAT
-	
-	UNTIL y = ddw();
-	w2LPw.Wo.j := (r)	END lZ.

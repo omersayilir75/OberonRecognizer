@@ -1,3 +1,0 @@
-MODULE nv;
-	
-	END rh.

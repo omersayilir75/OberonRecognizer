@@ -1,5 +1,0 @@
-MODULE j;
-	VAR
-ZyBTrx* : BOOLEAN;
-
-	END RFwC.

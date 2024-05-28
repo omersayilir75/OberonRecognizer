@@ -1,10 +1,0 @@
-MODULE H5;
-	PROCEDURE bD;
-
-	END vT
-	;PROCEDURE uru;
-	END Q				;PROCEDURE l3;
-
-	END u7
-;
-	END iJY.

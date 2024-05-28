@@ -1,5 +1,0 @@
-MODULE UH2p5oLAD;
-	
-	BEGIN
-	wUMKB
-	END D0U.

@@ -1,2 +1,0 @@
-MODULE Qi;
-		END OWr.

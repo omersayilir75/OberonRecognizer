@@ -1,3 +1,0 @@
-MODULE a;
-	
-	END Px.

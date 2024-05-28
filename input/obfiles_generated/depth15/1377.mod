@@ -1,5 +1,0 @@
-MODULE w;
-	PROCEDURE RBse(B : BOOLEAN)*;
-	END r
-	;
-	END M.

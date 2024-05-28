@@ -1,6 +1,0 @@
-MODULE Cd8;
-	PROCEDURE X;
-
-	END RP7GCz8f
-;
-	END Yg.

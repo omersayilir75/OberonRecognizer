@@ -1,3 +1,0 @@
-MODULE Zy;
-	
-	END M.

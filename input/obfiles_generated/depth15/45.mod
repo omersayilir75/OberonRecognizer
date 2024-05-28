@@ -1,4 +1,0 @@
-MODULE J;	TYPEz* = BOOLEAN;
-C* = INTEGER;
-
-	END o.

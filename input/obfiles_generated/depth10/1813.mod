@@ -1,2 +1,0 @@
-MODULE BO;
-		END j.

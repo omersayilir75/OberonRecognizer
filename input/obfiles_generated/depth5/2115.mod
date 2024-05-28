@@ -1,3 +1,0 @@
-MODULE ir;
-	
-	END P.

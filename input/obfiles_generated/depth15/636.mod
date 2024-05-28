@@ -1,15 +1,0 @@
-MODULE r;
-	CONST
-iul = 4;
-CONST
-TElZL = 00;PROCEDURE fnfU*;
-	BEGIN
-	REPEAT
-	WHILE ''''  MOD  jj() DO	BmHD
-END
-	UNTIL rf
-	END WT
-	;
-	BEGIN	V;
-	
-	END W.

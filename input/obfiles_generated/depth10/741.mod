@@ -1,3 +1,0 @@
-MODULE Lz;
-	
-	END YLDhIs.

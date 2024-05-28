@@ -1,3 +1,0 @@
-MODULE CoM;
-	
-	END hU.

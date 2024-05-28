@@ -1,7 +1,0 @@
-MODULE hZ;
-	PROCEDURE N;
-
-	END Z;PROCEDURE pN;
-	END Zn
-	;
-	END TP3.

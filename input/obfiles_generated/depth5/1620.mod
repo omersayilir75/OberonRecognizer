@@ -1,7 +1,0 @@
-MODULE Lp;
-	PROCEDURE elH3vu*;
-	END vs
-;PROCEDURE P;
-	END J8
-;
-	END Ak.

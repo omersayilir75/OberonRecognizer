@@ -1,4 +1,0 @@
-MODULE SqR3;
-	
-	BEGIN	S(Qo)
-	END N.

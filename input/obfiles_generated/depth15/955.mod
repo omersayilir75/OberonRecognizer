@@ -1,5 +1,0 @@
-MODULE P;
-	
-	BEGIN
-	
-	END RQ.

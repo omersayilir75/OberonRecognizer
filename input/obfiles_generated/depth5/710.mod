@@ -1,2 +1,0 @@
-MODULE Q;
-		END QYOtRmSH.

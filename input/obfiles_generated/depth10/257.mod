@@ -1,2 +1,0 @@
-MODULE N;
-		BEGIN	XWo4	END YsdjlJ.

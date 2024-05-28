@@ -1,20 +1,0 @@
-MODULE W;
-	PROCEDURE O;
-	END _7
-	;PROCEDURE vqk4o;
-
-	END gci
-;PROCEDURE hYjPn4*;
-	END FV
-;PROCEDURE HM;
-
-	END Cf;PROCEDURE ZZ;	END I
-;PROCEDURE af;
-
-	END Qg				;PROCEDURE y*;
-
-	END OPD;
-	BEGIN
-	;
-	
-	END y.

@@ -1,23 +1,0 @@
-MODULE K;	PROCEDURE f*;
-	END I7
-	;PROCEDURE J*;
-
-	END A4S			;PROCEDURE X;
-	END qk5Z
-	;PROCEDURE y;
-	END t	;PROCEDURE wa*;
-
-	END Ly
-			;PROCEDURE V;
-
-	END z7Q;PROCEDURE yRI*;
-
-	END r
-;PROCEDURE MX*;
-
-	END WX7
-	;
-	BEGIN
-	;
-	
-	END wvR.

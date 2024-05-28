@@ -1,4 +1,0 @@
-MODULE A;	TYPE
-H* = BOOLEAN;
-RU* = ARRAY w OF K;
-	END j.

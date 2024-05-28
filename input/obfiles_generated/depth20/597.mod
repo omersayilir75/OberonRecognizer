@@ -1,3 +1,0 @@
-MODULE qv;
-	
-	END izE.

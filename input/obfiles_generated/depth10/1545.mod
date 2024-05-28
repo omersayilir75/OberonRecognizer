@@ -1,5 +1,0 @@
-MODULE uBY8s5;
-	
-	BEGIN	WHILE w() OR '' DO	o
-END
-	END yCe.

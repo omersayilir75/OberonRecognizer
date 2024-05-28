@@ -1,12 +1,0 @@
-MODULE eI;
-	PROCEDURE k*;
-	END c
-		;PROCEDURE G(C : ARRAY -(C()) OF RECORD D, U : BOOLEAN END ; VAR Kc, R : RECORD nG : ARRAY i() OF BOOLEAN END);
-	END L
-;TYPEZqRf = RECORD J, hYQE : ARRAY p00jd() OF J;ZU : INTEGER END;
-svPfa = INTEGER;HKP* = RECORD oj, T, u, Sjz, eQ, q, CU, un, Ie_, z, c : V9;
-D : BOOLEAN;
-q, hMNZ1 : j END;
-V* = RECORD TC, s2AV, JLJx, A : ARRAY h OF INTEGER END;
-
-	END Z.

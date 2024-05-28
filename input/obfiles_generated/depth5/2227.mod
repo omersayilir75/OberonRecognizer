@@ -1,2 +1,0 @@
-MODULE PY;	
-	END B.

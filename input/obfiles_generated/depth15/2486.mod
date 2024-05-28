@@ -1,7 +1,0 @@
-MODULE aI;
-	PROCEDURE Y8(v, u : ARRAY -z <= QcZL() OF ARRAY H OF ARRAY P() OF BOOLEAN);
-
-	END zcMDV;CONST
-GE* = ~9755;
-
-	END xr.

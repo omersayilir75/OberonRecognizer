@@ -1,2 +1,0 @@
-MODULE iD;	
-	END o.

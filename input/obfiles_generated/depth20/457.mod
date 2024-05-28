@@ -1,5 +1,0 @@
-MODULE Qp;
-	
-	BEGIN
-	
-	END o.

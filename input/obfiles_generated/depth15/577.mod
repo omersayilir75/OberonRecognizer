@@ -1,3 +1,0 @@
-MODULE Pt;
-	
-	END hC3.

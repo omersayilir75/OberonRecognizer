@@ -1,2 +1,0 @@
-MODULE Yd;	
-	END f.

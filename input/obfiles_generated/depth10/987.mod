@@ -1,4 +1,0 @@
-MODULE A;
-	
-	BEGIN	
-	END dKv.

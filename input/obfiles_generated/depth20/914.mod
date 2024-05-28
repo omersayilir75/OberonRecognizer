@@ -1,3 +1,0 @@
-MODULE vQ63;
-	
-	END k.

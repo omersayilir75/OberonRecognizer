@@ -1,9 +1,0 @@
-MODULE T;		BEGIN
-	F := Z;
-	IF -'' THEN	
-ELSIF O() THEN
-	f
-ELSE
-	
-	END
-	END Y.

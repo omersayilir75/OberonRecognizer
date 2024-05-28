@@ -1,9 +1,0 @@
-MODULE s;
-	PROCEDURE Z*;
-
-	END lcUe;PROCEDURE qR;
-
-	END T
-;
-	BEGIN
-	;		END pF8t.

@@ -1,3 +1,0 @@
-MODULE f;
-	
-	END M3.

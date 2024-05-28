@@ -1,2 +1,0 @@
-MODULE r4xGT;	
-	END M.

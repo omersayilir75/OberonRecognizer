@@ -1,3 +1,0 @@
-MODULE TQx;
-	
-	END u.

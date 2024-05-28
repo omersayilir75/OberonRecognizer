@@ -1,7 +1,0 @@
-MODULE X;
-	PROCEDURE jdy;
-
-	END n
-	;	BEGIN
-	Z(15)
-	END B.

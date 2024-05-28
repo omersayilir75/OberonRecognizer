@@ -1,8 +1,0 @@
-MODULE rw;
-	PROCEDURE gW;	END Y
-;PROCEDURE Vn*;
-
-	END cTJCW
-;PROCEDURE UO1*;
-	END q
-;	END B.

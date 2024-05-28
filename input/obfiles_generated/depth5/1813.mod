@@ -1,5 +1,0 @@
-MODULE wZV;
-	PROCEDURE g;
-	END W
-	;
-	END p.

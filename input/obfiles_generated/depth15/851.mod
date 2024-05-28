@@ -1,1 +1,0 @@
-MODULE DC;		END t.

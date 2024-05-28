@@ -1,2 +1,0 @@
-MODULE c;
-		END w.

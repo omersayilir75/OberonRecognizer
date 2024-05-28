@@ -1,11 +1,0 @@
-MODULE f;
-	
-	BEGIN
-	REPEAT
-	O;	C3
-	UNTIL RYH;
-	WHILE VFZ * 'J?4' DO
-	;
-	
-END
-	END G.

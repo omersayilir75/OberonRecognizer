@@ -1,4 +1,0 @@
-MODULE Vs;	
-	BEGIN
-	
-	END M.

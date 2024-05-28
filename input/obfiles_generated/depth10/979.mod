@@ -1,9 +1,0 @@
-MODULE v8;
-	TYPE
-K* = INTEGER;B* = INTEGER;
-v* = ARRAY '8' OF BOOLEAN;
-IB = ARRAY '' OF BOOLEAN;
-CONST
-KxDNvD* = ~I();
-
-	END p.

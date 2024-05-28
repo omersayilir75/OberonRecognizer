@@ -1,3 +1,0 @@
-MODULE V;
-	
-	END tOYT.

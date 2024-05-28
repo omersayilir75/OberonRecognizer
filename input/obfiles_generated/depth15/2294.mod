@@ -1,14 +1,0 @@
-MODULE JN;	VAR
-_Qi, n* : BOOLEAN;
-PROCEDURE TNY*;
-	BEGIN	IF '''' THEN	QqR.X6.zLNmLc.e.i := V;
-	REPEAT
-	;
-	bZ	UNTIL E + '''';
-	REPEAT	
-	UNTIL B >= ''''
-	END	END Or
-	;PROCEDURE k(t : ARRAY -9 OF BOOLEAN ; z8, cr : ARRAY 8 OF BOOLEAN ; VAR A : RECORD F : ARRAY '' OF INTEGER END);
-
-	END w
-;	END IEL.

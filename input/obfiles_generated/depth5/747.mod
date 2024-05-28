@@ -1,8 +1,0 @@
-MODULE p;
-	PROCEDURE eZYQt*;
-
-	END gZpLA
-;
-	BEGIN
-	
-	END i.

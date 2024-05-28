@@ -1,3 +1,0 @@
-MODULE FC;
-	
-	END t.

@@ -1,6 +1,0 @@
-MODULE x;
-	PROCEDURE M*;
-
-	END bnE
-;
-	END J.

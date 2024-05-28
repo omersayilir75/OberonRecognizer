@@ -1,7 +1,0 @@
-MODULE vFp;	PROCEDURE rFNd*;
-
-	END bM4N
-		;PROCEDURE BbPd;
-	END _;	BEGIN
-	
-	END vd.

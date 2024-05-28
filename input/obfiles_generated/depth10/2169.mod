@@ -1,3 +1,0 @@
-MODULE foc;
-	
-	END n.

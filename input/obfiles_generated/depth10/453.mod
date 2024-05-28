@@ -1,3 +1,0 @@
-MODULE FVV;
-	
-	END y.

@@ -1,5 +1,0 @@
-MODULE T;	
-	BEGIN	WHILE '7S''' DO
-	MEND;
-	
-	END U.

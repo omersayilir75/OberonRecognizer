@@ -1,3 +1,0 @@
-MODULE y;	PROCEDURE MOUEGfnu;	END H							;
-	BEGIN	
-	END Q.

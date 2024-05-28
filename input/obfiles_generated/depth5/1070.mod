@@ -1,6 +1,0 @@
-MODULE i;
-	PROCEDURE C;
-
-	END l5k
-;	BEGIN	
-	END jv.

@@ -1,5 +1,0 @@
-MODULE ce;
-	PROCEDURE un;
-
-	END L	;
-	END U.

@@ -1,3 +1,0 @@
-MODULE JqEJ;
-	
-	END m.

@@ -1,3 +1,0 @@
-MODULE AO;
-	
-	END A.

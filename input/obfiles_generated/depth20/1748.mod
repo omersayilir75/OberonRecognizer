@@ -1,2 +1,0 @@
-MODULE kXH;	
-	END B.

@@ -1,8 +1,0 @@
-MODULE dQ;
-	PROCEDURE cl;
-
-	END E
-	;
-	BEGIN
-	
-	END D7.

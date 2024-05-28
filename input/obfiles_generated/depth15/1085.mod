@@ -1,22 +1,0 @@
-MODULE b;	PROCEDURE O6(VAR k : ARRAY ~Wp() OF INTEGER ; VAR GuL : INTEGER ; VAR PeaGO5qMzXn : ARRAY 8 # zqs() > x() OF l ; BP : ARRAY GOe OF RECORD u : INTEGER END)*;	TYPEWg = ARRAY (ME() > IKZ()) OF ARRAY BI() & M() OF ARRAY i() OF INTEGER;
-S* = RECORD l : BOOLEAN END;
-	PROCEDURE N(f : RECORD gICd, a, b : ARRAY '' OF INTEGER;
-f : q;
-D, ZFhuY, vKO, _O, uS : ARRAY '8' OF BOOLEAN END)*;	TYPEZ* = RECORD Q : iF END;
-	BEGIN
-	;
-	WHILE mH() >= v - mu # 'l' DO
-	WHILE '' DO
-	S;
-	
-END;	yQ.EV := L0o()
-END;
-	REPEAT
-	WHILE A DO
-	XT
-END
-	UNTIL IS
-	END xm
-	;
-	END P;
-	END MD3e.

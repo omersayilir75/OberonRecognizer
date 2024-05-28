@@ -1,6 +1,0 @@
-MODULE e;
-	PROCEDURE xr;
-
-	END Iv1
-	;
-	END Yo.

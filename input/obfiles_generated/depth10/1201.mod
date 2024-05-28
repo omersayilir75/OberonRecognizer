@@ -1,5 +1,0 @@
-MODULE o1;
-	TYPEgh = BOOLEAN;jU = ARRAY 'h' OF INTEGER;
-zG* = INTEGER;
-
-	END X.

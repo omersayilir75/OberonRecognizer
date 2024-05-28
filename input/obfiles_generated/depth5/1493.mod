@@ -1,6 +1,0 @@
-MODULE cJ;	PROCEDURE S0;
-	END g
-		;PROCEDURE I_*;
-
-	END Wj
-;	END xF.

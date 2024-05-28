@@ -1,11 +1,0 @@
-MODULE N;
-	PROCEDURE u;
-
-	END f
-;PROCEDURE V;	END P
-		;PROCEDURE Q;
-
-	END Z
-;
-	BEGIN
-		END h.

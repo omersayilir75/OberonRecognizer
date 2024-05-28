@@ -1,3 +1,0 @@
-MODULE ya;
-	
-	END Bu.

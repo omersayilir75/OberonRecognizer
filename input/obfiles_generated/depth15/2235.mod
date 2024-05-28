@@ -1,3 +1,0 @@
-MODULE gK;
-	
-	END H1.

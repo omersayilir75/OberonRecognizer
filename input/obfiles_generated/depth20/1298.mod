@@ -1,3 +1,0 @@
-MODULE jXq;
-	
-	END ZvE.

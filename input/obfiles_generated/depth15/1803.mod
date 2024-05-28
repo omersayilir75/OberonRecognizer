@@ -1,5 +1,0 @@
-MODULE sA3;
-	TYPE
-AV = U;
-Rw_* = RECORD R : ARRAY '''' OF INTEGER;JvY1, M : ARRAY Ais() OF BOOLEAN;K, n : BOOLEAN END;
-	END u.

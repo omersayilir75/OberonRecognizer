@@ -1,58 +1,0 @@
-MODULE m;
-	CONST
-ua* = -u();
-PROCEDURE G(Za : ARRAY 'p' OF BOOLEAN ; ogR, E, _w, Vw : BOOLEAN ; VAR sVm : BOOLEAN);	PROCEDURE j2w1(ByGUF : INTEGER ; v, P9h : BOOLEAN)*;
-	PROCEDURE Q;
-	PROCEDURE X5t*;
-	PROCEDURE R*;
-
-	BEGIN
-	
-	END Hj;	PROCEDURE q;
-	PROCEDURE D2b*;
-	END P4
-;
-	END Pa
-	;	PROCEDURE rwP;	PROCEDURE BZ;
-
-	END K;	BEGIN		END w5jYdU
-;	PROCEDURE n*;
-
-	END n
-;
-	BEGIN
-	;
-	;		END NJj
-;	PROCEDURE W*;
-	PROCEDURE i;
-
-	END SkN
-;	END MT
-	;	PROCEDURE AR*;
-
-	BEGIN
-	;
-	;	
-	END OZ		;	PROCEDURE FI*;
-	END x
-			;	PROCEDURE SH7G*;
-
-	BEGIN
-	
-	END h
-;	PROCEDURE Wz;
-
-	END b2
-;	BEGIN
-		END gaC
-	;	END J
-	;	BEGIN
-	H
-	END QH0v3
-;PROCEDURE Yh(VAR H, L, rpe : ARRAY ll OF INTEGER);
-	CONST
-XV* = wT();U* = z();
-sGr2* = 'F''';
-	END Q
-	;
-	END j04e.

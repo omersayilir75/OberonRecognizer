@@ -1,2 +1,0 @@
-MODULE V;
-		END F.

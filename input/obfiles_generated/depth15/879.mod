@@ -1,11 +1,0 @@
-MODULE G;
-	PROCEDURE j(T, x, I : ARRAY (ud()) - ~V OF ARRAY '' OF ARRAY '' OF d ; VAR X9Xl, Zh : RECORD _, ym : INTEGER;
-a, V : INTEGER;
-w5sE, M6 : ARRAY B OF Z4MmPYX;
-O : ARRAY Iv() OF BOOLEAN;
-c : ARRAY F OF INTEGER;
-Zk, p, zH : ARRAY L OF gAG END);
-	TYPE
-G = r_pP;
-	END K;
-	END O.

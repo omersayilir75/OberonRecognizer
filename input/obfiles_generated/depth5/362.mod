@@ -1,6 +1,0 @@
-MODULE M;
-	
-	BEGIN
-	;
-	
-	END K.

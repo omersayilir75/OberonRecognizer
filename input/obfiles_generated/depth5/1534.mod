@@ -1,3 +1,0 @@
-MODULE ec;
-	
-	END aW78.

@@ -1,12 +1,0 @@
-MODULE jb;
-	PROCEDURE g5;
-
-	END w
-;PROCEDURE VO*;
-	END q
-;PROCEDURE l*;
-
-	END j
-			;PROCEDURE wp;	END a
-;PROCEDURE tlpz*;
-	END MrH;	END i5.

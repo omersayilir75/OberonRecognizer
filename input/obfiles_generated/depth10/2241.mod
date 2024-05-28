@@ -1,11 +1,0 @@
-MODULE mx;
-	PROCEDURE l2S1*;
-	BEGIN
-	;	ar	END JJ
-			;TYPEb = BOOLEAN;
-TYPE
-N4ly = ARRAY bT_WU() OF INTEGER;
-
-	BEGIN
-	a(v, Qo_)
-	END JG.

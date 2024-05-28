@@ -1,7 +1,0 @@
-MODULE vP;
-	
-	BEGIN	IF -Fv7 THEN	
-	END;
-	REPEAT
-	
-	UNTIL (j)	END b.

@@ -1,3 +1,0 @@
-MODULE AaY;
-		BEGIN
-		END B.

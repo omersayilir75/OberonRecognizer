@@ -1,3 +1,0 @@
-MODULE Qg;
-	
-	END ZSt0D.

@@ -1,4 +1,0 @@
-MODULE q;
-	PROCEDURE VPE;
-	END Y;
-	END AR.

@@ -1,13 +1,0 @@
-MODULE FAp;
-	PROCEDURE asP*;
-	END f;PROCEDURE hl*;
-
-	END avo	;PROCEDURE d8Bu6Eu;
-	END o
-;PROCEDURE A;
-
-	END b3
-	;PROCEDURE c9Lu*;
-
-	END j
-			;	END Y8.

@@ -1,3 +1,0 @@
-MODULE df;
-	
-	END E.

@@ -1,3 +1,0 @@
-MODULE Ka;
-	
-	END Y.

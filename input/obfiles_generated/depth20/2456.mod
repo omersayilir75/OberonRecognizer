@@ -1,6 +1,0 @@
-MODULE k;
-	VAR
-r, VxO8 : RECORD Hc : EPG;hqZb, K4, Dr : ARRAY (11) OF ARRAY 6 OF BOOLEAN;oG : ARRAY 355 OF ARRAY K() - y() # n() OF RECORD l, D, Y : INTEGER END END;
-
-	BEGIN	HX3(T())
-	END imHFdm.

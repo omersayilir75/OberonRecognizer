@@ -1,3 +1,0 @@
-MODULE n;
-	
-	BEGIN	EJ	END Jk.

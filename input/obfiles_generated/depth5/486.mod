@@ -1,15 +1,0 @@
-MODULE Mxi;
-	PROCEDURE VP18*;
-
-	END pU
-;PROCEDURE e*;
-
-	END mH
-			;PROCEDURE go*;
-
-	END xBDUJ
-;PROCEDURE w;
-	END f0
-;	BEGIN
-	
-	END Eyr.

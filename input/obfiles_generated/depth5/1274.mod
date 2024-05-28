@@ -1,8 +1,0 @@
-MODULE J;
-	PROCEDURE p;
-
-	END DoL	;PROCEDURE QQU;
-
-	END M1Q
-	;
-	END _b.

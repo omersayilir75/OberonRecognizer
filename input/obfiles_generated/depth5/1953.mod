@@ -1,13 +1,0 @@
-MODULE g;
-	PROCEDURE I*;
-	END Eaz
-	;PROCEDURE k;
-
-	END U
-;PROCEDURE yFO*;
-
-	END e
-;PROCEDURE O_v*;
-	END iE
-;
-	END p.

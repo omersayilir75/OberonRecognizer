@@ -1,5 +1,0 @@
-MODULE yF;
-	PROCEDURE f*;
-
-	END G;
-	END s.

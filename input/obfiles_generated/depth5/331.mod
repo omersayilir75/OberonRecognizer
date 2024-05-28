@@ -1,8 +1,0 @@
-MODULE ZH;
-	PROCEDURE w*;
-
-	END L
-;PROCEDURE Cxc;
-	END H
-;
-	END H.

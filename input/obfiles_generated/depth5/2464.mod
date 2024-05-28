@@ -1,8 +1,0 @@
-MODULE f;
-	PROCEDURE G;
-	END d
-		;PROCEDURE U*;	END JXGXmmbWI	;PROCEDURE pu;
-
-	END A
-;
-	END ZJ.

@@ -1,2 +1,0 @@
-MODULE rKmK;
-		END l.

@@ -1,7 +1,0 @@
-MODULE l;
-	PROCEDURE NK;
-
-	END rq	;PROCEDURE FRcfE;
-
-	END i		;
-	END t.

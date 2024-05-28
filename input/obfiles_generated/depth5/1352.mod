@@ -1,6 +1,0 @@
-MODULE DX;
-	PROCEDURE f*;
-
-	END H
-;
-	END Bi.

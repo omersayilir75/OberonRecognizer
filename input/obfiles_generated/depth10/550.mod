@@ -1,6 +1,0 @@
-MODULE j;
-	VAR
-OK* : BOOLEAN;
-T4*, N, G* : ARRAY Xu() OF INTEGER;
-
-	END xDC.

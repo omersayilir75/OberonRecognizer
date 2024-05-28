@@ -1,2 +1,0 @@
-MODULE BeZ;	
-	END F.

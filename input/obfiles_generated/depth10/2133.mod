@@ -1,3 +1,0 @@
-MODULE aGh;
-	
-	END X.

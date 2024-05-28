@@ -1,3 +1,0 @@
-MODULE B;
-	
-	END Z.

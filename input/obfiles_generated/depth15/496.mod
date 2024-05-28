@@ -1,3 +1,0 @@
-MODULE KASB2;
-	
-	END xR.

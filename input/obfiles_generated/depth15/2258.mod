@@ -1,2 +1,0 @@
-MODULE a;	
-	END hVz.

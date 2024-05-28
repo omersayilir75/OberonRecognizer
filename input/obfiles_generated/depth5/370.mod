@@ -1,11 +1,0 @@
-MODULE X7n;
-	PROCEDURE Ck*;
-
-	END K3
-		;PROCEDURE s*;
-
-	END XP
-;
-	BEGIN	;
-	
-	END U.

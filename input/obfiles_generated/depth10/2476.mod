@@ -1,3 +1,0 @@
-MODULE D2H;	PROCEDURE I*;	END K
-;
-	END H.

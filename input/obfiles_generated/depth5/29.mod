@@ -1,2 +1,0 @@
-MODULE ZWRQ;
-		END v.

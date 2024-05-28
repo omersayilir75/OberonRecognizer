@@ -1,3 +1,0 @@
-MODULE g;
-	
-	END A.

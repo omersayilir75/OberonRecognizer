@@ -1,3 +1,0 @@
-MODULE IyNEs;
-	
-	END E.

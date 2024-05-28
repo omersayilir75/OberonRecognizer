@@ -1,3 +1,0 @@
-MODULE Qwld;
-	
-	END OW.

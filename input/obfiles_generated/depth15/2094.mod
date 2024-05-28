@@ -1,2 +1,0 @@
-MODULE p;
-		END RV.

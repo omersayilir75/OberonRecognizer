@@ -1,4 +1,0 @@
-MODULE h;
-	
-	BEGIN
-	Zw	END F7.

@@ -1,7 +1,0 @@
-MODULE J;	
-	BEGIN
-	WHILE ''  MOD  _ DO
-	RN3tsQ;
-	I
-END
-	END p.

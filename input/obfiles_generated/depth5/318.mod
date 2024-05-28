@@ -1,3 +1,0 @@
-MODULE jz;
-	
-	END P.

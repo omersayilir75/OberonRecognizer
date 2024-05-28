@@ -1,13 +1,0 @@
-MODULE L;	PROCEDURE XSyJj*;
-	END q
-		;PROCEDURE n*;
-
-	END bcRs;PROCEDURE gFPy;
-	END Kt
-		;PROCEDURE Og*;
-
-	END T;PROCEDURE V*;
-
-	END S
-	;
-	END u.

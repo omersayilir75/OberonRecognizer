@@ -1,4 +1,0 @@
-MODULE G;
-		BEGIN
-	Z
-	END D.

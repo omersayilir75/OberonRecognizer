@@ -1,10 +1,0 @@
-MODULE k;
-	
-	BEGIN
-	IF LL THEN
-	t
-ELSIF PC THEN
-	;
-	
-ELSIF Na THEN	
-	END	END n.

@@ -2,7 +2,7 @@ token literal names:
 null
 '['
 ']'
-null
+'STRING_LITERAL'
 null
 null
 null
@@ -48,7 +48,7 @@ null
 'UNTIL'
 'DIV'
 'MOD'
-null
+'ID'
 null
 
 token symbolic names:

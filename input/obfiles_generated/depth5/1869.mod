@@ -1,7 +1,0 @@
-MODULE fGr;	PROCEDURE qP*;
-	END dqnan1YX
-;PROCEDURE A;
-
-	END Q;	BEGIN	;	;
-	
-	END vbAb5F.

@@ -1,8 +1,0 @@
-MODULE lQ;
-	PROCEDURE Yc6*;
-
-	END l_ql6
-;
-	BEGIN
-	
-	END tm.

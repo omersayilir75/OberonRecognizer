@@ -1,4 +1,0 @@
-MODULE WRD;
-	VARC*, _P*, tsP : ARRAY 4 OF ARRAY G6c() OF INTEGER;
-
-	END lJ.

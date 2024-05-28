@@ -1,1 +1,0 @@
-MODULE wp;		END x.

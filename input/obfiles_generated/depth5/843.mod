@@ -1,12 +1,0 @@
-MODULE c;
-	PROCEDURE CU*;
-	END P		;PROCEDURE a;
-
-	END P
-;PROCEDURE S;
-
-	END oa
-;PROCEDURE C2*;
-
-	END Eb
-;	END l.

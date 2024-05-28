@@ -1,3 +1,0 @@
-MODULE qHE;
-	
-	END c.

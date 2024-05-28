@@ -1,3 +1,0 @@
-MODULE Tr;
-	
-	END S.

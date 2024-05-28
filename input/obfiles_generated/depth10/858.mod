@@ -1,3 +1,0 @@
-MODULE M8r88;
-	
-	END q0lj.

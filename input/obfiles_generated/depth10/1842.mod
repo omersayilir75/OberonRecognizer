@@ -1,3 +1,0 @@
-MODULE jG;
-	
-	END ebZBem.

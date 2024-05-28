@@ -1,10 +1,0 @@
-MODULE OP;
-	PROCEDURE G*;
-
-	END D
-	;PROCEDURE k5*;
-	END jw		;
-	BEGIN
-	;
-	
-	END wIT0.

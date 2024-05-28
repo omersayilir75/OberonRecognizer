@@ -1,3 +1,0 @@
-MODULE K;
-	
-	END f9x81E.

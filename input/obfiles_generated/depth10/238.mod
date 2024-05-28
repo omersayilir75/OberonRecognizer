@@ -1,3 +1,0 @@
-MODULE B;	
-	BEGIN
-	H.W.x6I.Fm.fN9DgO := oB()	END ZF66.

@@ -1,3 +1,0 @@
-MODULE jR;
-	
-	END iWr.

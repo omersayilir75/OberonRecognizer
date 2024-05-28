@@ -1,3 +1,0 @@
-MODULE dr;
-	
-	END ydT.

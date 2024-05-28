@@ -1,7 +1,0 @@
-MODULE ZBi7;
-	TYPE
-aT463* = RECORD HE6l, Po3K, U : ARRAY U OF SO END;
-CONST
-L = '''j';
-ckYa* = g65();
-	END Pk9.

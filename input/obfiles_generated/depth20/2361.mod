@@ -1,1 +1,0 @@
-MODULE uo5;		END V.

@@ -1,3 +1,0 @@
-MODULE CI;
-	
-	END R.

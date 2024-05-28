@@ -1,8 +1,0 @@
-MODULE lA;
-	TYPEO_Z6g* = ARRAY '|' OF RECORD G, E, eP : INTEGER;
-W : BOOLEAN;
-p, zTZl742, V : Q END;TYPE
-B* = ARRAY (S()) OR s OF RECORD w : OK END;_ = INTEGER;
-D = RECORD ZnT7 : V END;
-
-	END JB.

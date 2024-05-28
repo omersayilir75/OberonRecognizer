@@ -1,3 +1,0 @@
-MODULE wWctx;
-	
-	END o.

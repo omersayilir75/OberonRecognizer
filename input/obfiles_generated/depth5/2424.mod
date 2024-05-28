@@ -1,3 +1,0 @@
-MODULE rbPb;
-	
-	END o.

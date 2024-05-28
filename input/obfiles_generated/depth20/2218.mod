@@ -1,5 +1,0 @@
-MODULE Llh;
-	
-	BEGIN
-	
-	END T.

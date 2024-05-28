@@ -1,8 +1,0 @@
-MODULE T;	PROCEDURE c*;
-	END B
-;PROCEDURE zD;
-	END iq
-	;
-	BEGIN
-	
-	END V.

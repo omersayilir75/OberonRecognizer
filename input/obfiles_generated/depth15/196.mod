@@ -1,1 +1,0 @@
-MODULE VKx;		END sh.

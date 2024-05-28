@@ -1,2 +1,0 @@
-MODULE J3;	
-	END g.

@@ -1,2 +1,0 @@
-MODULE P87;	
-	END GI.

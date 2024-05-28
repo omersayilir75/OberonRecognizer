@@ -1,6 +1,0 @@
-MODULE U;
-	
-	BEGIN
-	;
-	
-	END R1.

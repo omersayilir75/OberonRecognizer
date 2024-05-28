@@ -1,3 +1,0 @@
-MODULE eDXIqM;
-	
-	END uAj.

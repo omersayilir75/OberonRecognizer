@@ -1,3 +1,0 @@
-MODULE aCeM;
-		BEGIN	
-	END L.

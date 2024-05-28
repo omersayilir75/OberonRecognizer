@@ -1,5 +1,0 @@
-MODULE p;
-	
-	BEGIN
-	bK
-	END A.

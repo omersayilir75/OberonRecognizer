@@ -1,11 +1,0 @@
-MODULE o;
-	PROCEDURE e*;
-	END OhR
-;PROCEDURE ZoU;
-	END uQs
-	;PROCEDURE Um*;
-
-	END h
-;PROCEDURE Y27P;
-
-	END mQg;	END r.

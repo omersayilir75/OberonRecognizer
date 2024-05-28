@@ -1,3 +1,0 @@
-MODULE rH;
-	
-	END Z.

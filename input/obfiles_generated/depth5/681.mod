@@ -1,5 +1,0 @@
-MODULE vH;
-	
-	BEGIN
-	
-	END D0.

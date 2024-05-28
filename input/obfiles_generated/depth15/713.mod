@@ -1,3 +1,0 @@
-MODULE YZk;
-	
-	END T.

@@ -1,2 +1,0 @@
-MODULE GfK;	
-	END I.

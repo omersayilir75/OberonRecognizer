@@ -1,8 +1,0 @@
-MODULE z;
-	
-	BEGIN
-	IF (ME) THEN
-	
-ELSE
-	
-	END	END I.

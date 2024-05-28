@@ -1,4 +1,0 @@
-MODULE Yc;
-	
-	BEGIN	
-	END X.

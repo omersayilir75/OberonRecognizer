@@ -1,3 +1,0 @@
-MODULE bD;
-	
-	END Gc.

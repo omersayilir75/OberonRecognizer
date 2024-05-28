@@ -1,2 +1,0 @@
-MODULE VI;
-		END KEZiG.

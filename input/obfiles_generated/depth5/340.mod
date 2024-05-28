@@ -1,11 +1,0 @@
-MODULE VmNu;
-	PROCEDURE Z*;
-
-	END RYB
-;PROCEDURE V;
-
-	END F
-		;PROCEDURE K*;
-
-	END i
-;	END G.

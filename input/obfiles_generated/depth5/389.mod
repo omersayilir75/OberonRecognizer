@@ -1,7 +1,0 @@
-MODULE WN;
-	PROCEDURE q*;	END BN					;PROCEDURE ZwPol;
-
-	END W
-;
-	BEGIN
-		END R.

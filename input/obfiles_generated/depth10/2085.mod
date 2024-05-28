@@ -1,7 +1,0 @@
-MODULE pZ;
-	VAR
-W* : BOOLEAN;
-
-	BEGIN
-	P(r)
-	END B0.

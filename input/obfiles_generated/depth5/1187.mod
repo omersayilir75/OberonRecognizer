@@ -1,3 +1,0 @@
-MODULE DJn;
-	
-	END f.

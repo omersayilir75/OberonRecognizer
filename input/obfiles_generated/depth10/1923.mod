@@ -1,5 +1,0 @@
-MODULE H;	
-	BEGIN	REPEAT
-	Q
-	UNTIL (xH())
-	END V.

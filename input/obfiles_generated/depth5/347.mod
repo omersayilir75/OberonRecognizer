@@ -1,14 +1,0 @@
-MODULE M;
-	PROCEDURE O*;
-
-	END C;PROCEDURE U*;
-
-	END F
-;PROCEDURE e15xL;
-	END NKR49E
-;
-	BEGIN
-	;
-	;
-	
-	END W.

@@ -1,14 +1,0 @@
-MODULE We9eEbvGt;
-	PROCEDURE BS*;
-
-	END Q
-;PROCEDURE P9H9l;
-
-	END wJY			;PROCEDURE prg;
-
-	END _A
-		;PROCEDURE pd*;
-	END Sg	;PROCEDURE k;
-
-	END jF
-;	END z.

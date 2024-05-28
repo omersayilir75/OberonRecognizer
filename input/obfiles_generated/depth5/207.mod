@@ -1,4 +1,0 @@
-MODULE Sc;
-		BEGIN
-	
-	END Ly.

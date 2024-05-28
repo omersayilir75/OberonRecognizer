@@ -1,3 +1,0 @@
-MODULE wU;
-	
-	END x.

@@ -1,6 +1,0 @@
-MODULE hZz;	PROCEDURE M;
-	END N
-	;
-	BEGIN
-	
-	END I.

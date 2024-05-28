@@ -1,71 +1,0 @@
-MODULE h;
-	TYPE_o = ARRAY '''''' OF INTEGER;TYPE
-a* = Y3f;PROCEDURE j(VAR R4 : ARRAY '''''J' OF INTEGER)*;
-	PROCEDURE wG*;
-	PROCEDURE r(Bw : i ; h : INTEGER ; haa7L : BOOLEAN ; VAR XR : INTEGER);
-	PROCEDURE KQc;
-	PROCEDURE b*;
-
-	END p
-;	PROCEDURE UN*;
-
-	BEGIN
-	;	
-	END l
-;	PROCEDURE kh9b;
-	PROCEDURE bvg*;
-
-	END U;	PROCEDURE k*;
-
-	END CLE9
-	;	PROCEDURE FV;	END PxQ
-		;
-	END y
-;
-	END U
-		;	PROCEDURE A*;
-	PROCEDURE E*;
-	PROCEDURE k*;
-
-	END rC;
-	END tV
-;	PROCEDURE M;
-	PROCEDURE sYNKKri;
-	END NKF
-						;	PROCEDURE C8R;
-
-	END n
-						;
-	END rz
-	;
-	BEGIN
-	;
-	
-	END t;	PROCEDURE H;
-	PROCEDURE I;
-	PROCEDURE KO;
-	END V
-	;	PROCEDURE rp;
-	END D
-	;	PROCEDURE syQ;
-	END G1n1
-	;
-	END JH
-;	PROCEDURE C*;
-	END GIaXI	;	PROCEDURE x;	PROCEDURE lx*;
-
-	END p
-;
-	BEGIN
-	
-	END J
-;
-	END Bn
-	;
-	BEGIN	
-	END Qy4
-		;
-	END UF
-;	END D
-				;
-	END Bl6v.

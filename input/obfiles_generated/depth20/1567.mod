@@ -1,2 +1,0 @@
-MODULE Ln;
-		END z.

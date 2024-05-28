@@ -1,3 +1,0 @@
-MODULE TM;
-	
-	END i.

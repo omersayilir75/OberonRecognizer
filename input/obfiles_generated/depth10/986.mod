@@ -1,7 +1,0 @@
-MODULE C6;
-	
-	BEGIN
-	WHILE '' DO
-	l;
-	R2
-END	END I.

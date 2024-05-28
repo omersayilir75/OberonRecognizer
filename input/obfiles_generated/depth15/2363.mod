@@ -1,3 +1,0 @@
-MODULE at;
-	
-	END K.

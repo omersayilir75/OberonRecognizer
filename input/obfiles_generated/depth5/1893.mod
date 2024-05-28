@@ -1,3 +1,0 @@
-MODULE P3;
-	
-	END u.

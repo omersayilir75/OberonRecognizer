@@ -1,4 +1,0 @@
-MODULE HCX;
-	PROCEDURE X;
-	END H						;PROCEDURE m1b*;	END x3q4
-;	END n.

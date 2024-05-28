@@ -1,4 +1,0 @@
-MODULE T;
-	
-	BEGIN	v(9)
-	END F.

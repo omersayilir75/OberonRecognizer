@@ -1,3 +1,0 @@
-MODULE ux;
-	
-	END B.

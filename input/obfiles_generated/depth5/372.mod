@@ -1,4 +1,0 @@
-MODULE Ptz;
-		BEGIN
-	;
-		END OUN.

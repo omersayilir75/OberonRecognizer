@@ -1,5 +1,0 @@
-MODULE i;
-	
-	BEGIN
-	
-	END U.

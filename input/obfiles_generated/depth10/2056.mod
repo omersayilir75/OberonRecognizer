@@ -1,3 +1,0 @@
-MODULE mb;
-	
-	END H.

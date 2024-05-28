@@ -1,6 +1,0 @@
-MODULE IJV;
-	PROCEDURE j*;
-	END y;	BEGIN
-	REPEAT
-		UNTIL ~C3()
-	END kG.

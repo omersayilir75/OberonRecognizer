@@ -1,3 +1,0 @@
-MODULE Cb9;
-	
-	END XDlv.

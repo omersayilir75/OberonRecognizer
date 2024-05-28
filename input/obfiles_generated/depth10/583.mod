@@ -1,3 +1,0 @@
-MODULE COD;
-	
-	END f.

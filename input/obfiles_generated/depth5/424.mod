@@ -1,5 +1,0 @@
-MODULE X_bU;
-	PROCEDURE YE;	END tJ
-;
-	BEGIN
-		END V.

@@ -1,3 +1,0 @@
-MODULE fJt;
-	
-	END S.

@@ -1,16 +1,0 @@
-MODULE f3x;	PROCEDURE e*;
-
-	END N
-;PROCEDURE J;
-	END t
-;PROCEDURE f*;
-
-	END s8
-			;PROCEDURE V;
-
-	END hZ
-		;
-	BEGIN
-	;	;
-	
-	END S.

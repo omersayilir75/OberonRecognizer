@@ -1,3 +1,0 @@
-MODULE Yi;
-	
-	END F.

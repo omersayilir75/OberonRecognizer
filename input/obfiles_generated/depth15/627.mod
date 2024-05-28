@@ -1,4 +1,0 @@
-MODULE s;
-		BEGIN
-	L
-	END V.

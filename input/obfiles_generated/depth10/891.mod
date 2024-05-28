@@ -1,22 +1,0 @@
-MODULE r85Z;	VAR
-d, DQ : ARRAY '' OF INTEGER;
-PROCEDURE j*;
-	PROCEDURE tCQX;
-	VARP : INTEGER;	END E;	TYPE
-qe = BOOLEAN;
-	PROCEDURE O;
-
-	BEGIN
-		END FJiR
-		;
-	BEGIN
-	IF '/''J' THEN	;
-	;
-	
-ELSE
-	;	;
-	;	;
-	
-	END
-	END SN
-	;	END Zd.

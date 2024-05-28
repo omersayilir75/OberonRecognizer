@@ -1,16 +1,0 @@
-MODULE l;
-	PROCEDURE r*;
-	END q9
-	;PROCEDURE u;
-
-	END Zo
-;PROCEDURE D*;
-
-	END RJVoY;PROCEDURE inNE;
-
-	END A
-			;PROCEDURE VQSK32*;
-
-	END lx
-;
-	END v.

@@ -1,3 +1,0 @@
-MODULE HAqBq;
-	
-	END N.

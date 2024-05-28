@@ -1,4 +1,4 @@
-grammar OberonGrammar;
+grammar OberonGrammarTerminalSymbols;
 
 moduleDefinition:
 		MODULE n=ID ';'

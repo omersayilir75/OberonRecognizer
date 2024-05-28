@@ -1,3 +1,0 @@
-MODULE meX;
-	
-	END Z.

@@ -1,3 +1,0 @@
-MODULE bpb;
-	
-	END jKe.

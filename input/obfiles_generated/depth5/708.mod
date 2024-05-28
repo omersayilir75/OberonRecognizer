@@ -1,3 +1,0 @@
-MODULE BFPQSv;
-	
-	END E.

@@ -1,2 +1,0 @@
-MODULE YW;
-		END Iig.

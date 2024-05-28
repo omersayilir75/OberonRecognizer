@@ -1,5 +1,0 @@
-MODULE D;
-	PROCEDURE d*;
-	END ZD
-;
-	END in.

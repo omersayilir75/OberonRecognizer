@@ -1,3 +1,0 @@
-MODULE Qjs9;
-	
-	END C1R.

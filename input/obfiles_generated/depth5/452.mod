@@ -1,6 +1,0 @@
-MODULE Eqo;	PROCEDURE R*;
-
-	END lLEF
-		;	BEGIN
-	
-	END o5c.

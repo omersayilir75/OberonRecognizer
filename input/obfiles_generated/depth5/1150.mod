@@ -1,4 +1,0 @@
-MODULE oS7NhJ;	
-	BEGIN
-	
-	END k46.

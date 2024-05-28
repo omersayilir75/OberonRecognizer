@@ -1,5 +1,0 @@
-MODULE zK;	PROCEDURE S;
-
-	END T
-;
-	END n.

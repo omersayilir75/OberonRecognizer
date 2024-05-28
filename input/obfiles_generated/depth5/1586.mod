@@ -1,2 +1,0 @@
-MODULE mA2R;	
-	END A.

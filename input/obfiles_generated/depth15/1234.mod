@@ -1,3 +1,0 @@
-MODULE fTC;
-	
-	END S.

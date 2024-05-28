@@ -1,3 +1,0 @@
-MODULE bW;
-	
-	END KTXn.

@@ -1,5 +1,0 @@
-MODULE sFFs;
-	CONST
-EsHWm8* = B11c();
-
-	END Xd.

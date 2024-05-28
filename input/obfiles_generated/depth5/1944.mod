@@ -1,5 +1,0 @@
-MODULE UVX03;
-	PROCEDURE G*;
-	END s
-;
-	END lCCD.

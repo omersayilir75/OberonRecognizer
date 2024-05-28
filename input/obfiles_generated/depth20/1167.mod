@@ -1,2 +1,0 @@
-MODULE jmGS;
-		END w.

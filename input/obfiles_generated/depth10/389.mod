@@ -1,3 +1,0 @@
-MODULE f2;
-	
-	END K.

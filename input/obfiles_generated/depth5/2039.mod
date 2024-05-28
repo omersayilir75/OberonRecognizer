@@ -1,3 +1,0 @@
-MODULE gTR;
-	
-	END oN.

@@ -1,5 +1,0 @@
-MODULE q7;
-	PROCEDURE mfBO*;
-	END u
-;
-	END s6YR.

@@ -1,7 +1,0 @@
-MODULE x;
-	
-	BEGIN
-	REPEAT
-	H7TD('=', 8, '', 900)
-	UNTIL 47
-	END d.

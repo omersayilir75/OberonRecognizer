@@ -1,20 +1,0 @@
-MODULE G;
-	PROCEDURE vBE*;
-	END B
-	;PROCEDURE f*;
-
-	END P
-;PROCEDURE h;
-	END QhipwRp
-;PROCEDURE a;
-
-	END m
-;PROCEDURE Lu;
-
-	END F;PROCEDURE Tk;
-
-	END Q
-;PROCEDURE v*;
-
-	END P1
-	;	END Kt.

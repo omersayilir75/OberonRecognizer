@@ -1,2 +1,0 @@
-MODULE nDFD;	
-	END t.

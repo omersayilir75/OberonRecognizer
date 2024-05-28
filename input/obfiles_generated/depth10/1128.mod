@@ -1,6 +1,0 @@
-MODULE wB;
-		BEGIN
-	WHILE '' DO
-	GMT;
-	h6END
-	END PY.

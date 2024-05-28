@@ -1,54 +1,0 @@
-MODULE a;
-	PROCEDURE VL*;
-	VARY, E*, i : ARRAY 4 OF BOOLEAN;
-es, k, dk* : INTEGER;
-	PROCEDURE Zz*;	TYPEH* = ARRAY xM(O, '', '''') OF ARRAY x OF BOOLEAN;
-B* = INTEGER;
-Q* = RECORD W : xR;
-H : INTEGER END;
-	END x
-	;	END g	;TYPE
-K* = RECORD m : ARRAY '''Zn' OF INTEGER;L, U2b : ARRAY VFN OF INTEGER;
-UGQJvTJeQlQ : BOOLEAN END;
-d = RECORD S, m, U, UPMn, C, g, fAs : ARRAY e OF BOOLEAN END;
-PROCEDURE l;
-	END L
-		;PROCEDURE jz*;
-	END AspJ;PROCEDURE m(VAR G : BOOLEAN)*;
-	VAR
-n : W;vmN, vU*, Zj*, q* : RECORD e : ARRAY '' OF BOOLEAN;
-d, Ys, v, XWAt : BOOLEAN END;X, gB*, F, yW* : ARRAY K(g(), l7) OF ARRAY J() OF ARRAY C OF BOOLEAN;	PROCEDURE a4*;
-
-	BEGIN	
-	END PheV2
-;	PROCEDURE kF(t : RECORD UY, XN, K : ARRAY OWJf() OF BOOLEAN;
-T : ARRAY '''X' OF BOOLEAN END)*;
-
-	BEGIN
-	IF (q) THEN	Q('''', P(), U, 't''1y', T2Xl(), XU(), mH())
-ELSE
-	T	END
-	END w
-		;	VAR
-_Vp*, uoB7rD : RECORD Bq, f2DQ : BOOLEAN END;
-AEB6Wi* : RECORD ClU : ARRAY vN OF INTEGER;
-TW : ARRAY t OF INTEGER;
-O : INTEGER;
-A, xnvD : ARRAY '''''[' OF BOOLEAN END;
-w* : ARRAY u() # IY()  DIV  YI OF INTEGER;
-
-	BEGIN
-	REPEAT	
-	UNTIL J7pCsd;
-	WHILE F[zx()][oZ] DO
-	
-END;		END Fb
-		;PROCEDURE c(VAR mL : RECORD D, tc : hs END ; yU_ : ARRAY '' OF ARRAY lK >= S() OF INTEGER ; VAR Hw : RECORD J : INTEGER;
-g, e : ARRAY y OF h END ; VAR Ska, fS, Bo : ARRAY (~'') OF ARRAY '' OF INTEGER ; VAR T8, xK : BOOLEAN)*;	BEGIN
-	REPEAT
-	WHILE ~nh DO
-	eS;
-	a2
-END	UNTIL T8('''''', F) >= ''	END Ku
-				;
-	END c.

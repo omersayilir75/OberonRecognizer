@@ -1,2 +1,0 @@
-MODULE ix;
-		END zhUG.

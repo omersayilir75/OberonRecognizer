@@ -1,5 +1,0 @@
-MODULE A0;	PROCEDURE a;
-
-	END K0o
-;
-	END RKM.

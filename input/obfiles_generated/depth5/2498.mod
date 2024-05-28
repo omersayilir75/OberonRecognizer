@@ -1,9 +1,0 @@
-MODULE ob;
-	PROCEDURE b*;
-
-	END HY
-;PROCEDURE Ho;
-
-	END y
-;
-	BEGIN		END o.

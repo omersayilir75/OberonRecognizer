@@ -1,2 +1,0 @@
-MODULE JR;	
-	END z.

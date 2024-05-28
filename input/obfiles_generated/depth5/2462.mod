@@ -1,4 +1,0 @@
-MODULE C;	
-	BEGIN
-	;	
-	END GD.

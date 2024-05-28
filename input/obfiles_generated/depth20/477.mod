@@ -1,8 +1,0 @@
-MODULE ZL4m3S;
-	TYPE
-J = RECORD E, u : Z;
-q, DT : RECORD j, T : RECORD v : INTEGER END END;
-A : uybby END;
-TYPE
-i* = INTEGER;
-	END pA.

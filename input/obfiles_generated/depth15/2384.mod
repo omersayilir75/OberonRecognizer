@@ -1,12 +1,0 @@
-MODULE WZ8;
-	PROCEDURE gi(TJe : RECORD h, kKw, M : BOOLEAN END)*;	BEGIN
-	WHILE 5315 DO
-	B := r();
-	WHILE N DO
-	
-END
-END
-	END Sj2l
-;
-	BEGIN	uYf
-	END bf.

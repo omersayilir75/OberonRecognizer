@@ -1,4 +1,0 @@
-MODULE M;
-	VARyzC, CO9B*, q6s, W* : INTEGER;RCd, BP*, xbP : ARRAY 'C' OF INTEGER;
-
-	END tvH.

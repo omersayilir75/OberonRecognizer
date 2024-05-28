@@ -1,8 +1,0 @@
-MODULE Gi;
-	PROCEDURE JI*;
-	END _
-;PROCEDURE n;
-
-	END gj
-;
-	END W.

@@ -1,3 +1,0 @@
-MODULE oowo;
-	
-	END GNL.

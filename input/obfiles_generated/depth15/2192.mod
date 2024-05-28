@@ -1,3 +1,0 @@
-MODULE PZO;
-	
-	END O.

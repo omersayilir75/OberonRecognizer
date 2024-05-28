@@ -1,3 +1,0 @@
-MODULE Gq;
-	
-	END Q.

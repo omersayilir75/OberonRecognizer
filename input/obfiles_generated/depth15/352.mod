@@ -1,13 +1,0 @@
-MODULE R;
-	PROCEDURE H*;
-	END r
-;CONST
-C = -b9  DIV  un() >= '';PROCEDURE s*;
-
-	END N		;
-	BEGIN	REPEAT
-	REPEAT	REPEAT	U5;	
-	UNTIL C
-	UNTIL 368043;	K
-	UNTIL (10)
-	END g.

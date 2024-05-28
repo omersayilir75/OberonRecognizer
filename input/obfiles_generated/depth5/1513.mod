@@ -1,9 +1,0 @@
-MODULE n;
-	PROCEDURE KZQ*;
-
-	END Ik
-	;PROCEDURE Qp*;
-
-	END eY
-	;
-	END y.

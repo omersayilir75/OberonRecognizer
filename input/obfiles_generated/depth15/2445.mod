@@ -1,11 +1,0 @@
-MODULE m_;
-	PROCEDURE g(VAR T, T, w : INTEGER ; VAR D : ARRAY ('') OF ARRAY (VG) OF INTEGER ; VAR D : RECORD b, P : ARRAY f OF INTEGER END)*;
-	VAR
-ik*, abNGzVAL*, I3k* : l7;
-EYE15 : BOOLEAN;
-	BEGIN	REPEAT
-	V := Q;	
-	UNTIL (9964663)
-	END b6
-;
-	BEGIN	;	DRs('''''j')	END L9tS.

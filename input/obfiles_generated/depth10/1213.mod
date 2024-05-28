@@ -1,4 +1,0 @@
-MODULE BU;	PROCEDURE m;
-
-	END r;
-	END IHg.

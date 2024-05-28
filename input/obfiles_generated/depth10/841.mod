@@ -1,3 +1,0 @@
-MODULE ktX;
-	
-	END RF.

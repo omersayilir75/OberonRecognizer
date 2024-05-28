@@ -1,2 +1,0 @@
-MODULE oa;	
-	END z.

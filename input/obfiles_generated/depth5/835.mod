@@ -1,4 +1,0 @@
-MODULE vS3O70X;
-	
-	BEGIN	;	
-	END gj6.

@@ -1,13 +1,0 @@
-MODULE Sz;
-	PROCEDURE FD*;
-
-	END D
-;PROCEDURE B;
-
-	END DQHS
-	;PROCEDURE Kx;
-	END puv
-;
-	BEGIN
-	
-	END b.

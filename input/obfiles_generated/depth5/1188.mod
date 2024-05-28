@@ -1,4 +1,0 @@
-MODULE H;
-	PROCEDURE x;
-	END V
-;	END Mm.

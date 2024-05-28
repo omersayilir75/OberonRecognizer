@@ -1,4 +1,0 @@
-MODULE t;
-	
-	BEGIN
-	s3PPI	END V.

@@ -1,12 +1,0 @@
-MODULE DPHGk;	PROCEDURE xFR(VAR L, sf7a : RECORD uU : h END);
-	END w
-		;TYPE
-KB* = BOOLEAN;
-PROCEDURE s;
-	PROCEDURE M(I : RECORD d, JvMt : BOOLEAN END ; HECZ, VF, J3, U7Wc, PB : INTEGER ; ec : INTEGER);
-
-	END t
-;
-	END E
-				;
-	END z.

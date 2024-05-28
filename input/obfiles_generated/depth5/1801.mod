@@ -1,3 +1,0 @@
-MODULE s9;
-	
-	END IFf.

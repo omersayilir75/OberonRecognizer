@@ -1,2 +1,0 @@
-MODULE _EA;	
-	END D.

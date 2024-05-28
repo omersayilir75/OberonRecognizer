@@ -1,5 +1,0 @@
-MODULE H6;	
-	BEGIN
-	;
-	
-	END ZC.

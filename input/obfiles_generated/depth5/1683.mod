@@ -1,13 +1,0 @@
-MODULE Y;
-	PROCEDURE M;
-
-	END an
-	;PROCEDURE w*;
-	END j;PROCEDURE x*;
-
-	END pcK
-					;PROCEDURE X;
-	END v8		;PROCEDURE lBHH*;
-
-	END R
-;	END E7s5MYk.

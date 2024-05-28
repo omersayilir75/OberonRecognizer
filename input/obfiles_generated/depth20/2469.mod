@@ -1,2 +1,0 @@
-MODULE IN;	
-	END Eb.

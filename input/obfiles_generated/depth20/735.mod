@@ -1,2 +1,0 @@
-MODULE EOz;	
-	END A.

@@ -1,5 +1,0 @@
-MODULE jk;
-	
-	BEGIN
-	SEH
-	END ew.

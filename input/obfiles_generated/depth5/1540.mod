@@ -1,3 +1,0 @@
-MODULE Dy;
-	
-	END T.

@@ -1,3 +1,0 @@
-MODULE H;
-	
-	END MM6.

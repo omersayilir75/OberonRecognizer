@@ -1,6 +1,0 @@
-MODULE Q;
-	PROCEDURE _;
-
-	END U
-;
-	END Ti.

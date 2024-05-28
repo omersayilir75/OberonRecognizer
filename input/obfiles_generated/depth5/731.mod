@@ -1,3 +1,0 @@
-MODULE TKi;
-	
-	END Wc.

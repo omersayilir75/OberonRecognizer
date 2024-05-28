@@ -1,6 +1,0 @@
-MODULE L;
-	PROCEDURE VFFv;
-
-	END y
-;
-	END YPb4.

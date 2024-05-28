@@ -1,2 +1,0 @@
-MODULE T7E;
-		END r.

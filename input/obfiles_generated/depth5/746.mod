@@ -1,2 +1,0 @@
-MODULE Gat;	
-	END Z.

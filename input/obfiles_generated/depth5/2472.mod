@@ -1,6 +1,0 @@
-MODULE w;	PROCEDURE d*;
-
-	END m3Eb4
-;PROCEDURE g;
-
-	END q;	END v.

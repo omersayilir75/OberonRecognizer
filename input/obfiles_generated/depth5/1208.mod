@@ -1,5 +1,0 @@
-MODULE nLQ_b;	PROCEDURE Y*;	END s
-;	BEGIN
-	;
-	
-	END Ss.

@@ -1,6 +1,0 @@
-MODULE F;	PROCEDURE U;
-	END G						;PROCEDURE i6*;
-
-	END V5yA
-;
-	END I.

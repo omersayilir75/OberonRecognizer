@@ -1,5 +1,0 @@
-MODULE CSM_J;
-	PROCEDURE yqk*;
-	END B
-;
-	END E.

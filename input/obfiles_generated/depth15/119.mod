@@ -1,3 +1,0 @@
-MODULE UD;
-	
-	END B.

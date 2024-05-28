@@ -1,2 +1,0 @@
-MODULE WQ;	
-	END kaQ.

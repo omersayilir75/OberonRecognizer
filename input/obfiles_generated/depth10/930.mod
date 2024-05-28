@@ -1,17 +1,0 @@
-MODULE owb9s;	PROCEDURE E(Oj, SM : ARRAY A OF INTEGER)*;
-
-	BEGIN
-	;	REPEAT	
-	UNTIL ''
-	END e
-;PROCEDURE I_S;
-	PROCEDURE y(VAR Q, n, D, J : INTEGER ; VAR T : INTEGER);
-
-	BEGIN
-	B;
-	
-	END T
-;	BEGIN	
-	END T
-			;
-	END X.

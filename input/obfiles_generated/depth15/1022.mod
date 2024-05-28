@@ -1,3 +1,0 @@
-MODULE xjY;
-	
-	END jQo.

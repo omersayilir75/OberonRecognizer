@@ -1,6 +1,0 @@
-MODULE s;
-	PROCEDURE _xx*;
-
-	BEGIN		END Lq
-;
-	END V.

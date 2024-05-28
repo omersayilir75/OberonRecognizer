@@ -1,2 +1,0 @@
-MODULE WU;	
-	END Q.

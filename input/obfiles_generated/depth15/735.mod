@@ -1,11 +1,0 @@
-MODULE hIh;
-	PROCEDURE kyeE2a(VAR z, Fw8E, xC, S, p7 : RECORD kA7, _, K : S;
-hCK, _, MY : ARRAY x5J OF INTEGER END ; hB : RECORD r9oNADN, f, U, niJ, A : BOOLEAN END);
-	PROCEDURE yC1;
-	TYPE
-ZLt* = BOOLEAN;
-	END r
-;
-	END Fw;
-	BEGIN	o
-	END Bs.

@@ -1,2 +1,0 @@
-MODULE L0;	
-	END VGG.

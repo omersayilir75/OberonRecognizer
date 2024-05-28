@@ -1,3 +1,0 @@
-MODULE e;
-	
-	END jZ.

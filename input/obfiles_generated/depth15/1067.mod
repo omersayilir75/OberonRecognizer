@@ -1,3 +1,0 @@
-MODULE xeYNTH2;
-	
-	END dJ.

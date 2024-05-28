@@ -1,5 +1,0 @@
-MODULE Y;
-	PROCEDURE F;
-
-	END V;
-	END O.

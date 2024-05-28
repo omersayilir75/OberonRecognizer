@@ -1,5 +1,0 @@
-MODULE g;
-	PROCEDURE W;
-
-	END n
-;	END A_DV.

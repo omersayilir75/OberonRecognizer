@@ -1,3 +1,0 @@
-MODULE LZuuGS;
-	
-	END vKj.

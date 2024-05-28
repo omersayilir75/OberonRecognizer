@@ -1,4 +1,0 @@
-MODULE h;
-	PROCEDURE qR5Zbr5;
-	END y		;
-	END DB.

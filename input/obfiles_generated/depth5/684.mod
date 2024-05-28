@@ -1,3 +1,0 @@
-MODULE Me;
-	
-	END l.

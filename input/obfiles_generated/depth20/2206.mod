@@ -1,4 +1,0 @@
-MODULE Y;
-	TYPE
-tnw* = INTEGER;
-	END p.

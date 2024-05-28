@@ -1,3 +1,0 @@
-MODULE SnwSe;
-	
-	END XXmY.

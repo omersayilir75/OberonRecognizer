@@ -1,3 +1,0 @@
-MODULE z;	TYPE
-fW* = ARRAY (tU) OF BOOLEAN;
-	END ii.

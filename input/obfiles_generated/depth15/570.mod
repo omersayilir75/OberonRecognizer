@@ -1,5 +1,0 @@
-MODULE UmV;
-	
-	BEGIN
-	m6
-	END JW.

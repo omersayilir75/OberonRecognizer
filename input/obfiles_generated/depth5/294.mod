@@ -1,8 +1,0 @@
-MODULE P;
-	PROCEDURE a*;
-
-	END l
-	;
-	BEGIN
-	
-	END RIS.

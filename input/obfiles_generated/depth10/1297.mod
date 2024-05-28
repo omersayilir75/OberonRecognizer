@@ -1,3 +1,0 @@
-MODULE ca;
-	
-	END L.

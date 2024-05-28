@@ -1,3 +1,0 @@
-MODULE bF;
-	
-	END p.

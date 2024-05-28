@@ -1,8 +1,0 @@
-MODULE A;
-	PROCEDURE tM*;
-	END D2
-				;PROCEDURE S*;
-	END Vi
-;
-	BEGIN	
-	END Qa.

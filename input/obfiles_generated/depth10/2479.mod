@@ -1,3 +1,0 @@
-MODULE W8;
-	
-	END G.

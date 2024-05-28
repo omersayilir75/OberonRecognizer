@@ -1,2 +1,0 @@
-MODULE RhXBo;
-		END C.

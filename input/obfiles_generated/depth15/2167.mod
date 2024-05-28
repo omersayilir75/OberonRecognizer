@@ -1,2 +1,0 @@
-MODULE b;
-		END D.

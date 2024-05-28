@@ -1,6 +1,0 @@
-MODULE Qvq_9d;
-	PROCEDURE MYk*;	END Ia
-;
-	BEGIN
-	
-	END z.

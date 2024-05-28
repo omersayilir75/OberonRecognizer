@@ -1,5 +1,0 @@
-MODULE x;	PROCEDURE g;
-
-	END J
-	;
-	END T.

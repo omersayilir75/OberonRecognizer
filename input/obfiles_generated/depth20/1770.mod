@@ -1,3 +1,0 @@
-MODULE FGDZ;
-	
-	END q.

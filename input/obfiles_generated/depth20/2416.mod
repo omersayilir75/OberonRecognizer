@@ -1,3 +1,0 @@
-MODULE S7Vn;
-	
-	END sT.

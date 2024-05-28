@@ -1,9 +1,0 @@
-MODULE p;	PROCEDURE a;
-
-	END d
-;PROCEDURE b;
-
-	END Hi
-;PROCEDURE c*;
-
-	END nR;	END B.

@@ -1,6 +1,0 @@
-MODULE sZ5p;
-	PROCEDURE Wxsy;
-
-	END fuUL	;
-	BEGIN	
-	END s.

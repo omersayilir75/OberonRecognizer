@@ -1,3 +1,0 @@
-MODULE Nky;
-	
-	END y.

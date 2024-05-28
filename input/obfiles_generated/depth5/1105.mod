@@ -1,3 +1,0 @@
-MODULE M3;
-	
-	END Su.

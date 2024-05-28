@@ -1,4 +1,0 @@
-MODULE Bqc35QUpu_mP;
-	
-	BEGIN
-		END k.

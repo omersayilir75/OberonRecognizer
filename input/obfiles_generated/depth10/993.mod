@@ -1,3 +1,0 @@
-MODULE PA;
-	
-	END M.

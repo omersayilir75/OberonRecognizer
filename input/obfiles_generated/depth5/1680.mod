@@ -1,5 +1,0 @@
-MODULE OIkha;
-	PROCEDURE R8dr*;
-	END JfcIRmN;PROCEDURE r*;
-	END hp;
-	END A.

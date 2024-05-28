@@ -1,3 +1,0 @@
-MODULE fI;
-	
-	END V.

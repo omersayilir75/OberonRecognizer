@@ -1,3 +1,0 @@
-MODULE Ow;
-	
-	END k.

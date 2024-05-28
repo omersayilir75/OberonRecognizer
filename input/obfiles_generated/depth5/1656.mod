@@ -1,6 +1,0 @@
-MODULE sb;
-	PROCEDURE CR;
-
-	END q	;PROCEDURE U;
-	END e	;
-	END sgW.

@@ -1,3 +1,0 @@
-MODULE jCkmP;
-	
-	END j.

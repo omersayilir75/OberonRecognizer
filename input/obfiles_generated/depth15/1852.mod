@@ -1,3 +1,0 @@
-MODULE boaU;
-	
-	END v.

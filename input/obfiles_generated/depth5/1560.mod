@@ -1,2 +1,0 @@
-MODULE s;	
-	END g.

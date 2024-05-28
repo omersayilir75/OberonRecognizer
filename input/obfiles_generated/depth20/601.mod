@@ -1,23 +1,0 @@
-MODULE m;	VAR
-r, QXH5* : BOOLEAN;
-K*, QR*, O* : ARRAY 82 OF RECORD L : HdC6TE;
-q, w : ARRAY 9 OF RECORD vB, y : w;
-z : BOOLEAN;
-CWOpblg : INTEGER END END;
-VAR
-n*, iS, tyMa : BOOLEAN;
-Y*, zL, eGn, C* : INTEGER;C*, w, X : RECORD U : ARRAY Q.eM OF ARRAY -('') OF RECORD T, bmuE : INTEGER;C : o3 END;
-Q : o;
-b : BOOLEAN END;PROCEDURE r(VAR yOC, L, cvD : INTEGER ; VAR l : ARRAY K3(WD.h > 57, 5) OF RECORD xP : ARRAY 62 OF RECORD b, X, _ : INTEGER;
-rl, CP : BOOLEAN;
-Dt, Z : INTEGER;
-yUz, J, PGcrwk : BOOLEAN END END ; G, u, E, K : RECORD o_ZlTqw35B, b : ARRAY 0 OR UCK.TC OF ARRAY ('''Ud') - C OF RECORD H, q : INTEGER END;rL6D5g : ARRAY 4 OF ARRAY 5 OF RECORD zb, X : INTEGER END END)*;	PROCEDURE Q(VAR s2 : RECORD FcpB_Y, zC, O, jk : RECORD dVks, M, KWRN : BOOLEAN;L : ARRAY D() OF INTEGER END END)*;
-	TYPE
-Xv* = ARRAY '' < XS9ssH < ~CFF() # (l())  MOD  (k())  MOD  (Z2()) OF INTEGER;
-n = BOOLEAN;HZ = ARRAY --'l''' + '''''' + 9 OF T;
-	END jE
-					;
-	END F1BG0NUwW
-												;TYPE
-q* = BOOLEAN;F* = ARRAY U() OF rZ;
-_l* = ARRAY '' OF RECORD JUV, _, O, qw0i6HVqI : BOOLEAN END;	END F.

@@ -1,4 +1,0 @@
-MODULE q;	
-	BEGIN
-	E
-	END K.

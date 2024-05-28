@@ -1,10 +1,0 @@
-MODULE J;
-	PROCEDURE n*;
-	END eqXj
-	;PROCEDURE fE0UbRn*;
-
-	END N
-	;
-	BEGIN	;
-	
-	END n.

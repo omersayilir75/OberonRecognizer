@@ -1,3 +1,0 @@
-MODULE W2;
-	
-	END P.

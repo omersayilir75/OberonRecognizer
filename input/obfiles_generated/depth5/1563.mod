@@ -1,3 +1,0 @@
-MODULE uQ;
-	
-	END l.

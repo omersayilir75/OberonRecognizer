@@ -1,6 +1,0 @@
-MODULE n;
-		BEGIN
-	WHILE Ma > B7() DO
-	
-END
-	END Um.

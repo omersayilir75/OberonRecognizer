@@ -1,6 +1,0 @@
-MODULE F8Hd;
-	
-	BEGIN
-	;
-	
-	END Di.

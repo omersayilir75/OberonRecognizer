@@ -1,5 +1,0 @@
-MODULE p;
-	
-	BEGIN	REPEAT	
-	UNTIL ~U()
-	END s.

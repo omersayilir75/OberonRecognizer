@@ -1,3 +1,0 @@
-MODULE cZ;
-	
-	END rf.

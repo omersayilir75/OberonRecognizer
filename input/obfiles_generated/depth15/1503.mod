@@ -1,2 +1,0 @@
-MODULE vK;
-		END NN.

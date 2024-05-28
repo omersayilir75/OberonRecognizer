@@ -1,5 +1,0 @@
-MODULE yuADTK;
-	TYPE_ = ARRAY ~l + N() OF ARRAY 'Q' < '' OF ARRAY '' OF INTEGER;
-	BEGIN
-	cN
-	END K.

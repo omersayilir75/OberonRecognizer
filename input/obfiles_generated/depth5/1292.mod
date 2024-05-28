@@ -1,6 +1,0 @@
-MODULE a;	PROCEDURE B*;
-	END iY0	;
-	BEGIN
-	;
-	;	
-	END x0VPOYMtoU55.

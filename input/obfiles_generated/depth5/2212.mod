@@ -1,4 +1,0 @@
-MODULE _c9;
-	
-	BEGIN	
-	END xI0xGoz8.

@@ -1,3 +1,0 @@
-MODULE M;
-	
-	END X8.

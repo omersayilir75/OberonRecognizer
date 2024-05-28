@@ -1,8 +1,0 @@
-MODULE Q4;
-	PROCEDURE CO;
-
-	END inOl
-;
-	BEGIN
-	
-	END QW.

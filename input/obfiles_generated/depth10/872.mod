@@ -1,3 +1,0 @@
-MODULE Kb;
-	
-	END KO.

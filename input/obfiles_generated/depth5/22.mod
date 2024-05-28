@@ -1,6 +1,0 @@
-MODULE YKA;
-	PROCEDURE K*;
-
-	END h
-;
-	END g.

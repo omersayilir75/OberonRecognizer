@@ -1,2 +1,0 @@
-MODULE Uq;
-		END o.

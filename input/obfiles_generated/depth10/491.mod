@@ -1,3 +1,0 @@
-MODULE T_;
-	
-	END V.

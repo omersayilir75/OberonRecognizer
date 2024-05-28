@@ -1,4 +1,0 @@
-MODULE XG;	
-	BEGIN
-	
-	END Nts.

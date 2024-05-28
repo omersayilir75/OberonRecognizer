@@ -1,5 +1,0 @@
-MODULE A;	PROCEDURE RcC;
-
-	END R
-;
-	END Ti.

@@ -1,2 +1,0 @@
-MODULE tVR;
-		END RPc.

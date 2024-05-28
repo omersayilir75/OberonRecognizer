@@ -1,4 +1,0 @@
-MODULE T;	PROCEDURE E2d;
-	END sM
-	;	BEGIN
-	II := Y()	END LW.

@@ -1,3 +1,0 @@
-MODULE Pu8;
-		BEGIN
-	x	END J.

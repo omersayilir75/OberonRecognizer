@@ -1,3 +1,0 @@
-MODULE LB0;
-		BEGIN
-		END u.

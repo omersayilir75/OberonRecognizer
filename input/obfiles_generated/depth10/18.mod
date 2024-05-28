@@ -1,6 +1,0 @@
-MODULE wx;
-	VARL* : ARRAY k() OF BOOLEAN;
-F* : INTEGER;
-
-	BEGIN	WHILE F() * '' DO	zEND
-	END mb.

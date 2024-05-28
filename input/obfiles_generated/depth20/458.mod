@@ -1,3 +1,0 @@
-MODULE yc;
-	
-	END _.

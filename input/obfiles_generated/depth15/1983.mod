@@ -1,5 +1,0 @@
-MODULE J;
-	VAR
-Rt : ARRAY ~L OR vW3.gz7.g OF ARRAY (r()) OF ARRAY fnOK OF INTEGER;
-
-	END J.

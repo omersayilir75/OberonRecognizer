@@ -1,7 +1,0 @@
-MODULE W;	PROCEDURE rKWogr4;
-
-	END LyR				;PROCEDURE DH;
-
-	END qtB
-;
-	END K.

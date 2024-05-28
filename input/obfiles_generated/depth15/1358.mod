@@ -1,13 +1,0 @@
-MODULE r;	
-	BEGIN
-	REPEAT	A := 7;
-	REPEAT
-	IF k_ THEN
-	
-ELSIF '' THEN
-	
-	END;
-	
-	UNTIL f9  MOD  A
-	UNTIL Di
-	END k.

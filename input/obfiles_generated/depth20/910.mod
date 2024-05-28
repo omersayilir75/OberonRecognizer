@@ -1,3 +1,0 @@
-MODULE G;
-		BEGIN
-	K	END k5L.

@@ -1,3 +1,0 @@
-MODULE _h;
-	
-	END UX.

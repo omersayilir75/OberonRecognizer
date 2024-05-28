@@ -1,4 +1,0 @@
-MODULE H;
-	
-	BEGIN	REPEAT
-		UNTIL C()	END z8e.

@@ -1,4 +1,0 @@
-MODULE Q;
-	
-	BEGIN
-		END UwER7q.

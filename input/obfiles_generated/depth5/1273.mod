@@ -1,8 +1,0 @@
-MODULE s;
-	PROCEDURE CMO*;
-
-	END xHk
-;
-	BEGIN
-	
-	END x.

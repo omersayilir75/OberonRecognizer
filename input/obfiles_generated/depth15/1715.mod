@@ -1,4 +1,0 @@
-MODULE LE;
-		BEGIN
-	a
-	END Im.

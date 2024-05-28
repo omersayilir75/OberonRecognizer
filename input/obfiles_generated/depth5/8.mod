@@ -1,4 +1,0 @@
-MODULE K1D;
-	PROCEDURE lP3;	END OuS7;PROCEDURE e*;
-	END xme;
-	END y.

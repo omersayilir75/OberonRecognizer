@@ -1,9 +1,0 @@
-MODULE DFq;	PROCEDURE qS*;	END U
-	;PROCEDURE C2;
-
-	END e
-			;PROCEDURE H*;
-	END y2f
-;
-	BEGIN
-		END UA.

@@ -1,3 +1,0 @@
-MODULE ZC;
-	
-	END m.

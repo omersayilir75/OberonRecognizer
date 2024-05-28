@@ -1,4 +1,0 @@
-MODULE H;
-	PROCEDURE RJE*;
-	END t
-	;	END z7y.

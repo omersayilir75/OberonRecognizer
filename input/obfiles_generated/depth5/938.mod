@@ -1,8 +1,0 @@
-MODULE qYF;
-	PROCEDURE mwB;
-	END M;PROCEDURE ZcP;
-	END lC
-;PROCEDURE e7*;
-	END a
-;
-	BEGIN		END AL.

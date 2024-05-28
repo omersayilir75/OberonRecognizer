@@ -1,59 +1,0 @@
-MODULE l;
-	TYPE
-z = INTEGER;
-c* = ARRAY YI() OF INTEGER;
-PROCEDURE TE5;
-	PROCEDURE bq*;
-	VAR
-fs4, M* : UpV;
-	PROCEDURE B*;
-	PROCEDURE cv;
-	PROCEDURE q*;
-	PROCEDURE N*;
-
-	END CT
-					;	PROCEDURE lL_;
-
-	END j
-;	PROCEDURE _7B9uZ3*;
-
-	END N	;
-	END C
-;
-	END N
-;	PROCEDURE Qo;
-	PROCEDURE E*;	PROCEDURE R0en3*;
-
-	END H
-					;	PROCEDURE W*;
-	END c
-;
-	BEGIN
-		END Lg;	PROCEDURE Cv*;
-	PROCEDURE HY*;
-	END C		;
-	BEGIN
-	
-	END h1XAmH		;	PROCEDURE a*;
-
-	BEGIN	
-	END H
-	;
-	BEGIN
-		END z
-	;
-	BEGIN	;
-	xT9;
-	t_U
-	END w_Oo
-;
-	BEGIN
-	
-	END aUEor8
-;	PROCEDURE IC(VAR x : BOOLEAN)*;
-	VAR
-r : g;
-	BEGIN	PH	END f
-;
-	END Cg
-;	END RKEz99.

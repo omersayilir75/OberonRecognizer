@@ -1,2 +1,0 @@
-MODULE xyG;
-		END OUK.

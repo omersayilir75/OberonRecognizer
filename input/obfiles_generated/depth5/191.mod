@@ -1,2 +1,0 @@
-MODULE D_;		BEGIN
-		END C.

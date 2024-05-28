@@ -1,16 +1,0 @@
-MODULE Es;
-	PROCEDURE eBC1(M7 : ARRAY -A() < '' OF ARRAY NV OF ARRAY L() OF O);	VAR
-epnu* : INTEGER;
-ai*, f* : RECORD unvi, r : ARRAY vrZx OF BOOLEAN;JP : BOOLEAN END;
-p5, q* : ARRAY ~-K() OF RECORD zDj, Yq6, I : INTEGER END;
-
-	BEGIN
-	IF ~'' THEN
-	REPEAT		UNTIL ('0')
-	END;
-	eb;
-	
-	END s;PROCEDURE Y(IB : ARRAY R.Qi OF ARRAY t(Ax()) OF INTEGER)*;
-
-	END v		;
-	END OUF.

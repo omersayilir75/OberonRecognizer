@@ -1,2 +1,0 @@
-MODULE cNYPY;	
-	END c.

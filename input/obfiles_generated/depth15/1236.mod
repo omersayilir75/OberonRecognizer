@@ -1,2 +1,0 @@
-MODULE Wz;	
-	END X2.

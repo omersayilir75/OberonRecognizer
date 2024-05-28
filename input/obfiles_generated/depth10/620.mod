@@ -1,3 +1,0 @@
-MODULE R;	TYPEXjX = q;
-
-	END ZB.

@@ -1,7 +1,0 @@
-MODULE u;	PROCEDURE s;
-
-	END Qmz34D5SL
-;TYPE
-S* = g;j* = ARRAY '''' OF INTEGER;
-
-	END R.

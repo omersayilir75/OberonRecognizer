@@ -1,21 +1,0 @@
-MODULE Ad;
-	VAR
-KF6, J*, H3rT, K, N, P* : ARRAY '''g' OF BOOLEAN;PROCEDURE k(VAR m : F)*;
-
-	BEGIN
-	
-	END C
-;TYPE
-A = ARRAY I6() OF E;
-T* = ARRAY b() OF INTEGER;
-PROCEDURE T(VAR _ : ARRAY MOYt OF g ; VAR wvUK : BOOLEAN ; K, A4q : ARRAY w OF U);
-	END p
-;PROCEDURE fW*;
-	TYPEgS* = BOOLEAN;
-C = bnCVtu;
-EE* = BOOLEAN;
-X* = INTEGER;
-	BEGIN
-	X	END E6O
-;
-	END M.

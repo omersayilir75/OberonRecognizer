@@ -1,4 +1,0 @@
-MODULE a3P;
-		BEGIN
-	
-	END p.

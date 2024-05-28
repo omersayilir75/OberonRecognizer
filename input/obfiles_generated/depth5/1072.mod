@@ -1,6 +1,0 @@
-MODULE L;
-	PROCEDURE E;
-
-	END y0
-;
-	END _RC.

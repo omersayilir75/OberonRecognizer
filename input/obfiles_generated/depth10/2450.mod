@@ -1,4 +1,0 @@
-MODULE ImU;
-	
-	BEGIN
-	HQ	END b.

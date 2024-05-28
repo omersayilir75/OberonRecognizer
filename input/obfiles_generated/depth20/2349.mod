@@ -1,2 +1,0 @@
-MODULE n;
-		END TjYj.

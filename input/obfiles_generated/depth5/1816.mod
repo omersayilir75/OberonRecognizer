@@ -1,13 +1,0 @@
-MODULE O;	PROCEDURE t;
-	END GX
-;PROCEDURE V9;
-	END W
-			;PROCEDURE M*;
-
-	END W
-	;PROCEDURE wYh*;
-
-	END VKp		;PROCEDURE W;
-	END K
-		;
-	END bi.

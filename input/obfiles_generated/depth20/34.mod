@@ -1,15 +1,0 @@
-MODULE ueF;
-	TYPE
-A = RECORD D : RECORD v3, O : RECORD gb, m, s, QEdb : J END;
-DP_rc, E, E, P : RJBUwv;
-sy, JdE : ARRAY q  MOD  '' OF INTEGER;
-P, M, It : RECORD wU : INTEGER;
-V, q, S : PX;
-Xh : INTEGER;
-sKGntLw : INTEGER END END;
-ob : BOOLEAN;R, w, GdX : ARRAY A() OF ARRAY v('uX'',''') OF ARRAY EIi() OR K OF ARRAY I OF BOOLEAN END;
-D = RECORD J, K : INTEGER;
-b, YH : RECORD B : BOOLEAN END;r, Tn, u, YqV : RECORD H7ikN : RECORD d, lt : BOOLEAN END;F, MOj, t : Sr;
-Z, k, RB : ARRAY (f()) OF INTEGER END END;
-
-	END I.

@@ -1,3 +1,0 @@
-MODULE oFXxz;
-	
-	END qg.

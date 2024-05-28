@@ -1,3 +1,0 @@
-MODULE SDWO;
-	CONST
-F* = '';	END TQ.

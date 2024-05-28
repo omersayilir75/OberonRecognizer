@@ -1,10 +1,0 @@
-MODULE f8;
-	PROCEDURE ao;
-
-	END X
-	;PROCEDURE F*;
-
-	END nK
-						;PROCEDURE GR*;
-	END VO
-		;	END s.

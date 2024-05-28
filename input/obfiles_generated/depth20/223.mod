@@ -1,3 +1,0 @@
-MODULE _PqN8;
-	
-	END N.

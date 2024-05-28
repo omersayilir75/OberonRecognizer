@@ -1,2 +1,0 @@
-MODULE Z;
-		END h.

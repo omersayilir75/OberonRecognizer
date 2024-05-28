@@ -1,2 +1,0 @@
-MODULE bv;	
-	END MKoKG.

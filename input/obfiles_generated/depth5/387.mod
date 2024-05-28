@@ -1,5 +1,0 @@
-MODULE o;	PROCEDURE Do;
-	END K
-;
-	BEGIN	
-	END F1so.

@@ -27,3 +27,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/src/desk/poisoned_pairs.json
+/src/desk/precede_and_follow_all_datasets.json
+/details.csv
+/log.txt
+/poisoned_pairs.json
+/precede_and_follow_all_datasets.json
+/poisoned_pairs_ob0.json

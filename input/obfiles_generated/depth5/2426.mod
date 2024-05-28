@@ -1,7 +1,0 @@
-MODULE U;
-	PROCEDURE ro*;
-
-	END TOs		;PROCEDURE g;
-
-	END Tqm;
-	END Ms.

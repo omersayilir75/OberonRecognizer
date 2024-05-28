@@ -1,2 +1,0 @@
-MODULE cN;	
-	END wed.

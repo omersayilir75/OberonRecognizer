@@ -1,3 +1,0 @@
-MODULE W9a;
-	
-	END Bi.

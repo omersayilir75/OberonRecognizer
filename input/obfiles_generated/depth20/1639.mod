@@ -1,3 +1,0 @@
-MODULE qr;
-	
-	END CGY.

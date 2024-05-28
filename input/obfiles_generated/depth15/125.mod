@@ -1,5 +1,0 @@
-MODULE Z;
-	PROCEDURE hU3g*;
-	END D
-;
-	END nMO.

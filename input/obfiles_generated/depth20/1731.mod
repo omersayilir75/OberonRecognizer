@@ -1,3 +1,0 @@
-MODULE wCD;
-	
-	END xM.

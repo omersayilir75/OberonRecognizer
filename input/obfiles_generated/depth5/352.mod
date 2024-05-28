@@ -1,7 +1,0 @@
-MODULE v;
-	PROCEDURE a*;
-
-	END u
-;PROCEDURE E;
-	END l
-;	END M.

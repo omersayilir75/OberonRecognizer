@@ -1,3 +1,0 @@
-MODULE D;
-	PROCEDURE P;	END k		;
-	END l.

@@ -1,3 +1,0 @@
-MODULE cs;
-	
-	END k.

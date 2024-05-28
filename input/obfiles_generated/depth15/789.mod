@@ -1,2 +1,0 @@
-MODULE jO;	
-	END N.

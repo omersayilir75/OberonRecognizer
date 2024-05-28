@@ -1,2 +1,0 @@
-MODULE OUC;
-		END wB.

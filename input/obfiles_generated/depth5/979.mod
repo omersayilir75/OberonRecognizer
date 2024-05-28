@@ -1,7 +1,0 @@
-MODULE vKP;
-	PROCEDURE par3;	END n7dX
-	;PROCEDURE jI*;
-	END c		;
-	BEGIN
-	
-	END A.

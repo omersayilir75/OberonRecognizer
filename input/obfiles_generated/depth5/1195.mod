@@ -1,3 +1,0 @@
-MODULE adDtORGJYn;
-	
-	END X.

@@ -1,2 +1,0 @@
-MODULE Iyo;	
-	END s.

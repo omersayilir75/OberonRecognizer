@@ -1,5 +1,0 @@
-MODULE DT;
-	
-	BEGIN
-	
-	END Bn5.

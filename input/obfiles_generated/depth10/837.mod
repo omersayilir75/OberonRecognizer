@@ -1,4 +1,0 @@
-MODULE Jq;		BEGIN
-	n0HRkT(X);
-	
-	END LN.

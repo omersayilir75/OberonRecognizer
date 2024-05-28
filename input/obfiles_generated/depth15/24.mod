@@ -1,3 +1,0 @@
-MODULE gvG;
-	
-	END lQ.

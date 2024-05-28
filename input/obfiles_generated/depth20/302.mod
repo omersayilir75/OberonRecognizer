@@ -1,3 +1,0 @@
-MODULE OW;
-	
-	END Z.

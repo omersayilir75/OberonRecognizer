@@ -1,2 +1,0 @@
-MODULE MzHB;	
-	END Xc.

@@ -1,4 +1,0 @@
-MODULE KY;
-	VARG* : ARRAY B OF BOOLEAN;
-
-	END GjCz.

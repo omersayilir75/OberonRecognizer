@@ -1,2 +1,0 @@
-MODULE FOd;	
-	END a.

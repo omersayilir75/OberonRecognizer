@@ -1,2 +1,0 @@
-MODULE ye;
-		END N.

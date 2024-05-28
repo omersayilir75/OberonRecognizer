@@ -1,3 +1,0 @@
-MODULE fdb;
-	
-	END Fug.

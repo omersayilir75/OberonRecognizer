@@ -1,3 +1,0 @@
-MODULE z6;
-	
-	END UO.

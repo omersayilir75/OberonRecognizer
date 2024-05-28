@@ -1,41 +1,0 @@
-MODULE ap2;
-	PROCEDURE dD(VAR vls : INTEGER ; VAR e : INTEGER ; bX, GBU : ARRAY D5jCANtWK1 OF INTEGER)*;
-	PROCEDURE _(X : G ; VA1v, M4s, vUaor : INTEGER ; VAR D : BOOLEAN)*;
-	PROCEDURE pM(VAR i, J, P : INTEGER ; T : O ; NyFIhj : w);
-	PROCEDURE _;
-
-	END TBY				;	PROCEDURE Rv*;
-
-	END z
-;	PROCEDURE r4QP;
-
-	BEGIN
-	;	
-	END R
-;	PROCEDURE Mn;
-
-	BEGIN
-	
-	END tU
-		;	PROCEDURE o5*;
-	BEGIN
-		END A			;
-	END J
-	;
-	END UCe
-		;	PROCEDURE z*;
-	BEGIN
-	H2BXvI	END Gk
-;
-	END G
-;TYPE
-T = ARRAY K OF INTEGER;VAR
-D : INTEGER;
-mGKV : ARRAY JE() OF t;g0*, l*, mL : BOOLEAN;
-odSr* : ARRAY jm() OF BOOLEAN;
-tQ4NvQ : BOOLEAN;
-	BEGIN
-	IF '''' THEN	l;
-	
-	END
-	END gV.

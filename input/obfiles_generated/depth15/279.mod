@@ -1,16 +1,0 @@
-MODULE OO;	PROCEDURE X6(e, IlUxM : ARRAY 34 OF RECORD y_V9OyS : qv END ; VAR o, NS : BOOLEAN ; t, n : RECORD XK, EdpDxB, S4 : ARRAY '' OF K;
-h, xL : ARRAY 'C' OF S;
-a : INTEGER;
-z, AgxWRS : ARRAY L6 OF INTEGER END ; VAR d : BOOLEAN ; F, y27RPA, D : ARRAY 7 & 'E' OR YTU OF RECORD _, Vd : INTEGER END)*;
-	PROCEDURE HCS3(VAR YR4, i : ARRAY ('1' # Z90QOi()) OF ARRAY -'' OF INTEGER)*;
-
-	BEGIN	REPEAT	WHILE 't' DO	;
-	
-END;
-	AOn := ''
-	UNTIL P.eHW.of;
-	m[c][H()] := 4	END M
-	;
-	END BJ
-;
-	END D.

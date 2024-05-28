@@ -1,14 +1,0 @@
-MODULE FAP;
-	PROCEDURE OknAo*;
-
-	END DJE
-;PROCEDURE LRo*;
-
-	END J
-	;PROCEDURE P*;
-
-	END B
-		;PROCEDURE eyw*;
-	END Vy;
-	BEGIN	
-	END o6LiA.

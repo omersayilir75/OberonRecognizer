@@ -1,3 +1,0 @@
-MODULE U;
-	
-	END _3q.

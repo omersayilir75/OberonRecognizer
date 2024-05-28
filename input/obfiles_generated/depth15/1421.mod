@@ -1,7 +1,0 @@
-MODULE vHzUNAgmR1nyoRRj4mqId;
-	TYPE
-l = ARRAY I OF ARRAY 7 OF INTEGER;
-Cw = ARRAY i(Ct(), '''', '''') >= -Fs OF RECORD PSz : BOOLEAN END;
-X = BOOLEAN;
-
-	END CtW.

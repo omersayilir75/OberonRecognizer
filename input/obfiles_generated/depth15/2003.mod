@@ -1,2 +1,0 @@
-MODULE Np;	
-	END q.

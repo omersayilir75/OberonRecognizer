@@ -1,2 +1,0 @@
-MODULE NFp;
-		END N.

@@ -1,5 +1,0 @@
-MODULE U2Y;
-	
-	BEGIN
-	
-	END wu.

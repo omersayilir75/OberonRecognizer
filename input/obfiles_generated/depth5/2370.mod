@@ -1,9 +1,0 @@
-MODULE h;
-	PROCEDURE j;
-	END IG				;PROCEDURE Kes;
-	END tgA6
-;PROCEDURE W;
-
-	END iX2
-		;
-	END A.

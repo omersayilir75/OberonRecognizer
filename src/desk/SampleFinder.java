@@ -55,7 +55,7 @@ public class SampleFinder {
         if (tokenNeighboursHashtable.isEmpty()) {
             System.out.println("skipping...");
             return;
-        } // don't do anything if empty... TODO remove
+        }
 
         BufferedReader reader = null;
         File program = directory.toFile();

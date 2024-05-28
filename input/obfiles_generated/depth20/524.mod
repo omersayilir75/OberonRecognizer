@@ -1,4 +1,0 @@
-MODULE L9;
-	
-	BEGIN	DBpEC8
-	END h.

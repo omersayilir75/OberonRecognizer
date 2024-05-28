@@ -1,7 +1,0 @@
-MODULE vbW;	PROCEDURE zOWh;
-
-	END J;PROCEDURE h;
-
-	END dQD
-		;
-	END V2.

@@ -1,5 +1,0 @@
-MODULE Y5;
-	PROCEDURE I(Q : BOOLEAN ; TuL_ : ARRAY sQNU OF BOOLEAN ; C : Jtfj3Z ; VAR s, x : ARRAY C() OF YH4vc)*;
-
-	END UNJ	;
-	END N.

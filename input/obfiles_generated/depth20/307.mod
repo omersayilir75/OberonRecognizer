@@ -1,2 +1,0 @@
-MODULE tW;
-		END Db.

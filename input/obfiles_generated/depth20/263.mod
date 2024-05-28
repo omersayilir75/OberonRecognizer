@@ -1,2 +1,0 @@
-MODULE Q;	
-	BEGIN		END c.

@@ -1,9 +1,0 @@
-MODULE Nx;
-	PROCEDURE vS;
-	END AZvsHtW
-;PROCEDURE Lp;
-	END Y
-;
-	BEGIN	;
-	
-	END U.

@@ -1,9 +1,0 @@
-MODULE K;
-	CONST
-x* = DEz();
-
-	BEGIN
-	REPEAT
-	Gx
-	UNTIL D >= YJGi()
-	END RyNVm.

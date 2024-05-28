@@ -1,3 +1,0 @@
-MODULE Yf;
-	
-	END TC.

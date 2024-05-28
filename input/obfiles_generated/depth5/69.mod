@@ -1,3 +1,0 @@
-MODULE MjGS;
-	
-	END E.

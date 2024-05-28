@@ -1,3 +1,0 @@
-MODULE Q;
-	
-	END t.

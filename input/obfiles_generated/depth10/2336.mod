@@ -1,2 +1,0 @@
-MODULE TeFd;
-		END a.

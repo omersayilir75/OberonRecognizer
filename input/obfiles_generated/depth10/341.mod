@@ -1,5 +1,0 @@
-MODULE X;
-	
-	BEGIN	REPEAT
-		UNTIL ''
-	END T4sp.

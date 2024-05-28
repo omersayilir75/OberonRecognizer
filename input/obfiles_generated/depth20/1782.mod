@@ -1,2 +1,0 @@
-MODULE vjgQM;
-		END ar.

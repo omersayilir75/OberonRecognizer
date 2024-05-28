@@ -1,8 +1,0 @@
-MODULE cR;
-	PROCEDURE Ps;
-	END T
-			;
-	BEGIN
-	;
-	
-	END J.

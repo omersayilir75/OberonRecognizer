@@ -1,6 +1,0 @@
-MODULE gU;
-	PROCEDURE aYG;
-	END n
-;	BEGIN
-	
-	END W2.

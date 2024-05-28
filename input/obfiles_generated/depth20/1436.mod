@@ -1,3 +1,0 @@
-MODULE JUKjLaK;
-	
-	END V.

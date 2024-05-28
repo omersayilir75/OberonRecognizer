@@ -1,10 +1,0 @@
-MODULE oNt;
-	
-	BEGIN
-	WHILE '' DO
-	WHILE V DO
-	WHILE '''' & ('''') - OSYeYHNLPt2 DO
-	END
-END
-END
-	END QLxco.

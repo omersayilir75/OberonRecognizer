@@ -1,11 +1,0 @@
-MODULE R;
-	TYPEBI = Lz;
-PROCEDURE V;	TYPE
-L* = BOOLEAN;
-NL* = BOOLEAN;	TYPE
-o8 = d8;
-	PROCEDURE M;	END U
-;
-	END YYS8J6
-		;
-	END p.

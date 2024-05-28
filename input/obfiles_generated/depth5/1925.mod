@@ -1,12 +1,0 @@
-MODULE hd;
-	PROCEDURE X*;
-
-	END HGs
-;PROCEDURE H*;
-
-	END E;PROCEDURE BG*;
-
-	END Mb
-	;	BEGIN
-	
-	END gNzx.

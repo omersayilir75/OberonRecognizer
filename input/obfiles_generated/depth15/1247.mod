@@ -1,2 +1,0 @@
-MODULE VRj;	
-	END Gd.

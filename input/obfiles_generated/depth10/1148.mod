@@ -1,3 +1,0 @@
-MODULE Hb;
-	
-	END e.

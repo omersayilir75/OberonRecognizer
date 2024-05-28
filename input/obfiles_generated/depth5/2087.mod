@@ -1,2 +1,0 @@
-MODULE aB;
-		END lkx.

@@ -1,2 +1,0 @@
-MODULE hqg;
-		END A.

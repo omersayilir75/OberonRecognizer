@@ -1,6 +1,0 @@
-MODULE G6;
-	PROCEDURE R;
-	END q1;
-	BEGIN
-	
-	END gy.

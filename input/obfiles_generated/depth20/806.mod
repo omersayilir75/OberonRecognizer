@@ -1,3 +1,0 @@
-MODULE HoUv;
-	
-	END Z.

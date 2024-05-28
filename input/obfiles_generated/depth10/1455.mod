@@ -1,6 +1,0 @@
-MODULE Ew;
-	PROCEDURE L*;
-
-	END r
-;
-	END E.

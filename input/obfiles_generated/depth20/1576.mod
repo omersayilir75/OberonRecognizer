@@ -1,3 +1,0 @@
-MODULE xLfC1;
-	
-	END t2.

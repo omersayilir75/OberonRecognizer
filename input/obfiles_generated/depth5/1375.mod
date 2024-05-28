@@ -1,7 +1,0 @@
-MODULE Q;
-	PROCEDURE U*;
-
-	END L8
-	;	BEGIN
-	
-	END q.

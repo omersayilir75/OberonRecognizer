@@ -1,4 +1,0 @@
-MODULE Df;
-	TYPE
-e = INTEGER;
-	END uq.

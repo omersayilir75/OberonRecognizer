@@ -1,5 +1,0 @@
-MODULE yAlQ;
-	PROCEDURE NXnjDC*;
-
-	END Z	;
-	END s.

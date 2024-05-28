@@ -1,3 +1,0 @@
-MODULE wAzsA;
-	
-	END I.

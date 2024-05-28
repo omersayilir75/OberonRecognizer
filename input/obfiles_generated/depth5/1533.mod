@@ -1,2 +1,0 @@
-MODULE YX;
-		END n.

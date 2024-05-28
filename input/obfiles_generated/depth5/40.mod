@@ -1,6 +1,0 @@
-MODULE _;
-	PROCEDURE W14;
-
-	END E;	BEGIN
-	
-	END h.

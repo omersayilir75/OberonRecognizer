@@ -1,8 +1,0 @@
-MODULE i;	PROCEDURE s;
-	END g
-	;PROCEDURE DLLqB;
-
-	END hq
-	;	BEGIN
-	
-	END L.

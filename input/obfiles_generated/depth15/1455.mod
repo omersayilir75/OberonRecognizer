@@ -1,2 +1,0 @@
-MODULE nuHlhs;
-		END N.

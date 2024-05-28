@@ -1,6 +1,0 @@
-MODULE B;
-	
-	BEGIN	IF f THEN
-	
-	END
-	END y.

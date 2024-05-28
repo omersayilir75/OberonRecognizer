@@ -1,3 +1,0 @@
-MODULE y;	PROCEDURE r*;	END ZQ;
-	BEGIN
-		END oB.

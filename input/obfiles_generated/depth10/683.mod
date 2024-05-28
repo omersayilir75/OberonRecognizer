@@ -1,2 +1,0 @@
-MODULE KY;	
-	END s.

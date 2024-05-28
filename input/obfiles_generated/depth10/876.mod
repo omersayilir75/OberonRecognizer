@@ -1,3 +1,0 @@
-MODULE ms;
-	
-	END t.

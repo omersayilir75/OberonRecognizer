@@ -1,6 +1,0 @@
-MODULE F;
-	PROCEDURE WpQ;
-
-	END fq
-;
-	END Q.

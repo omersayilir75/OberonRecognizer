@@ -1,6 +1,0 @@
-MODULE Hp;
-	PROCEDURE M1*;
-
-	END I
-;
-	END C.

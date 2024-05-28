@@ -1,3 +1,0 @@
-MODULE wR;
-	
-	END P.

@@ -1,10 +1,0 @@
-MODULE GV5;
-		BEGIN
-	WHILE 377 DO
-	IF '' THEN
-	
-ELSE
-	Ci
-	END
-END
-	END Fm.

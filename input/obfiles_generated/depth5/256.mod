@@ -1,4 +1,0 @@
-MODULE W;
-	PROCEDURE sW;
-	END m;
-	END s.

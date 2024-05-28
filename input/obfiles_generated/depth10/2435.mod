@@ -1,3 +1,0 @@
-MODULE VD;
-	
-	END Ff.

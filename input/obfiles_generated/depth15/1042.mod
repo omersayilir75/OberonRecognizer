@@ -1,3 +1,0 @@
-MODULE Ja;
-	
-	END P.

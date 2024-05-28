@@ -1,2 +1,0 @@
-MODULE EZ;	
-	END v.

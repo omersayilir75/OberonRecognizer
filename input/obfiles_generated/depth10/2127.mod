@@ -1,4 +1,0 @@
-MODULE l;
-		BEGIN
-	
-	END Ze.

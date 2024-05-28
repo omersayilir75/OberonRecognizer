@@ -1,4 +1,0 @@
-MODULE v;	PROCEDURE r*;
-	END zsiA
-;
-	END UMgSSo.

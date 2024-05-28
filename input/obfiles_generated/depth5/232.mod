@@ -1,15 +1,0 @@
-MODULE NEA5;	PROCEDURE H*;
-	END v
-				;PROCEDURE R1*;
-
-	END I
-	;PROCEDURE G2;
-	END t
-;PROCEDURE i;
-	END DBsCl					;PROCEDURE MQwe*;
-
-	END BK
-		;
-	BEGIN	;
-	
-	END PDKJ.

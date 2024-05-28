@@ -1,4 +1,0 @@
-MODULE ZX;
-	
-	BEGIN
-	P0(W)	END rf.

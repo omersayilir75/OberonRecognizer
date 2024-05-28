@@ -1,3 +1,0 @@
-MODULE cb;
-	
-	END ES.

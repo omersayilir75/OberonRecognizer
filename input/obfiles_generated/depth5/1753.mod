@@ -1,4 +1,0 @@
-MODULE L6XCX;
-	
-	BEGIN	
-	END bW.

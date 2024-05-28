@@ -1,2 +1,0 @@
-MODULE m;
-		END wlD.

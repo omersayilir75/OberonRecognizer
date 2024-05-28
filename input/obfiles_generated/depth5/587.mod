@@ -1,5 +1,0 @@
-MODULE VF3;
-	PROCEDURE IX3F*;
-	END I
-	;
-	END m1.

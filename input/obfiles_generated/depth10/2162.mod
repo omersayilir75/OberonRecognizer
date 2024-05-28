@@ -1,5 +1,0 @@
-MODULE A;
-	TYPE
-Mw2* = INTEGER;
-
-	END B.

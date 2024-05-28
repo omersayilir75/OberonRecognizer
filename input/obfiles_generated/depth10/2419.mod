@@ -1,3 +1,0 @@
-MODULE MT;
-	
-	END E.

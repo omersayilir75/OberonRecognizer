@@ -1,2 +1,0 @@
-MODULE MA;
-		END e.

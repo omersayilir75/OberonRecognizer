@@ -1,1 +1,0 @@
-MODULE L;		END sZ25.

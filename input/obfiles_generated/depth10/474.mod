@@ -1,5 +1,0 @@
-MODULE _xt3;
-	TYPE
-a = Fl;
-MIH = ARRAY '''' OF INTEGER;
-	END HG.

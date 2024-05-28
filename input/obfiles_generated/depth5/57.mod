@@ -1,3 +1,0 @@
-MODULE JBmd;
-	
-	END Tr.

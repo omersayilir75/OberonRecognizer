@@ -1,3 +1,0 @@
-MODULE ce;
-	
-	END qGiTE70Z.

@@ -1,6 +1,0 @@
-MODULE L;
-	PROCEDURE JZ*;
-
-	END OJcZ4obe
-		;
-	END i.

@@ -1,3 +1,0 @@
-MODULE F;	VARAEX, mJP, E : BOOLEAN;
-
-	END L.

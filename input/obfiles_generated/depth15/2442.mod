@@ -1,3 +1,0 @@
-MODULE A4;
-	
-	END Er.

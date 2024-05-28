@@ -1,6 +1,0 @@
-MODULE N;
-	PROCEDURE bBU*;
-	END ax
-	;
-	BEGIN
-		END K.

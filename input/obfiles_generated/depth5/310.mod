@@ -1,4 +1,0 @@
-MODULE FWV;	PROCEDURE L*;
-
-	END AF;
-	END s2.

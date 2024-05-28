@@ -1,3 +1,0 @@
-MODULE TP;
-	
-	END SMCRh.

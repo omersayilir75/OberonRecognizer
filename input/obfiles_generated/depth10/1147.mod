@@ -1,3 +1,0 @@
-MODULE JoZ;
-	
-	END y.

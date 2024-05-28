@@ -1,10 +1,0 @@
-MODULE n;	PROCEDURE J*;
-	BEGIN
-	De;	P
-	END D
-;TYPEk7* = ARRAY UOPnW OF t;eR* = BOOLEAN;	BEGIN
-	WHILE r DO
-	;	;
-	;	m
-END
-	END P.

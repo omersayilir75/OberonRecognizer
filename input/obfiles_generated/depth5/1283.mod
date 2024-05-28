@@ -1,5 +1,0 @@
-MODULE _eL;
-	PROCEDURE Uo*;
-
-	END aY_;
-	BEGIN		END PBC.

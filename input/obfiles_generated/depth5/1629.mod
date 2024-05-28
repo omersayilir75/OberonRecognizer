@@ -1,9 +1,0 @@
-MODULE O3;
-	PROCEDURE A*;
-
-	END Z
-;PROCEDURE uXamV*;
-
-	END vo
-;
-	END Xb0.

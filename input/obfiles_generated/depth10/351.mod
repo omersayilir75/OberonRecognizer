@@ -1,3 +1,0 @@
-MODULE WW;
-	
-	END VOBIjW2.

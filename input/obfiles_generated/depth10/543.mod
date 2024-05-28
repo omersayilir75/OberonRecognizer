@@ -1,6 +1,0 @@
-MODULE T;	
-	BEGIN
-	REPEAT	e6;	eF;
-	ZF
-	UNTIL (pCK7Y)
-	END I.

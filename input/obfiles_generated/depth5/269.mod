@@ -1,7 +1,0 @@
-MODULE Nb;	PROCEDURE p*;
-
-	END p;PROCEDURE t;
-
-	END rX
-;
-	END r.

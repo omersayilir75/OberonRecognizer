@@ -1,9 +1,0 @@
-MODULE b;
-	PROCEDURE S;
-
-	END F			;PROCEDURE k;
-	END Z
-;PROCEDURE e;
-	END KTJ
-	;
-	END fs.

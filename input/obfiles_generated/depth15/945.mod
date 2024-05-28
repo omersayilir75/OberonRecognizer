@@ -1,3 +1,0 @@
-MODULE Xn;
-	
-	END L.

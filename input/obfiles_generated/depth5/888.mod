@@ -1,5 +1,0 @@
-MODULE UA;
-	
-	BEGIN
-	
-	END X.

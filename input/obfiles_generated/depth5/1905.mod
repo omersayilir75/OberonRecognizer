@@ -1,2 +1,0 @@
-MODULE tZ;
-		END XK.

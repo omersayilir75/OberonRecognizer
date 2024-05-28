@@ -1,5 +1,0 @@
-MODULE _;
-	PROCEDURE F;
-	END DfE
-	;
-	BEGIN		END U.

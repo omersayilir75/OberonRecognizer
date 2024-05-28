@@ -1,5 +1,0 @@
-MODULE S;	VAR
-J : INTEGER;
-K* : ARRAY 'I/' OF INTEGER;
-
-	END hOtb.

@@ -1,3 +1,0 @@
-MODULE TV;
-	
-	END f.

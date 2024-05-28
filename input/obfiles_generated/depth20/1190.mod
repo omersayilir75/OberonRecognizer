@@ -1,3 +1,0 @@
-MODULE I;	
-	BEGIN
-	R	END P4.

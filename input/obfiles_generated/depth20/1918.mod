@@ -1,3 +1,0 @@
-MODULE LyJL;
-	
-	END aR.

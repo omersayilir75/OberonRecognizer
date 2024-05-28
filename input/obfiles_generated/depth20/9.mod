@@ -1,5 +1,0 @@
-MODULE gJwm1Fj;
-	PROCEDURE DFrg9isB(VAR NN : INTEGER);
-	END r
-		;
-	END BJd.

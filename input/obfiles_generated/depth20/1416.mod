@@ -1,3 +1,0 @@
-MODULE Jze;
-	
-	END M.

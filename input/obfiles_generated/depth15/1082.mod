@@ -1,3 +1,0 @@
-MODULE ZzSB;
-	
-	END W.

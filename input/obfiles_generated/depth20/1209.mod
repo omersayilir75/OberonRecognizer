@@ -1,2 +1,0 @@
-MODULE LDvjB;	
-	END B.

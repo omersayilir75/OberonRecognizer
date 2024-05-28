@@ -1,3 +1,0 @@
-MODULE EQQ9;
-	
-	END UPn2t2Q.

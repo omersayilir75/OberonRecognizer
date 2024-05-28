@@ -1,4 +1,0 @@
-MODULE F;
-		BEGIN
-	
-	END FQ.

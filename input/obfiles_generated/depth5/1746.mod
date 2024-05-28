@@ -1,7 +1,0 @@
-MODULE M;
-	PROCEDURE M*;
-
-	END A
-;
-	BEGIN
-		END FyzGv.

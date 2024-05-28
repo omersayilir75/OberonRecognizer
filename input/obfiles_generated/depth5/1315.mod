@@ -1,14 +1,0 @@
-MODULE j;
-	PROCEDURE QB;
-
-	END EIA
-;PROCEDURE AD*;
-
-	END R	;PROCEDURE Ji*;
-
-	END FbmU
-;PROCEDURE JZ;
-
-	END gc
-;
-	END bGK.

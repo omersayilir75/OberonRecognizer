@@ -1,2 +1,0 @@
-MODULE oU;
-		END c.

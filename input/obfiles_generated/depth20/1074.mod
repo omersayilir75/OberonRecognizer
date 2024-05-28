@@ -1,3 +1,0 @@
-MODULE f4L;
-	
-	END u.

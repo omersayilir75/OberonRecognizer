@@ -1,4 +1,0 @@
-MODULE dCN;
-		BEGIN
-	
-	END o.

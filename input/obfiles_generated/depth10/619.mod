@@ -1,3 +1,0 @@
-MODULE dd;
-	
-	END tZLSfdqR.

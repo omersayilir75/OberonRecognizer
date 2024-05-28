@@ -1,3 +1,0 @@
-MODULE H6;	
-	BEGIN
-		END Dg.

@@ -1,6 +1,0 @@
-MODULE O;
-	PROCEDURE yA*;
-	END p_				;PROCEDURE k*;
-
-	END ICe
-;	END ZIc.

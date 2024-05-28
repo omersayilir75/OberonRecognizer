@@ -1,15 +1,0 @@
-MODULE C;
-	PROCEDURE q;
-
-	END eR;PROCEDURE f*;	END dm9
-			;PROCEDURE TcYc;
-
-	END S2
-;PROCEDURE Vvr*;
-	END F
-			;PROCEDURE p*;
-
-	END T
-	;	BEGIN
-	
-	END or1oX.

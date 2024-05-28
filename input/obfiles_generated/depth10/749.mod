@@ -1,3 +1,0 @@
-MODULE s;
-	
-	END mJ.

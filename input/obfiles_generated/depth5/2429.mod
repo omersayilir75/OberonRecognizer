@@ -1,5 +1,0 @@
-MODULE I;	PROCEDURE K*;
-
-	END A			;
-	BEGIN
-		END sk.

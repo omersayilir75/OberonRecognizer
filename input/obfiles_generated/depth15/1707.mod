@@ -1,2 +1,0 @@
-MODULE UB;
-		END O.

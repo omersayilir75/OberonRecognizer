@@ -1,4 +1,0 @@
-MODULE t;
-	
-	BEGIN
-	d	END WN8.

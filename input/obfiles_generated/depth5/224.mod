@@ -1,6 +1,0 @@
-MODULE h;
-	PROCEDURE S;
-
-	END X;
-	BEGIN
-		END v.

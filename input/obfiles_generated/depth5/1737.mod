@@ -1,4 +1,0 @@
-MODULE s;
-	PROCEDURE S;
-	END pdR
-	;	BEGIN		END mu.

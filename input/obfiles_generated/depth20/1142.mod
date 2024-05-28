@@ -1,3 +1,0 @@
-MODULE sqS;
-	
-	END s.

@@ -1,2 +1,0 @@
-MODULE o;
-		END BfLNRnD.

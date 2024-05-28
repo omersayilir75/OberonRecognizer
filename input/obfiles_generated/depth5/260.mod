@@ -1,8 +1,0 @@
-MODULE P1GV;	PROCEDURE XcYX*;
-
-	END E
-	;
-	BEGIN
-	;
-	
-	END dLw.

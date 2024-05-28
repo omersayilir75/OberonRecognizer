@@ -1,3 +1,0 @@
-MODULE G;	
-	BEGIN
-		END y.

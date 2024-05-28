@@ -1,4 +1,0 @@
-MODULE fc;	TYPE
-O* = BOOLEAN;
-
-	END u.

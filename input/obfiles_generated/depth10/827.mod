@@ -1,31 +1,0 @@
-MODULE cq;	PROCEDURE eFmiS(Sv, z : INTEGER ; VAR y6p8 : ARRAY x() OF Vk)*;	PROCEDURE gt(f, yW : INTEGER)*;	PROCEDURE T;
-	PROCEDURE E;
-	PROCEDURE T*;
-	BEGIN
-	
-	END Q
-;	PROCEDURE w;
-	PROCEDURE P;
-
-	END SUL;	PROCEDURE SjWs;
-	END Y
-;
-	END m
-		;
-	BEGIN
-		END _
-		;
-	END J;
-	END U
-;	CONST
-IIZI* = U;
-
-	END WDpmA
-;PROCEDURE A(T : BOOLEAN ; VAR n : ARRAY _c OF BOOLEAN ; VAR v : ARRAY '''' OF BOOLEAN);
-	END V	;CONSTj* = 'Z';
-CONSTOq* = -vQ;
-U1or* = -'';
-CONST
-h = -WU();
-
-	BEGIN		END Gp.

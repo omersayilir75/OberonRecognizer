@@ -1,10 +1,0 @@
-MODULE Evm;
-	PROCEDURE RF*;
-	BEGIN	REPEAT
-	;
-		UNTIL Fq()	END _MklA
-;PROCEDURE L;
-
-	END c6MLjA
-;
-	END Z.

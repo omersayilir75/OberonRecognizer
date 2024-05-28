@@ -1,2 +1,0 @@
-MODULE lcLP;	
-	END di.

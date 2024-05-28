@@ -1,3 +1,0 @@
-MODULE Y;
-	
-	END N.

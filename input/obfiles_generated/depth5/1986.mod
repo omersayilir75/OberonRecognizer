@@ -1,16 +1,0 @@
-MODULE S;
-	PROCEDURE Hh*;
-
-	END Yj;PROCEDURE N;
-	END s;PROCEDURE e;
-
-	END Az
-;PROCEDURE lxD;
-	END H
-		;PROCEDURE I;
-	END x					;PROCEDURE e*;
-	END v
-				;PROCEDURE U*;
-	END MohQru
-	;
-	END B0.

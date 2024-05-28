@@ -1,5 +1,0 @@
-MODULE A;
-	PROCEDURE w*;
-	END JQG
-;PROCEDURE s*;	END _e
-	;	END G.

@@ -1,6 +1,0 @@
-MODULE NOzz;
-	PROCEDURE Z;
-
-	END e
-;
-	END Zb.

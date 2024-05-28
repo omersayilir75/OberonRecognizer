@@ -1,20 +1,0 @@
-MODULE l9;
-	PROCEDURE C*;
-
-	END A
-	;PROCEDURE w75F;
-
-	END x
-;PROCEDURE kaE*;
-	END z
-;PROCEDURE J;
-
-	END Q0l
-;PROCEDURE H7I;
-	END gSx
-;
-	BEGIN
-	;
-	;
-	
-	END VD.

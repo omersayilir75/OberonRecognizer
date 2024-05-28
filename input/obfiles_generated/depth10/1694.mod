@@ -1,7 +1,0 @@
-MODULE w;
-	
-	BEGIN
-	IF O3D() THEN
-	
-	END
-	END L.

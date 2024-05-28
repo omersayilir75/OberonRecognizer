@@ -1,4 +1,0 @@
-MODULE fJnu;	PROCEDURE WX;
-
-	END e
-;	END eR.

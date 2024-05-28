@@ -1,5 +1,0 @@
-MODULE R;		BEGIN
-	WHILE C # f() DO
-	
-END
-	END J5.

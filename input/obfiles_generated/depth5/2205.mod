@@ -1,8 +1,0 @@
-MODULE Z;
-	PROCEDURE ZbR*;
-	END SpO
-;PROCEDURE R*;
-	END S
-	;PROCEDURE gJ;	END zeua
-		;
-	END g.

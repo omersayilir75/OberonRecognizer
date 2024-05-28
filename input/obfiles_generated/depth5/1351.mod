@@ -1,12 +1,0 @@
-MODULE kVkH;
-	PROCEDURE h*;
-	END PX
-	;PROCEDURE W;
-
-	END BX
-	;PROCEDURE r7bTm;
-
-	END Ie;PROCEDURE LZt;
-
-	END S
-	;	END oKe3X8x.

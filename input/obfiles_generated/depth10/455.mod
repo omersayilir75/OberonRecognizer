@@ -1,2 +1,0 @@
-MODULE kM;	
-	END g.

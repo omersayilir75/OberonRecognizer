@@ -1,8 +1,0 @@
-MODULE o;	PROCEDURE R*;
-	END c;PROCEDURE YFoiK*;
-	END Z;PROCEDURE q;
-	END KTz
-;
-	BEGIN
-	
-	END X.

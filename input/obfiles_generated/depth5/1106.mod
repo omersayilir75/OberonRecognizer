@@ -1,8 +1,0 @@
-MODULE J;	PROCEDURE d5*;
-
-	END i
-;PROCEDURE xn*;
-
-	END v
-	;
-	END JvX.

@@ -1,8 +1,0 @@
-MODULE x;
-	PROCEDURE U;
-
-	END q77
-;PROCEDURE N*;
-
-	END Jp
-	;	END P.

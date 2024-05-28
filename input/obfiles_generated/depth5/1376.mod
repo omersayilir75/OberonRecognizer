@@ -1,8 +1,0 @@
-MODULE p;
-	PROCEDURE UHBaI*;
-	END P		;PROCEDURE a*;
-	END ZD
-;
-	BEGIN
-	
-	END C.

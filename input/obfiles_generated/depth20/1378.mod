@@ -1,4 +1,0 @@
-MODULE V;	VARa* : ARRAY HWNK OF ARRAY 7049370 OF Zg;
-	BEGIN
-	ik1 := (76)
-	END zI.

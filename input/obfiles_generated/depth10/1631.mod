@@ -1,5 +1,0 @@
-MODULE PU7I;
-	TYPE
-hpp = ARRAY 'n' OF q;B6a3E* = BOOLEAN;
-
-	END NCN.

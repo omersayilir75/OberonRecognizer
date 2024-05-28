@@ -1,3 +1,0 @@
-MODULE t;
-	
-	END Vy.

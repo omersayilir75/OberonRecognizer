@@ -1,5 +1,0 @@
-MODULE g;
-	PROCEDURE AwL;
-	END WV
-	;
-	END FP.

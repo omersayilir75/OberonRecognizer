@@ -1,3 +1,0 @@
-MODULE _;
-	
-	END oY.

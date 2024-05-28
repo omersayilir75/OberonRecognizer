@@ -1,3 +1,0 @@
-MODULE f;
-	PROCEDURE z(VAR zj : INTEGER)*;
-	END Wk;	END j.

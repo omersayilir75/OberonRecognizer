@@ -1,5 +1,0 @@
-MODULE AHv;
-	
-	BEGIN
-	
-	END r.

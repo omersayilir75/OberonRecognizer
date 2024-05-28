@@ -1,3 +1,0 @@
-MODULE lra;
-	
-	END i.

@@ -1,6 +1,0 @@
-MODULE z;
-	PROCEDURE K;
-
-	END cPY
-;
-	END N.

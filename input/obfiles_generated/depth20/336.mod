@@ -1,2 +1,0 @@
-MODULE Z0DS3;	
-	BEGIN		END pV.

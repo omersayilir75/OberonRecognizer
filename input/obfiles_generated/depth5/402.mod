@@ -1,6 +1,0 @@
-MODULE b9;
-	PROCEDURE W;
-
-	END Oa4
-	;
-	END o.

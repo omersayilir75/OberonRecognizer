@@ -1,3 +1,0 @@
-MODULE GG;
-	
-	END Rjr4.

@@ -1,7 +1,0 @@
-MODULE X;
-	PROCEDURE g;
-
-	END O				;PROCEDURE H5q*;
-
-	END oZ
-;	END W.

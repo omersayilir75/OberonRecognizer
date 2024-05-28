@@ -1,2 +1,0 @@
-MODULE Lla;	
-	END Q.

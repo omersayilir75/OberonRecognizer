@@ -1,6 +1,0 @@
-MODULE p__;
-	TYPE
-W = INTEGER;
-PROCEDURE c*;
-	END d				;
-	END ETZ.

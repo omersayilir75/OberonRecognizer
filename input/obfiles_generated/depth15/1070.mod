@@ -1,8 +1,0 @@
-MODULE Z4RzIt;	VARM* : ARRAY ~''';' & '' OF ARRAY '' OF ARRAY '' OF INTEGER;o*, A* : RECORD B : INTEGER END;
-B : RECORD dQhtN : q8 END;
-DWX*, ea2* : INTEGER;
-OqEMU4, ay8q* : RECORD s, y, n3 : ARRAY OI() OF INTEGER END;c*, m0zg*, s* : ARRAY 80 OF ARRAY Cbf()  DIV  FK7w() OF ARRAY qf OF BOOLEAN;
-P, r* : RECORD t2p : ARRAY q OF Q;
-l, OgEVT, VO, w4, f : ARRAY Bcf7k() OF BOOLEAN;H : INTEGER;
-cqO : BOOLEAN;
-c, Ou : ARRAY C_N() OF BOOLEAN END;	END u.

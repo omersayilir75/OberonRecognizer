@@ -1,3 +1,0 @@
-MODULE Ie;
-	
-	END c.

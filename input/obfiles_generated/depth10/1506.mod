@@ -1,3 +1,0 @@
-MODULE bb;
-	
-	END X.

@@ -1,2 +1,0 @@
-MODULE hWG;
-		END e.

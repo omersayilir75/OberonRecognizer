@@ -1,3 +1,0 @@
-MODULE pozmiC;
-	
-	END cZqA.

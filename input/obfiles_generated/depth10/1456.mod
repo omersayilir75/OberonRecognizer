@@ -1,5 +1,0 @@
-MODULE rcCC;
-	VAR
-tp* : ARRAY Y OF BOOLEAN;
-CZGJba5*, H*, A* : BOOLEAN;
-	END u.

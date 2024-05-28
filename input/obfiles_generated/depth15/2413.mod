@@ -1,5 +1,0 @@
-MODULE A6nH;	VAR
-m, G : RECORD S5S : HbGB END;
-CONST
-BeU = jo();
-	END LW4.

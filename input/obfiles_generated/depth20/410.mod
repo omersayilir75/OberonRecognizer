@@ -1,10 +1,0 @@
-MODULE fuz;	PROCEDURE C(e, AsY, V : BOOLEAN ; cv, z : ARRAY iL.yM OF ARRAY Eo() OF ARRAY y OF BOOLEAN);
-	END q
-;PROCEDURE te(VAR npEt : BOOLEAN);
-	TYPE
-F* = RECORD tXOufzoO : INTEGER;fH5HwI, u : ARRAY dh4[cCcw] OF RECORD Bf, QKj : i END;
-S, N, E, K, kSAp, F : ARRAY '' + 4301 OF ARRAY b() OR '''' OF ARRAY t3M OF BOOLEAN END;
-
-	END w
-			;
-	END JCKNute.

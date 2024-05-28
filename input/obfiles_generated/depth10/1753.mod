@@ -1,4 +1,0 @@
-MODULE cm;	TYPE
-V* = ARRAY QK1() OF BOOLEAN;
-
-	END h.

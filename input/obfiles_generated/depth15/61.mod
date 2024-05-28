@@ -1,18 +1,0 @@
-MODULE G;
-	PROCEDURE KU;	PROCEDURE B;
-
-	BEGIN	x
-	END K
-	;	TYPE
-xO* = BOOLEAN;
-
-	END Gv
-;PROCEDURE v;
-	END B
-				;CONST
-f = 83;
-cJZ = 932932;
-
-	BEGIN
-	
-	END NA.

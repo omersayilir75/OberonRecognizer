@@ -1,3 +1,0 @@
-MODULE xCB;
-	
-	END L.

@@ -1,2 +1,0 @@
-MODULE YPUF;
-		END KT.

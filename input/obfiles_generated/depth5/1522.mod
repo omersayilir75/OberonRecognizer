@@ -1,3 +1,0 @@
-MODULE igN;
-	
-	END oL6A.

@@ -1,8 +1,0 @@
-MODULE G;
-	PROCEDURE n4M;
-	END Y								;PROCEDURE t4c*;
-	END RW;PROCEDURE XC*;
-
-	END O;PROCEDURE xT8K*;
-	END e2o
-;	END i.

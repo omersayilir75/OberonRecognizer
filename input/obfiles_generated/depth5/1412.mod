@@ -1,3 +1,0 @@
-MODULE UDz;
-	
-	END W5.

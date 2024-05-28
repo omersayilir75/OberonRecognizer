@@ -1,6 +1,0 @@
-MODULE Q;
-	PROCEDURE Dy(M : ARRAY '' OF INTEGER);
-	BEGIN
-	c := w
-	END dF;
-	END R.

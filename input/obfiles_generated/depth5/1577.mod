@@ -1,5 +1,0 @@
-MODULE V;
-	PROCEDURE UUDe;
-
-	END C
-		;	END oky.

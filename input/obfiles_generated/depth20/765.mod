@@ -1,2 +1,0 @@
-MODULE DK;
-		END L.

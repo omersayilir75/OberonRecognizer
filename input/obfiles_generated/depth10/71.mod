@@ -1,2 +1,0 @@
-MODULE eS;
-		END L.

@@ -1,3 +1,0 @@
-MODULE RK4UU;
-	
-	END LPQ.

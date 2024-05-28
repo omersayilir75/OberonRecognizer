@@ -1,4 +1,0 @@
-MODULE n1;
-	
-	BEGIN	t7
-	END Q.

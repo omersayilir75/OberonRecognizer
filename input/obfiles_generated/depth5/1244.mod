@@ -1,13 +1,0 @@
-MODULE kB;
-	PROCEDURE JR;
-
-	END O;PROCEDURE Ea*;
-
-	END JI
-;PROCEDURE TD*;
-
-	END oE
-	;	BEGIN
-	;
-	;
-		END iYW9.

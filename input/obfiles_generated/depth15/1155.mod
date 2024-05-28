@@ -1,5 +1,0 @@
-MODULE w;
-	PROCEDURE v;
-
-	END P0
-;	END V.

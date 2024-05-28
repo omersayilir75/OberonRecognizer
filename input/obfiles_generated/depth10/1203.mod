@@ -1,3 +1,0 @@
-MODULE EJ;
-	
-	END q.

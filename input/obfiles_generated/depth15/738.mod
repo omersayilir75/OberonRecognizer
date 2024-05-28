@@ -1,2 +1,0 @@
-MODULE ghA;
-		END CC7.

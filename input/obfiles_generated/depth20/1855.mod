@@ -1,2 +1,0 @@
-MODULE Fu;
-		END B.

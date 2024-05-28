@@ -1,2 +1,0 @@
-MODULE Yb;
-		END Opld.

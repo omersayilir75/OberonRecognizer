@@ -1,2 +1,0 @@
-MODULE DlxE;
-		END K.

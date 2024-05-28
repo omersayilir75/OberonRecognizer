@@ -1,6 +1,0 @@
-MODULE AR;
-	PROCEDURE a6;
-	END Ti
-;
-	BEGIN	;	
-	END AV.

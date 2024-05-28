@@ -1,6 +1,0 @@
-MODULE c;
-	PROCEDURE GHS*;
-
-	END o
-;
-	END N.

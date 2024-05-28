@@ -1,8 +1,0 @@
-MODULE HPe;
-	PROCEDURE y;
-
-	END bZqk
-	;PROCEDURE niP*;
-
-	END d
-;	END oKf.

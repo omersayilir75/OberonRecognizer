@@ -1,11 +1,0 @@
-MODULE W;
-	PROCEDURE H*;
-
-	END A
-;PROCEDURE YUb*;
-
-	END olZ
-;PROCEDURE Qi*;
-	END b
-;PROCEDURE D023s*;	END jn	;
-	END x_.

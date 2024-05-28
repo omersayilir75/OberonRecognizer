@@ -1,3 +1,0 @@
-MODULE q;
-	
-	END X3.

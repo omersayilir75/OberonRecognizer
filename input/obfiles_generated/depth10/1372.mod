@@ -1,5 +1,0 @@
-MODULE L8;
-	PROCEDURE w;
-
-	END o		;
-	END u.

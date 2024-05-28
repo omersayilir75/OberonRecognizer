@@ -1,14 +1,0 @@
-MODULE x;
-	PROCEDURE p8;
-
-	END q
-;PROCEDURE n;
-
-	END CTNG
-;PROCEDURE VL;	END q
-;
-	BEGIN
-	;
-	;
-	
-	END k.

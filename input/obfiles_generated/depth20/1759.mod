@@ -1,2 +1,0 @@
-MODULE KUK;
-		END l5.

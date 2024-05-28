@@ -1,9 +1,0 @@
-MODULE vv;
-	PROCEDURE W;
-
-	END wY0dA
-;PROCEDURE T;
-
-	END B;	BEGIN
-	;
-		END f.

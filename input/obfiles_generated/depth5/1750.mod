@@ -1,5 +1,0 @@
-MODULE w;
-	
-	BEGIN
-	
-	END HZ.

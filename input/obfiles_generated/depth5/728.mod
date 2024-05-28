@@ -1,3 +1,0 @@
-MODULE S;	PROCEDURE tm*;
-
-	END fr;	END B4zB.

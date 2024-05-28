@@ -1,3 +1,0 @@
-MODULE bV;
-	
-	END QE.

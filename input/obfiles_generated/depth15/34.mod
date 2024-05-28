@@ -1,9 +1,0 @@
-MODULE HyiTBU;	PROCEDURE dK(b, q : RECORD n : BOOLEAN END)*;
-
-	END d
-				;TYPE
-Hz* = RECORD f4_, ilSD, izhv8Z0 : INTEGER;
-g : ARRAY mF() OF BOOLEAN END;
-TYPE
-ADgbkEX = INTEGER;
-	END tQ.

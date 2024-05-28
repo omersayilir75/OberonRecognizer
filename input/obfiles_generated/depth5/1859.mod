@@ -1,3 +1,0 @@
-MODULE KkGf;
-	
-	END I.

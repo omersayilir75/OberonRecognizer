@@ -1,5 +1,0 @@
-MODULE d;
-	
-	BEGIN
-	
-	END B.

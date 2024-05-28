@@ -1,13 +1,0 @@
-MODULE DY3jn;
-	PROCEDURE b*;
-
-	END B
-;PROCEDURE Ot*;
-
-	END kyR
-;PROCEDURE c2*;
-	END l
-			;PROCEDURE ZW*;
-
-	END Exb
-;	END i2.

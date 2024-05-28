@@ -1,3 +1,0 @@
-MODULE Z;	
-	BEGIN	sd0B
-	END DI.

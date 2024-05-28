@@ -1,3 +1,0 @@
-MODULE uu;
-		BEGIN	
-	END Y2.

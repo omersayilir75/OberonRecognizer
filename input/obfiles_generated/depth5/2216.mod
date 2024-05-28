@@ -1,2 +1,0 @@
-MODULE vJ;	
-	END p.

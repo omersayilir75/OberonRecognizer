@@ -1,6 +1,0 @@
-MODULE v;
-	PROCEDURE j74zN;
-
-	END uz
-;
-	END O.

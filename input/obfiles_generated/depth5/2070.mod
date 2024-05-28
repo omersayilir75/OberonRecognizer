@@ -1,5 +1,0 @@
-MODULE gu6O4;
-	PROCEDURE Eg*;
-
-	END KI;
-	END C9l.

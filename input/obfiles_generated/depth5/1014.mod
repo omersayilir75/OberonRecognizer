@@ -1,3 +1,0 @@
-MODULE hB0sCf2Ue;		BEGIN
-	
-	END QwpHxLQ.

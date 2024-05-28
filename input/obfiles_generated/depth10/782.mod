@@ -1,3 +1,0 @@
-MODULE kB;
-	
-	END P.

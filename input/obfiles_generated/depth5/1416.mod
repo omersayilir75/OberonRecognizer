@@ -1,19 +1,0 @@
-MODULE TnS;
-	PROCEDURE hbf1Bp;
-
-	END f
-			;PROCEDURE Q*;
-	END t
-	;PROCEDURE J;
-
-	END O
-	;PROCEDURE wUe;
-
-	END M
-	;PROCEDURE cFw;
-	END kR;PROCEDURE x*;
-	END jO3
-	;PROCEDURE EI;
-	END V
-	;
-	END Qu.

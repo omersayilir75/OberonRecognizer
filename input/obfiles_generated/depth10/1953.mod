@@ -1,81 +1,0 @@
-MODULE B;	PROCEDURE Z*;
-	PROCEDURE d(VAR LO, N, Sfp, A : p ; f : BOOLEAN ; VAR s : BOOLEAN ; Gf : INTEGER)*;
-	TYPEe* = T;sa = P;	PROCEDURE e;
-	PROCEDURE br2qK*;
-	END F
-;	PROCEDURE pR;
-
-	BEGIN
-	;
-	
-	END p4	;	PROCEDURE GIK*;
-	END Y
-		;	PROCEDURE oS*;
-
-	BEGIN
-	
-	END N
-;	PROCEDURE Ds*;
-	PROCEDURE P*;
-
-	BEGIN
-	;	
-	END I
-;	PROCEDURE h;
-	PROCEDURE QOZ7;
-	END _	;	PROCEDURE V;
-
-	END H9m
-	;	PROCEDURE tM9c;
-
-	END QOheds
-			;	PROCEDURE w;
-	END AX
-;	PROCEDURE O;
-
-	END i		;
-	END YGdRIAbY
-;	PROCEDURE mdJrmt*;
-	PROCEDURE kzE*;
-	END lZV
-;	PROCEDURE VW6*;
-	END z;	PROCEDURE C*;
-
-	END r1
-				;
-	BEGIN	;
-	;	
-	END h7	;	BEGIN
-	
-	END JgRt
-;	PROCEDURE VnV;
-
-	END ENu
-		;	PROCEDURE m7*;
-	BEGIN
-	;	;	;
-	;
-	;
-	
-	END D
-						;
-	END rtk
-;	BEGIN	FY;	O4;	Y
-	END h2K
-;	BEGIN
-	REPEAT	;		UNTIL d63
-	END kUYtI
-;VAR
-G*, K, jJN, q4qI : ARRAY U OF BOOLEAN;
-CkELwN*, X : INTEGER;
-TXnW, v, Il*, FE : BOOLEAN;
-PROCEDURE q(VAR A, p_ : INTEGER);
-
-	BEGIN
-	IF '' THEN
-	
-ELSIF VSF THEN
-	;
-		END	END W0
-;
-	END gYu.

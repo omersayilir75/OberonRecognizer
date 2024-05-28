@@ -1,3 +1,0 @@
-MODULE cmJcMeFKST;
-	
-	END yGL.

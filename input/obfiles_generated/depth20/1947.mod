@@ -1,3 +1,0 @@
-MODULE p9JH;
-	
-	END l.

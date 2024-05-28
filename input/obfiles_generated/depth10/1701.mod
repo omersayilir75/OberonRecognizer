@@ -1,6 +1,0 @@
-MODULE uRcOCFI;
-	PROCEDURE r(VAR y2fOGp, I : ARRAY XB OF BOOLEAN ; VAR HPh, fXH : Dl);
-
-	END q9
-	;
-	END Mh4q.

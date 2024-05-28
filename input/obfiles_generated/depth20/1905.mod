@@ -1,3 +1,0 @@
-MODULE pWo;
-	
-	END o.

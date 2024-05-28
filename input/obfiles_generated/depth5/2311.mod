@@ -1,4 +1,0 @@
-MODULE z;
-	PROCEDURE r;	END gm	;	BEGIN
-	
-	END KV.

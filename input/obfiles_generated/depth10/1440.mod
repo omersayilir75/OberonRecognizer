@@ -1,4 +1,0 @@
-MODULE b;	PROCEDURE k;
-	END x
-;
-	END r.

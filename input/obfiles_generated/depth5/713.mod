@@ -1,6 +1,0 @@
-MODULE slHNM;
-	PROCEDURE tA;
-
-	END Na
-;
-	END G.

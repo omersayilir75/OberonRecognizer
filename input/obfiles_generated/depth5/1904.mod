@@ -1,11 +1,0 @@
-MODULE J;
-	PROCEDURE I;
-
-	END n;PROCEDURE L*;
-	END V5jI;PROCEDURE I*;
-
-	END HJ
-	;
-	BEGIN
-	;	
-	END P.

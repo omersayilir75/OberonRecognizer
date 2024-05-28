@@ -1,5 +1,0 @@
-MODULE k;	PROCEDURE YN;
-
-	END jQn
-;
-	END W.

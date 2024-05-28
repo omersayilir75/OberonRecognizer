@@ -1,3 +1,0 @@
-MODULE SJS;
-	
-	END C1R.

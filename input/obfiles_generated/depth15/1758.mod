@@ -1,3 +1,0 @@
-MODULE NEWKO;
-	
-	END s.

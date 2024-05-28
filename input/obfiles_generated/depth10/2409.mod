@@ -1,10 +1,0 @@
-MODULE Y3;	PROCEDURE K;
-	BEGIN
-	REPEAT
-	;
-	;		UNTIL rz()
-	END G;PROCEDURE Z*;
-	BEGIN
-	p	END lX
-		;
-	END I.

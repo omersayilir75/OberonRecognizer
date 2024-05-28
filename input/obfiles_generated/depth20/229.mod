@@ -1,3 +1,0 @@
-MODULE y8;
-	
-	END vC.

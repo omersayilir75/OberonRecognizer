@@ -1,4 +1,0 @@
-MODULE U;
-	
-	BEGIN	k8(G)
-	END Bu.

@@ -1,9 +1,0 @@
-MODULE K;	PROCEDURE L*;
-	PROCEDURE FAK;
-
-	END f
-			;
-	BEGIN	
-	END D4
-;
-	END Um.

@@ -1,3 +1,0 @@
-MODULE i;
-		BEGIN
-		END BdtQR3.

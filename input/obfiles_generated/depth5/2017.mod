@@ -1,5 +1,0 @@
-MODULE WH;	PROCEDURE A*;
-	END r
-	;	BEGIN
-	
-	END MqD.

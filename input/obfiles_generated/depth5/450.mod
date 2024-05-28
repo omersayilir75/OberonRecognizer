@@ -1,1 +1,0 @@
-MODULE f;		END eq.

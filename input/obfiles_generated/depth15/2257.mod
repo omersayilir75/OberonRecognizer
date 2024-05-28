@@ -1,2 +1,0 @@
-MODULE JTg;	
-	END r.

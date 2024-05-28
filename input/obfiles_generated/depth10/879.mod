@@ -1,4 +1,0 @@
-MODULE C;	
-	BEGIN	REPEAT
-	h	UNTIL ~lb()
-	END c.

@@ -1,3 +1,0 @@
-MODULE v;	
-	BEGIN	V;	ZX
-	END Q.

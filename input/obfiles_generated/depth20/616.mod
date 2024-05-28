@@ -1,4 +1,0 @@
-MODULE O;
-	
-	BEGIN
-	T := 61	END J.

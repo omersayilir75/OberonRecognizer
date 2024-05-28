@@ -1,8 +1,0 @@
-MODULE kN;
-	PROCEDURE T*;
-
-	END s
-	;
-	BEGIN
-	
-	END y.

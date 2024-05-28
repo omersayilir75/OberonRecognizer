@@ -1,3 +1,0 @@
-MODULE ntH;
-	
-	END n.

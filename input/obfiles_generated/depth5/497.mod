@@ -1,12 +1,0 @@
-MODULE Nw;
-	PROCEDURE j;
-
-	END e;PROCEDURE h*;
-	END WNVFw
-;PROCEDURE o*;
-
-	END u		;PROCEDURE KO;
-
-	END mb1	;	BEGIN
-	
-	END xDODQ.

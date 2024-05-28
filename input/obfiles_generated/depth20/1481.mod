@@ -1,2 +1,0 @@
-MODULE sC;
-		END X.

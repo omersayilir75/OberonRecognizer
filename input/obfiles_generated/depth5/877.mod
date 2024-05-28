@@ -1,3 +1,0 @@
-MODULE Kmhnbm;
-	
-	END y.

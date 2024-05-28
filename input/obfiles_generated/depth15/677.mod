@@ -1,3 +1,0 @@
-MODULE lU;
-	
-	END Wh60.

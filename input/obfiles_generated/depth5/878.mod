@@ -1,4 +1,0 @@
-MODULE Ue;
-	PROCEDURE w*;
-	END Or
-;	END nG.

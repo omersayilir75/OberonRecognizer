@@ -1,5 +1,0 @@
-MODULE O;
-	
-	BEGIN
-	WHILE '' DO	
-END	END b.

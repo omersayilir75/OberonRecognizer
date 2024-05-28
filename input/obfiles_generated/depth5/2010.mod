@@ -1,3 +1,0 @@
-MODULE HAp;
-	
-	END Vf.

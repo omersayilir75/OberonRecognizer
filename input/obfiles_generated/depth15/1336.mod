@@ -1,3 +1,0 @@
-MODULE bKY;
-	
-	END h.

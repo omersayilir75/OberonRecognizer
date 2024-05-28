@@ -1,5 +1,0 @@
-MODULE o7;	TYPEZbXE* = RECORD D1H, j : ARRAY 'jd' OF BOOLEAN END;
-VAR
-QSf : RECORD x7 : f END;
-
-	END rE.

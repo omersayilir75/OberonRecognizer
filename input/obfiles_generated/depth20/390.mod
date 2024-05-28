@@ -1,3 +1,0 @@
-MODULE NiU;
-	
-	END h.

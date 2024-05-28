@@ -1,2 +1,0 @@
-MODULE cw;
-		END xA.

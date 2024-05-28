@@ -1,3 +1,0 @@
-MODULE gtrVhLFPc0c;
-	
-	END K.

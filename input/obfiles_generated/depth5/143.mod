@@ -1,2 +1,0 @@
-MODULE zj;	
-	END vTS.

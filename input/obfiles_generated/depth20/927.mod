@@ -1,3 +1,0 @@
-MODULE Kue;
-	
-	END t.

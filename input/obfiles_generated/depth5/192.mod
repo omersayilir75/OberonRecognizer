@@ -1,8 +1,0 @@
-MODULE ILV;
-	PROCEDURE M*;
-
-	END Y
-					;PROCEDURE RXrH;
-	END NoW			;
-	BEGIN
-		END LS.

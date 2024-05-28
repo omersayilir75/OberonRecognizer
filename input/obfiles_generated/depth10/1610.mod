@@ -1,35 +1,0 @@
-MODULE FB;
-	PROCEDURE U(VAR qPH : ARRAY F5 OF BOOLEAN);
-
-	END C
-		;PROCEDURE GI(HHCY7 : VU ; VAR II : BOOLEAN ; x5 : INTEGER ; VAR AC0 : ARRAY Z OF DHjG)*;
-
-	BEGIN
-	
-	END iFx				;PROCEDURE uh;	VAR
-m* : INTEGER;F : INTEGER;
-	VARt : BOOLEAN;
-_ : INTEGER;Ug8, C* : INTEGER;
-m : BOOLEAN;lk*, l*, _sJ : B2;
-	PROCEDURE Y*;
-	TYPE
-s* = BOOLEAN;ts = BOOLEAN;
-	PROCEDURE rz*;	END s
-	;
-	BEGIN	X;
-	;
-	;
-	yliz
-	END caI
-			;	BEGIN
-	IF UJ() THEN
-	
-ELSE
-		END
-	END B;
-	BEGIN
-	WHILE '' = PHq DO
-	;
-	rR
-END
-	END O.

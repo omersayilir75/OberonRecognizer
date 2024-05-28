@@ -1,17 +1,0 @@
-MODULE J5;	PROCEDURE t9;
-
-	END g
-				;PROCEDURE li6*;
-	END V
-;PROCEDURE tu*;
-
-	END H	;PROCEDURE Ob*;
-
-	END p
-		;PROCEDURE j*;
-
-	END aQ
-	;PROCEDURE F*;
-	END X
-;
-	END mg.

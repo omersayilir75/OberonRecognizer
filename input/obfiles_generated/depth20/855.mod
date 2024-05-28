@@ -1,3 +1,0 @@
-MODULE Pfxx;
-	
-	END B.

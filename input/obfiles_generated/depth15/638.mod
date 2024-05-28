@@ -1,3 +1,0 @@
-MODULE o;
-	
-	END G6Rb.

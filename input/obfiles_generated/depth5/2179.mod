@@ -1,5 +1,0 @@
-MODULE z;	PROCEDURE O*;
-	END KgxnNZ
-;PROCEDURE j*;
-	END pyO		;
-	END s.

@@ -1,2 +1,0 @@
-MODULE w;
-		END om.

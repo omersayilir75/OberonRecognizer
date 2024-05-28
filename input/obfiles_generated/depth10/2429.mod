@@ -1,5 +1,0 @@
-MODULE G;
-	VAR
-n : ARRAY MBv() OF s;r, HH1SZC*, MT : ARRAY h OF INTEGER;
-
-	END p.

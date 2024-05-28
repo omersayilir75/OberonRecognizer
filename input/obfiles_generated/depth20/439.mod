@@ -1,13 +1,0 @@
-MODULE s;
-	PROCEDURE vmR;
-	CONST
-vp* = (-8  DIV  (WgP * I.ZY.P.V));	PROCEDURE Y(VAR K : RECORD o : ARRAY Aj() OR tj  DIV  76 OF BOOLEAN END ; VAR Wh : BOOLEAN);
-	END NqD			;
-	END dm8
-;PROCEDURE c3nTS*;
-	END g9				;TYPE
-n = RECORD q, OXC, Td0i : INTEGER END;
-
-	BEGIN
-	Ox(O[-M5()])
-	END CO.

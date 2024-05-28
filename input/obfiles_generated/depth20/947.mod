@@ -1,2 +1,0 @@
-MODULE JjD;	
-	END b.

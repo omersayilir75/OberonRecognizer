@@ -1,11 +1,0 @@
-MODULE Ps;
-	PROCEDURE t(T, K : ARRAY V OF INTEGER)*;
-	PROCEDURE b(VAR R : INTEGER ; pW : BOOLEAN);
-
-	END B
-	;	END yk;PROCEDURE U(VAR Tk, V : INTEGER);
-
-	END cn6WY
-;CONSTFzY = M() & '''';
-
-	END r.

@@ -1,5 +1,0 @@
-MODULE n;
-	PROCEDURE JEi*;	TYPE
-_* = BOOLEAN;
-	END Mf;
-	END u.

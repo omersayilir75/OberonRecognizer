@@ -1,5 +1,0 @@
-MODULE W;
-	
-	BEGIN
-	
-	END mPnNy.

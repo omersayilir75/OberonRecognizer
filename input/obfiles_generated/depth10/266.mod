@@ -1,7 +1,0 @@
-MODULE eTAq;
-	TYPEZ = ARRAY Z() OF BOOLEAN;
-TYPEJm4* = INTEGER;
-
-	BEGIN
-	K.i.B.x0L.m_r.V.V := '\1'
-	END N2.

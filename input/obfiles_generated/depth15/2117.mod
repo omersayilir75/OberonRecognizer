@@ -1,4 +1,0 @@
-MODULE j;
-	TYPE
-J* = ARRAY ''  MOD  VbH OF ARRAY x OF BOOLEAN;
-	END Q.

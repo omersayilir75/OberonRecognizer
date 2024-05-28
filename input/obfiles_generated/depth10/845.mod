@@ -1,2 +1,0 @@
-MODULE Ai;	
-	END g.

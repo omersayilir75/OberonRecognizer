@@ -1,6 +1,0 @@
-MODULE X;
-	VARYF, D*, r : ARRAY 54 OF INTEGER;
-PROCEDURE brtz(VAR mx : INTEGER)*;
-	END E
-		;
-	END hzXjb.

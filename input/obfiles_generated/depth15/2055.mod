@@ -1,3 +1,0 @@
-MODULE DmixeGhB;
-	
-	END WXI.

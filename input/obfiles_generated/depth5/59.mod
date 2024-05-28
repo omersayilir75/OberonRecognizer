@@ -1,5 +1,0 @@
-MODULE M2;
-	
-	BEGIN
-	
-	END T.

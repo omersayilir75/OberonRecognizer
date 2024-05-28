@@ -1,4 +1,0 @@
-MODULE Cq1ztK;
-	
-	BEGIN
-	Cd	END b.

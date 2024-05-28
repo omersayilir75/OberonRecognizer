@@ -1,2 +1,0 @@
-MODULE tQzh;
-		END xqo.

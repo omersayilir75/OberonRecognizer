@@ -1,3 +1,0 @@
-MODULE waJ;
-	
-	END T.

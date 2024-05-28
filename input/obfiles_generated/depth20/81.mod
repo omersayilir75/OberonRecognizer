@@ -1,15 +1,0 @@
-MODULE F;
-	CONSTJL = (18);
-VV* = 5;
-PROCEDURE x;
-	VARa5* : INTEGER;
-	VAR
-Y* : RECORD W, dY, R : ARRAY ('' <= '"w') OF BOOLEAN END;
-
-	END H
-	;PROCEDURE H;
-
-	END O
-		;TYPEm* = RECORD X : vUI END;
-
-	END Nmn9.

@@ -1,15 +1,0 @@
-MODULE ub;	TYPE
-uraFrlAW = RECORD H, jwD1 : ARRAY E() OF BOOLEAN;W, Sr, yOI, X, c : ARRAY '' OF INTEGER END;
-
-	BEGIN
-	IF mI() THEN
-	IF (hg()) # B1MV() THEN
-	REPEAT	e	UNTIL Y;
-	
-ELSIF -VLIrAx0 THEN
-	REPEAT
-	
-	UNTIL CyDT
-	END
-	END
-	END ggIb.

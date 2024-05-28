@@ -1,6 +1,0 @@
-MODULE n;
-	PROCEDURE sFI*;
-
-	END VD;	BEGIN
-	
-	END j5.

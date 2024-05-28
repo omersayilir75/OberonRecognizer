@@ -1,19 +1,0 @@
-MODULE O;
-	PROCEDURE y*;
-
-	BEGIN	
-	END W	;PROCEDURE O;	VAR
-j_QnF : RECORD qs, f, Y : ARRAY A() OF BOOLEAN;
-t, Ha, l : ARRAY x7e() OF INTEGER;
-R : ARRAY '' OF Te END;
-h : ARRAY 98 OF n;lj1E9, tW : ARRAY (apEe6n5()) OF RECORD n : INTEGER END;
-ef : ARRAY 94 OF ARRAY RZ() OF ARRAY 'Y' OF l3VUYt_;
-	TYPE
-eo* = RECORD Y : BOOLEAN END;
-
-	BEGIN
-	REPEAT	
-	UNTIL R['''']
-	END G7M7
-	;
-	END _.

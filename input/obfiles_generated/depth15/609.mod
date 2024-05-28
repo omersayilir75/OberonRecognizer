@@ -1,5 +1,0 @@
-MODULE yi;
-	TYPE
-Z = ARRAY (~N()) OF BOOLEAN;
-
-	END D.

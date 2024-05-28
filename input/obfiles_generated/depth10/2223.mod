@@ -1,3 +1,0 @@
-MODULE QTC;
-	
-	END Br.

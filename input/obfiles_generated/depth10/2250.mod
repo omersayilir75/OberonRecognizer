@@ -1,11 +1,0 @@
-MODULE x;
-	TYPE
-OM* = ARRAY Yr() OF INTEGER;PROCEDURE F;
-
-	BEGIN
-	In
-	END CS6to
-;
-	BEGIN
-	
-	END p.

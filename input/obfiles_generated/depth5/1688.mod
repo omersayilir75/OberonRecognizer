@@ -1,2 +1,0 @@
-MODULE Wn;
-		END fA.

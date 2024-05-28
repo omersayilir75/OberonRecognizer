@@ -1,3 +1,0 @@
-MODULE Ay;
-	
-	END W.

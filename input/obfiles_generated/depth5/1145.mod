@@ -1,12 +1,0 @@
-MODULE q;
-	PROCEDURE khq;
-
-	END OZS
-					;PROCEDURE GN43_Y;
-
-	END Oh
-;PROCEDURE k2;
-
-	END lmoS
-;	BEGIN
-		END N.

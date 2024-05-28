@@ -1,9 +1,0 @@
-MODULE H;
-	PROCEDURE Z*;
-	PROCEDURE WH(Cqe, PNb, RuS, b, U : BOOLEAN);
-	BEGIN
-	X
-	END I;
-	END cA
-	;
-	END j.

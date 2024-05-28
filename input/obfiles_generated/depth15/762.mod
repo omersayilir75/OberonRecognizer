@@ -1,3 +1,0 @@
-MODULE Dogm;
-	
-	END y.

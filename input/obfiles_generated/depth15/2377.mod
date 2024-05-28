@@ -1,7 +1,0 @@
-MODULE K;
-	PROCEDURE cN9(VAR H : j);
-
-	END FIa;CONST
-GKDw* = -oKI() OR 147;
-TYPE
-LgW = INTEGER;	END x.

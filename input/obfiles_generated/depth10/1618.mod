@@ -1,8 +1,0 @@
-MODULE d;
-	
-	BEGIN
-	REPEAT
-	ieF;
-	S
-	UNTIL Z1Z5lqS
-	END Z.

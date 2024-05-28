@@ -1,3 +1,0 @@
-MODULE eum;
-	
-	END d.

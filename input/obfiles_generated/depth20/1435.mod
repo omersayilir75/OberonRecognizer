@@ -1,3 +1,0 @@
-MODULE TK;
-	
-	END Rg.

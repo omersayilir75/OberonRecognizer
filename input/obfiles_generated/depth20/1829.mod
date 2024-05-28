@@ -1,2 +1,0 @@
-MODULE ZqasPIxR;	
-	END o.

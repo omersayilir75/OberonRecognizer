@@ -1,3 +1,0 @@
-MODULE D2;
-	
-	END K.

@@ -1,12 +1,0 @@
-MODULE X;
-	PROCEDURE eRWi_*;
-
-	END Rh;PROCEDURE Uj;
-	END KVk8K
-	;PROCEDURE C;	END d
-	;PROCEDURE W*;
-
-	END qQ	;
-	BEGIN
-	;	;
-		END Y.

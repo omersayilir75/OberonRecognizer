@@ -1,3 +1,0 @@
-MODULE cC;
-	
-	END c.

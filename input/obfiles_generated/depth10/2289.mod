@@ -1,4 +1,0 @@
-MODULE c;
-		BEGIN	WHILE (tEXeR5D) DO
-	END
-	END rfI.

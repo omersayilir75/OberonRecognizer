@@ -1,6 +1,0 @@
-MODULE Zs0;
-	PROCEDURE HOH5hPj*;
-
-	END Np
-;
-	END X.

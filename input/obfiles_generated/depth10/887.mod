@@ -1,22 +1,0 @@
-MODULE Gul;
-	PROCEDURE c(VAR uM, J : ARRAY u() OF INTEGER ; VAR Pv : ARRAY '' OF INTEGER ; D, y, WG6, bNu : ARRAY gL3() OF BOOLEAN ; VAR P : ARRAY '' OF INTEGER ; n : ARRAY 'p''H' OF BOOLEAN ; XI, zd : ARRAY sd2 OF BOOLEAN ; VAR kS : ARRAY M3u OF d ; z : BOOLEAN)*;
-
-	BEGIN
-	WHILE u DO
-	
-END;
-	WHILE JH() DO
-	;
-	
-END;
-	REPEAT
-	
-	UNTIL n()
-	END Q
-;PROCEDURE n1Mh;
-
-	END G	;VAR
-RT*, w*, g* : AE;
-E, Z* : INTEGER;
-A*, t* : ARRAY '''' OF k;
-	END H.

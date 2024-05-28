@@ -1,3 +1,0 @@
-MODULE slx;
-	
-	END Y.

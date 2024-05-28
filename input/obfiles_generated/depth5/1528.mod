@@ -1,5 +1,0 @@
-MODULE u1;
-	
-	BEGIN
-	
-	END I.

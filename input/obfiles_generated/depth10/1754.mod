@@ -1,17 +1,0 @@
-MODULE tr;
-	PROCEDURE G;	TYPE
-Y = r;
-
-	END b;VAR
-Y* : BOOLEAN;
-SqwK*, plRZg : ARRAY q OF BOOLEAN;
-PROCEDURE ye(H : BOOLEAN ; VAR Vhx4 : ARRAY '' OF BOOLEAN);
-	END g
-;
-	BEGIN
-	WHILE AZ DO	;
-	nTDa;
-	kuK;
-	UWA
-END
-	END pkr.

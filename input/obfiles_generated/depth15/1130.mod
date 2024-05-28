@@ -1,3 +1,0 @@
-MODULE K;
-	
-	END qbi.

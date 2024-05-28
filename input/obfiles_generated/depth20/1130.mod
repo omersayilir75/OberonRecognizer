@@ -1,3 +1,0 @@
-MODULE ETS;
-	
-	END oYY.

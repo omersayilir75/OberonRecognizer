@@ -1,3 +1,0 @@
-MODULE XWI;
-	
-	END p.

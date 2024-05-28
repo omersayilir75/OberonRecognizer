@@ -1,11 +1,0 @@
-MODULE wp;
-	
-	BEGIN
-	REPEAT
-	G;	_;
-	
-	UNTIL P;
-	IF O8 < '' THEN
-	QELSE
-	B
-	END	END TWH9.

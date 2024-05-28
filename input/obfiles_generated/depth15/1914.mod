@@ -1,3 +1,0 @@
-MODULE cJyec;
-	
-	END C.

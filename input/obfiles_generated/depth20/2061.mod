@@ -1,5 +1,0 @@
-MODULE J;
-	CONST
-HPn = 74;
-
-	END _o1J.

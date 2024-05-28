@@ -1,8 +1,0 @@
-MODULE P;
-	PROCEDURE EC;
-	END YW
-;
-	BEGIN
-	;
-	
-	END XW.

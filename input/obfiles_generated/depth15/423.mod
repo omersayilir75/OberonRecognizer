@@ -1,12 +1,0 @@
-MODULE N;
-	PROCEDURE i(x, F : B)*;
-	BEGIN
-		END OTwNMW			;PROCEDURE y(VAR I8 : ARRAY D OF BOOLEAN)*;
-
-	END o
-;PROCEDURE O;
-	TYPE
-X = ARRAY -ago()  MOD  '' OF INTEGER;	PROCEDURE h(J694 : jL);
-	END el	;	END N
-;
-	END B9.

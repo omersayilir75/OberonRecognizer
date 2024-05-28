@@ -1,6 +1,0 @@
-MODULE VVZI;
-	
-	BEGIN	REPEAT
-	
-	UNTIL ('O+')
-	END Y.

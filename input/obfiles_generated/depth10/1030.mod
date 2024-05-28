@@ -1,3 +1,0 @@
-MODULE Jdo;
-	
-	END F5.

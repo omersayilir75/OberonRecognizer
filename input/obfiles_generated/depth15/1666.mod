@@ -1,3 +1,0 @@
-MODULE UsXDx;
-	
-	END np.

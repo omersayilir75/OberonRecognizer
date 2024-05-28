@@ -1,27 +1,0 @@
-MODULE C;	PROCEDURE q(AF8 : BOOLEAN ; VAR VmUCLq, q : RECORD lgI : ARRAY b() OF INTEGER END);
-	TYPE
-K = RECORD g : ARRAY n OF BOOLEAN;
-K : ARRAY hR() OF k;
-dK, O, tYy6E : ARRAY wQ OF INTEGER END;
-tO = RECORD A : BOOLEAN END;
-	PROCEDURE _4(O : RECORD P : ARRAY '' OF XF;
-c, vM : BOOLEAN END)*;
-	PROCEDURE C(FT, rO, D : qc)*;
-
-	END euE;
-	BEGIN
-	REPEAT
-	;	G := U();	WHILE n DO
-	U;
-	n
-END;	WHILE zF DO
-	U
-END
-	UNTIL PCP()
-	END TN;
-	END T
-	;
-	BEGIN	REPEAT
-	b[l] := '' & '' < F5
-	UNTIL Y4.f[e()] + ''
-	END lZ.

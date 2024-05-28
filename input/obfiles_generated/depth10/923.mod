@@ -1,5 +1,0 @@
-MODULE C;
-	TYPE
-QZ = BOOLEAN;
-
-	END L.

@@ -1,5 +1,0 @@
-MODULE O;
-	PROCEDURE ZdY*;
-
-	END Vn
-;	END N.

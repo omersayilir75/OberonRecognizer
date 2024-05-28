@@ -1,3 +1,0 @@
-MODULE cvK;
-	
-	END xJlGM0M_.

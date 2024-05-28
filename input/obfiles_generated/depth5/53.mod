@@ -1,3 +1,0 @@
-MODULE A;
-	
-	BEGIN		END C25X.

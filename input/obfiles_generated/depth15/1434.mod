@@ -1,8 +1,0 @@
-MODULE wI;
-	PROCEDURE I*;
-
-	BEGIN
-	N := ''
-	END lZm
-	;
-	END HSeVvX.

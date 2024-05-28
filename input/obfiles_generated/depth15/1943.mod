@@ -1,2 +1,0 @@
-MODULE Co;
-		END EW.

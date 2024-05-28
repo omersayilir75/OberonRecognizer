@@ -1,16 +1,0 @@
-MODULE UCZ;
-	PROCEDURE O*;
-
-	END E		;PROCEDURE X;
-
-	END p
-;PROCEDURE BuH*;
-
-	END x
-;
-	BEGIN
-	;
-	;
-	;
-	
-	END Nl.

@@ -1,5 +1,0 @@
-MODULE QH;
-	PROCEDURE W*;
-	END YJ4iVX
-				;
-	END k.

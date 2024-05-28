@@ -1,3 +1,0 @@
-MODULE sHtZ;
-	
-	END HY.

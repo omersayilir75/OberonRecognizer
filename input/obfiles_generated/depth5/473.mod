@@ -1,2 +1,0 @@
-MODULE Ns;	
-	END tDW.

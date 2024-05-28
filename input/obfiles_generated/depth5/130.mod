@@ -1,8 +1,0 @@
-MODULE Y;
-	PROCEDURE vtR*;
-	END VL
-;PROCEDURE nE*;
-
-	END gc
-	;
-	END b.

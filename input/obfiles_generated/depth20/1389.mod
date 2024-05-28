@@ -1,3 +1,0 @@
-MODULE IuYyxcJ;
-	
-	END flq.

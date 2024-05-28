@@ -1,11 +1,0 @@
-MODULE qn;	PROCEDURE Y4*;	END gaXh
-;PROCEDURE wlA6U*;
-
-	END n
-;PROCEDURE m*;
-
-	END aF
-;PROCEDURE _*;
-	END O
-;
-	END iHqMU.

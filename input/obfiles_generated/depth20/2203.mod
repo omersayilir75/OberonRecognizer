@@ -1,11 +1,0 @@
-MODULE d;	PROCEDURE V*;
-	TYPE
-Q9 = N8;
-	END Z7
-	;PROCEDURE H;
-
-	END HI7y7
-	;
-	BEGIN
-	;
-	V := ~-''	END A.

@@ -1,3 +1,0 @@
-MODULE ad;
-	
-	END Nn.

@@ -1,6 +1,0 @@
-MODULE e;
-	PROCEDURE ZZ5*;	END JtR	;PROCEDURE Kb;
-	END ip
-	;
-	BEGIN	
-	END y.

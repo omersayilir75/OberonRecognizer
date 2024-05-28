@@ -1,5 +1,0 @@
-MODULE X;
-	
-	BEGIN
-	
-	END X.

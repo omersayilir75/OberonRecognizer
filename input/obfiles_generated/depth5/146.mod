@@ -1,3 +1,0 @@
-MODULE m;
-	
-	END cG.

@@ -1,6 +1,0 @@
-MODULE s;
-	PROCEDURE J(V, e, Er, kFeD8F : BOOLEAN);
-
-	END i
-				;TYPEm* = ARRAY gXQ OF BOOLEAN;c = ARRAY ')''' OF INTEGER;
-	END c.

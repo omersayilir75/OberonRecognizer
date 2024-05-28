@@ -1,9 +1,0 @@
-MODULE hXCi;	VAR
-h3* : RECORD mW, h, G : BOOLEAN;
-n : RECORD m4iy : RECORD B, IZ : q;
-yE0, R1 : BOOLEAN END;
-F, mi : RECORD JX, O3MrG : A5h;
-ep : INTEGER;_S, VkV : BOOLEAN END END;
-K, Q7K9 : BOOLEAN END;U* : P;
-
-	END eP.

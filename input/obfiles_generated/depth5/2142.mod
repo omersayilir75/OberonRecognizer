@@ -1,8 +1,0 @@
-MODULE n;	PROCEDURE C*;
-
-	END D1aX_
-	;PROCEDURE tp;
-
-	END tmAm
-		;PROCEDURE H*;
-	END a;	END sa.

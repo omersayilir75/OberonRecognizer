@@ -29,27 +29,12 @@ public class SampleFinder {
         // populate tokenNeighboursHashtable
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
 
-        System.out.println("Handwritten compiler tests");
-        String pathName_comptests = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\compiler_test_cases";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName_comptests))) {
-            paths.sorted(Comparator.comparing(p ->p.toFile().length())).forEach(SampleFinder::checkFile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-
-        System.out.println("GA based input");
-        String pathName_GA = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\GA_Based\\generated_samples";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName_GA))) {
-            paths.sorted(Comparator.comparing(p ->p.toFile().length())).forEach(SampleFinder::checkFile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        System.out.println("positives found from word mutation input");
-        String pathName_WM = "C:\\Users\\omer_\\Desktop\\gensamples\\positive\\obgensamples\\cases_from_word_mutation";
-        try (Stream<Path> paths = Files.walk(Paths.get(pathName_WM))) {
-            paths.sorted(Comparator.comparing(p ->p.toFile().length())).forEach(SampleFinder::checkFile);
+        System.out.println("All files");
+        String pathName = "C:\\Users\\omer_\\Desktop\\algSamplesOb\\generated";
+        try (Stream<Path> paths = Files.walk(Paths.get(pathName))) {
+            paths.filter(p -> p.toFile().isFile())
+                    .sorted(Comparator.comparing((Path p) -> p.toFile().length()).thenComparing(Path::toString))
+                    .forEachOrdered(SampleFinder::checkFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -65,7 +50,7 @@ public class SampleFinder {
         if (tokenNeighboursHashtable.isEmpty()) {
             System.out.println("skipping...");
             return;
-        } // don't do anything if empty... TODO remove
+        }
 
         BufferedReader reader = null;
         File program = directory.toFile();

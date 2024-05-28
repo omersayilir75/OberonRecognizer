@@ -1,6 +1,0 @@
-MODULE YO;
-	PROCEDURE r_df*;
-
-	END UMlqG
-		;
-	END RI.

@@ -1,6 +1,0 @@
-MODULE B;
-	
-	BEGIN
-	;
-	
-	END CQP.

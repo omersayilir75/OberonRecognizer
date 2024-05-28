@@ -1,39 +1,0 @@
-MODULE I;	TYPE
-u = INTEGER;PROCEDURE p4V4BYZ;	PROCEDURE F(vroYk, y : INTEGER)*;
-
-	END a
-;
-	END Y		;PROCEDURE S(VAR Y, uRQz, h : INTEGER ; VAR HT, Rivlq2 : AG ; VAR e, L : ARRAY '' OF INTEGER);
-	PROCEDURE L*;
-
-	END RFG		;	PROCEDURE C*;	PROCEDURE I6*;
-	PROCEDURE WX;
-
-	BEGIN
-	;
-		END g
-		;	PROCEDURE xasK*;
-	BEGIN
-	;
-	
-	END qWzb
-		;
-	BEGIN		END lJ9lXdSL
-;	PROCEDURE N(VAR K : Z)*;
-	PROCEDURE EOL;
-	BEGIN
-	;	;	
-	END j
-	;	PROCEDURE F;
-
-	BEGIN
-	
-	END FOxr
-	;
-	END A;
-	END s
-;	TYPE
-k = e5TdS;
-	END l
-		;
-	END s.

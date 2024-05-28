@@ -1,15 +1,0 @@
-MODULE f;
-	PROCEDURE c*;
-	END Lh
-;PROCEDURE Csx2tiwW*;
-
-	END o4
-		;PROCEDURE clG;
-
-	END PJ
-;PROCEDURE XR*;
-
-	END D
-	;
-	BEGIN
-		END fFn.

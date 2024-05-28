@@ -1,1 +1,0 @@
-MODULE Ea;		END o.

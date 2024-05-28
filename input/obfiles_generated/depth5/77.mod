@@ -1,6 +1,0 @@
-MODULE Yoxwq;
-	PROCEDURE TLDx;
-
-	END O
-;
-	END fZ.

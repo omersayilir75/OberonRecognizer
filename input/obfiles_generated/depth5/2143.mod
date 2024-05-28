@@ -1,7 +1,0 @@
-MODULE t;
-	PROCEDURE o;
-
-	END t1_i
-;PROCEDURE S*;	END t
-;
-	END ZJ.

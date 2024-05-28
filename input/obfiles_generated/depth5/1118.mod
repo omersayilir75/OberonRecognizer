@@ -1,11 +1,0 @@
-MODULE uVD;
-	PROCEDURE r9*;
-
-	END Rv;PROCEDURE g*;
-
-	END p
-;PROCEDURE aPZ*;
-
-	END eM
-;
-	END _W.

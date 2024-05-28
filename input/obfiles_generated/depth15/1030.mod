@@ -1,3 +1,0 @@
-MODULE Qomf;
-	
-	END H.

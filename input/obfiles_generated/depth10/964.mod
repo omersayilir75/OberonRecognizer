@@ -1,3 +1,0 @@
-MODULE FKD;
-	
-	END g.

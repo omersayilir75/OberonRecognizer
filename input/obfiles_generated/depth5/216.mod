@@ -1,10 +1,0 @@
-MODULE IR;
-	PROCEDURE KW0nk*;
-
-	END P0		;PROCEDURE C;
-
-	END uK
-				;PROCEDURE ND;
-	END FpTLC7Wa
-			;
-	END J.

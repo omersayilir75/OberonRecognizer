@@ -1,5 +1,0 @@
-MODULE o;
-	PROCEDURE W;
-	END Lj4h4
-			;	BEGIN	;
-		END O.

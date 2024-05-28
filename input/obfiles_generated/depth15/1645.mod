@@ -1,5 +1,0 @@
-MODULE Ji;
-	PROCEDURE o;
-	END DN
-	;
-	END GEeKf.

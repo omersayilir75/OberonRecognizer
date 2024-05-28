@@ -1,15 +1,0 @@
-MODULE s2x;
-	PROCEDURE eUe_;
-	END RyA
-;PROCEDURE kN*;
-
-	END eHB1
-	;PROCEDURE Y4g3A;
-
-	END N
-;PROCEDURE c;
-	END u
-;PROCEDURE oOg;
-
-	END Z;
-	END Xs.

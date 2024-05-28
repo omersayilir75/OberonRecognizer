@@ -1,13 +1,0 @@
-MODULE DR;
-	PROCEDURE c6*;
-
-	END M
-;PROCEDURE Nk1P;
-	END ldX
-	;PROCEDURE n;
-
-	END N
-;PROCEDURE A*;
-	END J
-	;
-	END q2.

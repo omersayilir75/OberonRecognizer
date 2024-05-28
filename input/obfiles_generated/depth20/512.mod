@@ -1,3 +1,0 @@
-MODULE Rn;
-	
-	END A.

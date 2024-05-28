@@ -1,5 +1,0 @@
-MODULE xDT;
-	
-	BEGIN
-	
-	END J.

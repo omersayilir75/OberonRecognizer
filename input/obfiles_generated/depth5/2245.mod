@@ -1,8 +1,0 @@
-MODULE N;
-	PROCEDURE b80z;
-	END B
-		;PROCEDURE L_c;
-
-	END k
-;
-	END T.

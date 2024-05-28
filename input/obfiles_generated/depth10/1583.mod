@@ -1,3 +1,0 @@
-MODULE Db2;
-	
-	END vY.

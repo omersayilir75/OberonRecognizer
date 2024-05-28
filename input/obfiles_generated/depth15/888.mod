@@ -1,4 +1,0 @@
-MODULE bT;
-	CONSTNQ* = D;
-
-	END z.

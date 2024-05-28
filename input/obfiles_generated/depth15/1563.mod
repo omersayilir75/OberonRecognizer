@@ -1,7 +1,0 @@
-MODULE G;
-		BEGIN
-	WHILE Z DO
-	X := 56
-END;
-	
-	END JqON.

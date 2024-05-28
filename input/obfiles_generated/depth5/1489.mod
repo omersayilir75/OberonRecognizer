@@ -1,6 +1,0 @@
-MODULE X9W;
-	PROCEDURE M;
-
-	END w
-;
-	END pz.

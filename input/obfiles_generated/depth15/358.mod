@@ -1,3 +1,0 @@
-MODULE kQ;
-	
-	END e.

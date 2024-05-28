@@ -1,1 +1,0 @@
-MODULE EZ;		END XTn.

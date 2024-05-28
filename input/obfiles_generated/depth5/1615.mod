@@ -1,5 +1,0 @@
-MODULE J;	PROCEDURE P;
-
-	END D
-	;
-	END W.

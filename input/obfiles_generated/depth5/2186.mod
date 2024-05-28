@@ -1,4 +1,0 @@
-MODULE S;	PROCEDURE nY*;
-	END h	;PROCEDURE l*;
-	END D		;
-	END m.

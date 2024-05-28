@@ -1,3 +1,0 @@
-MODULE z2dPW;
-	
-	END K.

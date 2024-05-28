@@ -1,2 +1,0 @@
-MODULE xZjsa;
-		END j.

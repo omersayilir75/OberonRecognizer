@@ -1,3 +1,0 @@
-MODULE da;
-	
-	END S.

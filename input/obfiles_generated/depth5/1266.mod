@@ -1,8 +1,0 @@
-MODULE I;
-	PROCEDURE d;
-	END lJ
-			;PROCEDURE ad*;	END POz
-;PROCEDURE j*;
-	END Up9
-;
-	END OFM.

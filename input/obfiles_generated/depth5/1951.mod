@@ -1,11 +1,0 @@
-MODULE M;
-	PROCEDURE W*;
-	END i
-;PROCEDURE I;
-	END xR7
-		;PROCEDURE yXp;
-
-	END Q
-;
-	BEGIN	;
-		END N.

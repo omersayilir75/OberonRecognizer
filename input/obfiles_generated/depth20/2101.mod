@@ -1,4 +1,0 @@
-MODULE sLqKK;
-	
-	BEGIN	
-	END RWn.

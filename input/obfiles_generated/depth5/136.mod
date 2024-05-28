@@ -1,6 +1,0 @@
-MODULE H7k;
-	PROCEDURE VQqbF*;
-
-	END h_5ED
-;	BEGIN	;
-		END D.

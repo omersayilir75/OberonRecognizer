@@ -1,3 +1,0 @@
-MODULE kv;
-	
-	END B.

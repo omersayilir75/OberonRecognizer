@@ -1,4 +1,0 @@
-MODULE QNkZ;
-	
-	BEGIN	K(I)
-	END J.

@@ -1,3 +1,0 @@
-MODULE iU;
-	
-	END lq.

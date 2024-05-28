@@ -1,4 +1,0 @@
-MODULE w;	PROCEDURE m*;
-
-	END A	;
-	END kJ1.

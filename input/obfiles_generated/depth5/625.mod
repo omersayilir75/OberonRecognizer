@@ -1,4 +1,0 @@
-MODULE A6;
-		BEGIN
-	;
-		END e2.

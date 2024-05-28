@@ -1,5 +1,0 @@
-MODULE luR;	PROCEDURE EO*;
-
-	END vl
-;
-	END OjG.

@@ -1,5 +1,0 @@
-MODULE J;
-	PROCEDURE s*;
-	END vQYl
-	;
-	END Lu.

@@ -1,21 +1,0 @@
-MODULE o;	PROCEDURE CEYXLiD73;
-	END aG
-			;PROCEDURE HR*;
-
-	END b
-;PROCEDURE qb;
-
-	END y;PROCEDURE vl*;
-
-	END uj
-;PROCEDURE W;
-
-	END L3T
-		;PROCEDURE z*;
-
-	END NbO	;PROCEDURE k;
-
-	END Y
-				;
-	BEGIN
-		END L.

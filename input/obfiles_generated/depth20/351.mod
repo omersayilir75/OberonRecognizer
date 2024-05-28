@@ -1,2 +1,0 @@
-MODULE RA;
-		END i.

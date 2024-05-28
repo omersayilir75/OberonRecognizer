@@ -1,3 +1,0 @@
-MODULE bd;
-	
-	END N.

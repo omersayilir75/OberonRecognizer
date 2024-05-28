@@ -1,2 +1,0 @@
-MODULE McUw;
-		END d.

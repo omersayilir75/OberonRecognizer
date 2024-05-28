@@ -1,14 +1,0 @@
-MODULE R;
-	PROCEDURE z;
-
-	END f
-;PROCEDURE m*;
-	END u	;PROCEDURE j*;
-	END T
-;PROCEDURE n*;	END dVH
-;PROCEDURE X*;
-
-	END G
-;PROCEDURE QBg7J;
-	END n_
-	;	END f.

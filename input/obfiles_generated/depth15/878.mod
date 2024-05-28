@@ -1,2 +1,0 @@
-MODULE L;		BEGIN
-		END r.

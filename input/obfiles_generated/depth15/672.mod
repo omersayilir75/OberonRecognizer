@@ -1,3 +1,0 @@
-MODULE Xt;
-	
-	END s.

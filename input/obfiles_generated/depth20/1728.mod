@@ -1,15 +1,0 @@
-MODULE ZII;
-	PROCEDURE g(B, aW : ARRAY (D()) OF RECORD H, W : RECORD I, Nrg : ARRAY nsjJ() OF BOOLEAN;g : BOOLEAN END;E, z : ARRAY '' OF RECORD kg, ZF2QO, c : INTEGER END;V, rKR : INTEGER;
-r : T;XM, b : BOOLEAN;G, k, K : RECORD C : INTEGER;
-k, VnX, v : b;
-KPfZVfb3R, v : whU2fp END;
-g0 : RECORD X : IH;
-FW, H, Hg3nM, o : BOOLEAN END END)*;
-	PROCEDURE w(gL3 : ARRAY jx7.xUa8.j OF ARRAY vGX_CiOhP.D.p2 OF RECORD YONX6Zd, AguAf : ARRAY psYSA OF v;
-E : q END);
-	END c		;
-	END ouN
-;PROCEDURE a*;
-
-	END F4;
-	END Wi.

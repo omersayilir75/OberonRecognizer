@@ -1,3 +1,0 @@
-MODULE RWo;
-	
-	END v.

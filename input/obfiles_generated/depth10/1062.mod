@@ -1,17 +1,0 @@
-MODULE jDD;
-	VAR
-W*, m : ARRAY d7dX5d OF BOOLEAN;ARw* : INTEGER;
-PROCEDURE X(C : ARRAY F OF BOOLEAN ; j : zo);
-	BEGIN
-	REPEAT
-	
-	UNTIL _fY	END Us
-	;
-	BEGIN
-	;	WHILE ''''  DIV  A DO
-	
-END;
-	WHILE _nb DO
-	z;
-	prQ
-END	END x.

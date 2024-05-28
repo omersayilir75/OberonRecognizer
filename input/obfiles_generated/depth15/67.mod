@@ -1,3 +1,0 @@
-MODULE XD;
-	
-	END agA.

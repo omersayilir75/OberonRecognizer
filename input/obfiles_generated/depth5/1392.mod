@@ -1,12 +1,0 @@
-MODULE q;	PROCEDURE oG*;	END m
-			;PROCEDURE e;
-
-	END v
-	;PROCEDURE u;
-
-	END m;PROCEDURE T*;
-
-	END n
-;
-	BEGIN	
-	END g.

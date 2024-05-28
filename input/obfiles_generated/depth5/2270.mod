@@ -1,5 +1,0 @@
-MODULE En;
-	
-	BEGIN
-	
-	END W.

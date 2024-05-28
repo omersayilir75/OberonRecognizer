@@ -1,9 +1,0 @@
-MODULE S;
-	PROCEDURE D*;
-
-	END a9SZX1
-		;PROCEDURE a4*;
-	END U				;PROCEDURE g*;
-	END c9		;	BEGIN
-	
-	END CP.

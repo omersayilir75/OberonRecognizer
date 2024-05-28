@@ -1,9 +1,0 @@
-MODULE ZkD;
-	
-	BEGIN
-	WHILE ~u DO	
-END;
-	IF h04()  DIV  x THEN
-	M
-	END
-	END i.

@@ -1,3 +1,0 @@
-MODULE Ny1_y;
-	
-	END QDE.

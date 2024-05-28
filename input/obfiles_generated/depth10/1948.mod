@@ -1,14 +1,0 @@
-MODULE Yw;
-	PROCEDURE O*;
-	PROCEDURE F;
-	BEGIN
-	;
-	;	
-	END L;	PROCEDURE D;
-	TYPEZ* = INTEGER;
-
-	END uv
-;
-	END jA
-		;
-	END wLw.

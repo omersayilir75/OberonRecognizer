@@ -1,2 +1,0 @@
-MODULE jbWX;	
-	END B.

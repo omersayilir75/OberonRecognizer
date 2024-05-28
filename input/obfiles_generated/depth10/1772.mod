@@ -1,4 +1,0 @@
-MODULE fslR;
-	TYPE
-AJo* = BOOLEAN;
-	END I.

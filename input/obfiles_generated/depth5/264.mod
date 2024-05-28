@@ -1,6 +1,0 @@
-MODULE j0;
-	PROCEDURE X;
-	END X
-	;PROCEDURE ymMF*;	END Ys
-				;
-	END q.

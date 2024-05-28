@@ -1,5 +1,0 @@
-MODULE I0;
-	
-	BEGIN
-	
-	END r.

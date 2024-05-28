@@ -1,2 +1,0 @@
-MODULE Ec;
-		END C.

@@ -1,2 +1,0 @@
-MODULE xR;	
-	END hh.

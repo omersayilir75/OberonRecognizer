@@ -1,9 +1,0 @@
-MODULE x;
-	TYPEUu6 = RECORD U : H;
-qQ3O : ARRAY u() OF BOOLEAN END;
-
-	BEGIN
-	IF '' THEN
-	
-	END
-	END Q4BiW.

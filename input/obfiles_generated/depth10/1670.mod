@@ -1,11 +1,0 @@
-MODULE y;
-	CONST
-r* = Jo();
-TYPE
-oLx = INTEGER;X = INTEGER;PROCEDURE QKGSsZ*;
-
-	BEGIN
-	E
-	END Hr
-	;
-	END YYasFq.

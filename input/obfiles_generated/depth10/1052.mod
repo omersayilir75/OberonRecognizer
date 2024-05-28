@@ -1,7 +1,0 @@
-MODULE _E;
-	TYPE
-O = BOOLEAN;
-
-	BEGIN
-	
-	END en00m.

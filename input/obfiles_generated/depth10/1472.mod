@@ -1,2 +1,0 @@
-MODULE wZ;
-		END f.

@@ -1,3 +1,0 @@
-MODULE hsy;
-	
-	END SQ.

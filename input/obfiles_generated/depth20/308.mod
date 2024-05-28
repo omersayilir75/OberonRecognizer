@@ -1,2 +1,0 @@
-MODULE kloANW;	
-	END w.

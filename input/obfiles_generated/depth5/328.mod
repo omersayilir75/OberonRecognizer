@@ -1,3 +1,0 @@
-MODULE R;
-	PROCEDURE sF;
-	END yRPf;	END w.

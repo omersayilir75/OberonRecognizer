@@ -1,4 +1,0 @@
-MODULE x;
-	TYPES = BOOLEAN;
-D = BOOLEAN;
-	END x.

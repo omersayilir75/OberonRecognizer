@@ -1,6 +1,0 @@
-MODULE O;
-	
-	BEGIN
-	;
-	
-	END J.

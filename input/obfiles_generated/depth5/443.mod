@@ -1,11 +1,0 @@
-MODULE F;	PROCEDURE L;
-
-	END dH
-;PROCEDURE bsC;
-
-	END qZ4aT6EX
-;PROCEDURE R;
-
-	END j
-;	BEGIN
-		END F_pW.

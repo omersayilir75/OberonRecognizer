@@ -1,2 +1,0 @@
-MODULE nvJ;
-		END V.

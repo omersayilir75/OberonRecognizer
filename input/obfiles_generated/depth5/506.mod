@@ -1,6 +1,0 @@
-MODULE G;	PROCEDURE dZ;
-
-	END N
-;PROCEDURE Au0*;
-	END X
-;	END ndb.

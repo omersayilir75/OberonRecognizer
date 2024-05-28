@@ -1,2 +1,0 @@
-MODULE m;		BEGIN	
-	END W.

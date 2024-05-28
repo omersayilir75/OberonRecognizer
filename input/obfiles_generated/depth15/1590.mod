@@ -1,2 +1,0 @@
-MODULE fGaI;	
-	END hFA.

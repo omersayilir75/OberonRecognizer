@@ -1,4 +1,0 @@
-MODULE g;
-		BEGIN
-	
-	END O.

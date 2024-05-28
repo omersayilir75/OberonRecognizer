@@ -1,5 +1,0 @@
-MODULE PNZ9;
-	PROCEDURE ghD*;
-	END Zw
-	;
-	END I.

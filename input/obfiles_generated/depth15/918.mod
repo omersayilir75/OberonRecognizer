@@ -1,2 +1,0 @@
-MODULE KKxw;
-		END V.

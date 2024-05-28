@@ -1,3 +1,0 @@
-MODULE Wj;
-	
-	END YP.

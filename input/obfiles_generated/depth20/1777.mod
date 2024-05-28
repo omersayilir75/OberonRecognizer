@@ -1,3 +1,0 @@
-MODULE dK;
-	
-	END GvbP.

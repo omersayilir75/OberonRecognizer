@@ -1,9 +1,0 @@
-MODULE D;
-	PROCEDURE XFR;
-
-	END NHl
-;PROCEDURE z;
-	END dYT
-		;PROCEDURE H*;
-	END qgMo	;
-	END S1q6H_.

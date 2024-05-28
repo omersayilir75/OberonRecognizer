@@ -1,11 +1,0 @@
-MODULE u;
-	VAR
-r : RECORD Gu : ARRAY H() OF INTEGER;
-b, v, DBOeb : u;
-T : BOOLEAN END;
-TYPE
-MZE = RECORD w : BOOLEAN END;tC* = ARRAY (N()) OF BOOLEAN;
-
-	BEGIN
-	Et
-	END C8.

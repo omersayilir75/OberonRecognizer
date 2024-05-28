@@ -1,8 +1,0 @@
-MODULE v8;
-	PROCEDURE Y5*;
-	END q
-;PROCEDURE _*;
-	END S
-;PROCEDURE VR;
-	END E							;
-	END d6.

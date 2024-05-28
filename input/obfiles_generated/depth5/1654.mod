@@ -1,3 +1,0 @@
-MODULE jYe;
-	
-	END X.

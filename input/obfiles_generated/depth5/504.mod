@@ -1,5 +1,0 @@
-MODULE V16Q;
-	PROCEDURE V*;
-
-	END s;
-	END d.

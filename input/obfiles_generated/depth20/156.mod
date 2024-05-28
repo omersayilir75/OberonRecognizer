@@ -1,2 +1,0 @@
-MODULE d;	VARU : BOOLEAN;
-	END z.

@@ -1,8 +1,0 @@
-MODULE RcN;
-	PROCEDURE B*;
-	PROCEDURE JF*;
-	BEGIN
-	H	END k
-	;	END lP
-;
-	END R.

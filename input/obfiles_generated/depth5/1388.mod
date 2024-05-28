@@ -1,5 +1,0 @@
-MODULE OWI;
-	PROCEDURE J;
-
-	END Q8Y
-	;	END f.

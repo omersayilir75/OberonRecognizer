@@ -1,2 +1,0 @@
-MODULE V3AK;
-		END l.

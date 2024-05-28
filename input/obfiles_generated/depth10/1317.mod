@@ -1,3 +1,0 @@
-MODULE Wh;
-	
-	END N9.

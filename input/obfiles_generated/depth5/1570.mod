@@ -1,11 +1,0 @@
-MODULE jY;	PROCEDURE KP*;
-
-	END r
-;PROCEDURE e;	END gNf
-						;PROCEDURE Cv;
-	END z
-;PROCEDURE ZhK;
-	END dp	;PROCEDURE aq*;
-
-	END N
-;	END S.

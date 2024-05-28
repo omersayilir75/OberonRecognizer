@@ -1,5 +1,0 @@
-MODULE W;	PROCEDURE A*;
-
-	END B5f
-;
-	END Uk1a.

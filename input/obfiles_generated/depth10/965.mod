@@ -1,13 +1,0 @@
-MODULE J;
-	PROCEDURE Bo;
-
-	BEGIN
-	WHILE e() DO	;
-	;
-	
-END
-	END YCzJ
-;
-	BEGIN
-	M
-	END UTE4Jz.

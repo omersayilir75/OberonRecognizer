@@ -1,6 +1,0 @@
-MODULE v;
-	TYPE
-TEr = INTEGER;
-_b = ARRAY ~72 OF INTEGER;
-
-	END cMH.

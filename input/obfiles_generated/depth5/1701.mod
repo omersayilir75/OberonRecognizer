@@ -1,6 +1,0 @@
-MODULE FBNc;
-	PROCEDURE p*;
-
-	END W;
-	BEGIN	
-	END x.

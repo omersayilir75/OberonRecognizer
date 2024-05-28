@@ -1,11 +1,0 @@
-MODULE Su3f;
-	PROCEDURE U;
-
-	END V67	;PROCEDURE W*;
-	END b
-		;PROCEDURE _*;
-
-	END kM
-;PROCEDURE Q;
-	END X56
-;	END w.

@@ -1,4 +1,0 @@
-MODULE q;	PROCEDURE V*;
-	END E	;
-	BEGIN
-		END Tq8.

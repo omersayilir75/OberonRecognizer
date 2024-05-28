@@ -1,8 +1,0 @@
-MODULE K;
-	PROCEDURE R5pz*;
-	END YH
-			;
-	BEGIN
-	;
-	
-	END Cy.

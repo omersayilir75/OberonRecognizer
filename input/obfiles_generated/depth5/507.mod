@@ -1,6 +1,0 @@
-MODULE _;	PROCEDURE z;
-
-	END Z;PROCEDURE Pu*;
-	END HU
-;
-	END f3.

@@ -1,3 +1,0 @@
-MODULE yz;
-	
-	END N.

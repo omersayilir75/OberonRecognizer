@@ -1,1 +1,0 @@
-MODULE A3ed;	TYPEx1 = ARRAY w OF BOOLEAN;	END idl7.

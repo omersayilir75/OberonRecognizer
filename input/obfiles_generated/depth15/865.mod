@@ -1,3 +1,0 @@
-MODULE U4;
-	
-	END Ila.

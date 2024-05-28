@@ -1,2 +1,0 @@
-MODULE e;	
-	END B7.

@@ -1,3 +1,0 @@
-MODULE vJW;
-	
-	END f3.

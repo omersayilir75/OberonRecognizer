@@ -1,3 +1,0 @@
-MODULE Qht;
-	
-	END ICg.

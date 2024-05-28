@@ -1,3 +1,0 @@
-MODULE L;
-	
-	END U.

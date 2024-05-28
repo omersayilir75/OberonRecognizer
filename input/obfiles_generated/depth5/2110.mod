@@ -1,7 +1,0 @@
-MODULE w;
-	PROCEDURE F;
-	END At8S
-					;
-	BEGIN
-	
-	END A.

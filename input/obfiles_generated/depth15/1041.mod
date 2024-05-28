@@ -1,6 +1,0 @@
-MODULE G;
-	PROCEDURE D_(s : ARRAY (6) OF ARRAY tif + h8sx9 OF ARRAY '' OF R);
-
-	END J
-		;
-	END q.

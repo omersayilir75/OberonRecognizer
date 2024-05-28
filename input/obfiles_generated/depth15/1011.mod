@@ -1,7 +1,0 @@
-MODULE ltmt;
-	CONST
-F* = X() > DhOeZ();
-TYPE
-vu_ = RECORD P : ARRAY '' OF BOOLEAN END;	BEGIN
-	
-	END MC.

@@ -1,6 +1,0 @@
-MODULE NYi;
-	PROCEDURE _H;
-
-	END HyZ	;
-	BEGIN	
-	END CB.

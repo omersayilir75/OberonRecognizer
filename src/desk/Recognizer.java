@@ -56,12 +56,12 @@ public class Recognizer {
 
 
                 if (parser.getNumberOfSyntaxErrors() == 0) {
-//                        System.out.println(program.getName() + " PASS");
-//                          log.write(program.getPath() + "\n");
+                        System.out.println(program.getName() + " PASS");
+                          log.write(program.getPath() + "\n");
                     noPassed.incrementAndGet();
                 } else {
                     System.out.println(program.getName() + " FAIL");
-//                    log.write(program.getPath() + " FAIL\n");
+                    log.write(program.getPath() + " FAIL\n");
                     noFailed.incrementAndGet();
                 }
                 noProcessed.incrementAndGet();

@@ -1,7 +1,0 @@
-MODULE Kzi;
-	PROCEDURE KF*;
-	END Jg
-	;PROCEDURE a*;
-	END UIW	;
-	BEGIN
-		END C.

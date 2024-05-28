@@ -1,6 +1,0 @@
-MODULE iE;	PROCEDURE iS*;
-	END Mf
-;PROCEDURE A;
-
-	END s
-		;	BEGIN		END id.

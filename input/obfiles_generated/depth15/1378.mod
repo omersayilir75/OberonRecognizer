@@ -1,3 +1,0 @@
-MODULE JC3;
-	
-	END i.

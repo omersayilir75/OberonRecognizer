@@ -1,4 +1,0 @@
-MODULE Q;
-	
-	BEGIN	v7(V())
-	END AQQ.

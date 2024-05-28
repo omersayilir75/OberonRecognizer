@@ -1,3 +1,0 @@
-MODULE Yu;
-	
-	END U.

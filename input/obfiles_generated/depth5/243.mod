@@ -1,14 +1,0 @@
-MODULE F;	PROCEDURE z;
-
-	END x
-		;PROCEDURE I*;
-
-	END OYL08o			;PROCEDURE L*;
-
-	END ub
-;PROCEDURE Y4a*;
-
-	END Y;	BEGIN
-	;
-	
-	END bW.

@@ -1,12 +1,0 @@
-MODULE XV;
-		BEGIN
-	REPEAT
-	WHILE (P()) DO
-	REPEAT	
-	UNTIL ''''
-END
-	UNTIL -(F7T)  DIV  (j1M1T4());
-	IF (uQf()) THEN
-	F
-	END
-	END h.

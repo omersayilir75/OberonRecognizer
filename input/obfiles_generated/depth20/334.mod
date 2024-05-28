@@ -1,22 +1,0 @@
-MODULE U6;	VAR
-BQ*, Ukx* : RECORD x : j END;
-R* : ARRAY nBrr6hpc() OF BOOLEAN;Y*, k : RECORD i : RECORD ju : INTEGER;
-wbO : INTEGER END END;s : RECORD bc : ARRAY k - k.c OF RECORD LYc, JX : INTEGER;
-A, TpW, G : ARRAY '' OF a END;
-Z, IMu : RECORD a : RECORD x : INTEGER;
-w2V : BOOLEAN;
-V : BOOLEAN END;
-g, X : ARRAY (E()) OF ARRAY k() OF INTEGER;W2 : RECORD I : INTEGER END;
-H : RECORD _ : WNl1pQ;
-r, a, rETi : INTEGER;
-wQ : INTEGER;
-WFw : BOOLEAN;
-hXY7, j0squg : mD END;
-E : RECORD _, M, b6 : INTEGER END;
-J : ARRAY '' OF aH END;
-qXfo : INTEGER;
-I, wY, D, a, rT, z : BOOLEAN;M : ARRAY (25) OF ARRAY '' OF BOOLEAN;
-X, um, fM : ARRAY OX  MOD  Z OR v() - xe7lIv()  DIV  rc() + '''' OF INTEGER END;PROCEDURE W1c;
-
-	END T
-		;	END zS.

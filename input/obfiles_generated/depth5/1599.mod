@@ -1,3 +1,0 @@
-MODULE Rw;
-	
-	END t.

@@ -1,3 +1,0 @@
-MODULE tFA;
-	
-	END Fmw.

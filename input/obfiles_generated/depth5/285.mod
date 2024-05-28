@@ -1,6 +1,0 @@
-MODULE B;
-	PROCEDURE x*;
-
-	END TG1
-					;
-	END D.

@@ -1,3 +1,0 @@
-MODULE RI;
-	
-	END y.

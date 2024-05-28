@@ -1,2 +1,0 @@
-MODULE NEo;	
-	END p.

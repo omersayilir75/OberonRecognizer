@@ -1,3 +1,0 @@
-MODULE DOvjx;
-	
-	END c.

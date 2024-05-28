@@ -1,2 +1,0 @@
-MODULE Wi;
-		END H.

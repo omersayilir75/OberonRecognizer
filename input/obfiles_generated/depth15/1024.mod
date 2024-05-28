@@ -1,3 +1,0 @@
-MODULE iHBZ;
-	
-	END p.

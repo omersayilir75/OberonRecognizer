@@ -1,8 +1,0 @@
-MODULE o;
-	PROCEDURE eO_L;
-
-	END H
-;
-	BEGIN
-	
-	END i.

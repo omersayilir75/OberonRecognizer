@@ -1,5 +1,0 @@
-MODULE l;
-	VARGK : ARRAY AZg OF U;
-D*, T*, G1, Tf* : ARRAY '' OF INTEGER;
-qW7O : INTEGER;
-	END L.

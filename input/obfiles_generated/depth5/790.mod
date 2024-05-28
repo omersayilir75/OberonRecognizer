@@ -1,5 +1,0 @@
-MODULE N;
-	
-	BEGIN	;
-	
-	END EP.

@@ -1,2 +1,0 @@
-MODULE rz;
-		END s.

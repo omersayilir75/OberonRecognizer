@@ -1,3 +1,0 @@
-MODULE O;	
-	BEGIN
-	WHILE mH() >= i DO	V;	Jj0TPEq0SEND	END xTwPB.

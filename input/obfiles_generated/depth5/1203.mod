@@ -1,7 +1,0 @@
-MODULE BdMz;
-	PROCEDURE Z;
-	END s		;
-	BEGIN
-	;
-	
-	END YY.

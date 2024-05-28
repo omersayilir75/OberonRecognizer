@@ -1,5 +1,0 @@
-MODULE K;
-	PROCEDURE fL;
-	END b
-;
-	END Wm1q0ZI.

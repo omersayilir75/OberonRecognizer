@@ -1,5 +1,0 @@
-MODULE G3;
-	PROCEDURE X*;
-	END n;
-	BEGIN
-		END cE3lfZ.

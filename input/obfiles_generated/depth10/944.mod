@@ -1,3 +1,0 @@
-MODULE GY;
-	
-	END bo.

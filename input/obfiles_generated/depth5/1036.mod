@@ -1,21 +1,0 @@
-MODULE AR;
-	PROCEDURE N;
-
-	END EZO
-;PROCEDURE sJ*;
-
-	END W
-;PROCEDURE o*;
-	END K
-;PROCEDURE Wq*;
-
-	END zd	;PROCEDURE t*;
-	END e;PROCEDURE A*;
-
-	END e
-;PROCEDURE aN5Hkz*;	END ss8Ig
-;PROCEDURE w*;
-	END G
-		;	BEGIN
-	;
-		END l.

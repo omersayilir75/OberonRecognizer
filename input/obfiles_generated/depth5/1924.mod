@@ -1,4 +1,0 @@
-MODULE N;
-	PROCEDURE E;
-	END R			;
-	END i.

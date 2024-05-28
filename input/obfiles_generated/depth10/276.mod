@@ -1,3 +1,0 @@
-MODULE Fz9DK;
-	
-	END Z.

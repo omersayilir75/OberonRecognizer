@@ -1,9 +1,0 @@
-MODULE XI;	PROCEDURE S;
-	END f
-;PROCEDURE JK*;
-
-	END Gt	;PROCEDURE norBI*;
-	END pOn										;
-	BEGIN
-	
-	END xK.

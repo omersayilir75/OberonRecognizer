@@ -1,8 +1,0 @@
-MODULE S;
-	PROCEDURE L2wuLGq;
-
-	END E
-			;
-	BEGIN
-	
-	END ER.

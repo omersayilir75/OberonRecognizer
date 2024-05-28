@@ -1,11 +1,0 @@
-MODULE R;	PROCEDURE a*;
-
-	END XT;PROCEDURE L;
-
-	END cn
-	;PROCEDURE R;
-
-	END j;PROCEDURE q;
-	END hq	;
-	BEGIN	
-	END KhNX.

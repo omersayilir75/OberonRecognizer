@@ -1,5 +1,0 @@
-MODULE K6D;	
-	BEGIN
-	WHILE 304 DO
-	
-END	END _0.

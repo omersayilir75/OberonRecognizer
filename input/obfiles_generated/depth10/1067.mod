@@ -1,5 +1,0 @@
-MODULE Q;
-	TYPE
-Wyc = ARRAY x() OF INTEGER;
-D* = ARRAY nG OF Il;
-	END MC.

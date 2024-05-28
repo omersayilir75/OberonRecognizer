@@ -1,8 +1,0 @@
-MODULE rp;
-	
-	BEGIN
-	;
-	WHILE (C('') * 0) DO	IF G3Ob THEN	BB9ZLX
-	END
-END
-	END T.

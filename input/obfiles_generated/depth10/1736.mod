@@ -1,6 +1,0 @@
-MODULE h;	PROCEDURE A(VAR PM : ARRAY rZ() OF BOOLEAN)*;
-
-	BEGIN	
-	END d
-;
-	END ZZ.

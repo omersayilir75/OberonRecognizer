@@ -1,8 +1,0 @@
-MODULE H;
-	TYPE
-x = q6;
-
-	BEGIN
-	WHILE 2 DO
-	
-END	END GXK.

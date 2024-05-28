@@ -1,2 +1,0 @@
-MODULE xYoy;	
-	END vgP.

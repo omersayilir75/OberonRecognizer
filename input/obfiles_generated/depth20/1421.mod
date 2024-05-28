@@ -1,4 +1,0 @@
-MODULE TU;
-	
-	BEGIN	
-	END Il.

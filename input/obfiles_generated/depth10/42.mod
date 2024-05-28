@@ -1,3 +1,0 @@
-MODULE doUV;
-	
-	END W.

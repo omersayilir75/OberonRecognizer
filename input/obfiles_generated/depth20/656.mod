@@ -1,3 +1,0 @@
-MODULE DBzX;
-	
-	END h.

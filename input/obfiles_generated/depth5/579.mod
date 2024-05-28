@@ -1,5 +1,0 @@
-MODULE Q;
-	
-	BEGIN
-	;
-		END YU.

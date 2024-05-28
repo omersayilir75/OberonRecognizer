@@ -1,3 +1,0 @@
-MODULE ddLiA;
-	
-	END A.

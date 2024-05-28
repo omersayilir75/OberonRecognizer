@@ -1,2 +1,0 @@
-MODULE dEvpQl;
-		END KJOP.

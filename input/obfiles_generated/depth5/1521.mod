@@ -1,5 +1,0 @@
-MODULE k9;
-	PROCEDURE SXKFYD0vPI;
-	END tm
-		;PROCEDURE N*;	END gvp
-;	END t.

@@ -1,2 +1,0 @@
-MODULE YZ;
-		END n.

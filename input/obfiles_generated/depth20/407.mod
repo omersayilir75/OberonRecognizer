@@ -1,3 +1,0 @@
-MODULE ATX;
-	
-	END B0.

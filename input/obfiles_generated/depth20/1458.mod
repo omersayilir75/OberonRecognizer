@@ -1,6 +1,0 @@
-MODULE c;
-	TYPE
-E* = RECORD gX : ARRAY '''' < 'X' OF RECORD I, F : ARRAY m() OF S;
-e, GZ1s8 : ARRAY QCjXF7() OF A END END;
-
-	END rs.

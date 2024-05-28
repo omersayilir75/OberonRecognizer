@@ -1,2 +1,0 @@
-MODULE vNZroZHgR;
-		END Hpnd.

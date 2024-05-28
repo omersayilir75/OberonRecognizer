@@ -1,8 +1,0 @@
-MODULE Pn;
-	PROCEDURE b*;
-	END C
-;PROCEDURE O6q*;
-
-	END Eo
-;
-	END Ud.

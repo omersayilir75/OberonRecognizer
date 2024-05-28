@@ -1,2 +1,0 @@
-MODULE T8;	PROCEDURE X*;
-	END e;	END h.

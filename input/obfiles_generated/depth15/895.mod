@@ -1,4 +1,0 @@
-MODULE V;		BEGIN
-	WHILE x() DO	
-END
-	END Y.

@@ -1,7 +1,0 @@
-MODULE F;
-	PROCEDURE Smj;
-
-	END zF
-;	BEGIN
-	
-	END X.

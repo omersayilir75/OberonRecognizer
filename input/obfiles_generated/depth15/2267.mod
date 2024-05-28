@@ -1,2 +1,0 @@
-MODULE WS;	
-	END a3Fan.

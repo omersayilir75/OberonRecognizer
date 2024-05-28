@@ -1,3 +1,0 @@
-MODULE LX;
-	
-	END tQc.

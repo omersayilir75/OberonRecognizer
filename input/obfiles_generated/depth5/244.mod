@@ -1,4 +1,0 @@
-MODULE C;
-	PROCEDURE x*;	END Z
-;
-	END m5.

@@ -1,4 +1,0 @@
-MODULE g;
-	PROCEDURE Y;
-
-	END wUTj	;	END l.

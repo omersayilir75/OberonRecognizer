@@ -1,2 +1,0 @@
-MODULE X;	PROCEDURE z*;	END YqQ	;
-	END D.

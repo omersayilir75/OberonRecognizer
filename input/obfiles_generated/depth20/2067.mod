@@ -1,6 +1,0 @@
-MODULE Zo;
-	TYPE
-HB* = BOOLEAN;
-
-	BEGIN
-		END P.

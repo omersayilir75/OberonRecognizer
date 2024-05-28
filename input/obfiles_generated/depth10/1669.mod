@@ -1,17 +1,0 @@
-MODULE U;
-	PROCEDURE A;
-	TYPE
-s = BOOLEAN;
-lK = BOOLEAN;aZL* = BOOLEAN;
-d* = INTEGER;Vz* = INTEGER;cR = BOOLEAN;j = BOOLEAN;
-
-	END _
-;VAR
-y*, wg* : ARRAY '''^' OF BOOLEAN;
-w* : INTEGER;v, Y : BOOLEAN;
-qHSz* : ARRAY '' OF BOOLEAN;
-	BEGIN
-	WHILE t() < '4''b6v''' DO
-	
-END
-	END w.

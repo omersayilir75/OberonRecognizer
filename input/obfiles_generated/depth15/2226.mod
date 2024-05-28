@@ -1,3 +1,0 @@
-MODULE ZGD;
-	
-	END V.

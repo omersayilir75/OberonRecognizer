@@ -1,2 +1,0 @@
-MODULE yAGt;	
-	END W.

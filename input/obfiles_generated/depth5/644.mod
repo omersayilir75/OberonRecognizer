@@ -1,3 +1,0 @@
-MODULE E;		BEGIN
-	
-	END X.

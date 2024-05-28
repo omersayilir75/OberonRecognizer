@@ -1,11 +1,0 @@
-MODULE pe;	PROCEDURE nD*;	PROCEDURE z0;
-
-	BEGIN
-	K;	
-	END n
-;
-	END L	;PROCEDURE Z;
-
-	END rlP
-							;
-	END H5.

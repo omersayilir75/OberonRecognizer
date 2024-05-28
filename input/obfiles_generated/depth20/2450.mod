@@ -1,3 +1,0 @@
-MODULE ECX;
-	
-	END D.

@@ -1,6 +1,6 @@
 grammar OberonGrammar;
 
-//TODO: change definitions around so begin and end require the same IDs
+
 moduleDefinition:
 		MODULE Space n=ID ';' Newline
 		Tab declarations Newline

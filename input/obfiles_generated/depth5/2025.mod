@@ -1,4 +1,0 @@
-MODULE HPo;
-	PROCEDURE K;	END K
-		;	BEGIN
-		END crM.

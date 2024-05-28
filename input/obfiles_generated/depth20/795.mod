@@ -1,3 +1,0 @@
-MODULE NR;
-	
-	END o.

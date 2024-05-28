@@ -1,4 +1,0 @@
-MODULE x;	
-	BEGIN
-	
-	END LkHVDlp.

@@ -1,6 +1,0 @@
-MODULE l;
-	VAR
-Kj7C* : ARRAY x OF RECORD SB : BOOLEAN END;
-Zsh, u0* : BOOLEAN;
-
-	END a.

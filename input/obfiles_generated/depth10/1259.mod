@@ -1,3 +1,0 @@
-MODULE _X7;
-	
-	END TL.

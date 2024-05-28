@@ -1,2 +1,0 @@
-MODULE Zi;
-		END rW.

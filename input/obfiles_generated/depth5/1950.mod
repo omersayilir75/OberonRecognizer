@@ -1,2 +1,0 @@
-MODULE AUH;		BEGIN	
-	END Nd.

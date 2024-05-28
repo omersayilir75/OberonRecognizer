@@ -1,5 +1,0 @@
-MODULE II;
-	
-	BEGIN
-	
-	END v.

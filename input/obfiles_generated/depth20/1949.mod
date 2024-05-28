@@ -1,2 +1,0 @@
-MODULE Qn;	
-	END QD.

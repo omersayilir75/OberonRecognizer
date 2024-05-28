@@ -1,4 +1,0 @@
-MODULE AlT;	PROCEDURE l;
-	END y9
-	;
-	END p.

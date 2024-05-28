@@ -1,2 +1,0 @@
-MODULE K;
-		END UEudS.

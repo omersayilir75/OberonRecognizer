@@ -1,3 +1,0 @@
-MODULE Lr3;
-	
-	END R7.

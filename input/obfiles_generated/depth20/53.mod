@@ -1,3 +1,0 @@
-MODULE tt;
-	
-	END C.

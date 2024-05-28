@@ -1,3 +1,0 @@
-MODULE oPY;
-	
-	END u.

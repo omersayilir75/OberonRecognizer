@@ -1,3 +1,0 @@
-MODULE K;	TYPERsW* = INTEGER;
-B* = BOOLEAN;
-	END G.

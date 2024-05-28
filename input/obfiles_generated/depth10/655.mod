@@ -1,2 +1,0 @@
-MODULE oX;
-		END bD.

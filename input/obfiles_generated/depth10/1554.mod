@@ -1,5 +1,0 @@
-MODULE m3;
-	
-	BEGIN
-	B
-	END J6.

@@ -1,15 +1,0 @@
-MODULE qMomd;	PROCEDURE u*;
-	PROCEDURE ELm;
-	VARqBh, CL*, C*, L* : RECORD FK : ARRAY 1 OF ARRAY uC OR xU OF BOOLEAN END;
-	END F
-;	END LBNX5;VAR
-c, d, t, XN*, De : RECORD Qbv8 : RECORD GM : ARRAY kTF() OF ARRAY j OF W;
-S : RECORD sW : INTEGER;
-L : j;
-Ht : bS3 END;
-qN, wd, lItb : RECORD T, B : INTEGER;m : INTEGER;JB : BOOLEAN END;
-y4, v : INTEGER;
-Pop, ht, iZ0 : ARRAY l4() OF ARRAY BH OF BOOLEAN END;b : INTEGER END;
-ru*, s, J : BOOLEAN;
-Jcgqt* : ARRAY (6) & -lC() OR 0 OF INTEGER;qJ*, rAU3mS* : INTEGER;
-	END v.

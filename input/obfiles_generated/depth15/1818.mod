@@ -1,3 +1,0 @@
-MODULE UzI;
-	
-	END R.

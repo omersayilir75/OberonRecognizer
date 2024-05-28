@@ -1,29 +1,0 @@
-MODULE S;
-	TYPE
-I97* = BOOLEAN;
-PROCEDURE W*;	PROCEDURE ia(VAR q, C, j, rX, _ : ARRAY f.m84.j1.G599_Zzd.hU.r OF y);
-	PROCEDURE d(Zrn8 : ARRAY Q() OF BOOLEAN);
-	TYPEU6* = BOOLEAN;
-	VAR
-b*, NrC : INTEGER;M : ARRAY (Gh()) OF ARRAY '' OF yW1;
-	END RvZ0
-;	PROCEDURE Fa(VAR gWLR : RECORD g8P : INTEGER END);
-	END e4
-	;
-	END b7RBSq
-;	PROCEDURE d(a : ARRAY -H1MJE() OF RECORD S, V : L;
-P, B : BOOLEAN END)*;
-	PROCEDURE uMLV*;	END Z;	TYPERNFs* = ARRAY t + I() OF INTEGER;
-	END IaV6
-	;	PROCEDURE T(c, pAuWuQ : INTEGER)*;
-
-	END u
-		;
-	BEGIN	;
-	;
-	;
-	TDEY(H(M()));
-	q
-	END X
-				;
-	END b.

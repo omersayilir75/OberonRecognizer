@@ -1,3 +1,0 @@
-MODULE MPX;
-	
-	END yqs.

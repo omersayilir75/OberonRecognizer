@@ -1,12 +1,0 @@
-MODULE a;
-	VAR
-v5Df*, IW : ARRAY N() OF nR;
-M* : ARRAY l OF INTEGER;
-d : BOOLEAN;Z* : INTEGER;
-CONST
-te = a9cRS;
-	BEGIN
-	WHILE F() OR E() DO
-	
-END
-	END P7p.

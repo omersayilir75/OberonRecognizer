@@ -1,8 +1,0 @@
-MODULE jE;
-	PROCEDURE hQn*;
-
-	END x;PROCEDURE y;
-	END AIE;PROCEDURE Z*;
-
-	END a
-	;	END C.

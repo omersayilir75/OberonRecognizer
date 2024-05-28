@@ -1,3 +1,0 @@
-MODULE ft;
-	
-	END XkP.

@@ -1,2 +1,0 @@
-MODULE WXd4V;
-		END u.

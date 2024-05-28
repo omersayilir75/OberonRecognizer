@@ -1,2 +1,0 @@
-MODULE M7S;	
-	BEGIN		END Gu.

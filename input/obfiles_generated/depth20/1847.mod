@@ -1,7 +1,0 @@
-MODULE MP;
-	TYPE
-eU* = ARRAY '' OF RECORD Av6 : RECORD r, F_ : T;
-ec : INTEGER END END;
-wWM* = INTEGER;
-j = BOOLEAN;
-	END Q5.

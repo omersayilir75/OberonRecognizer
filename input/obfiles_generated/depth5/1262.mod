@@ -1,3 +1,0 @@
-MODULE _N;
-	
-	END bU5Uk.

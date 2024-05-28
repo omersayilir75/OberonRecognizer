@@ -1,2 +1,0 @@
-MODULE wwRRFOD;	
-	END C.

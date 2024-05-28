@@ -1,9 +1,0 @@
-MODULE A;
-	PROCEDURE QJ;
-
-	END Jx
-	;PROCEDURE ir;
-
-	END l8
-;
-	END Y.

@@ -1,2 +1,0 @@
-MODULE Jg;
-		END DW.

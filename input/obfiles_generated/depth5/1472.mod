@@ -1,2 +1,0 @@
-MODULE Dxm;
-		END i.

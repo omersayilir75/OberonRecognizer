@@ -1,2 +1,0 @@
-MODULE LFrSpCX;	
-	END F.

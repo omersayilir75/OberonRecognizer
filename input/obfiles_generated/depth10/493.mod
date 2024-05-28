@@ -1,3 +1,0 @@
-MODULE mOe;
-	
-	END t.

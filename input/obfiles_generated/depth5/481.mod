@@ -1,5 +1,0 @@
-MODULE aQ;
-	
-	BEGIN
-	
-	END r.

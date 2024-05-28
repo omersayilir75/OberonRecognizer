@@ -1,2 +1,0 @@
-MODULE Zd;
-		END d.

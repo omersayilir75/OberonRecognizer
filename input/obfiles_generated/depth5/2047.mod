@@ -1,6 +1,0 @@
-MODULE Q;
-	PROCEDURE Nk*;
-	END V
-;PROCEDURE e;
-
-	END I	;	END b.

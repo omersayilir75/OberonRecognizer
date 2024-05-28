@@ -1,3 +1,0 @@
-MODULE bAC;
-	VARV*, p : RECORD b : ARRAY A[y1].fm[P1()] OF ARRAY '''' OF ARRAY b3F OF BOOLEAN END;
-	END ha.

@@ -1,2 +1,0 @@
-MODULE J9;	
-	END x.

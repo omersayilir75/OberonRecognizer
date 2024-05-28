@@ -1,3 +1,0 @@
-MODULE lu;
-	
-	END ML.

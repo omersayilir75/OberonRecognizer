@@ -1,3 +1,0 @@
-MODULE CP;
-	
-	END N.

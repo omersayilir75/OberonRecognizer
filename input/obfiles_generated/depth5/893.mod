@@ -1,7 +1,0 @@
-MODULE M3c;
-	PROCEDURE k;
-	END s2
-	;
-	BEGIN
-	
-	END Dh.

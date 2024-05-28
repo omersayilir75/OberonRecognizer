@@ -1,3 +1,0 @@
-MODULE ohmZ;
-	
-	END fJ.

@@ -1,2 +1,0 @@
-MODULE P0OxjMw;
-		END Q7.

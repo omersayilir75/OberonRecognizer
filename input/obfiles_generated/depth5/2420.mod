@@ -1,14 +1,0 @@
-MODULE lAyb;
-	PROCEDURE W*;
-
-	END l
-;PROCEDURE Ws*;
-
-	END b
-	;PROCEDURE v*;
-
-	END UG	;PROCEDURE U;
-
-	END qVEt8
-		;
-	END rn.

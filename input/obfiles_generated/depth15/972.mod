@@ -1,8 +1,0 @@
-MODULE H;
-	
-	BEGIN
-	GZIxP;
-	REPEAT
-	
-	UNTIL 0
-	END f0.

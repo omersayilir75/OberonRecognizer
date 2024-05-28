@@ -1,3 +1,0 @@
-MODULE kw;
-	
-	END RHK.

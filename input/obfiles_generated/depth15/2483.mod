@@ -1,4 +1,0 @@
-MODULE c;	TYPE
-TR* = INTEGER;
-
-	END lD.

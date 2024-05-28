@@ -1,3 +1,0 @@
-MODULE EnwybJ;
-	
-	END KV.

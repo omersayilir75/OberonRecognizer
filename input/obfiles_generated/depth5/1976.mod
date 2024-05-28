@@ -1,11 +1,0 @@
-MODULE U;
-	PROCEDURE Y;
-	END K
-		;PROCEDURE DS;
-	END bdzA
-;PROCEDURE Vg*;
-
-	END V	;PROCEDURE yH*;
-
-	END X		;
-	END N.

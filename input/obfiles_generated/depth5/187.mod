@@ -1,2 +1,0 @@
-MODULE gq;
-		END p.

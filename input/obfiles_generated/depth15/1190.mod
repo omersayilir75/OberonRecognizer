@@ -1,1 +1,0 @@
-MODULE X;		END c.

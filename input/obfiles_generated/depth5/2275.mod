@@ -1,6 +1,0 @@
-MODULE sCH;	PROCEDURE r;
-	END qhi
-;PROCEDURE J;
-
-	END y	;
-	END qElNX.

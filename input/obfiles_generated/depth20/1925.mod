@@ -1,3 +1,0 @@
-MODULE fT;
-	
-	END lmKuy.

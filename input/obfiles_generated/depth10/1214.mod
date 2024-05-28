@@ -1,2 +1,0 @@
-MODULE Te2Vx7;
-		END B.

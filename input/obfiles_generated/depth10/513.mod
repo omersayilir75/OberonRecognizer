@@ -1,3 +1,0 @@
-MODULE oK;
-	
-	END V.

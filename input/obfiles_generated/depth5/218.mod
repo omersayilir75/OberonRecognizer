@@ -1,2 +1,0 @@
-MODULE g;
-		END aE.

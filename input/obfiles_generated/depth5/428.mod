@@ -1,18 +1,0 @@
-MODULE Med;
-	PROCEDURE xG7*;
-	END v
-;PROCEDURE C;
-
-	END O
-;PROCEDURE KBI7;
-	END uB;PROCEDURE N4*;
-
-	END Ke
-			;PROCEDURE a;
-	END _VpsM
-;PROCEDURE glM*;
-	END IU
-	;
-	BEGIN
-	;	
-	END JdzI.

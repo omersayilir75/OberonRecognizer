@@ -1,3 +1,0 @@
-MODULE Lyf;
-	
-	END k.

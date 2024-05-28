@@ -1,2 +1,0 @@
-MODULE hF;
-		END C.

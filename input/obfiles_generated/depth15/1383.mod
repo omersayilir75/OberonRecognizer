@@ -1,12 +1,0 @@
-MODULE L;
-	PROCEDURE GE(Tz : ARRAY pT OF ARRAY d + q() OF INTEGER);
-
-	BEGIN
-	REPEAT
-	;
-	WHILE q() DO
-	kI;	END;
-	REPEAT
-	S	UNTIL ~t1()
-	UNTIL ''	END tz
-		;	END s.

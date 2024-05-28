@@ -1,2 +1,0 @@
-MODULE HdQX;
-		END A.

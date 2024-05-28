@@ -1,3 +1,0 @@
-MODULE Rqmn;
-	
-	END eXSDe.

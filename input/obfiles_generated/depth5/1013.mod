@@ -1,5 +1,0 @@
-MODULE FHHN;
-	PROCEDURE v*;
-	END P
-;
-	END whMN.

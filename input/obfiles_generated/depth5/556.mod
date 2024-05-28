@@ -1,1 +1,0 @@
-MODULE GY;		END ekc.

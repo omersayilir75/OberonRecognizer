@@ -1,5 +1,0 @@
-MODULE R0VE;
-	CONST
-usa* = V0U();
-
-	END Q.

@@ -1,5 +1,0 @@
-MODULE O;
-	
-	BEGIN
-	Jp
-	END G.

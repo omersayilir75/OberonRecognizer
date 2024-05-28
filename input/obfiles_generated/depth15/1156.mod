@@ -1,2 +1,0 @@
-MODULE yU;	
-	END BJt.

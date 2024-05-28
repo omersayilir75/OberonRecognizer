@@ -1,9 +1,0 @@
-MODULE L;	PROCEDURE a*;
-	END xw
-;PROCEDURE R*;
-	END E;PROCEDURE n;
-
-	END zH;
-	BEGIN
-	
-	END T2la1.

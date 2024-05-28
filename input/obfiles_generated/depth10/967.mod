@@ -1,3 +1,0 @@
-MODULE tBa;
-	
-	END dWraH.

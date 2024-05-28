@@ -1,16 +1,0 @@
-MODULE Y;
-	PROCEDURE Ua;
-
-	END I		;PROCEDURE dX;
-
-	END Q
-	;PROCEDURE C*;	END zE	;PROCEDURE H5*;
-
-	END M
-;PROCEDURE hzb*;
-
-	END y
-;	BEGIN	;
-	;
-	
-	END dV.

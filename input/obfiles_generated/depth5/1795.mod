@@ -1,3 +1,0 @@
-MODULE Ub;
-	
-	END K_wR.

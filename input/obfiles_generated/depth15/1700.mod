@@ -1,2 +1,0 @@
-MODULE Rm;
-		END c.

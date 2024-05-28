@@ -1,5 +1,0 @@
-MODULE KZ;
-	
-	BEGIN
-	
-	END z.

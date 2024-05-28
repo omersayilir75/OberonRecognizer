@@ -1,5 +1,0 @@
-MODULE BS;
-	
-	BEGIN
-	oAL95b(O)
-	END efZ.

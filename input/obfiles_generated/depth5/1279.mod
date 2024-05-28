@@ -1,6 +1,0 @@
-MODULE H;
-	PROCEDURE e*;
-
-	END y
-;
-	END tu.

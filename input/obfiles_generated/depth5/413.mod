@@ -1,8 +1,0 @@
-MODULE wQ;
-	PROCEDURE LBfBC*;
-
-	END a
-					;PROCEDURE M*;
-	END R;
-	BEGIN	
-	END V2dH.

@@ -1,4 +1,0 @@
-MODULE C;	PROCEDURE d_;
-
-	END s;
-	END e.

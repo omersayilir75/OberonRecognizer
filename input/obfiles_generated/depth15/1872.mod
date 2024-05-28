@@ -1,5 +1,0 @@
-MODULE Qv;
-	TYPExq = RECORD k : ARRAY q1h() OF BOOLEAN;f3 : ARRAY f OF N2HEJ;
-jI6tEI, R, I3, SB9bd : INTEGER END;
-CONSTIW = '-';
-	END MS.

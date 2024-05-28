@@ -1,6 +1,0 @@
-MODULE w;
-	PROCEDURE NIKG*;
-	END W;
-	BEGIN
-	;	
-	END Q.

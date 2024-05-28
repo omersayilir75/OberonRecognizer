@@ -1,3 +1,0 @@
-MODULE kI;
-	
-	END w.

@@ -1,3 +1,0 @@
-MODULE ff;
-	
-	END LM.

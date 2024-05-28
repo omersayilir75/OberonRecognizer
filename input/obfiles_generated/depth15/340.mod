@@ -1,2 +1,0 @@
-MODULE Zkwg;	
-	END S.

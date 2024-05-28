@@ -1,3 +1,0 @@
-MODULE mB;
-	
-	END x.

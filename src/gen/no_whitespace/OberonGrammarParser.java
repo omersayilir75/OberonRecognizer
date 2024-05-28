@@ -49,12 +49,12 @@ public class OberonGrammarParser extends Parser {
 
 	private static String[] makeLiteralNames() {
 		return new String[] {
-			null, "'['", "']'", null, null, null, null, null, null, "';'", "':'", 
-			"'.'", "'('", "')'", "','", "'+'", "'&'", "'-'", "'#'", "'='", "'*'", 
-			"'~'", "'<'", "'<='", "'>'", "'>='", "':='", "'MODULE'", "'IMPORT'", 
-			"'VAR'", "'BEGIN'", "'CONST'", "'END'", "'PROCEDURE'", "'TYPE'", "'ARRAY'", 
-			"'OF'", "'OR'", "'RECORD'", "'WHILE'", "'DO'", "'IF'", "'THEN'", "'ELSE'", 
-			"'ELSIF'", "'REPEAT'", "'UNTIL'", "'DIV'", "'MOD'"
+			null, "'['", "']'", "'STRING_LITERAL'", null, null, null, null, null, 
+			"';'", "':'", "'.'", "'('", "')'", "','", "'+'", "'&'", "'-'", "'#'", 
+			"'='", "'*'", "'~'", "'<'", "'<='", "'>'", "'>='", "':='", "'MODULE'", 
+			"'IMPORT'", "'VAR'", "'BEGIN'", "'CONST'", "'END'", "'PROCEDURE'", "'TYPE'", 
+			"'ARRAY'", "'OF'", "'OR'", "'RECORD'", "'WHILE'", "'DO'", "'IF'", "'THEN'", 
+			"'ELSE'", "'ELSIF'", "'REPEAT'", "'UNTIL'", "'DIV'", "'MOD'", "'ID'"
 		};
 	}
 	private static final String[] _LITERAL_NAMES = makeLiteralNames();
@@ -446,7 +446,7 @@ public class OberonGrammarParser extends Parser {
 			setState(96);
 			_errHandler.sync(this);
 			_alt = getInterpreter().adaptivePredict(_input,6,_ctx);
-			while ( _alt!=2 && _alt!= ATN.INVALID_ALT_NUMBER ) {
+			while ( _alt!=2 && _alt!=org.antlr.v4.runtime.atn.ATN.INVALID_ALT_NUMBER ) {
 				if ( _alt==1 ) {
 					{
 					{
@@ -538,7 +538,7 @@ public class OberonGrammarParser extends Parser {
 			setState(109);
 			_errHandler.sync(this);
 			_alt = getInterpreter().adaptivePredict(_input,8,_ctx);
-			while ( _alt!=2 && _alt!= ATN.INVALID_ALT_NUMBER ) {
+			while ( _alt!=2 && _alt!=org.antlr.v4.runtime.atn.ATN.INVALID_ALT_NUMBER ) {
 				if ( _alt==1 ) {
 					{
 					{
@@ -826,7 +826,7 @@ public class OberonGrammarParser extends Parser {
 			setState(140);
 			_errHandler.sync(this);
 			_alt = getInterpreter().adaptivePredict(_input,11,_ctx);
-			while ( _alt!=2 && _alt!= ATN.INVALID_ALT_NUMBER ) {
+			while ( _alt!=2 && _alt!=org.antlr.v4.runtime.atn.ATN.INVALID_ALT_NUMBER ) {
 				if ( _alt==1 ) {
 					{
 					{
@@ -1181,7 +1181,7 @@ public class OberonGrammarParser extends Parser {
 			setState(177);
 			_errHandler.sync(this);
 			_alt = getInterpreter().adaptivePredict(_input,16,_ctx);
-			while ( _alt!=2 && _alt!= ATN.INVALID_ALT_NUMBER ) {
+			while ( _alt!=2 && _alt!=org.antlr.v4.runtime.atn.ATN.INVALID_ALT_NUMBER ) {
 				if ( _alt==1 ) {
 					{
 					{
@@ -2334,7 +2334,7 @@ public class OberonGrammarParser extends Parser {
 			setState(299);
 			_errHandler.sync(this);
 			_alt = getInterpreter().adaptivePredict(_input,29,_ctx);
-			while ( _alt!=2 && _alt!= ATN.INVALID_ALT_NUMBER ) {
+			while ( _alt!=2 && _alt!=org.antlr.v4.runtime.atn.ATN.INVALID_ALT_NUMBER ) {
 				if ( _alt==1 ) {
 					if ( _parseListeners!=null ) triggerExitRuleEvent();
 					_prevctx = _localctx;
@@ -2540,7 +2540,7 @@ public class OberonGrammarParser extends Parser {
 			setState(313);
 			_errHandler.sync(this);
 			_alt = getInterpreter().adaptivePredict(_input,31,_ctx);
-			while ( _alt!=2 && _alt!= ATN.INVALID_ALT_NUMBER ) {
+			while ( _alt!=2 && _alt!=org.antlr.v4.runtime.atn.ATN.INVALID_ALT_NUMBER ) {
 				if ( _alt==1 ) {
 					{
 					{

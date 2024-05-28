@@ -1,4 +1,0 @@
-MODULE xXo;
-	
-	BEGIN	T
-	END EOb.

@@ -1,5 +1,0 @@
-MODULE I;
-	PROCEDURE i*;
-	END n
-		;
-	END WGn.

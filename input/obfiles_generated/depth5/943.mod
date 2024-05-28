@@ -1,7 +1,0 @@
-MODULE x;
-	PROCEDURE S_8;
-	END F				;PROCEDURE A520*;
-
-	END eWvg
-	;
-	END Q.

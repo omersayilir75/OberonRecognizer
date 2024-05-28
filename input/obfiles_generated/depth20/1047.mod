@@ -1,6 +1,0 @@
-MODULE h;	
-	BEGIN
-	REPEAT	Q;
-	;
-	mIR
-	UNTIL 43	END L3.

@@ -1,2 +1,0 @@
-MODULE qEWUk;	
-	END Q.

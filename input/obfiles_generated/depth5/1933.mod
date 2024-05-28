@@ -1,7 +1,0 @@
-MODULE Hs;	PROCEDURE A;
-
-	END _r
-;PROCEDURE AmPBR*;
-
-	END c			;
-	END iXVQ.

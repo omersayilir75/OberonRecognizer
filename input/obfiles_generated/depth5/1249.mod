@@ -1,8 +1,0 @@
-MODULE Q1m;
-	PROCEDURE W*;
-	END lH
-	;PROCEDURE dv*;
-
-	END u3p
-		;
-	END ZZB.

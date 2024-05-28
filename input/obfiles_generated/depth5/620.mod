@@ -1,7 +1,0 @@
-MODULE VmVx;
-	PROCEDURE Od*;
-
-	END C;
-	BEGIN
-	
-	END iWI.

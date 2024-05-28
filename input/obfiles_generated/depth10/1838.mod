@@ -1,10 +1,0 @@
-MODULE M;	PROCEDURE V(VAR y0A0, Ibk, PUu, yN : f);
-
-	BEGIN	REPEAT		UNTIL I();	
-	END D
-;
-	BEGIN
-	WHILE M < 'O' DO
-	sj0w
-END
-	END C.

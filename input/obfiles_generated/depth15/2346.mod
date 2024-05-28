@@ -1,2 +1,0 @@
-MODULE ak;	
-	END WaA.

@@ -1,6 +1,0 @@
-MODULE C6P;
-	PROCEDURE HV;
-
-	END c
-	;
-	END O.

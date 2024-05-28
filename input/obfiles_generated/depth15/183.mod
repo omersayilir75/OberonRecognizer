@@ -1,6 +1,0 @@
-MODULE I;
-	
-	BEGIN
-	REPEAT
-		UNTIL ''
-	END J.

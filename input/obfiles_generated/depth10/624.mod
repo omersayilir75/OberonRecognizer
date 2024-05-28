@@ -1,19 +1,0 @@
-MODULE _t;
-	PROCEDURE D(E : BOOLEAN)*;
-
-	END jz;PROCEDURE m*;
-	TYPE
-y6W* = INTEGER;n* = Zf;
-
-	BEGIN
-	MlY;
-	IF '' THEN
-	ELSE	
-	END;	REPEAT
-	
-	UNTIL ''
-	END W
-				;
-	BEGIN
-	HWAHR(R())
-	END gV.

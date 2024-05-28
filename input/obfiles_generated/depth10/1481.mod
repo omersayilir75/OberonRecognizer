@@ -1,8 +1,0 @@
-MODULE NbMrUi;
-	
-	BEGIN
-	IF bAu5qxQEK THEN	k
-ELSIF eJq() THEN
-	;
-	
-	END	END X.

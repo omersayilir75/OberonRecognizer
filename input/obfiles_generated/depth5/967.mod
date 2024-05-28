@@ -1,9 +1,0 @@
-MODULE R;
-	PROCEDURE GxpBn*;
-
-	END e
-;PROCEDURE n;
-
-	END cJF
-;
-	END J.

@@ -1,3 +1,0 @@
-MODULE rA9X;
-	
-	END L.

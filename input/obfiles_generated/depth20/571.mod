@@ -1,3 +1,0 @@
-MODULE XAq;
-	
-	END n.

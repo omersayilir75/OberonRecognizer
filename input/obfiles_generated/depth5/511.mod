@@ -1,9 +1,0 @@
-MODULE rU;
-	PROCEDURE H*;
-
-	END g4GA4E
-;PROCEDURE xWxhc7y;
-	END y	;
-	BEGIN
-	;	
-	END PbIl.

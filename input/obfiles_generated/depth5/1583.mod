@@ -1,6 +1,0 @@
-MODULE f;
-	PROCEDURE aRikD3vOR*;	END P
-;PROCEDURE l*;
-	END OG
-;
-	END EL.

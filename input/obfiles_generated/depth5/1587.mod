@@ -1,6 +1,0 @@
-MODULE X;
-	PROCEDURE _wM;
-
-	END K
-			;
-	END cH.

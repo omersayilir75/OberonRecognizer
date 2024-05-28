@@ -1,7 +1,0 @@
-MODULE c2;
-	PROCEDURE W*;
-
-	END uoIsP
-;	BEGIN
-	
-	END X.

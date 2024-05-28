@@ -1,1 +1,0 @@
-MODULE A;		END sI.

@@ -1,9 +1,0 @@
-MODULE ngJ;
-	PROCEDURE mt;
-
-	END VmXLI;PROCEDURE m;
-
-	END v
-	;PROCEDURE Rz*;
-	END UK3N							;
-	END AAa.

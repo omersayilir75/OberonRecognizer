@@ -1,2 +1,0 @@
-MODULE BE;	
-	END C.

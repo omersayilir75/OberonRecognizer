@@ -1,10 +1,0 @@
-MODULE o;
-	PROCEDURE Z*;
-	END g;PROCEDURE TH;
-	END dj		;PROCEDURE M;
-
-	END q2
-;
-	BEGIN
-	
-	END AL.

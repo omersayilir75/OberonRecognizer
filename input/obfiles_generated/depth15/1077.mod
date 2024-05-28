@@ -1,3 +1,0 @@
-MODULE OG;
-	
-	END Oe.

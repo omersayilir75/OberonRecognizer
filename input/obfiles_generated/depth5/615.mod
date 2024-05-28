@@ -1,6 +1,0 @@
-MODULE y;
-	PROCEDURE P;
-
-	END N;PROCEDURE keKLB*;
-	END um;
-	END q1WLs.

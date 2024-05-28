@@ -1,2 +1,0 @@
-MODULE tQ5;
-		END Kk.

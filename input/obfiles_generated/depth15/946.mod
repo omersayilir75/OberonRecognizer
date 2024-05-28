@@ -1,1 +1,0 @@
-MODULE Lf;		END i.

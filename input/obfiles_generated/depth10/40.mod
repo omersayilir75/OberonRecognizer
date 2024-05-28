@@ -1,3 +1,0 @@
-MODULE Z74;
-	
-	END v.

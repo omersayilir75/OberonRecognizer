@@ -1,3 +1,0 @@
-MODULE Az;
-	
-	END e.

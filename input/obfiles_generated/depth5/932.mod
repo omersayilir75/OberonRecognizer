@@ -1,6 +1,0 @@
-MODULE D;
-	PROCEDURE a*;	END did
-;
-	BEGIN
-	
-	END D7L.

@@ -1,3 +1,0 @@
-MODULE eGO2;
-	
-	END LT.

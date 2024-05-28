@@ -1,8 +1,0 @@
-MODULE TyN;	PROCEDURE oN;
-
-	END k
-;PROCEDURE V*;
-
-	END c
-	;
-	END J.

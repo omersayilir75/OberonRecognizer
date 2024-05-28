@@ -1,3 +1,0 @@
-MODULE I;
-	
-	END Q.

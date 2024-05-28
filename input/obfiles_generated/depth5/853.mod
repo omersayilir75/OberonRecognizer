@@ -1,8 +1,0 @@
-MODULE g;
-	PROCEDURE q*;
-
-	END ny
-			;
-	BEGIN
-	
-	END LVN.

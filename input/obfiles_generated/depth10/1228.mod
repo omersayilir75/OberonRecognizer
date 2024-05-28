@@ -1,1 +1,0 @@
-MODULE oSw;		END r.

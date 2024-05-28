@@ -1,6 +1,0 @@
-MODULE FXL;
-	PROCEDURE Q3Vuc(mN, jS : INTEGER);
-
-	END Gg
-;
-	END _.

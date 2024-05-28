@@ -1,3 +1,0 @@
-MODULE w;
-	
-	END Y7V.

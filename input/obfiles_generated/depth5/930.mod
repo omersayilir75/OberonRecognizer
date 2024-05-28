@@ -1,16 +1,0 @@
-MODULE U;
-	PROCEDURE h;
-
-	END c5r
-;PROCEDURE b;	END BSXr
-	;PROCEDURE uo;
-
-	END y
-;PROCEDURE N*;
-
-	END rJTA17UWY
-			;PROCEDURE nJ;
-	END re
-;
-	BEGIN	
-	END Q.

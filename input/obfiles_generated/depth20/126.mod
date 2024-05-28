@@ -1,2 +1,0 @@
-MODULE zW;	
-	END aZ.

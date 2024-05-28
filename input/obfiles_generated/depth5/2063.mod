@@ -1,9 +1,0 @@
-MODULE Xw4D9r6at;
-	PROCEDURE Jn7;
-	END h
-	;PROCEDURE XR*;
-
-	END Ehk;
-	BEGIN
-	;
-		END eN.

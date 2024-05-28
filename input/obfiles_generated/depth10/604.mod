@@ -1,13 +1,0 @@
-MODULE A;	VAR
-zJ, W : ARRAY lH() OF INTEGER;
-JDe : ARRAY L() OF INTEGER;
-O*, avB0, i, QJ : ARRAY F() OF KbI;
-Oo : BOOLEAN;
-yqj, oSE83E* : ARRAY '''' OF BOOLEAN;
-	BEGIN	IF 'B''''-''''k' THEN
-	
-ELSIF FCN() THEN
-	ELSE
-	f
-	END
-	END myu.

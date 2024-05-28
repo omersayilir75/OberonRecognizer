@@ -1,3 +1,0 @@
-MODULE uKO;	PROCEDURE se*;
-	END MzAWw2
-;	END A.

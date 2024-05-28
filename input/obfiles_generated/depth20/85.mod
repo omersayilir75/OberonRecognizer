@@ -1,6 +1,0 @@
-MODULE mT;	PROCEDURE u(VAR VE : L)*;
-
-	BEGIN
-	
-	END mHKryT3		;
-	END q.

@@ -1,5 +1,0 @@
-MODULE ccr;	PROCEDURE K;
-
-	END S
-;
-	END t.

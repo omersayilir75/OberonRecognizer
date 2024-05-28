@@ -1,8 +1,0 @@
-MODULE m;
-	PROCEDURE w194MnH;
-
-	END K
-;
-	BEGIN
-	
-	END S.

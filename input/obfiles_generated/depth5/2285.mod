@@ -1,10 +1,0 @@
-MODULE x;
-	PROCEDURE GhC;
-
-	END b
-;PROCEDURE vW;
-
-	END L
-;	BEGIN
-	
-	END q.

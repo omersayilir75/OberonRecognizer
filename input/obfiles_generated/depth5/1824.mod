@@ -1,6 +1,0 @@
-MODULE ui0X3;
-	PROCEDURE J*;
-
-	END nar
-;
-	END vm9.

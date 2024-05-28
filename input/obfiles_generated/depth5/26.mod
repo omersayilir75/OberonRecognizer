@@ -1,7 +1,0 @@
-MODULE O;
-	PROCEDURE G*;
-
-	END f;	BEGIN
-	;
-	
-	END P.

@@ -1,6 +1,0 @@
-MODULE CZ;
-	PROCEDURE L*;
-
-	END s4P
-;
-	END S.

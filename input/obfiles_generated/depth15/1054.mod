@@ -1,3 +1,0 @@
-MODULE G8;
-	
-	END y.

@@ -1,3 +1,0 @@
-MODULE ow;
-	
-	END XK.

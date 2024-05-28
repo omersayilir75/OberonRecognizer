@@ -1,6 +1,0 @@
-MODULE Oj;
-	TYPE
-X* = ARRAY s() OF BOOLEAN;
-TYPEv* = INTEGER;
-
-	END p.

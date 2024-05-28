@@ -1,21 +1,0 @@
-MODULE g;
-	PROCEDURE U;
-
-	END _D
-;PROCEDURE s;
-	END ard5
-	;PROCEDURE mW;
-
-	END x
-					;PROCEDURE J*;
-
-	END lEMn2Hu
-;PROCEDURE R;
-
-	END H		;PROCEDURE nMP;
-
-	END b
-;PROCEDURE C*;
-
-	END h
-;	END l.

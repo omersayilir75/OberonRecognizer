@@ -1,6 +1,0 @@
-MODULE Q;
-	PROCEDURE s;	END O2;
-	BEGIN
-	;
-	
-	END iJ.

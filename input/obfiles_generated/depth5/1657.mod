@@ -1,5 +1,0 @@
-MODULE M_;	PROCEDURE YUQC;
-	END f
-;PROCEDURE KE;
-
-	END Md;	END ki5ceU.

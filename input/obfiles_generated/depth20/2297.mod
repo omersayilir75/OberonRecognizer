@@ -1,3 +1,0 @@
-MODULE T3;
-	
-	END I.

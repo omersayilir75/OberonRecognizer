@@ -1,7 +1,0 @@
-MODULE VW;
-	
-	BEGIN	;
-	REPEAT
-	L
-	UNTIL _ > B()
-	END EN.

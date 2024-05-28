@@ -1,14 +1,0 @@
-MODULE R2zHdm1o;
-	PROCEDURE lF*;
-
-	BEGIN	REPEAT
-	
-	UNTIL f();	REPEAT
-	;
-	
-	UNTIL J
-	END Q
-;
-	BEGIN
-	U5('')
-	END _DFd.

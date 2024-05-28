@@ -1,3 +1,0 @@
-MODULE Hi;
-	
-	END ijaEYZ.

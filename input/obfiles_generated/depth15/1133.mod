@@ -1,3 +1,0 @@
-MODULE n;
-	
-	END I.

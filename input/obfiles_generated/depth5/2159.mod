@@ -1,6 +1,0 @@
-MODULE RSO;
-	
-	BEGIN
-	;
-	
-	END N.

@@ -1,8 +1,0 @@
-MODULE c;	PROCEDURE mv*;
-
-	BEGIN
-	REPEAT
-	
-	UNTIL _nSv	END _
-	;
-	END a.

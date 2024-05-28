@@ -1,16 +1,0 @@
-MODULE s;	PROCEDURE Q_9Ls*;
-	END Jg
-			;PROCEDURE A_*;	END bi;PROCEDURE B*;
-
-	END M;PROCEDURE g;
-
-	END m9Y6x
-			;PROCEDURE zb*;
-
-	END uaV
-			;PROCEDURE J*;
-	END s
-;
-	BEGIN
-	
-	END FC.

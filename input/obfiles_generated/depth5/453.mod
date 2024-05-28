@@ -1,9 +1,0 @@
-MODULE m;	PROCEDURE T6Qc*;
-	END XZ
-	;PROCEDURE Q;
-	END N
-;	BEGIN
-	;
-	;
-	
-	END T.

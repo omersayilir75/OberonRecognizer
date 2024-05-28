@@ -1,7 +1,0 @@
-MODULE M7;
-	PROCEDURE N*;
-
-	END i;PROCEDURE h4;
-	END G;	BEGIN
-	;
-		END C.

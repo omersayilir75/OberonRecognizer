@@ -1,3 +1,0 @@
-MODULE O;	
-	BEGIN
-		END X.

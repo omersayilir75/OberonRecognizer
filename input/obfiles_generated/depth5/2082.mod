@@ -1,5 +1,0 @@
-MODULE l;	PROCEDURE I;
-
-	END eba
-		;
-	END WK7.

@@ -1,3 +1,0 @@
-MODULE mJtp;
-		BEGIN	
-	END J.

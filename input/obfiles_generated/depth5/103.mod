@@ -1,5 +1,0 @@
-MODULE W;	PROCEDURE N*;
-
-	END Bu
-	;
-	END p.

@@ -1,5 +1,0 @@
-MODULE oIgER;
-	
-	BEGIN
-	Q(CS.r.nM3)
-	END f.

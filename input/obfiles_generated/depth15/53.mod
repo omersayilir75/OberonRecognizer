@@ -1,3 +1,0 @@
-MODULE Be;
-	
-	END O.

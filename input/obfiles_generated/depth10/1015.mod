@@ -1,4 +1,0 @@
-MODULE An;
-	
-	BEGIN	
-	END ZJ.

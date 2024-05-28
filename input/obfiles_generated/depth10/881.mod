@@ -1,7 +1,0 @@
-MODULE y3;
-	VARj* : BOOLEAN;V : ARRAY T() OF INTEGER;tMf, MDYBw, Li*, c*, V : INTEGER;
-c*, f_WB : INTEGER;
-g, v* : BOOLEAN;
-ujKA*, s : ARRAY H7MN OF BOOLEAN;
-
-	END k5SESIS.

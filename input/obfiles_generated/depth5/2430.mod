@@ -1,3 +1,0 @@
-MODULE X3M;	
-	BEGIN
-		END L.

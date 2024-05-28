@@ -1,5 +1,0 @@
-MODULE eIcO;
-	PROCEDURE wU;
-	END ue0FKLXN
-;
-	END ait.

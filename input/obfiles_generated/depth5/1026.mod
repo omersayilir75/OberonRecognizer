@@ -1,9 +1,0 @@
-MODULE E;
-	PROCEDURE WsRqh*;
-	END W
-	;PROCEDURE s*;
-	END bk7a
-;PROCEDURE C*;
-	END nL
-			;
-	END g.

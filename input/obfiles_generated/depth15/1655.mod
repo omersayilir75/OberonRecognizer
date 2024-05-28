@@ -1,3 +1,0 @@
-MODULE S;	VAR
-U1MP, a* : RECORD aT, KS, Bu : ARRAY D() OF INTEGER END;Z* : RECORD ch, di, U : ARRAY '''' OF INTEGER END;
-	END P.

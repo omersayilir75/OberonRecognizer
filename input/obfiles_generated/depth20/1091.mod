@@ -1,11 +1,0 @@
-MODULE d;
-	TYPE
-X = RECORD Z0 : RECORD r : E;
-g : BOOLEAN;
-QP4 : l4RFxcW;
-WX, b29 : ARRAY F() OF INTEGER END END;
-	BEGIN
-	WHILE 42967 DO
-	qG.P.v[267] := ~''
-END
-	END w.

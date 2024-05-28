@@ -1,3 +1,0 @@
-MODULE ESrSL;
-	
-	END a.

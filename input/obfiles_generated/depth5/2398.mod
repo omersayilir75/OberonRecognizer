@@ -1,3 +1,0 @@
-MODULE cj;
-	
-	END Yrqq.

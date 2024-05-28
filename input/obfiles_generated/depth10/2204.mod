@@ -1,8 +1,0 @@
-MODULE eB;
-	
-	BEGIN
-	REPEAT
-		UNTIL LT;	WHILE '''' DO
-	
-END
-	END tK.

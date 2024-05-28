@@ -1,5 +1,0 @@
-MODULE b1;
-		BEGIN	WHILE br DO
-	RML;	;
-	
-END	END A.

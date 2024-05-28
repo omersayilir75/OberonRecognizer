@@ -1,3 +1,0 @@
-MODULE PeZs6;
-	
-	END M.

@@ -1,5 +1,0 @@
-MODULE R;
-		BEGIN
-	WHILE OC() DO	w
-END
-	END H.

@@ -1,3 +1,0 @@
-MODULE PX;
-	
-	END sbEckNno.

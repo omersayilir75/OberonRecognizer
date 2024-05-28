@@ -1,5 +1,0 @@
-MODULE P;
-	
-	BEGIN	REPEAT
-	
-	UNTIL ''	END M4.

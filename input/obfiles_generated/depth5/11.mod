@@ -1,6 +1,0 @@
-MODULE ZpH;
-	PROCEDURE L;
-
-	END V	;
-	BEGIN	
-	END E.

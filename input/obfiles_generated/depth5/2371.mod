@@ -1,2 +1,0 @@
-MODULE lf5;	
-	END B.

@@ -1,13 +1,0 @@
-MODULE UaC;
-	PROCEDURE H;
-	BEGIN	WHILE e() DO
-	;
-	
-END;
-	WHILE p() DO
-	;
-	
-END
-	END a4Txm
-;
-	END B.

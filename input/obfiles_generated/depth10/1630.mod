@@ -1,8 +1,0 @@
-MODULE KI;
-	PROCEDURE QUU(yJ : ARRAY l4 OF f)*;
-	END P
-;
-	BEGIN
-	REPEAT	l
-	UNTIL Lt
-	END h.

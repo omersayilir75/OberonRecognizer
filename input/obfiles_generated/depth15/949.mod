@@ -1,6 +1,0 @@
-MODULE jC;
-	TYPE
-e8* = BOOLEAN;
-	BEGIN
-	ys
-	END L5j.

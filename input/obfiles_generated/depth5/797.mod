@@ -1,2 +1,0 @@
-MODULE NOap;	
-	END E.

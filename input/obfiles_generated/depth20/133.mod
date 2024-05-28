@@ -1,3 +1,0 @@
-MODULE Is;
-	
-	END EW.

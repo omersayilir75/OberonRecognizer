@@ -1,5 +1,0 @@
-MODULE mY;
-	PROCEDURE X;
-	END O_YF
-;
-	END tgi.

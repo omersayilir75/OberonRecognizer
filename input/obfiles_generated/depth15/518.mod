@@ -1,5 +1,0 @@
-MODULE w;
-	TYPE
-n1* = RECORD A : ARRAY '' OF INTEGER END;
-
-	END Y.

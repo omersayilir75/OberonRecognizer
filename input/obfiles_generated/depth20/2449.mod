@@ -1,2 +1,0 @@
-MODULE q;	
-	END v.

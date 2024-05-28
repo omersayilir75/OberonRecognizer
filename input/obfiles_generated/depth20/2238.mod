@@ -1,3 +1,0 @@
-MODULE k5sL;
-	
-	END FX9.

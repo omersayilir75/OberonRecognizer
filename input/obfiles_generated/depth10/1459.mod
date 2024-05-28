@@ -1,3 +1,0 @@
-MODULE st;
-	
-	END BP.

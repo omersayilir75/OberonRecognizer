@@ -1,4 +1,0 @@
-MODULE H;
-	
-	BEGIN
-		END tsETQ6.

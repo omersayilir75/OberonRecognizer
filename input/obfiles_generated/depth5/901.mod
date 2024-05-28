@@ -1,5 +1,0 @@
-MODULE i;
-	PROCEDURE o1*;
-	END J7_
-;
-	END H3.

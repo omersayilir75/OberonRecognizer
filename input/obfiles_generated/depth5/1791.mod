@@ -1,8 +1,0 @@
-MODULE y;
-	PROCEDURE _W;
-
-	END YrZ	;PROCEDURE S8*;
-
-	END cam5			;PROCEDURE Z*;	END dL
-					;
-	END D.

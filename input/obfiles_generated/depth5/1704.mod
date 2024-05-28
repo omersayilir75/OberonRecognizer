@@ -1,5 +1,0 @@
-MODULE v;	PROCEDURE Jo;
-	END L	;	BEGIN
-	;
-	
-	END x.

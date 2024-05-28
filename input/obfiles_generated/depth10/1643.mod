@@ -1,24 +1,0 @@
-MODULE YKtj;
-	TYPE
-kbh = BOOLEAN;
-lIH* = INTEGER;RI = ARRAY '' OF INTEGER;
-e* = BOOLEAN;
-PROCEDURE LWZ2;	TYPE
-E* = BOOLEAN;
-Vy* = BOOLEAN;
-O = d;os* = BOOLEAN;
-	PROCEDURE J(VAR A, RO, Gz, mQ : wS ; VAR A, cq : INTEGER ; UZgA : BOOLEAN);
-	CONST
-nc* = S();
-
-	END V8U
-	;
-	END i
-	;PROCEDURE K1pt;
-	PROCEDURE n;
-	BEGIN
-	lk	END v
-;
-	END Om;
-	BEGIN
-	o4Bd(Nm())	END USc.

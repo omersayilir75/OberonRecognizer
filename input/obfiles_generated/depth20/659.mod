@@ -1,3 +1,0 @@
-MODULE Eb;
-	
-	END i.

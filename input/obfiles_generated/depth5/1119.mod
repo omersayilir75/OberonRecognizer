@@ -1,9 +1,0 @@
-MODULE o;
-	PROCEDURE bA;
-
-	END yf
-	;PROCEDURE R;
-	END sd
-;
-	BEGIN
-		END q.

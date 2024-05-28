@@ -1,7 +1,0 @@
-MODULE D;	PROCEDURE z;
-
-	END u
-;PROCEDURE Q;
-	END s;
-	BEGIN	
-	END s.

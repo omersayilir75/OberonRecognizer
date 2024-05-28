@@ -1,3 +1,0 @@
-MODULE yJL;
-	
-	END ua.

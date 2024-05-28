@@ -1,6 +1,0 @@
-MODULE _L;
-	PROCEDURE J;	CONST
-Yc* = nl;
-	BEGIN
-	F	END Zu;
-	END K.

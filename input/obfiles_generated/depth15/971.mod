@@ -1,3 +1,0 @@
-MODULE OT;
-	
-	END GGE0S.

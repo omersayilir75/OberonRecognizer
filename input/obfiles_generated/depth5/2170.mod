@@ -1,6 +1,0 @@
-MODULE mF;
-	PROCEDURE tMc3n*;
-
-	END UQ
-		;
-	END Uz9xK.

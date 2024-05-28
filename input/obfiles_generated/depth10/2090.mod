@@ -1,3 +1,0 @@
-MODULE vC;
-	
-	END _.

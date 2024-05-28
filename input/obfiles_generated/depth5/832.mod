@@ -1,13 +1,0 @@
-MODULE w;
-	PROCEDURE w;
-	END v
-;PROCEDURE T3;
-	END s
-		;PROCEDURE C;
-	END QY
-;PROCEDURE gU*;
-
-	END C
-		;PROCEDURE j*;	END Qg
-;
-	END d.

@@ -1,2 +1,0 @@
-MODULE f;	CONSTT = '' OR 3067;
-	END XJ4.

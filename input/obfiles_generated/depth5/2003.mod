@@ -1,3 +1,0 @@
-MODULE DI;
-	
-	END G.

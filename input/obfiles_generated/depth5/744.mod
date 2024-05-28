@@ -1,5 +1,0 @@
-MODULE gfHV;
-	PROCEDURE e;	END N
-	;
-	BEGIN	
-	END Q.

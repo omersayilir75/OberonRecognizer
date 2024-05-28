@@ -1,7 +1,0 @@
-MODULE XI;
-	PROCEDURE hb;
-
-	END Ucl
-;
-	BEGIN	
-	END m.

@@ -1,2 +1,0 @@
-MODULE BQ;
-		END i.

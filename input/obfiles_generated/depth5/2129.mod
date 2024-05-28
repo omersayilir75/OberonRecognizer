@@ -1,7 +1,0 @@
-MODULE i;
-	PROCEDURE _;
-
-	END t
-;
-	BEGIN
-		END W.

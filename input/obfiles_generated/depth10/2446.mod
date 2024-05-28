@@ -1,7 +1,0 @@
-MODULE jGo;
-	
-	BEGIN
-	REPEAT
-	
-	UNTIL BXpBh3()  DIV  LXi()
-	END J.

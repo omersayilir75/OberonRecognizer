@@ -1,5 +1,0 @@
-MODULE wP;
-	
-	BEGIN
-	
-	END x.

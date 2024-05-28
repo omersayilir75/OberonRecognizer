@@ -1,3 +1,0 @@
-MODULE nc;
-	
-	END p.

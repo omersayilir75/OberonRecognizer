@@ -1,30 +1,0 @@
-MODULE W;
-	PROCEDURE P1N;	CONST
-_s* = '';
-	TYPE
-N* = BOOLEAN;
-R = INTEGER;
-t = INTEGER;
-	PROCEDURE Z*;
-	END R
-		;
-	END J
-;TYPE
-O* = INTEGER;
-oEjDe4* = ARRAY '''' OF INTEGER;
-h* = ARRAY Z OF BOOLEAN;PROCEDURE _*;
-	END K;CONST
-WXDu = '';
-U* = '';d = 'F6';
-
-	BEGIN
-	REPEAT
-	max
-	UNTIL '';
-	IF yEiNm1 * x() THEN	
-ELSE
-	;	Y	END;
-	WHILE -o DO
-	LGzcO
-END
-	END F.

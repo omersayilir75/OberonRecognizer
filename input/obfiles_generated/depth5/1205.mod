@@ -1,6 +1,0 @@
-MODULE y;	PROCEDURE i*;
-
-	END Ki
-	;PROCEDURE H*;
-	END n;
-	END uX.

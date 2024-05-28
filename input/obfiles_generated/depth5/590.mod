@@ -1,5 +1,0 @@
-MODULE qL;
-	
-	BEGIN
-	
-	END b.

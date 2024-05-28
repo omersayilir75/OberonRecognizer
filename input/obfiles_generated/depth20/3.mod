@@ -1,2 +1,0 @@
-MODULE R;
-		END J.

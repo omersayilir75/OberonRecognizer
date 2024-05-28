@@ -1,10 +1,0 @@
-MODULE e;
-	VAR
-s* : BOOLEAN;
-x* : BOOLEAN;
-TYPEV* = BOOLEAN;p = BOOLEAN;
-S = ARRAY Nmy() OF BOOLEAN;
-	BEGIN
-	REPEAT
-	
-	UNTIL D_() < O()	END V.

@@ -1,3 +1,0 @@
-MODULE i6jmT;
-	
-	END S5.

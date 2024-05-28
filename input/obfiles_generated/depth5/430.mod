@@ -1,3 +1,0 @@
-MODULE awd;
-	
-	END ik.

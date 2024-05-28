@@ -1,2 +1,0 @@
-MODULE CiGyBgV;
-		END t.

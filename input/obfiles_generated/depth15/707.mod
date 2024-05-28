@@ -1,3 +1,0 @@
-MODULE ZrgP;	
-	BEGIN
-		END c.

@@ -1,3 +1,0 @@
-MODULE Ukp;
-	
-	END B.

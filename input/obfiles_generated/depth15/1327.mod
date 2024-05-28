@@ -1,4 +1,0 @@
-MODULE dHv;
-	PROCEDURE J8P*;	END J
-;
-	END tmg.

@@ -1,13 +1,0 @@
-MODULE n;
-	VAReEI*, z : ARRAY ~(f()) OF RECORD tVyE, Y9dC : INTEGER;U, d : BOOLEAN;
-SRI : BOOLEAN;
-qBBN : BOOLEAN;
-lEBD, V, F9, L, W8 : BOOLEAN;
-Y, E, F : BOOLEAN;
-Wh : S END;Q_PKW*, e* : RECORD Pv : INTEGER;
-RoR : o END;
-TA*, Pt*, d1XSFT*, JgNH84Rw* : ARRAY -t  DIV  p() & '''' OF INTEGER;
-
-	BEGIN
-	
-	END V282G.

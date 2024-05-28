@@ -1,8 +1,0 @@
-MODULE UL;	PROCEDURE yX*;
-
-	END T
-;PROCEDURE Y8m6;
-	END n
-;	BEGIN
-	
-	END B7q.

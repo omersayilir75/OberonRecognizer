@@ -1,5 +1,0 @@
-MODULE Z;
-	PROCEDURE y*;
-
-	END w;
-	END m.

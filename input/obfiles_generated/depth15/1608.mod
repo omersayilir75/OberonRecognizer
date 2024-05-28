@@ -1,7 +1,0 @@
-MODULE AetKmnRV;
-	
-	BEGIN
-	WHILE Jg() DO
-	T3
-END
-	END j.

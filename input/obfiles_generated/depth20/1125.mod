@@ -1,9 +1,0 @@
-MODULE le;	PROCEDURE X;
-	PROCEDURE V*;
-	END fB
-	;
-	END e
-;
-	BEGIN
-	EMY[22626] := ~--3 OR 00
-	END Ig.

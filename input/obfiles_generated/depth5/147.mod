@@ -1,2 +1,0 @@
-MODULE ozEVFIU;	
-	END zj.

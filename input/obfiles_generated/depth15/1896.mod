@@ -1,3 +1,0 @@
-MODULE if;
-	
-	END AL.

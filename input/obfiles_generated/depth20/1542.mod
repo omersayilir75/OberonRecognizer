@@ -1,3 +1,0 @@
-MODULE O;
-	
-	END R0.

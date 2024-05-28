@@ -1,11 +1,0 @@
-MODULE O;	
-	BEGIN
-	IF '' THEN
-	REPEAT
-	
-	UNTIL ''
-ELSE
-	WHILE '' DO
-	;	IF '' THEN
-	;	t	ENDEND
-	END	END v.

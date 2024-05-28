@@ -1,5 +1,0 @@
-MODULE GIh;
-	VAR
-C* : BOOLEAN;
-
-	END c.

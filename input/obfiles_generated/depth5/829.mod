@@ -1,9 +1,0 @@
-MODULE S;
-	PROCEDURE O2*;
-
-	END jnfK4
-;PROCEDURE r*;
-
-	END k
-;
-	END Jbw.

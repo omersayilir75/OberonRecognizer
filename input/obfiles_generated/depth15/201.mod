@@ -1,2 +1,0 @@
-MODULE RBI8;
-		END B.

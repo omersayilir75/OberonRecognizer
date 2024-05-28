@@ -1,8 +1,0 @@
-MODULE U;
-	VAR
-Lk* : BOOLEAN;
-TYPE
-B = ARRAY nH OF INTEGER;
-osw3* = ARRAY H OF eF;
-
-	END VtWE.

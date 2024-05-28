@@ -1,3 +1,0 @@
-MODULE SN;
-	
-	END A.

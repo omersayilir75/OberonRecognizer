@@ -1,5 +1,0 @@
-MODULE G;
-	
-	BEGIN
-	
-	END FZ.

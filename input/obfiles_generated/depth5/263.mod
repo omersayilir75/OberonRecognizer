@@ -1,3 +1,0 @@
-MODULE Do;
-	
-	END m.

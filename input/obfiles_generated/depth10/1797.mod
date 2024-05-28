@@ -1,4 +1,0 @@
-MODULE _;	PROCEDURE G*;
-
-	END ZQ
-			;	END K5o.

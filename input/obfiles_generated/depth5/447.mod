@@ -1,7 +1,0 @@
-MODULE X;
-	PROCEDURE asiWCK1lC;
-
-	END Z
-	;PROCEDURE h*;
-	END O	;
-	END n.

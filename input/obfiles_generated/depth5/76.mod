@@ -1,3 +1,0 @@
-MODULE F4;
-	
-	END f6b.

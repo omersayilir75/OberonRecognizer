@@ -1,3 +1,0 @@
-MODULE qZD;
-	
-	END hm.

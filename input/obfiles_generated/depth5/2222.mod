@@ -1,7 +1,0 @@
-MODULE Q;
-	PROCEDURE oeK;
-
-	END Bos
-;PROCEDURE HQAv*;
-	END Il
-;	END w.

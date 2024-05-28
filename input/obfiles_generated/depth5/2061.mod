@@ -1,3 +1,0 @@
-MODULE iz;
-	
-	END OE.

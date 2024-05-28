@@ -1,3 +1,0 @@
-MODULE Rt;
-	
-	END l.

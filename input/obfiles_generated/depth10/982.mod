@@ -1,5 +1,0 @@
-MODULE ti;
-	
-	BEGIN
-	
-	END H.

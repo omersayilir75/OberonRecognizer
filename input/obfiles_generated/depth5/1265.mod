@@ -1,8 +1,0 @@
-MODULE O6S;
-	PROCEDURE W;
-
-	END E
-;PROCEDURE rm*;
-	END G
-	;
-	END _B.

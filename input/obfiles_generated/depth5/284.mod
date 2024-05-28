@@ -1,5 +1,0 @@
-MODULE W5dycnt;	PROCEDURE L;
-
-	END QJ
-;
-	END w.

@@ -1,7 +1,0 @@
-MODULE z;
-	VAR
-YJlS*, zE* : ARRAY x0sj() OF RECORD r, p3N, ZR, S : M;t, J : RECORD N : BOOLEAN END END;
-CONST
-H* = 'M';VARHtM : RECORD V, B : BOOLEAN END;
-
-	END fr.

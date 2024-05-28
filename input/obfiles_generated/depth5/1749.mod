@@ -1,3 +1,0 @@
-MODULE JJAr;
-	
-	END m9.

@@ -1,6 +1,0 @@
-MODULE a562;
-	PROCEDURE WM;
-	END s
-;
-	BEGIN
-		END W.

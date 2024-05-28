@@ -1,5 +1,0 @@
-MODULE mZ;
-	VAR
-C* : ARRAY Owst() OF ARRAY 44 OF ARRAY tUjt() OF B;
-
-	END r.

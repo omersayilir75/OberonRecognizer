@@ -1,2 +1,0 @@
-MODULE v;	
-	END zyh.

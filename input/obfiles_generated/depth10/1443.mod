@@ -1,2 +1,0 @@
-MODULE FQ;	
-	END Z.

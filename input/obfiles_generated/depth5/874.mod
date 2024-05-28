@@ -1,3 +1,0 @@
-MODULE mQC;
-	
-	END y.

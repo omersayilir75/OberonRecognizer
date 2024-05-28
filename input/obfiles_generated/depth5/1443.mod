@@ -1,6 +1,0 @@
-MODULE NEP;
-	PROCEDURE B*;
-
-	END fCX
-;
-	END C.

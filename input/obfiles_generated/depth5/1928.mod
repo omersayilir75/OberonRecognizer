@@ -1,8 +1,0 @@
-MODULE _;	PROCEDURE b;
-
-	END Iv;PROCEDURE p;
-
-	END e
-;
-	BEGIN	
-	END FR.

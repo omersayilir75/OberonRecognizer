@@ -1,3 +1,0 @@
-MODULE vCXwpp;
-	
-	END B.

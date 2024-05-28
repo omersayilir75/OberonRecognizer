@@ -1,2 +1,0 @@
-MODULE Ss;
-		END Vr.

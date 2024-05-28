@@ -1,3 +1,0 @@
-MODULE ls;
-	
-	END KgaJh.

@@ -1,8 +1,0 @@
-MODULE P;
-	PROCEDURE bC;
-	PROCEDURE y;
-
-	END o
-	;
-	END YUb
-	;	END A.

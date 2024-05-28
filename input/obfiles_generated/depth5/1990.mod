@@ -1,15 +1,0 @@
-MODULE dpbLI;
-	PROCEDURE N4p;
-	END bO
-	;PROCEDURE x5;
-	END F
-							;PROCEDURE oFrA8;
-
-	END lW
-			;PROCEDURE F7wV;
-
-	END f
-;
-	BEGIN
-	
-	END Tz.

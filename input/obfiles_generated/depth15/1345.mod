@@ -1,3 +1,0 @@
-MODULE wm;
-	
-	END M.

@@ -1,27 +1,0 @@
-MODULE C;
-	PROCEDURE yC(VAR e, m, UW : ARRAY B9AQ() OF d);
-	END x
-	;PROCEDURE oG(UM : z93);
-
-	BEGIN	h5;
-	;
-	WHILE t() DO
-	
-END;
-	WHILE w DO
-	;
-	;	
-END
-	END k;PROCEDURE pUwfes(c, Js1ZN, c : INTEGER ; VAR KLHP : ARRAY GddBvAgnH OF BOOLEAN ; VAR d, C : ARRAY f OF BOOLEAN ; VAR xa, s : ARRAY f() OF r)*;
-
-	BEGIN
-	
-	END NSTL
-	;PROCEDURE tsDFd*;
-
-	BEGIN
-	IF L THEN	
-ELSIF 'Q' THEN	
-	END
-	END SKd		;
-	END u.

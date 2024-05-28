@@ -1,5 +1,0 @@
-MODULE FQ;
-	
-	BEGIN
-	
-	END _H.

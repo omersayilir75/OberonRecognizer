@@ -1,3 +1,0 @@
-MODULE tCiKTE;
-	
-	END q.

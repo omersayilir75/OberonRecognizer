@@ -1,2 +1,0 @@
-MODULE AjbwnD;
-		END GM.

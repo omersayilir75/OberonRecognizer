@@ -1,7 +1,0 @@
-MODULE R;
-	PROCEDURE W*;
-
-	END S	;
-	BEGIN
-	
-	END KiPz.

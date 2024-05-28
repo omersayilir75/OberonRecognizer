@@ -1,3 +1,0 @@
-MODULE Mp;
-	
-	END N.

@@ -1,3 +1,0 @@
-MODULE LRQ;
-	
-	END O.

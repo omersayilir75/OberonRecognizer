@@ -1,3 +1,0 @@
-MODULE Jyh;
-	
-	END h.

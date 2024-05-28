@@ -1,5 +1,0 @@
-MODULE Nb;
-	
-	BEGIN
-	
-	END Ph.

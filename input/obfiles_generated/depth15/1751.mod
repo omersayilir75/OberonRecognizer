@@ -1,6 +1,0 @@
-MODULE Bm;
-	PROCEDURE Ok*;
-
-	END J
-;
-	END du4.

@@ -1,4 +1,0 @@
-MODULE U;
-	
-	BEGIN
-		END z.

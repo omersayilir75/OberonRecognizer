@@ -1,7 +1,0 @@
-MODULE qm;
-		BEGIN
-	WHILE R DO
-	C
-END;
-	
-	END TBJ.

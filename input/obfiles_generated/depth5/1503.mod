@@ -1,2 +1,0 @@
-MODULE Cm;
-		END b.

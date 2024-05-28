@@ -1,3 +1,0 @@
-MODULE H0;
-	
-	END Sw.

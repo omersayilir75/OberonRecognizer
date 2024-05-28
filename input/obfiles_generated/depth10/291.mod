@@ -1,3 +1,0 @@
-MODULE fH;
-	
-	END gGC.

@@ -1,13 +1,0 @@
-MODULE c;
-	TYPEsl* = ARRAY Aq OR m6WR() > (S) OF RECORD l : BOOLEAN END;
-Q* = Jn;
-tJh = ARRAY X() OF INTEGER;
-TYPE
-Q = INTEGER;
-VAR
-y8 : INTEGER;
-_, mc*, L* : INTEGER;
-TYPE
-Y = ARRAY (e)  MOD  s() OF ARRAY K.PE0ea4.m.zRqnONy.I OF BOOLEAN;
-
-	END N.

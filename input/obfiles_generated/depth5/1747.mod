@@ -1,15 +1,0 @@
-MODULE C9IJ;
-	PROCEDURE gT*;
-	END j
-					;PROCEDURE N*;
-
-	END q
-;PROCEDURE B*;
-
-	END k
-	;PROCEDURE T*;
-	END f
-	;
-	BEGIN
-	;
-		END s.

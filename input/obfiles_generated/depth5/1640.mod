@@ -1,6 +1,0 @@
-MODULE N;
-	PROCEDURE z4;
-
-	END YxaAK
-;
-	END V.

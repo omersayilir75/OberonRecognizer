@@ -1,9 +1,0 @@
-MODULE ssMZwp9dmuI;
-	PROCEDURE o;
-
-	END O
-;PROCEDURE yvX5r4;
-
-	END X
-;
-	END iA.

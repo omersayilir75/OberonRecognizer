@@ -1,7 +1,0 @@
-MODULE y;
-	PROCEDURE O*;
-	END p
-;
-	BEGIN
-	
-	END mIMa.

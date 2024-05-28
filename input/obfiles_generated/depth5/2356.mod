@@ -1,18 +1,0 @@
-MODULE p;
-	PROCEDURE b*;
-
-	END RNR
-		;PROCEDURE L;
-
-	END fS
-;PROCEDURE cK;
-	END n	;PROCEDURE DY*;
-
-	END B
-	;PROCEDURE xB1u*;
-
-	END IYp	;PROCEDURE jF;
-	END I
-			;	BEGIN
-	
-	END wu2L.

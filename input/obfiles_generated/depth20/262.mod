@@ -1,2 +1,0 @@
-MODULE St;	
-	END S.

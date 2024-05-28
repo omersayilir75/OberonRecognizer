@@ -1,9 +1,0 @@
-MODULE nsmLar;
-	PROCEDURE fPSbL*;
-
-	END J
-;
-	BEGIN
-	;
-	
-	END T.

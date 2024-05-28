@@ -1,2 +1,0 @@
-MODULE Kd;
-		END G4.

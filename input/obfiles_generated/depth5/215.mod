@@ -1,17 +1,0 @@
-MODULE a;
-	PROCEDURE qsj*;
-
-	END b;PROCEDURE Vyi*;
-
-	END Z
-	;PROCEDURE X*;
-
-	END Z
-;PROCEDURE f;
-
-	END K		;PROCEDURE H5;
-	END T_d
-	;PROCEDURE twPq;
-
-	END X6K			;
-	END F.

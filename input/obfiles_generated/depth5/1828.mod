@@ -1,6 +1,0 @@
-MODULE NBMZ;	PROCEDURE sn*;
-
-	END Io
-;
-	BEGIN	
-	END QwpDUiAN8.

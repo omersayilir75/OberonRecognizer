@@ -1,11 +1,0 @@
-MODULE Z;
-	VARb*, PSLZ : BOOLEAN;
-PROCEDURE R*;
-
-	END Q
-									;
-	BEGIN	WHILE ~'' DO	REPEAT
-	iX(6)
-	UNTIL 11 * U4.F9[(env())]
-END
-	END b.

@@ -1,3 +1,0 @@
-MODULE Z;		BEGIN
-	
-	END rxtS13.

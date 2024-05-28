@@ -1,3 +1,0 @@
-MODULE SCgK;
-	
-	END D.

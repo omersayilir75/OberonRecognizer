@@ -1,3 +1,0 @@
-MODULE tpi;
-	
-	END J.

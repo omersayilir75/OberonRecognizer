@@ -1,3 +1,0 @@
-MODULE uBz;
-	
-	END j.

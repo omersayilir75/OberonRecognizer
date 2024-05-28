@@ -1,3 +1,0 @@
-MODULE id;
-		BEGIN
-		END OT.

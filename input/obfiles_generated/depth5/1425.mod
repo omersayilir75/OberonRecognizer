@@ -1,5 +1,0 @@
-MODULE M;
-	PROCEDURE OT;
-	END j
-;
-	END V.

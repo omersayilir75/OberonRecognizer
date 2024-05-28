@@ -1,12 +1,0 @@
-MODULE R;
-	
-	BEGIN	IF M THEN
-	EV;
-	
-ELSIF rAlXRFe THEN
-	
-ELSE
-	KD;
-	
-	END
-	END o.

@@ -1,3 +1,0 @@
-MODULE HH;
-		BEGIN	;
-		END Ds27.

@@ -1,8 +1,0 @@
-MODULE gy;
-	PROCEDURE s;
-
-	END F
-	;
-	BEGIN
-	
-	END r.

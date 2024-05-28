@@ -1,6 +1,0 @@
-MODULE b;	PROCEDURE e;
-
-	END E
-;	BEGIN
-	
-	END eqK.

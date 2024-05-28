@@ -1,3 +1,0 @@
-MODULE TcFg;
-	
-	END Yl91.

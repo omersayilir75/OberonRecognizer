@@ -1,3 +1,0 @@
-MODULE jRP;
-	
-	END XvQ.

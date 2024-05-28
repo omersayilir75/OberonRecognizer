@@ -1,2 +1,0 @@
-MODULE Mj;	
-	END FR.

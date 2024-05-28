@@ -1,7 +1,0 @@
-MODULE fg;
-	TYPE
-dA = RECORD v315c : ARRAY d OF INTEGER END;
-VAR
-xe*, c, F*, Wv : RECORD I : ARRAY y() OF Sjg END;
-
-	END E.

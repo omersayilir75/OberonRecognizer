@@ -1,4 +1,0 @@
-MODULE I;
-	PROCEDURE w*;
-	END lgb
-;	END He.

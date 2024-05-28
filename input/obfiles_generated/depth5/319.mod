@@ -1,11 +1,0 @@
-MODULE ZF;
-	PROCEDURE cj*;
-
-	END Pb
-	;PROCEDURE s;
-
-	END Ta
-	;	BEGIN
-	;
-	
-	END KH.

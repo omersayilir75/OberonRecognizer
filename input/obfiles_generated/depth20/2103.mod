@@ -1,4 +1,0 @@
-MODULE BUP;	
-	BEGIN
-	k.z := 96
-	END TW.

@@ -1,18 +1,0 @@
-MODULE b;
-	PROCEDURE Q0(kaCL93, Jwd, Js : ARRAY '' OF BOOLEAN ; VAR q : ARRAY i() OF q)*;
-	PROCEDURE T*;
-	PROCEDURE J(VAR QC : INTEGER ; VAR BFQ : QY);
-	PROCEDURE ls*;
-	BEGIN
-	;
-		END I
-;
-	BEGIN
-	uC	END D
-					;	VAR
-CruK*, x : BOOLEAN;
-	END b5z	;
-	BEGIN
-	AiyKIk := iEl
-	END IBs2
-;TYPEN7* = INTEGER;K* = ARRAY BN3w OF K;	END Hj9.

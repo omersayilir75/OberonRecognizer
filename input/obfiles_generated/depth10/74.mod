@@ -1,2 +1,0 @@
-MODULE Blm;
-		END G.

@@ -1,5 +1,0 @@
-MODULE v;	PROCEDURE k;
-
-	END j
-	;
-	END wZE.

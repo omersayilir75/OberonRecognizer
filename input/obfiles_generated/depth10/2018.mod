@@ -1,12 +1,0 @@
-MODULE Z;
-	PROCEDURE Vo;
-	BEGIN
-	Lrl := jnz()
-	END P
-		;PROCEDURE O*;
-	END t;VAR
-ygM, _j : ARRAY x OF INTEGER;
-oy* : ARRAY dh_k OF BOOLEAN;
-TYPE
-o = BOOLEAN;
-	END F2M.

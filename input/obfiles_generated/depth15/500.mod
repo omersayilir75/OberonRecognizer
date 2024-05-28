@@ -1,2 +1,0 @@
-MODULE KJ;
-		END LsPh0.

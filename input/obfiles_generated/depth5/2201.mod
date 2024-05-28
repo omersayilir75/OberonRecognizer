@@ -1,6 +1,0 @@
-MODULE B;
-	PROCEDURE g0*;
-
-	END z
-;
-	END H.

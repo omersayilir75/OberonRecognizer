@@ -1,12 +1,0 @@
-MODULE J;
-	PROCEDURE j;	END C
-	;PROCEDURE Z*;
-
-	END k2
-;PROCEDURE b9;
-
-	END mWz	;PROCEDURE et;
-
-	END W
-	;
-	END q.

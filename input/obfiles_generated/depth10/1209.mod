@@ -1,6 +1,0 @@
-MODULE Zg;
-	VAR
-eNh : INTEGER;
-TYPEocQ = INTEGER;
-
-	END SPkN6.

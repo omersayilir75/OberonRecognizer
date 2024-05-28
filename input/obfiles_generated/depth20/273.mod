@@ -1,4 +1,0 @@
-MODULE ZeG;
-	PROCEDURE ot;
-	END l
-;	END nJ.

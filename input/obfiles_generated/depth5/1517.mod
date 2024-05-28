@@ -1,3 +1,0 @@
-MODULE uaEj;
-	
-	END WaR.

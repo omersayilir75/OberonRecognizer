@@ -1,5 +1,0 @@
-MODULE q;
-	PROCEDURE f(QX : ARRAY 88653 OF INTEGER)*;
-	END g9
-;
-	END mp.

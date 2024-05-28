@@ -1,8 +1,0 @@
-MODULE x;
-	PROCEDURE q*;
-	END b0gFaRI
-;PROCEDURE U;
-
-	END E
-		;
-	END Ymvh.

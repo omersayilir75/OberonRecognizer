@@ -1,2 +1,0 @@
-MODULE nC;	
-	END wU.

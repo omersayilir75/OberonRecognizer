@@ -1,22 +1,0 @@
-MODULE XxN4;
-	PROCEDURE F*;
-
-	END x
-;PROCEDURE W3*;
-
-	END b8		;PROCEDURE F*;
-	END Pq		;PROCEDURE R*;
-
-	END fY
-		;PROCEDURE H*;
-
-	END i
-;PROCEDURE l*;
-
-	END H
-		;PROCEDURE t;
-
-	END C4
-	;
-	BEGIN	
-	END u_99.

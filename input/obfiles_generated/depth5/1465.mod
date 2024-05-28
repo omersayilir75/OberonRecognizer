@@ -1,10 +1,0 @@
-MODULE c;
-	PROCEDURE rT*;
-
-	END eGN
-;PROCEDURE WX*;
-	END Z
-;
-	BEGIN
-	
-	END s4.

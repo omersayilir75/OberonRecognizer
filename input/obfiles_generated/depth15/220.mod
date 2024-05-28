@@ -1,3 +1,0 @@
-MODULE B;	TYPEcSM = BOOLEAN;
-
-	END k.

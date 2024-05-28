@@ -1,2 +1,0 @@
-MODULE TG;	
-	END _.

@@ -1,10 +1,0 @@
-MODULE b;
-	VAR
-I, Y*, Sk : BOOLEAN;
-s*, i* : wSy;TYPE
-en4a* = ARRAY bZH OF BOOLEAN;
-c = ARRAY WOGM OF INTEGER;
-PROCEDURE T*;
-	END X
-;
-	END yS.

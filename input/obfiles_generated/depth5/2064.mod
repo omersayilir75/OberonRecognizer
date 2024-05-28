@@ -1,4 +1,0 @@
-MODULE AQZD;
-		BEGIN
-	;
-		END ZK.

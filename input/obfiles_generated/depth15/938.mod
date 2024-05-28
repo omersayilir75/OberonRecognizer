@@ -1,2 +1,0 @@
-MODULE N;	
-	END P.

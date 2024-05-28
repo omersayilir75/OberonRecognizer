@@ -1,2 +1,0 @@
-MODULE X4GZb;
-		END y.

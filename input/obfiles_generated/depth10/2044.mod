@@ -1,3 +1,0 @@
-MODULE ZD;
-	
-	END O.

@@ -1,3 +1,0 @@
-MODULE DW;
-	
-	END M.

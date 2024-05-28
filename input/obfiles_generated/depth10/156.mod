@@ -1,5 +1,0 @@
-MODULE qGZl;	PROCEDURE dOxBdK*;
-
-	END O
-;
-	END o.

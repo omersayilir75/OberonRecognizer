@@ -1,7 +1,0 @@
-MODULE DAFF;
-	PROCEDURE DrEk;
-	BEGIN
-	G
-	END z
-;
-	END sk.

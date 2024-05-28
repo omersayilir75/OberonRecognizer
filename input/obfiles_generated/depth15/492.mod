@@ -1,23 +1,0 @@
-MODULE qm;
-	PROCEDURE Cd4(JD, yJv, zG : RECORD _V, Q, Lw, u : BOOLEAN;
-y : INTEGER;
-VS : BOOLEAN END);
-	BEGIN
-	WHILE 0 * ('') DO	REPEAT	AQ;	ShdM
-	UNTIL (fZ)
-END
-	END EP
-;VAR
-t*, B*, aZ* : INTEGER;
-CONSTsSd = uP.Am6;
-TYPE
-b* = Wv;
-f4* = RECORD uq : INTEGER;
-Q1 : x END;PROCEDURE i*;
-	END f
-	;CONST
-O* = s('');
-TYPE
-I = RECORD B : ARRAY Si OF BOOLEAN END;
-
-	END t7.

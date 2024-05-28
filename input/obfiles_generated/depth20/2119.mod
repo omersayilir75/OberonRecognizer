@@ -1,3 +1,0 @@
-MODULE PNN;
-	
-	END W.

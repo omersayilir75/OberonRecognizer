@@ -1,1 +1,0 @@
-MODULE GB;		END mA.

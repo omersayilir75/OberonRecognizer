@@ -1,6 +1,0 @@
-MODULE RF;
-	TYPE
-U* = BOOLEAN;CONST
-_ = (18100 OR '');
-
-	END qSSN.

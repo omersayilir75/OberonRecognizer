@@ -1,4 +1,0 @@
-MODULE J;
-	
-	BEGIN
-		END J.

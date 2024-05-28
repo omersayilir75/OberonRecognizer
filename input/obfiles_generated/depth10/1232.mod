@@ -1,3 +1,0 @@
-MODULE q;	
-	BEGIN
-		END RS.

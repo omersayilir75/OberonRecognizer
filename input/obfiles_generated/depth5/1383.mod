@@ -1,6 +1,0 @@
-MODULE m;
-	PROCEDURE eJ*;
-
-	END mUW
-;
-	END a6xtYW.

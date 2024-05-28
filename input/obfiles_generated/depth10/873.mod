@@ -1,5 +1,0 @@
-MODULE H;
-	PROCEDURE j(VAR yj8 : ARRAY '''' OF INTEGER);
-
-	END n0		;
-	END F.

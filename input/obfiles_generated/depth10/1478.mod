@@ -1,113 +1,0 @@
-MODULE B;	PROCEDURE Ew*;
-	END Ob
-		;VARc*, Q, j* : INTEGER;CONST
-s3 = ~T();PROCEDURE PSDXXW0(WX, m : q ; D : ARRAY N() OF INTEGER);
-	PROCEDURE Z;
-	PROCEDURE s(p : BOOLEAN)*;
-	PROCEDURE a;
-	PROCEDURE J*;
-
-	END d
-;	PROCEDURE PX;
-	PROCEDURE Z*;
-	END _d
-;	PROCEDURE f*;
-
-	END yHv;	END Sb34H
-		;
-	BEGIN
-	;	;
-	;
-	
-	END W
-;	END x4P
-	;	PROCEDURE TOa7*;
-	PROCEDURE z*;
-	BEGIN
-	
-	END P
-		;	PROCEDURE rX;
-	PROCEDURE F;
-
-	END ERJz
-;
-	BEGIN
-	;
-	
-	END HRR_2s
-	;	PROCEDURE v;
-	END l
-		;	PROCEDURE IZ;
-
-	END YR
-	;	PROCEDURE G02h;	PROCEDURE aP*;	PROCEDURE p*;
-	END qa
-;	PROCEDURE f;
-
-	END uh
-;	PROCEDURE b;	END W
-;	PROCEDURE O;
-	END Ni
-				;	PROCEDURE mpKF*;
-
-	END t
-;
-	END vLISr
-;	PROCEDURE D;	PROCEDURE h;
-
-	END oJJa7v7P
-	;	BEGIN	
-	END M3J
-	;	PROCEDURE z*;
-	PROCEDURE ut;
-
-	END aa
-		;	PROCEDURE f;
-
-	END l;	PROCEDURE d*;
-
-	END Ax4;
-	BEGIN
-		END e
-;	PROCEDURE Tg;
-
-	END T
-				;	PROCEDURE N;
-
-	BEGIN	
-	END JCw19nj;	PROCEDURE ivA*;
-	PROCEDURE l;
-	END H
-;
-	BEGIN
-		END q_7qo
-;	PROCEDURE aVU*;
-	PROCEDURE OnvztIYB;
-
-	END o
-			;	END gF				;
-	BEGIN
-	
-	END v
-	;
-	END k;
-	END y		;	PROCEDURE ZZtz9(VAR m, D : I ; VAR ad, X : INTEGER ; LIYYa60 : WYX);
-
-	END m
-		;	PROCEDURE JC(VAR D : INTEGER ; P, S, j, x, k, h6lvf6, JlE4z : BOOLEAN)*;
-	END _
-;
-	BEGIN
-	REPEAT
-	;
-	;
-	;	
-	UNTIL kk;	U := ''
-	END G
-		;PROCEDURE A(o : BOOLEAN ; VAR _8 : ARRAY '' OF INTEGER);
-
-	END u
-;
-	BEGIN
-	WHILE '''Ij''' < u() DO	
-END	END twTa.

@@ -1,5 +1,0 @@
-MODULE eTM;
-	
-	BEGIN
-	U
-	END LQ.

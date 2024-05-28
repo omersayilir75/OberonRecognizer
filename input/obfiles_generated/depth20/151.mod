@@ -1,2 +1,0 @@
-MODULE JQ;	
-	END v.

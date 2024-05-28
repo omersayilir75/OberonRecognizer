@@ -1,7 +1,0 @@
-MODULE RRPM;
-	
-	BEGIN
-	WHILE '' # K5 DO
-	U;	I;	
-END
-	END LG.

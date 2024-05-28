@@ -1,5 +1,0 @@
-MODULE XXFG;	PROCEDURE vlNC;
-
-	END M
-;	BEGIN
-		END p.

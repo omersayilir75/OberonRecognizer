@@ -1,11 +1,0 @@
-MODULE JM;	PROCEDURE J*;
-	END K		;PROCEDURE mn*;
-
-	END g0	;PROCEDURE o;
-	END U
-;PROCEDURE D*;
-	END Wi
-	;
-	BEGIN
-	
-	END Tk.

@@ -1,7 +1,0 @@
-MODULE z;	PROCEDURE M5;
-
-	END lhJ2
-;
-	BEGIN
-	
-	END fa.

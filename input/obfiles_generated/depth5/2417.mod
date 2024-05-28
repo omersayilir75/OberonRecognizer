@@ -1,6 +1,0 @@
-MODULE Y;
-	PROCEDURE mzxxV;
-
-	END K
-	;
-	END d.

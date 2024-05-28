@@ -1,3 +1,0 @@
-MODULE JPy;
-	
-	END yD.

@@ -1,2 +1,0 @@
-MODULE MYDZ;		BEGIN
-		END e.

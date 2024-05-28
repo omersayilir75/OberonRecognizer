@@ -1,3 +1,0 @@
-MODULE N;
-	
-	END Cq.

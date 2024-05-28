@@ -1,8 +1,0 @@
-MODULE WB;	PROCEDURE F;
-
-	END NFy	;PROCEDURE cn*;
-	END MJ
-;
-	BEGIN	;
-	
-	END w.

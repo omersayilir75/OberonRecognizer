@@ -1,3 +1,0 @@
-MODULE A;	
-	BEGIN
-	UK	END j.

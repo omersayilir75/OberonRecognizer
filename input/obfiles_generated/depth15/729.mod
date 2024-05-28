@@ -1,5 +1,0 @@
-MODULE p;
-	PROCEDURE Q;
-
-	END ps
-	;	END MY.

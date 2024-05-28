@@ -1,13 +1,0 @@
-MODULE R;
-	PROCEDURE v;
-	PROCEDURE Pc*;
-
-	END B;	PROCEDURE Tv;
-
-	BEGIN	A	END Xso
-;
-	BEGIN
-	h := j8Z3()
-	END e
-;
-	END P6OvQ.

@@ -1,3 +1,0 @@
-MODULE VvBkZ;
-	
-	END QO.

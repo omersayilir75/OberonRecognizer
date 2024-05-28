@@ -1,3 +1,0 @@
-MODULE jZ;
-	
-	END VQ.

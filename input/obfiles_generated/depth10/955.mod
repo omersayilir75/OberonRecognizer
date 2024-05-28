@@ -1,5 +1,0 @@
-MODULE gS;
-	
-	BEGIN
-	H
-	END Eu.

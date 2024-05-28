@@ -1,3 +1,0 @@
-MODULE yU;
-	
-	END UUam.

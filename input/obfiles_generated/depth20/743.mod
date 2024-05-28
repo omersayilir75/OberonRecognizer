@@ -1,9 +1,0 @@
-MODULE R;
-	PROCEDURE BfJ*;
-	BEGIN
-	REPEAT
-	WHILE '''Y1<X(' DO
-	
-END
-	UNTIL o()
-	END UfL;	END cp.

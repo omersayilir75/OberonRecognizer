@@ -1,5 +1,0 @@
-MODULE mB;
-	PROCEDURE G7Ie;
-	END J
-	;
-	END P.

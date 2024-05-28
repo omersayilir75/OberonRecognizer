@@ -1,3 +1,0 @@
-MODULE EOs;
-	
-	END zj.

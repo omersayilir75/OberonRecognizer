@@ -1,3 +1,0 @@
-MODULE hZ;
-	
-	END P.

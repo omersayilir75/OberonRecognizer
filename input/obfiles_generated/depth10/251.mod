@@ -1,4 +1,0 @@
-MODULE aI;
-	CONSTTla* = KicU3;
-PROCEDURE F;	END d
-;	END J.

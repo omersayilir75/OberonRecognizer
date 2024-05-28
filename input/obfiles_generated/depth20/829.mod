@@ -1,11 +1,0 @@
-MODULE C;
-	CONSTJ* = 16;
-TYPE
-x* = ARRAY ~iG7l < (ys()) - ~hG()  MOD  4285 >= 60 OF RECORD rA, bQ, G, j : z;
-W, JId : RECORD E : BOOLEAN END;
-V4Gv : ARRAY HcV()  DIV  ''  DIV  z() OF RECORD _ : KxL;o : XMH;
-A, _lZ : BOOLEAN;
-v : BOOLEAN;
-Z : INTEGER END END;
-di9 = ARRAY 4 OF RECORD RQZ, H : INTEGER END;
-	END W3UZ.

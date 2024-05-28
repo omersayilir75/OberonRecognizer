@@ -1,3 +1,0 @@
-MODULE Ht;
-	
-	END u.

@@ -1,5 +1,0 @@
-MODULE p97lpZ;
-	PROCEDURE a*;
-	END Q
-			;
-	END N.

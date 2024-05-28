@@ -1,5 +1,0 @@
-MODULE KD;
-	CONST
-Jb* = W;
-
-	END g.

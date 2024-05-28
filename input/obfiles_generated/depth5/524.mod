@@ -1,3 +1,0 @@
-MODULE r;
-	
-	END Z2.

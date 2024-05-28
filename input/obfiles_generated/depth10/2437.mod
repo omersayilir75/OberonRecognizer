@@ -1,3 +1,0 @@
-MODULE lY;		BEGIN
-	
-	END GT.

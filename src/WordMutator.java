@@ -5,22 +5,37 @@ import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Hashtable;
 import java.util.UUID;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
 public class WordMutator {
     static HashSet<TokenTypePair> poisonedPairs = new HashSet<>();
     static Hashtable<Integer, String> tokenInstances = new Hashtable<>();
     static Hashtable<Integer, TokenNeighbours> tokenNeighboursHashtable = new Hashtable<>();
-    static String targetPath = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\output";
+    static String targetBase = "C:\\Users\\omer_\\Desktop\\algSamplesOb\\wordmutation\\output\\subfolder";
+    static AtomicInteger currentOutputSubfolder = new AtomicInteger(1);
+    static String targetPath;
+    static AtomicInteger filesCreated = new AtomicInteger(0);
+
     public static void main(String[] args) throws IOException {
         PPCalculator.calculatePoisonedPairs(poisonedPairs, tokenInstances, tokenNeighboursHashtable);
+        targetPath = targetBase + currentOutputSubfolder.get();
+        Files.createDirectory(Paths.get(targetPath));
+        String pathName = "C:\\Users\\omer_\\Desktop\\algSamplesOb\\wordmutation\\input";
+        processDir(pathName);
 
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\input";
+    }
+
+    private static void processDir(String pathName) {
         try (Stream<Path> paths = Files.walk(Paths.get(pathName))) {
-            paths.parallel().forEach(WordMutator::processFile);
+            paths.sorted(Comparator.comparing(p -> p.toFile().length())).parallel().forEachOrdered(WordMutator::processFile); // smallest ones first to prevent stalling
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -41,16 +56,55 @@ public class WordMutator {
                 tokens.fill();
 
                 String filename = program.getName();
-                for (int i = 0; i < tokens.size(); i++) {
-                    // conditions of predicate 1
-                    //token deletion:
-                    tokenDeletion(filePath, i, poisonedPairs, filename);
-                    // token insertion:
-                    tokenInsertion(filePath, i ,poisonedPairs, tokenInstances, filename);
-                    // token substitution :
-                    tokenSubstitution(filePath, i, poisonedPairs, tokenInstances, filename);
-                    //token transposition:
-                    tokenTransposition(filePath, i, poisonedPairs, filename);
+
+                try (ExecutorService executor = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors())) {
+                    for (int i = 0; i < tokens.size(); i++) {
+                        final int index = i;
+                        // conditions of predicate 1
+                        System.out.println("submitting tasks for " + index);
+                        executor.submit(() -> {
+                            //token deletion:
+                            try {
+                                System.out.println("starting tokenDeletion for " + index);
+                                tokenDeletion(filePath, index, poisonedPairs, filename);
+                            } catch (IOException e) {
+                                throw new RuntimeException(e);
+                            }
+                        });
+                        executor.submit(() -> {
+                            // token insertion:
+                            try {
+                                System.out.println("starting tokenInsertion for " + index);
+                                tokenInsertion(filePath, index, poisonedPairs, tokenInstances, filename);
+                            } catch (IOException e) {
+                                throw new RuntimeException(e);
+                            }
+                        });
+                        executor.submit(() -> {
+                            // token substitution :
+                            try {
+                                System.out.println("starting tokenSubstitution for " + index);
+                                tokenSubstitution(filePath, index, poisonedPairs, tokenInstances, filename);
+                            } catch (IOException e) {
+                                throw new RuntimeException(e);
+                            }
+                        });
+                        executor.submit(() -> {
+                            //token transposition:
+                            try {
+                                System.out.println("starting tokenTransposition for " + index);
+                                tokenTransposition(filePath, index, poisonedPairs, filename);
+                            } catch (IOException e) {
+                                throw new RuntimeException(e);
+                            }
+                        });
+                    }
+
+                    executor.shutdown();
+                    executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
+
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
                 }
 
                 System.out.println("Word mutation completed for file " + program.getName() + '.');
@@ -58,10 +112,10 @@ public class WordMutator {
             } catch (IOException e) {
                 e.printStackTrace();
             } finally {
-                if (reader != null){
-                    try{
+                if (reader != null) {
+                    try {
                         reader.close();
-                    }catch (IOException e){
+                    } catch (IOException e) {
                         e.printStackTrace();
                     }
 
@@ -96,12 +150,15 @@ public class WordMutator {
 
                 String modifiedProgram = rewriter.getText();
                 UUID uuid = UUID.randomUUID();
-                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
+                FileWriter writer = new FileWriter(targetPath + "\\tokenSubstitution_" + uuid + "_" + filename);
                 try (writer) {
                     writer.write(modifiedProgram);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
+                writer.close();
+                filesCreated.incrementAndGet();
+                createFolderIfNeeded();
             }
         }
 
@@ -119,12 +176,15 @@ public class WordMutator {
 
                 String modifiedProgram = rewriter.getText();
                 UUID uuid = UUID.randomUUID();
-                FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
+                FileWriter writer = new FileWriter(targetPath + "\\tokenSubstitution_" + uuid + "_" + filename);
                 try (writer) {
                     writer.write(modifiedProgram);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
+                writer.close();
+                filesCreated.incrementAndGet();
+                createFolderIfNeeded();
             }
         }
     }
@@ -153,12 +213,15 @@ public class WordMutator {
 
             String modifiedProgram = rewriter.getText();
             UUID uuid = UUID.randomUUID();
-            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
+            FileWriter writer = new FileWriter(targetPath + "\\tokenInsertion_" + uuid + "_" + filename);
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            writer.close();
+            filesCreated.incrementAndGet();
+            createFolderIfNeeded();
         }
 
         TokenTypePair[] poisonedPairsForTokenWhereRight = poisonedPairs.stream().filter(p -> p.second == tokenType).toArray(TokenTypePair[]::new);
@@ -173,12 +236,15 @@ public class WordMutator {
 
             String modifiedProgram = rewriter.getText();
             UUID uuid = UUID.randomUUID();
-            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" +filename + ".txt");
+            FileWriter writer = new FileWriter(targetPath + "\\tokenInsertion_" + uuid + "_" + filename);
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            writer.close();
+            filesCreated.incrementAndGet();
+            createFolderIfNeeded();
         }
 
 
@@ -212,12 +278,15 @@ public class WordMutator {
 
             String modifiedProgram = rewriter.getText();
             UUID uuid = UUID.randomUUID();
-            FileWriter writer = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
+            FileWriter writer = new FileWriter(targetPath + "\\tokenDeletion_" + uuid + "_" + filename);
             try (writer) {
                 writer.write(modifiedProgram);
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            writer.close();
+            filesCreated.incrementAndGet();
+            createFolderIfNeeded();
         }
     }
 
@@ -252,24 +321,30 @@ public class WordMutator {
                     spaceSerializer(rewriterCase1, tokens);
                     String modifiedProgramCase1 = rewriterCase1.getText();
                     UUID uuidCase1 = UUID.randomUUID();
-                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuidCase1  + "_" +  filename + ".txt");
+                    FileWriter writerCase1 = new FileWriter(targetPath + "\\tokenTransposition_" + uuidCase1 + "_" + filename);
                     try (writerCase1) {
                         writerCase1.write(modifiedProgramCase1);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
+                    writerCase1.close();
+                    filesCreated.incrementAndGet();
+                    createFolderIfNeeded();
                     //case 3 from paper:
                     TokenStreamRewriter rewriterCase3 = new TokenStreamRewriter(tokens);
                     tokenSwapper(token, nextToken, rewriterCase3);
                     spaceSerializer(rewriterCase3, tokens);
                     String modifiedProgramCase3 = rewriterCase3.getText();
                     UUID uuidCase3 = UUID.randomUUID();
-                    FileWriter writerCase3 = new FileWriter(targetPath + "\\" + uuidCase3 + "_" + filename + ".txt");
+                    FileWriter writerCase3 = new FileWriter(targetPath + "\\tokenTransposition_" + uuidCase3 + "_" + filename);
                     try (writerCase3) {
                         writerCase3.write(modifiedProgramCase3);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
+                    writerCase3.close();
+                    filesCreated.incrementAndGet();
+                    createFolderIfNeeded();
                 } else if (searchToken.second == prevType) {
                     //case 2 from paper:
                     TokenStreamRewriter rewriter = new TokenStreamRewriter(tokens);
@@ -277,12 +352,15 @@ public class WordMutator {
                     spaceSerializer(rewriter, tokens);
                     String modifiedProgramCase1 = rewriter.getText();
                     UUID uuid = UUID.randomUUID();
-                    FileWriter writerCase1 = new FileWriter(targetPath + "\\" + uuid + "_" + filename + ".txt");
+                    FileWriter writerCase1 = new FileWriter(targetPath + "\\tokenTransposition_" + uuid + "_" + filename);
                     try (writerCase1) {
                         writerCase1.write(modifiedProgramCase1);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
+                    writerCase1.close();
+                    filesCreated.incrementAndGet();
+                    createFolderIfNeeded();
                 }
             }
         }
@@ -300,6 +378,15 @@ public class WordMutator {
         for (int i = 0; i < tokens.size(); i++) {
             Token cur = tokens.get(i);
             rewriter.insertAfter(cur, " ");
+        }
+    }
+
+    private static void createFolderIfNeeded() throws IOException {
+        if (filesCreated.get() % 100000 == 0) { // every 100k files
+            int newFolderNo = currentOutputSubfolder.incrementAndGet();
+            String newPath = targetBase + newFolderNo;
+            Files.createDirectory(Paths.get(newPath));
+            targetPath = newPath;
         }
     }
 }

@@ -1,3 +1,0 @@
-MODULE H;
-	
-	END vB1.

@@ -20,7 +20,7 @@ public class Recognizer {
 
     public static void main(String[] args) throws IOException {
         // Folder path:
-        String pathName = "C:\\Users\\omer_\\Desktop\\gensamples\\negative\\oberonzero\\wordmutation\\output";
+        String pathName = "C:\\Users\\omer_\\Desktop\\algSamplesOb\\wordmutation\\output";
 
         log = new FileWriter("log.txt");
 
@@ -47,15 +47,21 @@ public class Recognizer {
                 OberonGrammarLexer lexer = new OberonGrammarLexer(input);
                 CommonTokenStream tokens = new CommonTokenStream(lexer);
                 OberonGrammarParser parser = new OberonGrammarParser(tokens);
+
+                // prevent large error logs
+                parser.removeErrorListeners();
+                CustomErrorListener listener = new CustomErrorListener();
+                parser.addErrorListener(listener);
+
                 ParseTree tree = parser.moduleDefinition();
 
-                if (parser.getNumberOfSyntaxErrors() == 0) {
+                if (listener.getSyntaxErrors() == 0) {
                         System.out.println(program.getName() + " PASS");
                           log.write(program.getPath() + " PASS\n");
                     noPassed.incrementAndGet();
                 } else {
-//                    System.out.println(program.getName() + " FAIL");
-//                    log.write(program.getPath() + " FAIL\n");
+                    System.out.println(program.getPath() + " FAIL");
+                    log.write(program.getPath() + " FAIL\n");
                     noFailed.incrementAndGet();
                 }
                 noProcessed.incrementAndGet();

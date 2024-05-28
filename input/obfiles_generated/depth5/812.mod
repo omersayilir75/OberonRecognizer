@@ -1,5 +1,0 @@
-MODULE tdc31b;
-	
-	BEGIN
-	
-	END JM.

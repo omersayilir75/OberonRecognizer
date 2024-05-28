@@ -1,11 +1,0 @@
-MODULE y4;	PROCEDURE W;
-
-	END R
-			;PROCEDURE h*;
-	END u;PROCEDURE yP*;
-
-	END n3OGV
-	;PROCEDURE E;
-
-	END RT4Ua
-;	END j.

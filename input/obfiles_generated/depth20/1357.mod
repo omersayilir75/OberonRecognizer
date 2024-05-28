@@ -1,3 +1,0 @@
-MODULE DEJ;
-	
-	END d.

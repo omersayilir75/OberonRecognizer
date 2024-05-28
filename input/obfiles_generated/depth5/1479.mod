@@ -1,7 +1,0 @@
-MODULE xi;
-	PROCEDURE PJzlTgS1;
-
-	END gWO	;PROCEDURE Yrv*;
-	END dH9
-;
-	END K.

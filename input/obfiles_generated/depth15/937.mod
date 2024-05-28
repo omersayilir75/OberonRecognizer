@@ -1,3 +1,0 @@
-MODULE fQS;
-	
-	END iu.

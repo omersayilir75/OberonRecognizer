@@ -1,6 +1,0 @@
-MODULE VoAp;
-	PROCEDURE n;	END s
-;
-	BEGIN
-	
-	END q.

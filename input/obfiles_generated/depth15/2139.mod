@@ -1,3 +1,0 @@
-MODULE aG;
-	
-	END m.

@@ -1,6 +1,0 @@
-MODULE E;
-	PROCEDURE guOs;
-
-	END UNB
-;
-	END Gex.

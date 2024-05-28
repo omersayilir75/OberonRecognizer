@@ -1,3 +1,0 @@
-MODULE ye;
-	
-	END p.

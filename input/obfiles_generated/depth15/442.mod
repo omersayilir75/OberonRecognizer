@@ -1,4 +1,0 @@
-MODULE Tg;
-	VAR
-t6* : ARRAY 3 OF ARRAY 8 OF BOOLEAN;	BEGIN	HL := '' * ~''
-	END nxslP9.

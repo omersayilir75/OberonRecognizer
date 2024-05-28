@@ -1,9 +1,0 @@
-MODULE E7;
-	PROCEDURE GbI(CnUh1Gx : INTEGER);
-
-	BEGIN	a9
-	END h
-;VAR
-n : og;
-
-	END S2.

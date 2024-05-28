@@ -1,5 +1,0 @@
-MODULE D2;
-	PROCEDURE dg;
-	END rQ	;	BEGIN
-	
-	END U.

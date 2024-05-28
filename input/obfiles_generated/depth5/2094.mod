@@ -1,7 +1,0 @@
-MODULE W;	PROCEDURE k*;
-
-	END o
-;
-	BEGIN
-	
-	END d.

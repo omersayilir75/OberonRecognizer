@@ -1,2 +1,0 @@
-MODULE kg;
-		END y.

@@ -1,3 +1,0 @@
-MODULE yr;
-	
-	END t.

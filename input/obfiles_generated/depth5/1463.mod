@@ -1,6 +1,0 @@
-MODULE CJ;
-	PROCEDURE M*;
-
-	END QU
-							;
-	END q.

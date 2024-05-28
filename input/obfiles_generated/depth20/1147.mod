@@ -1,2 +1,0 @@
-MODULE JNz;
-		END c.

@@ -1,3 +1,0 @@
-MODULE S1;
-	
-	END O.

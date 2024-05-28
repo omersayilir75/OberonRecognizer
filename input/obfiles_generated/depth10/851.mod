@@ -1,11 +1,0 @@
-MODULE uk;
-	
-	BEGIN
-	IF f3IU() THEN
-	FfELSIF (T) THEN
-	E
-ELSIF dK1 THEN
-	
-	END;
-	REPEAT	OhH
-	UNTIL i()	END h.

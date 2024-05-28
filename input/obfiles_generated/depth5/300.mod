@@ -1,3 +1,0 @@
-MODULE vYSe;
-	
-	END f.

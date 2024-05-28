@@ -1,5 +1,0 @@
-MODULE o;
-	
-	BEGIN
-	
-	END ZUz6.

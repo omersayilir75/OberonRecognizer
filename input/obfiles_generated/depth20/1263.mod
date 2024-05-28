@@ -1,4 +1,0 @@
-MODULE Fg;	
-	BEGIN	REPEAT
-	C
-	UNTIL v	END k.

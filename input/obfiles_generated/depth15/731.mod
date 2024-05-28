@@ -1,3 +1,0 @@
-MODULE Joeg;
-	
-	END ca.

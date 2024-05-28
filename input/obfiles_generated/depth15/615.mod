@@ -1,4 +1,0 @@
-MODULE d;
-	CONSTK = pXPHY;
-	BEGIN
-	IF 6 THEN		END	END N.

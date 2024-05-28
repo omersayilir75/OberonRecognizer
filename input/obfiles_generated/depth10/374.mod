@@ -1,6 +1,0 @@
-MODULE V;
-	
-	BEGIN
-	WHILE '' DO
-	MEND
-	END TVj.

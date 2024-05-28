@@ -1,9 +1,0 @@
-MODULE CS;
-	PROCEDURE V*;
-	BEGIN
-	
-	END t	;PROCEDURE r*;
-
-	END h
-	;
-	END v.

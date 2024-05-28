@@ -1,13 +1,0 @@
-MODULE E;
-	
-	BEGIN
-	IF Pei() THEN	REPEAT
-	REPEAT
-	S
-	UNTIL l();
-	Z
-	UNTIL --LvVXG();
-	
-	END;
-	P
-	END E.

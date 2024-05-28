@@ -1,5 +1,0 @@
-MODULE X;		BEGIN
-	REPEAT
-	;
-	M	UNTIL (B)
-	END Y.

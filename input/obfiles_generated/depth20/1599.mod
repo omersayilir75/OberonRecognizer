@@ -1,6 +1,0 @@
-MODULE x;	PROCEDURE W*;
-
-	END iZ
-;
-	BEGIN
-		END zu.

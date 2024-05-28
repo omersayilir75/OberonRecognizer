@@ -1,3 +1,0 @@
-MODULE aq;
-	
-	END E.

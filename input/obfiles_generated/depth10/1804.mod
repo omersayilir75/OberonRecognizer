@@ -1,3 +1,0 @@
-MODULE J5;
-	
-	END k.

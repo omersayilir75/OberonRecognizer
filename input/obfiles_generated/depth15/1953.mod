@@ -1,3 +1,0 @@
-MODULE S;
-	
-	END o.

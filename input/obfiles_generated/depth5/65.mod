@@ -1,8 +1,0 @@
-MODULE FKrI;
-	PROCEDURE sKW*;
-
-	END TF
-			;PROCEDURE s*;
-	END l
-	;
-	END bR.

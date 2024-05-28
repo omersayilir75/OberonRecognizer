@@ -1,2 +1,0 @@
-MODULE goX;	
-	END S.

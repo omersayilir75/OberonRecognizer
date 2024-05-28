@@ -1,10 +1,0 @@
-MODULE B;
-	PROCEDURE I*;
-	END s;PROCEDURE K32pt*;
-
-	END gZ
-;PROCEDURE n;
-
-	END g;PROCEDURE QopJ*;	END d
-;
-	END r.

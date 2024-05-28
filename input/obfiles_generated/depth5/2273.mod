@@ -1,5 +1,0 @@
-MODULE X;
-	PROCEDURE T;
-	END N
-;
-	END e3.

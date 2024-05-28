@@ -1,4 +1,0 @@
-MODULE uW;	
-	BEGIN
-	
-	END j.

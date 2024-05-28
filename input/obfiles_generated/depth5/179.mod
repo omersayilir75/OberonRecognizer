@@ -1,14 +1,0 @@
-MODULE g;
-	PROCEDURE W;
-
-	END I
-;PROCEDURE zp9N;
-
-	END GKn0
-;PROCEDURE jm;
-
-	END lYY
-;
-	BEGIN
-	;
-		END N.

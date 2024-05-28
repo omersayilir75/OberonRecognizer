@@ -1,3 +1,0 @@
-MODULE YeZ;
-	
-	END s.

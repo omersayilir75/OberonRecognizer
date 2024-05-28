@@ -1,3 +1,0 @@
-MODULE zwe;
-	
-	END Xr.

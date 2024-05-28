@@ -1,3 +1,0 @@
-MODULE ki;
-	
-	END a.

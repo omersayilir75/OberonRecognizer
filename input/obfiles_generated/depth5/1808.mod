@@ -1,5 +1,0 @@
-MODULE cO;	PROCEDURE a*;
-	END nsj			;PROCEDURE Cg;
-
-	END DWh
-;	END EHXNzE.

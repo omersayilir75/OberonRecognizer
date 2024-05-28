@@ -1,3 +1,0 @@
-MODULE hxOIJ;
-	
-	END V.

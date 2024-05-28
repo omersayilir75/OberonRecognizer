@@ -1,3 +1,0 @@
-MODULE fUw;
-	
-	END S.

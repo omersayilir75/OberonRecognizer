@@ -1,2 +1,0 @@
-MODULE x;
-		END sp.

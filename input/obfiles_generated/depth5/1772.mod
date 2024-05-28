@@ -1,3 +1,0 @@
-MODULE Nqs;
-	
-	END OV.

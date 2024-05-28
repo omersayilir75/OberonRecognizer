@@ -1,7 +1,0 @@
-MODULE rbweB;
-	TYPE
-qE* = BOOLEAN;
-
-	BEGIN
-	
-	END nE.

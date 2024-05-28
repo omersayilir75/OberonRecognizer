@@ -1,2 +1,0 @@
-MODULE k6Y05j;	
-	END oJ.

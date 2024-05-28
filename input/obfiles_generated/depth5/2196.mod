@@ -1,6 +1,0 @@
-MODULE W;	PROCEDURE x*;
-	END PeUC
-				;
-	BEGIN
-	
-	END CV9.

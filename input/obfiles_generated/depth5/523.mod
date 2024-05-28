@@ -1,3 +1,0 @@
-MODULE T;
-		BEGIN
-		END c8.

@@ -1,4 +1,0 @@
-MODULE Y;
-	PROCEDURE w;
-	END s_H	;
-	END _G2pQ.

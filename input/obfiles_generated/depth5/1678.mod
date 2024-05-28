@@ -1,3 +1,0 @@
-MODULE qlGyeQvSh;
-	
-	END E.

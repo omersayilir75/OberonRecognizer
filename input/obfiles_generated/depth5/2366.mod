@@ -1,10 +1,0 @@
-MODULE _;	PROCEDURE YnnKYy*;
-	END F
-		;PROCEDURE hr;
-
-	END U;PROCEDURE S*;
-
-	END L;PROCEDURE O*;
-
-	END j
-;	END y7NS.

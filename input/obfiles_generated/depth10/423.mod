@@ -1,3 +1,0 @@
-MODULE z;
-	
-	END S2.

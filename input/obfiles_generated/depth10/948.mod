@@ -1,4 +1,0 @@
-MODULE z;
-	PROCEDURE C*;
-	BEGIN	Wzm2	END VW;
-	END HwA.

@@ -1,5 +1,0 @@
-MODULE C6;
-	PROCEDURE I*;
-	END F
-	;
-	END n5i.

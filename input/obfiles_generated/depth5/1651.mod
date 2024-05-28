@@ -1,8 +1,0 @@
-MODULE He;
-	PROCEDURE ptHKz*;
-
-	END L5
-	;
-	BEGIN
-	
-	END Y.

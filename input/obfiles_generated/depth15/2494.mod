@@ -1,3 +1,0 @@
-MODULE X8I;
-	
-	END c.

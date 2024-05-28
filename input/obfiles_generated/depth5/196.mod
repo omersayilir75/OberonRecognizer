@@ -1,7 +1,0 @@
-MODULE HC;
-	PROCEDURE _7;
-
-	END L
-		;
-	BEGIN
-	;		END B.

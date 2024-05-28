@@ -1,3 +1,0 @@
-MODULE Zh;
-	
-	END nP.

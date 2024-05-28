@@ -1,6 +1,0 @@
-MODULE v;	PROCEDURE IyUa;
-
-	END q	;
-	BEGIN
-	
-	END i.

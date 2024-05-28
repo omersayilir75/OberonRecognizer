@@ -1,16 +1,0 @@
-MODULE Af;
-	PROCEDURE j;
-
-	END r_r;PROCEDURE fx0p;
-	END B
-;PROCEDURE tk;
-	END w7e0		;PROCEDURE _iVF;
-	END N
-	;PROCEDURE PRUD*;
-	END G
-				;PROCEDURE U8*;
-	END W
-;
-	BEGIN
-	;
-	;		END z.

@@ -1,6 +1,0 @@
-MODULE dLD;
-	PROCEDURE _*;
-
-	END m
-	;
-	END v.

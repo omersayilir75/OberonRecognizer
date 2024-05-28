@@ -1,6 +1,0 @@
-MODULE VYN;
-	
-	BEGIN
-	;
-	
-	END v1.

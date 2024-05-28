@@ -1,2 +1,0 @@
-MODULE xZ;	
-	END hEJ.

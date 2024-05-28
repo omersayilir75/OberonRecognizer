@@ -1,15 +1,0 @@
-MODULE HWHB;
-	PROCEDURE h;
-	BEGIN
-	WHILE 's' DO
-	
-END
-	END FW
-	;
-	BEGIN
-	IF H THEN
-	z;
-	;
-	M5;
-	eELSIF (y()) THEN
-	XC	END	END LW.

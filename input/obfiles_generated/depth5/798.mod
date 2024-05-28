@@ -1,2 +1,0 @@
-MODULE J;
-	PROCEDURE Xf7*;	END b;	END Gq.

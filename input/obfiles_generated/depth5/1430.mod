@@ -1,3 +1,0 @@
-MODULE Va;
-	
-	END Jk.

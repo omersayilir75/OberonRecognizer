@@ -1,3 +1,0 @@
-MODULE IVI;
-	
-	END vN.

@@ -1,2 +1,0 @@
-MODULE jFrLu7;	
-	END WI.

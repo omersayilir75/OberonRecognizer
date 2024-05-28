@@ -1,19 +1,0 @@
-MODULE V__s;	PROCEDURE W*;
-	END ji7
-			;PROCEDURE XzZ;	END NL
-	;PROCEDURE pH;
-
-	END uSW0
-	;PROCEDURE uXa*;
-	END f
-				;PROCEDURE SL2;
-
-	END x9
-;PROCEDURE y*;
-	END viH4z
-;PROCEDURE Hy;
-	END j
-		;
-	BEGIN
-	
-	END U.

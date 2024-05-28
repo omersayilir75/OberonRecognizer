@@ -1,5 +1,0 @@
-MODULE eZ;
-	VAR
-JBZ* : INTEGER;
-
-	END z.

@@ -1,2 +1,0 @@
-MODULE et;	
-	END r.

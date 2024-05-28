@@ -1,3 +1,0 @@
-MODULE FY;
-	
-	END V.

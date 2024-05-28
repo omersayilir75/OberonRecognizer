@@ -1,3 +1,0 @@
-MODULE QlcENd;
-	
-	END mV.

@@ -1,5 +1,0 @@
-MODULE i;
-	TYPE
-qzV* = ARRAY '' OF BOOLEAN;
-
-	END lb.

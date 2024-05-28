@@ -1,8 +1,0 @@
-MODULE kV6ER;
-	PROCEDURE H*;
-
-	END Yie				;PROCEDURE m2;
-
-	END OJYTn
-	;
-	END Jxc7MOv.

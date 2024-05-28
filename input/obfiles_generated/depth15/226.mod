@@ -1,2 +1,0 @@
-MODULE q2Q;
-		END t.

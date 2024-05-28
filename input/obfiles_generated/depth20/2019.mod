@@ -1,3 +1,0 @@
-MODULE QP;
-		BEGIN
-	p(3)	END U.

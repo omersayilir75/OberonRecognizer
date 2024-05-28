@@ -1,20 +1,0 @@
-MODULE c;
-	PROCEDURE r;
-
-	END V	;PROCEDURE Q;
-
-	END NI
-		;PROCEDURE G;
-
-	END Fcn	;PROCEDURE U;
-
-	END k
-			;PROCEDURE AF*;	END k				;PROCEDURE F;
-	END G
-;PROCEDURE aS*;
-	END V
-		;PROCEDURE lF*;
-	END ekgqU
-	;PROCEDURE IVqQ*;
-	END I
-			;	END qx.

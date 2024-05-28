@@ -1,2 +1,0 @@
-MODULE AJP;	
-	END rRGRP.

@@ -1,3 +1,0 @@
-MODULE xg;
-	
-	END ij.

@@ -1,7 +1,0 @@
-MODULE u;
-	TYPE
-R* = ARRAY FF6 OF INTEGER;J = ARRAY Tz() OF BOOLEAN;
-dE = INTEGER;
-
-	BEGIN	G_.PG := u()
-	END a2.

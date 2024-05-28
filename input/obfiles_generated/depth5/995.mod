@@ -1,5 +1,0 @@
-MODULE ez9V;
-	
-	BEGIN
-	
-	END w0j.

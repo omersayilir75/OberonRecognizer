@@ -1,3 +1,0 @@
-MODULE Vqu;
-	
-	END a.

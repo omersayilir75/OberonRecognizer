@@ -1,4 +1,0 @@
-MODULE lT;	PROCEDURE o;
-
-	END e
-;	END BL.

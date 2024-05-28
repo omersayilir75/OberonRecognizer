@@ -1,3 +1,0 @@
-MODULE qV;
-	
-	END k.

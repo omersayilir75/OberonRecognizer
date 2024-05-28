@@ -1,9 +1,0 @@
-MODULE d;
-	PROCEDURE c;
-
-	END EK
-;PROCEDURE tP;
-
-	END C
-	;
-	END H.

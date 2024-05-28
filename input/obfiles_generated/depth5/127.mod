@@ -1,5 +1,0 @@
-MODULE V;	
-	BEGIN
-	;
-	
-	END T69CD.

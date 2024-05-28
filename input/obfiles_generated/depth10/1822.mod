@@ -1,3 +1,0 @@
-MODULE XnA;
-	
-	END M.

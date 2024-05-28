@@ -1,6 +1,0 @@
-MODULE B;
-	PROCEDURE u(v, JbK, y : ARRAY '' OF BOOLEAN)*;
-	BEGIN
-	L
-	END AZy		;	BEGIN	k
-	END RndS3.

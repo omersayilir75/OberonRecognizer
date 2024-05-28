@@ -1,5 +1,0 @@
-MODULE R;
-	
-	BEGIN
-	
-	END Y.

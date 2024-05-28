@@ -1,3 +1,0 @@
-MODULE CQ;
-	
-	END c59T.

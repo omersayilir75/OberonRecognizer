@@ -1,7 +1,0 @@
-MODULE g;
-	VAR
-P*, v : INTEGER;tW, PJ : ARRAY azL7sZL4() OF ARRAY '''' = E OF INTEGER;
-
-	BEGIN
-	
-	END Qt.

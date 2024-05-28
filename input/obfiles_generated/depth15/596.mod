@@ -1,2 +1,0 @@
-MODULE gZ;	
-	END AFmCd.

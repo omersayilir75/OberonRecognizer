@@ -1,5 +1,0 @@
-MODULE NwtT;
-	
-	BEGIN
-	
-	END Sx.

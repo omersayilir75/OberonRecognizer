@@ -1,2 +1,0 @@
-MODULE Tag;	
-	END r.

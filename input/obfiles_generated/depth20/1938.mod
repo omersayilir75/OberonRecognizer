@@ -1,4 +1,0 @@
-MODULE JZ;
-	
-	BEGIN	J := 329 = 4384
-	END Y2.

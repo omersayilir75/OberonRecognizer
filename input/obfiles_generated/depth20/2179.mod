@@ -1,3 +1,0 @@
-MODULE ULbexQ;
-	
-	END g.

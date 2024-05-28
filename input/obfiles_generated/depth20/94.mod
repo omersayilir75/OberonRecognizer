@@ -1,3 +1,0 @@
-MODULE WcpsM;
-	
-	END X.

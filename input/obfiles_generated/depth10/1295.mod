@@ -1,3 +1,0 @@
-MODULE dA;
-	
-	END h.

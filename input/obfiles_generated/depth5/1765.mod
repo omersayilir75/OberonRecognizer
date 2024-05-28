@@ -1,5 +1,0 @@
-MODULE Elk;
-	
-	BEGIN
-	
-	END IV.

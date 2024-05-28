@@ -1,2 +1,0 @@
-MODULE qx;
-		END _.

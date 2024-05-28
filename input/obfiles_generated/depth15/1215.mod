@@ -1,2 +1,0 @@
-MODULE Gz;	
-	END HidR.

@@ -1,10 +1,0 @@
-MODULE PIB;	PROCEDURE V(P : ARRAY 14 OF RECORD OHaE : INTEGER END);
-
-	END VjJ	;PROCEDURE ri;	PROCEDURE G0t;
-	BEGIN
-	r.y := 'i''h%''' OR m() > 'b''/'
-	END NDPZN
-					;
-	END v9I
-;
-	END VD.

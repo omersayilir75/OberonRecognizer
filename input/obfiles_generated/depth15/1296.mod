@@ -1,3 +1,0 @@
-MODULE bU;
-	
-	END uB.

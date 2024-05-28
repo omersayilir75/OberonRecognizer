@@ -1,3 +1,0 @@
-MODULE wz;
-	
-	END J.

@@ -1,8 +1,0 @@
-MODULE n;
-	TYPE
-C = ARRAY '' OF INTEGER;tTga = ARRAY pYjc OF INTEGER;QPvdU* = BOOLEAN;J = i;
-AiC = BOOLEAN;
-rdx* = INTEGER;
-CONSTG = u;
-
-	END hov3e.

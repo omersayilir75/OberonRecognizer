@@ -1,3 +1,0 @@
-MODULE tByqrF;
-	
-	END l.

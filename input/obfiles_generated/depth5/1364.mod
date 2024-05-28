@@ -1,4 +1,0 @@
-MODULE N;
-	
-	BEGIN
-		END oS4.

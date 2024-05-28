@@ -1,7 +1,0 @@
-MODULE T;
-	PROCEDURE H*;	END XU
-				;PROCEDURE Z*;	END K				;PROCEDURE JWRpyjz*;
-
-	END R
-		;
-	END Ya.

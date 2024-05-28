@@ -1,3 +1,0 @@
-MODULE fX;
-	
-	END RY.

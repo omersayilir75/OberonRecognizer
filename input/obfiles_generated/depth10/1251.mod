@@ -1,2 +1,0 @@
-MODULE FX;	
-	END B.

@@ -1,3 +1,0 @@
-MODULE cCTH;
-	
-	END dFa.

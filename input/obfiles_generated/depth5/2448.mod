@@ -1,3 +1,0 @@
-MODULE p;
-	
-	END yHD0V.

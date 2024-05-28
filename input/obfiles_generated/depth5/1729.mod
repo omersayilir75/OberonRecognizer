@@ -1,3 +1,0 @@
-MODULE k;
-	
-	END Eh.

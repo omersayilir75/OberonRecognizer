@@ -1,2 +1,0 @@
-MODULE TbooqX;
-		END VG.

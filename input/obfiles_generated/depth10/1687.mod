@@ -1,9 +1,0 @@
-MODULE jc;
-	VAR
-C : INTEGER;
-
-	BEGIN
-	REPEAT	;
-	
-	UNTIL '' * EjP
-	END P.

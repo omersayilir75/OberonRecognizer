@@ -1,3 +1,0 @@
-MODULE M1V;
-	
-	BEGIN	BK.m := (956)	END wj8C.

@@ -1,2 +1,0 @@
-MODULE uz;	
-	END NOz.

@@ -1,2 +1,0 @@
-MODULE sd;	
-	END R.

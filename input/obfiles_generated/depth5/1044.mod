@@ -1,5 +1,0 @@
-MODULE YQ;
-	PROCEDURE B*;
-	END D
-;
-	END R.

@@ -1,3 +1,0 @@
-MODULE R;
-	
-	BEGIN		END h.

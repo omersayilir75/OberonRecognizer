@@ -1,3 +1,0 @@
-MODULE Zk;
-	
-	END C.

@@ -1,8 +1,0 @@
-MODULE _S;
-	PROCEDURE d1*;
-	END BBm
-;PROCEDURE d*;
-	END Nj	;	BEGIN
-	;
-	
-	END E.

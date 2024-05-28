@@ -1,3 +1,0 @@
-MODULE Xw;
-	
-	END I.

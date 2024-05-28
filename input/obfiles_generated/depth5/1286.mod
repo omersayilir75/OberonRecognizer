@@ -1,3 +1,0 @@
-MODULE Sw;
-	
-	END gM.

@@ -1,3 +1,0 @@
-MODULE tJS;
-	
-	END k.
